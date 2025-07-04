@@ -7,5 +7,4 @@
 
 ## Cards
 
-[x] : Bob Gibson (Rack Pack Autographs)
-[x] NNO: 1998 SI Then and Now - Willie Mays (Rack Pack Autographs)
+[x] NNO: 1998 SI Then and Now - Willie Mays (Rack Pack Autographs) <br>[x] : Bob Gibson (Rack Pack Autographs) <br>

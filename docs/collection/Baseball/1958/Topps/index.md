@@ -3,4 +3,4 @@
 
 ## Cards
 
-[x] 494: Warren Spahn All-star
+[x] 494: Warren Spahn All-star <br>

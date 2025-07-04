@@ -3,4 +3,4 @@
 
 ## Cards
 
-[x] 19: Bruce Smith
+[x] 19: Bruce Smith <br>

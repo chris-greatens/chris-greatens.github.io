@@ -7,4 +7,4 @@
 
 ## Cards
 
-[x] 87BA-TRA: Tim Raines (1987 Topps Baseball 35th Anniversary Autographs Black)
+[x] 87BA-TRA: Tim Raines (1987 Topps Baseball 35th Anniversary Autographs Black) <br>

@@ -3,5 +3,4 @@
 
 ## Cards
 
-[x] 23: Harry Thompson
-[x] 34: Bob Haner
+[x] 23: Harry Thompson <br>[x] 34: Bob Haner <br>

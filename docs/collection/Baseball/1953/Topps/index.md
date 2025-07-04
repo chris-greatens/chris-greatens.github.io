@@ -3,10 +3,4 @@
 
 ## Cards
 
-[x] 151: Hoyt Wilhelm
-[x] 163: Fred Hatfield
-[x] 166: Bill Hunter
-[x] 177: Jim Dyck
-[x] 197: Del Crandall
-[x] 7: Bob Borkowski
-[x] 84: Bob Hooper
+[x] 7: Bob Borkowski <br>[x] 84: Bob Hooper <br>[x] 151: Hoyt Wilhelm <br>[x] 163: Fred Hatfield <br>[x] 166: Bill Hunter <br>[x] 177: Jim Dyck <br>[x] 197: Del Crandall <br>

@@ -3,6 +3,4 @@
 
 ## Cards
 
-[x] 215: Jim Bunning
-[x] 37: Billy Williams
-[x] 85: Gaylord Perry
+[x] 37: Billy Williams <br>[x] 85: Gaylord Perry <br>[x] 215: Jim Bunning <br>

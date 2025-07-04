@@ -3,4 +3,4 @@
 
 ## Cards
 
-[x] 96: Khris Davis
+[x] 96: Khris Davis <br>

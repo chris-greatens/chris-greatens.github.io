@@ -8,8 +8,4 @@
 
 ## Cards
 
-[x] : Jeff Burroughs (Autographs)
-[x] 25C: Steve Carlton (Cover Collection)
-[x] 28C: Steve Garvey (Cover Collection)
-[x] 31C: Reggie Jackson (Cover Collection)
-[x] 40C: Rollie Fingers (Cover Collection)
+[x] : Jeff Burroughs (Autographs) <br>[x] 25C: Steve Carlton (Cover Collection) <br>[x] 28C: Steve Garvey (Cover Collection) <br>[x] 31C: Reggie Jackson (Cover Collection) <br>[x] 40C: Rollie Fingers (Cover Collection) <br>

@@ -3,5 +3,4 @@
 
 ## Cards
 
-[x] 64: AL RBI Leaders
-[x] 69: NL Pitching Leaders
+[x] 64: AL RBI Leaders <br>[x] 69: NL Pitching Leaders <br>

@@ -3,7 +3,4 @@
 
 ## Cards
 
-[x] 10: Brooks Robinson
-[x] 120: Ed Mathews
-[x] 200: Warren Spahn
-[x] 443: Duke Snider
+[x] 10: Brooks Robinson <br>[x] 120: Ed Mathews <br>[x] 200: Warren Spahn <br>[x] 443: Duke Snider <br>

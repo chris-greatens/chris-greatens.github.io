@@ -3,5 +3,4 @@
 
 ## Cards
 
-[x] : Jackie Robinson
-[x] : Willie Mays (Batting)
+[x] : Jackie Robinson <br>[x] : Willie Mays (Batting) <br>

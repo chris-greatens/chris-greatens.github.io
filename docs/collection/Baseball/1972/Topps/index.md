@@ -3,5 +3,4 @@
 
 ## Cards
 
-[x] 285: Gaylord Perry
-[x] 391: Ken Sanders
+[x] 285: Gaylord Perry <br>[x] 391: Ken Sanders <br>

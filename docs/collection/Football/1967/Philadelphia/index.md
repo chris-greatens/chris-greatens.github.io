@@ -3,5 +3,4 @@
 
 ## Cards
 
-[x] 60: Dallas Cowboys Team Card
-[x] 81: Bob Skoronski
+[x] 60: Dallas Cowboys Team Card <br>[x] 81: Bob Skoronski <br>

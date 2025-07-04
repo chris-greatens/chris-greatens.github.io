@@ -3,6 +3,4 @@
 
 ## Cards
 
-[x] 276: Jim Pyburn
-[x] 279: Bob Thurman
-[x] 308: Dick Hall
+[x] 276: Jim Pyburn <br>[x] 279: Bob Thurman <br>[x] 308: Dick Hall <br>

@@ -3,5 +3,4 @@
 
 ## Cards
 
-[x] 10: Warren Spahn
-[x] 95: Milwaukee Braves Team Card
+[x] 10: Warren Spahn <br>[x] 95: Milwaukee Braves Team Card <br>

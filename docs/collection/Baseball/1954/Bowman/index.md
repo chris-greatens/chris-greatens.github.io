@@ -3,4 +3,4 @@
 
 ## Cards
 
-[x] 80: Johnny Logan
+[x] 80: Johnny Logan <br>

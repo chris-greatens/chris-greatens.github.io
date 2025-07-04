@@ -8,5 +8,4 @@
 
 ## Cards
 
-[x] 8C: Roger Clemens (Then and Now)
-[x] NNO: Harmon Killebrew (Then and Now Autographs)
+[x] NNO: Harmon Killebrew (Then and Now Autographs) <br>[x] 8C: Roger Clemens (Then and Now) <br>

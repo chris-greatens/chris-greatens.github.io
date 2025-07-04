@@ -3,4 +3,4 @@
 
 ## Cards
 
-[x] 678: Astros Future Stars
+[x] 678: Astros Future Stars <br>

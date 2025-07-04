@@ -3,6 +3,4 @@
 
 ## Cards
 
-[x] 1: Ken Griffey Jr.
-[x] 357: Dale Murphy
-[x] 421: Dale Sveum
+[x] 1: Ken Griffey Jr. <br>[x] 357: Dale Murphy <br>[x] 421: Dale Sveum <br>

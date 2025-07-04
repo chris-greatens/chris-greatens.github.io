@@ -7,4 +7,4 @@
 
 ## Cards
 
-[x] 3: 1953 Topps Mickey Mantle (Mickey Mantle Commemorative Reprints)
+[x] 3: 1953 Topps Mickey Mantle (Mickey Mantle Commemorative Reprints) <br>

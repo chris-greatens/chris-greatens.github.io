@@ -3,4 +3,4 @@
 
 ## Cards
 
-[x] CS27: Fernando Vina & Quilvio Veras
+[x] CS27: Fernando Vina & Quilvio Veras <br>

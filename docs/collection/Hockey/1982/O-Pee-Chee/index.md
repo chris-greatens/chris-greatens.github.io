@@ -3,4 +3,4 @@
 
 ## Cards
 
-[x] 107: Wayne Gretzky In Action
+[x] 107: Wayne Gretzky In Action <br>

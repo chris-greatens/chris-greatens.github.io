@@ -3,4 +3,4 @@
 
 ## Cards
 
-[x] 17: Ed Sedar
+[x] 17: Ed Sedar <br>
