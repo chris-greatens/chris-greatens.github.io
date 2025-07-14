@@ -6,10 +6,8 @@ All the base cards from Topps, Donrus, Fleer base and update sets.
 
 ## Card List
 
-<style>span[class="checked"]{color: green;}</style><br>
-<style>span[class="unchecked"]{color: red;}</style><br>
-[x] 1980 Topps  #678 Astros Future Stars<br>
-[ ] 1983 Fleer  #37 Pete Ladd<br>
+* [x] 1980 Topps  #678 Astros Future Stars<br>
+* [ ] 1983 Fleer  #37 Pete Ladd<br>
 [ ] 1984 Donruss  #124 Pete Ladd<br>
 [ ] 1984 Fleer  #204 Pete Ladd<br>
 [ ] 1984 Topps  #243 Pete Ladd<br>
