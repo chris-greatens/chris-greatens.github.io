@@ -12,6 +12,7 @@ This is a set to collect autographs from every person in the baseball hall of fa
 - 2004 Upper Deck Ultimate Collection - Dual Materials Signature #DJS-SF Ben Sheets & Bob Feller (AUTO)<br>
 
 ### Bob Gibson
+- 1993 Ted Williams  #90 Bob Gibson (AUTO)<br>
 - 2001 Fleer Platinum - Rack Pack Autographs #NNO Bob Gibson (AUTO)<br>
 
 ### Brooks Robinson
