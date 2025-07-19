@@ -2,9 +2,10 @@
 
 This is a set to collect autographs from every person in the Brewers Wall of Honor.
 
-## Players with qualifying cards: 5 / 72
+## Players with qualifying cards: 7 / 72
 
 ### Ben Sheets
+- 2004 Upper Deck Ultimate Collection - Dual Materials Signature #DJS-SF Ben Sheets & Bob Feller (AUTO)<br>
 - 2005 Upper Deck Ultimate Signature Edition - Supremacy #SS-BS Ben Sheets (AUTO)<br>
 
 ### Cecil Cooper
@@ -20,8 +21,14 @@ This is a set to collect autographs from every person in the Brewers Wall of Hon
 ### Fernando Vina
 - 1999 Topps Stadium Club #CS27 Fernando Vina & Quilvio Veras (AUTO)<br>
 
+### Robin Yount
+- 2018 Topps Clearly Authentic - Reprint Autographs #CAR-RY Robin Yount (AUTO)<br>
 
-## Players without qualifying cards: 67
+### Yovani Gallardo
+- 2012 Upper Deck SP Signature Edition #MIL6 Yovani Gallardo (AUTO)<br>
+
+
+## Players without qualifying cards: 65
 
 - B. J. Surhoff
 - Ben Oglivie
@@ -81,7 +88,6 @@ This is a set to collect autographs from every person in the Brewers Wall of Hon
 - Richie Sexson
 - Rickie Weeks
 - Rob Deer
-- Robin Yount
 - Rollie Fingers
 - Ryan Braun
 - Sal Bando
@@ -89,4 +95,3 @@ This is a set to collect autographs from every person in the Brewers Wall of Hon
 - Ted Simmons
 - Teddy Higuera
 - Trevor Hoffman
-- Yovani Gallardo

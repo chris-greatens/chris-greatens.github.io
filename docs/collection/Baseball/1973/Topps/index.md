@@ -3,4 +3,4 @@
 
 ## Cards
 
-[x] 200: Billy Williams <br>[ ] 257: Yogi Berra <br>[x] 257: Mets Field Leaders <br>
+[x] 160: Jim Palmer <br>[x] 200: Billy Williams <br>[ ] 257: Yogi Berra <br>[x] 257: Mets Field Leaders <br>

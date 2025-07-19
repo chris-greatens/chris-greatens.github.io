@@ -2,16 +2,20 @@
 
 This is a set to collect autographs from every person in the baseball hall of fame.
 
-## Players with qualifying cards: 14 / 269
+## Players with qualifying cards: 15 / 269
 
 ### Billy Williams
 - 2024 Topps Archives - 1990 Topps Batting Leaders Autographs Gold Foilboard #90BLA-BW Billy Williams (AUTO)<br>
 
 ### Bob Feller
 - 2001 Topps Archives Reserve - Rookie Reprint Autographs #ARA11 Bob Feller (AUTO)<br>
+- 2004 Upper Deck Ultimate Collection - Dual Materials Signature #DJS-SF Ben Sheets & Bob Feller (AUTO)<br>
 
 ### Bob Gibson
 - 2001 Fleer Platinum - Rack Pack Autographs #NNO Bob Gibson (AUTO)<br>
+
+### Brooks Robinson
+- 1998 Sports Illustrated  - Autographs #NNO Brooks Robinson (AUTO)<br>
 
 ### Buck O'Neil
 - 1999 Sports Illustrated Greats of the Game - Autographs #NNO Buck O'Neil (AUTO)<br>
@@ -24,6 +28,7 @@ This is a set to collect autographs from every person in the baseball hall of fa
 
 ### Harmon Killebrew
 - 1998 Sports Illustrated  - Then and Now Autographs #NNO Harmon Killebrew (AUTO)<br>
+- 2001 Fleer Platinum - Rack Pack Autographs #NNO Harmon Killebrew (AUTO)<br>
 
 ### Jim Palmer
 - 1973 Topps  #160 Jim Palmer (AUTO)<br>
@@ -48,7 +53,7 @@ This is a set to collect autographs from every person in the baseball hall of fa
 - 2001 Fleer Platinum - Rack Pack Autographs #NNO 1998 SI Then and Now - Willie Mays (AUTO)<br>
 
 
-## Players without qualifying cards: 255
+## Players without qualifying cards: 254
 
 - Addie Joss
 - Adrian Beltré
@@ -73,7 +78,6 @@ This is a set to collect autographs from every person in the baseball hall of fa
 - Bobby Doerr
 - Bobby Wallace
 - Branch Rickey
-- Brooks Robinson
 - Bruce Sutter
 - Buck Ewing
 - Buck Leonard
