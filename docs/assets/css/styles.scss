@@ -1,5 +1,6 @@
 ---
 ---
 
-@import "jekyll-theme-hacker";
+@import "{{ site.theme }}";
 .task-list-item { list-style-type: none }
+h1 { color: #FF0000 }
