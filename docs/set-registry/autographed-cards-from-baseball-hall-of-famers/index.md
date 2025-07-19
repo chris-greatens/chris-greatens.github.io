@@ -2,7 +2,7 @@
 
 This is a set to collect autographs from every person in the baseball hall of fame.
 
-## Players with qualifying cards: 15 / 269
+## Players with qualifying cards: 16 / 351
 
 ### Billy Williams
 - 2024 Topps Archives - 1990 Topps Batting Leaders Autographs Gold Foilboard #90BLA-BW Billy Williams (AUTO)<br>
@@ -44,6 +44,9 @@ This is a set to collect autographs from every person in the baseball hall of fa
 ### Robin Roberts
 - 2004 Upper Deck SP Authentic - SP Chirography Hall of Famers #CH-RR Robin Roberts (AUTO)<br>
 
+### Robin Yount
+- 2018 Topps Clearly Authentic - Reprint Autographs #CAR-RY Robin Yount (AUTO)<br>
+
 ### Scott Rolen
 - 2001 Fleer Platinum - Rack Pack Autographs #NNO Scott Rolen (AUTO)<br>
 
@@ -54,48 +57,71 @@ This is a set to collect autographs from every person in the baseball hall of fa
 - 2001 Fleer Platinum - Rack Pack Autographs #NNO 1998 SI Then and Now - Willie Mays (AUTO)<br>
 
 
-## Players without qualifying cards: 254
+## Players without qualifying cards: 335
 
 - Addie Joss
 - Adrian Beltré
 - Al Barlick
 - Al Kaline
 - Al Lopez
+- Al Simmons
 - Alan Trammell
 - Albert Spalding
+- Alex Pompez
 - Alexander Cartwright
 - Amos Rusie
 - Andre Dawson
+- Andy Cooper
 - Arky Vaughan
 - Babe Ruth
 - Ban Johnson
+- Barney Dreyfuss
 - Barry Larkin
+- Ben Taylor
 - Bert Blyleven
+- Bid McPhee
+- Bill Dickey
+- Bill Foster
+- Bill Klem
 - Bill Mazeroski
 - Bill McGowan
+- Bill McKechnie
+- Bill Terry
 - Bill Veeck
 - Billy Evans
+- Billy Hamilton
+- Billy Herman
+- Billy Southworth
+- Billy Wagner
+- Biz Mackey
+- Bob Lemon
 - Bobby Cox
 - Bobby Doerr
 - Bobby Wallace
+- Bowie Kuhn
 - Branch Rickey
 - Bruce Sutter
 - Buck Ewing
 - Buck Leonard
+- Bucky Harris
 - Bud Fowler
 - Bud Selig
+- Bullet Joe Rogan
+- Burleigh Grimes
 - Cal Hubbard
 - Candy Cummings
 - Cap Anson
 - Carl Hubbell
 - Carl Yastrzemski
+- Carlton Fisk
 - Casey Stengel
 - Catfish Hunter
+- CC Sabathia
 - Charles Comiskey
 - Charles Radbourn
-- Charley Gehringer
 - Charlie Gehringer
 - Chick Hafey
+- Chief Bender
 - Chipper Jones
 - Christy Mathewson
 - Chuck Klein
@@ -103,41 +129,58 @@ This is a set to collect autographs from every person in the baseball hall of fa
 - Connie Mack
 - Cool Papa Bell
 - Craig Biggio
+- Cristóbal Torriente
+- Cum Posey
 - Cy Young
 - Dan Brouthers
 - Dave Bancroft
+- Dave Parker
+- Dave Winfield
 - David Ortiz
 - Dazzy Vance
 - Deacon White
 - Dennis Eckersley
 - Derek Jeter
+- Dick Allen
+- Dick Williams
+- Dizzy Dean
 - Don Drysdale
+- Don Sutton
 - Doug Harvey
 - Duke Snider
+- Earl Averill
 - Earl Weaver
 - Earle Combs
 - Early Wynn
+- Ed Barrow
 - Ed Delahanty
 - Ed Walsh
+- Edd Roush
 - Eddie Collins
 - Eddie Mathews
 - Eddie Murray
 - Eddie Plank
 - Edgar Martinez
+- Effa Manley
+- Elmer Flick
 - Enos Slaughter
+- Eppa Rixey
+- Ernie Banks
 - Ernie Lombardi
 - Ferguson Jenkins
 - Ford Frick
 - Frank Chance
-- Frank Frisch
+- Frank Grant
 - Frank Robinson
 - Frank Selee
 - Frankie Frisch
 - Fred Clarke
+- Fred Lindstrom
 - Fred McGriff
 - Gabby Hartnett
 - Gary Carter
 - Gaylord Perry
+- George Brett
 - George Davis
 - George Kell
 - George Kelly
@@ -156,8 +199,10 @@ This is a set to collect autographs from every person in the baseball hall of fa
 - Hank O'Day
 - Happy Chandler
 - Harold Baines
+- Harry Heilmann
 - Harry Hooper
 - Harry Wright
+- Heinie Manush
 - Henry Chadwick
 - Herb Pennock
 - Hilton Smith
@@ -166,7 +211,9 @@ This is a set to collect autographs from every person in the baseball hall of fa
 - Hoyt Wilhelm
 - Hugh Duffy
 - Hugh Jennings
+- Ichiro Suzuki
 - Ivan Rodriguez
+- J.L. Wilkinson
 - Jack Chesbro
 - Jack Morris
 - Jackie Robinson
@@ -175,12 +222,14 @@ This is a set to collect autographs from every person in the baseball hall of fa
 - Jeff Bagwell
 - Jesse Burkett
 - Jesse Haines
+- Jim Bottomley
 - Jim Bunning
 - Jim Kaat
 - Jim Leyland
 - Jim O'Rourke
 - Jim Rice
 - Jim Thome
+- Jimmie Foxx
 - Jimmy Collins
 - Jocko Conlan
 - Joe Cronin
@@ -195,20 +244,26 @@ This is a set to collect autographs from every person in the baseball hall of fa
 - Joe Sewell
 - Joe Tinker
 - Joe Torre
+- Joe Williams
 - John Clarkson
 - John McGraw
+- John Montgomery Ward
 - John Schuerholz
 - John Smoltz
 - Johnny Bench
 - Johnny Evers
 - Johnny Mize
+- José Méndez
 - Josh Gibson
 - Juan Marichal
+- Jud Wilson
 - Judy Johnson
 - Ken Griffey Jr.
 - Kenesaw Mountain Landis
+- Kid Nichols
 - Kiki Cuyler
 - King Kelly
+- Kirby Puckett
 - Larry Doby
 - Larry MacPhail
 - Lee MacPhail
@@ -221,37 +276,51 @@ This is a set to collect autographs from every person in the baseball hall of fa
 - Lou Boudreau
 - Lou Brock
 - Lou Gehrig
+- Louis Santop
 - Luis Aparicio
+- Luke Appling
 - Martin Dihigo
 - Marvin Miller
+- Max Carey
+- Mel Ott
 - Mickey Cochrane
 - Mickey Mantle
 - Mickey Welch
 - Mike Mussina
 - Mike Piazza
 - Mike Schmidt
+- Miller Huggins
 - Minnie Miñoso
 - Monte Irvin
 - Mordecai Brown
 - Morgan Bulkeley
+- Mule Suttles
 - Nap Lajoie
 - Ned Hanlon
 - Nellie Fox
+- Nestor Chylak Jr.
+- Nolan Ryan
 - Orlando Cepeda
 - Oscar Charleston
 - Ozzie Smith
 - Pat Gillick
 - Paul Molitor
+- Paul Waner
 - Pedro Martinez
 - Pee Wee Reese
+- Pete Hill
+- Phil Niekro
 - Phil Rizzuto
 - Pie Traynor
 - Pop Lloyd
 - Pud Galvin
 - Rabbit Maranville
+- Ralph Kiner
 - Randy Johnson
+- Ray Brown
 - Ray Dandridge
 - Ray Schalk
+- Red Faber
 - Red Ruffing
 - Red Schoendienst
 - Reggie Jackson
@@ -262,6 +331,7 @@ This is a set to collect autographs from every person in the baseball hall of fa
 - Roberto Clemente
 - Rod Carew
 - Roger Bresnahan
+- Roger Connor
 - Rogers Hornsby
 - Rollie Fingers
 - Ron Santo
@@ -273,18 +343,25 @@ This is a set to collect autographs from every person in the baseball hall of fa
 - Rube Waddell
 - Ryne Sandberg
 - Sam Crawford
+- Sam Rice
+- Sam Thompson
 - Sandy Koufax
 - Satchel Paige
+- Sol White
+- Sparky Anderson
 - Stan Coveleski
 - Stan Musial
 - Steve Carlton
 - Ted Lyons
 - Ted Simmons
 - Ted Williams
+- Tim Keefe
 - Todd Helton
+- Tom Connolly
 - Tom Glavine
 - Tom Seaver
 - Tom Yawkey
+- Tommy Lasorda
 - Tommy McCarthy
 - Tony Gwynn
 - Tony La Russa
@@ -294,19 +371,26 @@ This is a set to collect autographs from every person in the baseball hall of fa
 - Travis Jackson
 - Trevor Hoffman
 - Tris Speaker
+- Turkey Stearnes
 - Ty Cobb
+- Vic Willis
 - Vladimir Guerrero
 - Wade Boggs
 - Waite Hoyt
 - Walter Alston
 - Walter Johnson
+- Walter O'Malley
+- Warren Giles
 - Warren Spahn
 - Whitey Ford
 - Whitey Herzog
 - Wilbert Robinson
 - Will Harridge
+- Willard Brown
 - William Hulbert
 - Willie Keeler
 - Willie McCovey
 - Willie Stargell
+- Willie Wells
 - Yogi Berra
+- Zack Wheat
