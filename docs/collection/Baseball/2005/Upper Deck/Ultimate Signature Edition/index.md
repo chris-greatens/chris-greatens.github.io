@@ -7,4 +7,5 @@
 
 ## Cards
 
-- [x] SS-BS: Ben Sheets (Supremacy)<br>
+### Supremacy
+- [x] SS-BS: Ben Sheets<br>

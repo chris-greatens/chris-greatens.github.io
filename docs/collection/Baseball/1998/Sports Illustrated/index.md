@@ -9,6 +9,9 @@
 
 ## Cards
 
-- [x] : Harmon Killebrew (Then and Now Autographs)<br>
-- [x] : Brooks Robinson (Autographs)<br>
-- [x] 8C: Roger Clemens (Then and Now)<br>
+### Autographs
+- [x] : Brooks Robinson<br>
+### Then and Now
+- [x] 8C: Roger Clemens<br>
+### Then and Now Autographs
+- [x] : Harmon Killebrew<br>

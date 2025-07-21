@@ -3,4 +3,5 @@
 
 ## Cards
 
+### No Subset
 - [x] 31: Don Money<br>

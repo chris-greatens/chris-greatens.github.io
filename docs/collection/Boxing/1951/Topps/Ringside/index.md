@@ -3,4 +3,5 @@
 
 ## Cards
 
+### No Subset
 - [x] 50: Lou Ambers<br>

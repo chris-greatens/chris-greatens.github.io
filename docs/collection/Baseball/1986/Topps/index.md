@@ -3,6 +3,7 @@
 
 ## Cards
 
+### No Subset
 - [ ] 1: Pete Rose<br>
 - [ ] 24: Len Barker<br>
 - [ ] 163: Pete Ladd<br>

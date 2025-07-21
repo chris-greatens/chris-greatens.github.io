@@ -7,6 +7,7 @@
 
 ## Cards
 
-- [x] 53FF-MRA: Mariano Rivera (Fan Favorites Premium)<br>
-- [x] 53FF-CR: Cal Ripken Jr. (Fan Favorites Premium)<br>
-- [x] 53FF-FT: Frank Thomas (Fan Favorites Premium)<br>
+### Fan Favorites Premium
+- [x] 53FF-MRA: Mariano Rivera<br>
+- [x] 53FF-CR: Cal Ripken Jr.<br>
+- [x] 53FF-FT: Frank Thomas<br>

@@ -3,4 +3,5 @@
 
 ## Cards
 
+### No Subset
 - [x] 7: Fred Lynn<br>

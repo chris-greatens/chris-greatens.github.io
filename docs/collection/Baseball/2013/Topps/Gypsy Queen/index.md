@@ -7,4 +7,5 @@
 
 ## Cards
 
-- [x] GQA-MF: Mike Fiers (Autographs)<br>
+### Autographs
+- [x] GQA-MF: Mike Fiers<br>

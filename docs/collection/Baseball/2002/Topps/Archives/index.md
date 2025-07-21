@@ -8,5 +8,7 @@
 
 ## Cards
 
-- [x] TAA-FL: Fred Lynn (Autographs)<br>
-- [x] TUR-FL: Fred Lynn (Uniform Relics)<br>
+### Autographs
+- [x] TAA-FL: Fred Lynn<br>
+### Uniform Relics
+- [x] TUR-FL: Fred Lynn<br>

@@ -8,88 +8,90 @@
 
 ## Cards
 
-- [ ] : Ernie Banks (Autographs)<br>
-- [x] : Orlando Cepeda (Autographs)<br>
-- [x] : Bob Gibson (Autographs)<br>
-- [x] : Lou Brock (Autographs)<br>
-- [x] : Gaylord Perry (Autographs)<br>
-- [x] : Rollie Fingers (Autographs)<br>
-- [x] : Bob Feller (Autographs)<br>
-- [x] : Ed Mathews (Autographs)<br>
-- [x] : Al Hrabosky (Autographs)<br>
-- [x] : Bob Horner (Autographs)<br>
-- [x] : Frank Robinson (Autographs)<br>
-- [x] : Carl Yastrzemski (Autographs)<br>
-- [x] : Dick Williams (Autographs)<br>
-- [ ] : Tommie Agee (Autographs)<br>
-- [ ] : Luis Aparicio (Autographs)<br>
-- [ ] : Jesse Barfield (Autographs)<br>
-- [ ] : Hank Bauer (Autographs)<br>
-- [ ] : Bo Belinsky (Autographs)<br>
-- [x] : Paul Blair (Autographs)<br>
-- [ ] : Vida Blue (Autographs)<br>
-- [ ] : Jim Bouton (Autographs)<br>
-- [ ] : Clete Boyer (Autographs)<br>
-- [ ] : Bill Buckner (Autographs)<br>
-- [ ] : Jeff Burroughs (Autographs)<br>
-- [ ] : Bert Campaneris (Autographs)<br>
-- [ ] : Steve Carlton (Autographs)<br>
-- [ ] : Gary Carter (Autographs)<br>
-- [ ] : David Clyde (Autographs)<br>
-- [ ] : Andre Dawson (Autographs)<br>
-- [ ] : Darrell Evans (Autographs)<br>
-- [ ] : Mark Fidrych (Autographs)<br>
-- [ ] : Bob Forsch (Autographs)<br>
-- [ ] : George Foster (Autographs)<br>
-- [ ] : Steve Garvey (Autographs)<br>
-- [ ] : Goose Gossage (Autographs)<br>
-- [ ] : Ron Guidry (Autographs)<br>
-- [ ] : Bud Harrelson (Autographs)<br>
-- [ ] : Kent Hrbek (Autographs)<br>
-- [ ] : Reggie Jackson (Autographs)<br>
-- [x] : Ferguson Jenkins (Autographs)<br>
-- [ ] : Tommy John (Autographs)<br>
-- [ ] : Randy Jones (Autographs)<br>
-- [x] : Al Kaline (Autographs)<br>
-- [ ] : Harmon Killebrew (Autographs)<br>
-- [ ] : Dave Kingman (Autographs)<br>
-- [ ] : Jerry Koosman (Autographs)<br>
-- [ ] : Ed Kranepool (Autographs)<br>
-- [ ] : Bill Lee (Autographs)<br>
-- [ ] : Jim Lonborg (Autographs)<br>
-- [ ] : Sparky Lyle (Autographs)<br>
-- [ ] : Willie Mays (Autographs)<br>
-- [ ] : Sam McDowell (Autographs)<br>
-- [ ] : Tug McGraw (Autographs)<br>
-- [ ] : Stan Musial (Autographs)<br>
-- [ ] : Graig Nettles (Autographs)<br>
-- [ ] : Joe Niekro (Autographs)<br>
-- [ ] : Al Oliver (Autographs)<br>
-- [ ] : Dave Parker (Autographs)<br>
-- [ ] : Rico Petrocelli (Autographs)<br>
-- [x] : Johnny Podres (Autographs)<br>
-- [ ] : Boog Powell (Autographs)<br>
-- [ ] : Mickey Rivers (Autographs)<br>
-- [ ] : Robin Roberts (Autographs)<br>
-- [ ] : Jerry Royster (Autographs)<br>
-- [ ] : Joe Rudi (Autographs)<br>
-- [ ] : Nolan Ryan (Autographs)<br>
-- [x] : Ron Santo (Autographs)<br>
-- [x] : Red Schoendienst (Autographs)<br>
-- [ ] : Curt Simmons (Autographs)<br>
-- [ ] : Bill Skowron (Autographs)<br>
-- [ ] : Enos Slaughter (Autographs)<br>
-- [ ] : Paul Splittorff (Autographs)<br>
-- [ ] : Frank Thomas (Autographs)<br>
-- [ ] : Mike Torrez (Autographs)<br>
-- [ ] : Harry Walker (Autographs)<br>
-- [x] : Earl Weaver (Autographs)<br>
-- [ ] : Roy White (Autographs)<br>
-- [ ] : Maury Wills (Autographs)<br>
-- [ ] : Jim Wynn (Autographs)<br>
-- [x] : Jeff Burroughs (Autographs)<br>
-- [x] : Buck O'Neil (Autographs)<br>
-- [x] 25C: Steve Carlton (Cover Collection)<br>
-- [x] 28C: Steve Garvey (Cover Collection)<br>
-- [x] 31C: Reggie Jackson (Cover Collection)<br>
-- [x] 40C: Rollie Fingers (Cover Collection)<br>
+### Autographs
+- [ ] : Ernie Banks<br>
+- [x] : Orlando Cepeda<br>
+- [x] : Bob Gibson<br>
+- [x] : Lou Brock<br>
+- [x] : Gaylord Perry<br>
+- [x] : Rollie Fingers<br>
+- [x] : Bob Feller<br>
+- [x] : Ed Mathews<br>
+- [x] : Al Hrabosky<br>
+- [x] : Bob Horner<br>
+- [x] : Frank Robinson<br>
+- [x] : Carl Yastrzemski<br>
+- [x] : Dick Williams<br>
+- [ ] : Tommie Agee<br>
+- [ ] : Luis Aparicio<br>
+- [ ] : Jesse Barfield<br>
+- [ ] : Hank Bauer<br>
+- [ ] : Bo Belinsky<br>
+- [x] : Paul Blair<br>
+- [ ] : Vida Blue<br>
+- [ ] : Jim Bouton<br>
+- [ ] : Clete Boyer<br>
+- [ ] : Bill Buckner<br>
+- [ ] : Jeff Burroughs<br>
+- [ ] : Bert Campaneris<br>
+- [ ] : Steve Carlton<br>
+- [ ] : Gary Carter<br>
+- [ ] : David Clyde<br>
+- [ ] : Andre Dawson<br>
+- [ ] : Darrell Evans<br>
+- [ ] : Mark Fidrych<br>
+- [ ] : Bob Forsch<br>
+- [ ] : George Foster<br>
+- [ ] : Steve Garvey<br>
+- [ ] : Goose Gossage<br>
+- [ ] : Ron Guidry<br>
+- [ ] : Bud Harrelson<br>
+- [ ] : Kent Hrbek<br>
+- [ ] : Reggie Jackson<br>
+- [x] : Ferguson Jenkins<br>
+- [ ] : Tommy John<br>
+- [ ] : Randy Jones<br>
+- [x] : Al Kaline<br>
+- [ ] : Harmon Killebrew<br>
+- [ ] : Dave Kingman<br>
+- [ ] : Jerry Koosman<br>
+- [ ] : Ed Kranepool<br>
+- [ ] : Bill Lee<br>
+- [ ] : Jim Lonborg<br>
+- [ ] : Sparky Lyle<br>
+- [ ] : Willie Mays<br>
+- [ ] : Sam McDowell<br>
+- [ ] : Tug McGraw<br>
+- [ ] : Stan Musial<br>
+- [ ] : Graig Nettles<br>
+- [ ] : Joe Niekro<br>
+- [ ] : Al Oliver<br>
+- [ ] : Dave Parker<br>
+- [ ] : Rico Petrocelli<br>
+- [x] : Johnny Podres<br>
+- [ ] : Boog Powell<br>
+- [ ] : Mickey Rivers<br>
+- [ ] : Robin Roberts<br>
+- [ ] : Jerry Royster<br>
+- [ ] : Joe Rudi<br>
+- [ ] : Nolan Ryan<br>
+- [x] : Ron Santo<br>
+- [x] : Red Schoendienst<br>
+- [ ] : Curt Simmons<br>
+- [ ] : Bill Skowron<br>
+- [ ] : Enos Slaughter<br>
+- [ ] : Paul Splittorff<br>
+- [ ] : Frank Thomas<br>
+- [ ] : Mike Torrez<br>
+- [ ] : Harry Walker<br>
+- [x] : Earl Weaver<br>
+- [ ] : Roy White<br>
+- [ ] : Maury Wills<br>
+- [ ] : Jim Wynn<br>
+- [x] : Jeff Burroughs<br>
+- [x] : Buck O'Neil<br>
+### Cover Collection
+- [x] 25C: Steve Carlton<br>
+- [x] 28C: Steve Garvey<br>
+- [x] 31C: Reggie Jackson<br>
+- [x] 40C: Rollie Fingers<br>

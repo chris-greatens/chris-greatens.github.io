@@ -3,6 +3,7 @@
 
 ## Cards
 
+### No Subset
 - [x] 7: Bob Borkowski<br>
 - [x] 84: Bob Hooper<br>
 - [x] 151: Hoyt Wilhelm<br>

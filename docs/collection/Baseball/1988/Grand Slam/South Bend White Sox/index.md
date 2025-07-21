@@ -3,4 +3,5 @@
 
 ## Cards
 
+### No Subset
 - [x] 17: Ed Sedar<br>

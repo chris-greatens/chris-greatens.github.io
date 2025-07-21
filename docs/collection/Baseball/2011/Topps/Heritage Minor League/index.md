@@ -3,4 +3,5 @@
 
 ## Cards
 
+### No Subset
 - [x] 96: Khris Davis<br>

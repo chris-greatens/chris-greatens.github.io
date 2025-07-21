@@ -3,6 +3,7 @@
 
 ## Cards
 
+### No Subset
 - [x] 20: Duke Snider<br>
 - [x] 40: Warren Spahn<br>
 - [x] 212: Fence Busters<br>

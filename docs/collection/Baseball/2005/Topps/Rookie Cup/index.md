@@ -3,4 +3,5 @@
 
 ## Cards
 
+### No Subset
 - [x] 67: Jay Buhner<br>

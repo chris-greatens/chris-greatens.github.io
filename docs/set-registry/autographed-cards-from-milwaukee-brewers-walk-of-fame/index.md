@@ -2,7 +2,7 @@
 
 This is a set to collect autographs from every person in the Brewers Walk of Fame.
 
-## Players with qualifying cards: 5 / 23
+## Players with qualifying cards: 6 / 23
 
 ### Ben Sheets
 - 2004 Upper Deck Ultimate Collection - Dual Materials Signature #DJS-SF Ben Sheets & Bob Feller (AUTO)<br>
@@ -21,8 +21,11 @@ This is a set to collect autographs from every person in the Brewers Walk of Fam
 ### Robin Yount
 - 2018 Topps Clearly Authentic - Reprint Autographs #CAR-RY Robin Yount (AUTO)<br>
 
+### Rollie Fingers
+- 1999 Sports Illustrated Greats of the Game - Autographs #NNO Rollie Fingers (AUTO)<br>
 
-## Players without qualifying cards: 18
+
+## Players without qualifying cards: 17
 
 - Bob Uecker
 - Bud Selig
@@ -38,7 +41,6 @@ This is a set to collect autographs from every person in the Brewers Walk of Fam
 - Lew Burdette
 - Paul Molitor
 - Prince Fielder
-- Rollie Fingers
 - Ryan Braun
 - Teddy Higuera
 - Warren Spahn

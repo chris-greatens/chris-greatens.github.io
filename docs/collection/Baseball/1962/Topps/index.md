@@ -3,6 +3,7 @@
 
 ## Cards
 
+### No Subset
 - [x] 13: Dick Howser<br>
 - [x] 39: Joe Koppe<br>
 - [x] 52: N.L. Batting Leaders<br>

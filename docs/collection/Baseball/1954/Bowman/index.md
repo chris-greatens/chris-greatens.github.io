@@ -3,4 +3,5 @@
 
 ## Cards
 
+### No Subset
 - [x] 80: Johnny Logan<br>

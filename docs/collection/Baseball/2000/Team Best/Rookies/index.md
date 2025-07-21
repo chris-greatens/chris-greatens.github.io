@@ -8,6 +8,9 @@
 
 ## Cards
 
+### No Subset
 - [x] 78: Ben Sheets<br>
-- [x] 78: Ben Sheets (Silver)<br>
-- [x] 78: Ben Sheets (Bronze)<br>
+### Bronze
+- [x] 78: Ben Sheets<br>
+### Silver
+- [x] 78: Ben Sheets<br>

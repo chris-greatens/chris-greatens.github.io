@@ -7,4 +7,5 @@
 
 ## Cards
 
-- [x] 32: 1961 Topps All-star Mickey Mantle (Mickey Mantle Commemorative Reprints)<br>
+### Mickey Mantle Commemorative Reprints
+- [x] 32: 1961 Topps All-star Mickey Mantle<br>

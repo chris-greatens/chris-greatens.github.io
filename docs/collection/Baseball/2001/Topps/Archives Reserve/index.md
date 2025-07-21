@@ -7,4 +7,5 @@
 
 ## Cards
 
-- [x] ARA11: Bob Feller (Rookie Reprint Autographs)<br>
+### Rookie Reprint Autographs
+- [x] ARA11: Bob Feller<br>

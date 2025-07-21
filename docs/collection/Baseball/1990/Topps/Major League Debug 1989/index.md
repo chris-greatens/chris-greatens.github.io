@@ -3,4 +3,5 @@
 
 ## Cards
 
+### No Subset
 - [x] 64: Terry Jorgensen<br>

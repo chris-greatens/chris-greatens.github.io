@@ -7,7 +7,8 @@
 
 ## Cards
 
-- [x] : 1998 SI Then and Now - Willie Mays (Rack Pack Autographs)<br>
-- [x] : Bob Gibson (Rack Pack Autographs)<br>
-- [x] : Scott Rolen (Rack Pack Autographs)<br>
-- [x] : Harmon Killebrew (Rack Pack Autographs)<br>
+### Rack Pack Autographs
+- [x] : 1998 SI Then and Now - Willie Mays<br>
+- [x] : Bob Gibson<br>
+- [x] : Scott Rolen<br>
+- [x] : Harmon Killebrew<br>

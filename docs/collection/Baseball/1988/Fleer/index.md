@@ -3,4 +3,5 @@
 
 ## Cards
 
+### No Subset
 - [x] 198: Dale Sveum<br>

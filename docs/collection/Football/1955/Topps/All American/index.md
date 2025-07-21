@@ -3,4 +3,5 @@
 
 ## Cards
 
+### No Subset
 - [x] 19: Bruce Smith<br>

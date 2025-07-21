@@ -3,4 +3,5 @@
 
 ## Cards
 
+### No Subset
 - [x] 51: Wayne Gretzky<br>

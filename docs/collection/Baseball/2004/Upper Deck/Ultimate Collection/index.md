@@ -7,4 +7,5 @@
 
 ## Cards
 
-- [x] DJS-SF: Ben Sheets & Bob Feller (Dual Materials Signature)<br>
+### Dual Materials Signature
+- [x] DJS-SF: Ben Sheets & Bob Feller<br>

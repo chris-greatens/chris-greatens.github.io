@@ -2,18 +2,20 @@
 
 This is a set to collect autographs from every person in the baseball hall of fame.
 
-## Players with qualifying cards: 16 / 351
+## Players with qualifying cards: 23 / 351
 
 ### Billy Williams
 - 2024 Topps Archives - 1990 Topps Batting Leaders Autographs Gold Foilboard #90BLA-BW Billy Williams (AUTO)<br>
 
 ### Bob Feller
+- 1999 Sports Illustrated Greats of the Game - Autographs #NNO Bob Feller (AUTO)<br>
 - 2001 Topps Archives Reserve - Rookie Reprint Autographs #ARA11 Bob Feller (AUTO)<br>
 - 2004 Upper Deck Ultimate Collection - Dual Materials Signature #DJS-SF Ben Sheets & Bob Feller (AUTO)<br>
 - 2005 Topps All-time Fan Favorites - Autographs #FFA-BFE Bob Feller (AUTO)<br>
 
 ### Bob Gibson
 - 1993 Ted Williams  #90 Bob Gibson (AUTO)<br>
+- 1999 Sports Illustrated Greats of the Game - Autographs #NNO Bob Gibson (AUTO)<br>
 - 2001 Fleer Platinum - Rack Pack Autographs #NNO Bob Gibson (AUTO)<br>
 
 ### Brooks Robinson
@@ -25,8 +27,20 @@ This is a set to collect autographs from every person in the baseball hall of fa
 ### Cal Ripken Jr.
 - 2022 Topps Archives - Fan Favorites Premium #53FF-CR Cal Ripken Jr. (AUTO)<br>
 
+### Carl Yastrzemski
+- 1999 Sports Illustrated Greats of the Game - Autographs #NNO Carl Yastrzemski (AUTO)<br>
+
+### Dick Williams
+- 1999 Sports Illustrated Greats of the Game - Autographs #NNO Dick Williams (AUTO)<br>
+
+### Frank Robinson
+- 1999 Sports Illustrated Greats of the Game - Autographs #NNO Frank Robinson (AUTO)<br>
+
 ### Frank Thomas
 - 2022 Topps Archives - Fan Favorites Premium #53FF-FT Frank Thomas (AUTO)<br>
+
+### Gaylord Perry
+- 1999 Sports Illustrated Greats of the Game - Autographs #NNO Gaylord Perry (AUTO)<br>
 
 ### Harmon Killebrew
 - 1998 Sports Illustrated  - Then and Now Autographs #NNO Harmon Killebrew (AUTO)<br>
@@ -39,14 +53,23 @@ This is a set to collect autographs from every person in the baseball hall of fa
 ### Larry Walker
 - 2025 Topps Series 1 - 1990 Topps Baseball 35th Anniversary Autographs #90AU-LW Larry Walker (AUTO)<br>
 
+### Lou Brock
+- 1999 Sports Illustrated Greats of the Game - Autographs #NNO Lou Brock (AUTO)<br>
+
 ### Mariano Rivera
 - 2022 Topps Archives - Fan Favorites Premium #53FF-MRA Mariano Rivera (AUTO)<br>
+
+### Orlando Cepeda
+- 1999 Sports Illustrated Greats of the Game - Autographs #NNO Orlando Cepeda (AUTO)<br>
 
 ### Robin Roberts
 - 2004 Upper Deck SP Authentic - SP Chirography Hall of Famers #CH-RR Robin Roberts (AUTO)<br>
 
 ### Robin Yount
 - 2018 Topps Clearly Authentic - Reprint Autographs #CAR-RY Robin Yount (AUTO)<br>
+
+### Rollie Fingers
+- 1999 Sports Illustrated Greats of the Game - Autographs #NNO Rollie Fingers (AUTO)<br>
 
 ### Scott Rolen
 - 2001 Fleer Platinum - Rack Pack Autographs #NNO Scott Rolen (AUTO)<br>
@@ -58,7 +81,7 @@ This is a set to collect autographs from every person in the baseball hall of fa
 - 2001 Fleer Platinum - Rack Pack Autographs #NNO 1998 SI Then and Now - Willie Mays (AUTO)<br>
 
 
-## Players without qualifying cards: 335
+## Players without qualifying cards: 328
 
 - Addie Joss
 - Adrian Beltré
@@ -113,7 +136,6 @@ This is a set to collect autographs from every person in the baseball hall of fa
 - Candy Cummings
 - Cap Anson
 - Carl Hubbell
-- Carl Yastrzemski
 - Carlton Fisk
 - Casey Stengel
 - Catfish Hunter
@@ -143,7 +165,6 @@ This is a set to collect autographs from every person in the baseball hall of fa
 - Dennis Eckersley
 - Derek Jeter
 - Dick Allen
-- Dick Williams
 - Dizzy Dean
 - Don Drysdale
 - Don Sutton
@@ -172,7 +193,6 @@ This is a set to collect autographs from every person in the baseball hall of fa
 - Ford Frick
 - Frank Chance
 - Frank Grant
-- Frank Robinson
 - Frank Selee
 - Frankie Frisch
 - Fred Clarke
@@ -180,7 +200,6 @@ This is a set to collect autographs from every person in the baseball hall of fa
 - Fred McGriff
 - Gabby Hartnett
 - Gary Carter
-- Gaylord Perry
 - George Brett
 - George Davis
 - George Kell
@@ -275,7 +294,6 @@ This is a set to collect autographs from every person in the baseball hall of fa
 - Leon Day
 - Lloyd Waner
 - Lou Boudreau
-- Lou Brock
 - Lou Gehrig
 - Louis Santop
 - Luis Aparicio
@@ -301,7 +319,6 @@ This is a set to collect autographs from every person in the baseball hall of fa
 - Nellie Fox
 - Nestor Chylak Jr.
 - Nolan Ryan
-- Orlando Cepeda
 - Oscar Charleston
 - Ozzie Smith
 - Pat Gillick
@@ -334,7 +351,6 @@ This is a set to collect autographs from every person in the baseball hall of fa
 - Roger Bresnahan
 - Roger Connor
 - Rogers Hornsby
-- Rollie Fingers
 - Ron Santo
 - Ross Youngs
 - Roy Campanella

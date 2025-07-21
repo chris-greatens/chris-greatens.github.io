@@ -3,4 +3,5 @@
 
 ## Cards
 
+### No Subset
 - [x] 104: Jay Buhner<br>

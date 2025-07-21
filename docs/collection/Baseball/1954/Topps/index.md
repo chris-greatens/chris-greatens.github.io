@@ -3,4 +3,5 @@
 
 ## Cards
 
+### No Subset
 - [x] 25: Harvey Kuehn<br>

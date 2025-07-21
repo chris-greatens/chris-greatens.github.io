@@ -7,4 +7,5 @@
 
 ## Cards
 
-- [x] FFA-CE: Carl Erskine (Fan Favorite Autographs)<br>
+### Fan Favorite Autographs
+- [x] FFA-CE: Carl Erskine<br>

@@ -3,4 +3,5 @@
 
 ## Cards
 
+### No Subset
 - [x] 51: Lou Burdette<br>
