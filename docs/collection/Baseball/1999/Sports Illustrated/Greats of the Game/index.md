@@ -3,7 +3,7 @@
 
 ## Subsets
 
-- Autographs
+- Autographs  (Cards Owned: 21 / 80 (26.2% complete))
 - Cover Collection
 
 ## Cards
@@ -26,7 +26,7 @@
 - [ ] : Jesse Barfield (Autographs)<br>
 - [ ] : Hank Bauer (Autographs)<br>
 - [ ] : Bo Belinsky (Autographs)<br>
-- [ ] : Paul Blair (Autographs)<br>
+- [x] : Paul Blair (Autographs)<br>
 - [ ] : Vida Blue (Autographs)<br>
 - [ ] : Jim Bouton (Autographs)<br>
 - [ ] : Clete Boyer (Autographs)<br>
@@ -46,11 +46,11 @@
 - [ ] : Ron Guidry (Autographs)<br>
 - [ ] : Bud Harrelson (Autographs)<br>
 - [ ] : Kent Hrbek (Autographs)<br>
-- [ ] : Reggie Jcakson (Autographs)<br>
-- [ ] : Ferguson Jenkins (Autographs)<br>
+- [ ] : Reggie Jackson (Autographs)<br>
+- [x] : Ferguson Jenkins (Autographs)<br>
 - [ ] : Tommy John (Autographs)<br>
 - [ ] : Randy Jones (Autographs)<br>
-- [ ] : Al Kaline (Autographs)<br>
+- [x] : Al Kaline (Autographs)<br>
 - [ ] : Harmon Killebrew (Autographs)<br>
 - [ ] : Dave Kingman (Autographs)<br>
 - [ ] : Jerry Koosman (Autographs)<br>
@@ -67,16 +67,15 @@
 - [ ] : Al Oliver (Autographs)<br>
 - [ ] : Dave Parker (Autographs)<br>
 - [ ] : Rico Petrocelli (Autographs)<br>
-- [ ] : Johnny Podres (Autographs)<br>
+- [x] : Johnny Podres (Autographs)<br>
 - [ ] : Boog Powell (Autographs)<br>
 - [ ] : Mickey Rivers (Autographs)<br>
 - [ ] : Robin Roberts (Autographs)<br>
 - [ ] : Jerry Royster (Autographs)<br>
-- [x] : Jeff Burroughs (Autographs)<br>
 - [ ] : Joe Rudi (Autographs)<br>
 - [ ] : Nolan Ryan (Autographs)<br>
-- [ ] : Ron Santo (Autographs)<br>
-- [ ] : Red Schoendienst (Autographs)<br>
+- [x] : Ron Santo (Autographs)<br>
+- [x] : Red Schoendienst (Autographs)<br>
 - [ ] : Curt Simmons (Autographs)<br>
 - [ ] : Bill Skowron (Autographs)<br>
 - [ ] : Enos Slaughter (Autographs)<br>
@@ -84,10 +83,11 @@
 - [ ] : Frank Thomas (Autographs)<br>
 - [ ] : Mike Torrez (Autographs)<br>
 - [ ] : Harry Walker (Autographs)<br>
-- [ ] : Earl Weaver (Autographs)<br>
+- [x] : Earl Weaver (Autographs)<br>
 - [ ] : Roy White (Autographs)<br>
 - [ ] : Maury Wills (Autographs)<br>
 - [ ] : Jim Wynn (Autographs)<br>
+- [x] : Jeff Burroughs (Autographs)<br>
 - [x] : Buck O'Neil (Autographs)<br>
 - [x] 25C: Steve Carlton (Cover Collection)<br>
 - [x] 28C: Steve Garvey (Cover Collection)<br>
