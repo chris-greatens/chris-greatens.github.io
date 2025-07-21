@@ -3,4 +3,4 @@
 
 ## Cards
 
-[x] NNO: Jackie Robinson <br>[x] NNO: Willie Mays (Batting) <br>
+- [x] NNO: Jackie Robinson <br>- [x] NNO: Willie Mays (Batting) <br>

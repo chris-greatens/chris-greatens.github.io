@@ -3,4 +3,4 @@
 
 ## Cards
 
-[ ] 471: Pete Ladd <br>
+- [ ] 471: Pete Ladd <br>

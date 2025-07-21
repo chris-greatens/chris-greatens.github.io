@@ -8,4 +8,4 @@
 
 ## Cards
 
-[x] 46: Ben Sheets (Blue Refractors) <br>[ ] 46: Ben Sheets (Refractors) <br>
+- [x] 46: Ben Sheets (Blue Refractors) <br>- [ ] 46: Ben Sheets (Refractors) <br>

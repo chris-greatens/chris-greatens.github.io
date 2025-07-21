@@ -3,4 +3,4 @@
 
 ## Cards
 
-[x] 185: Chester Marcol <br>
+- [x] 185: Chester Marcol <br>

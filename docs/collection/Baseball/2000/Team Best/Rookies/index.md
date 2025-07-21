@@ -8,4 +8,4 @@
 
 ## Cards
 
-[x] 78: Ben Sheets <br>[x] 78: Ben Sheets (Silver) <br>[x] 78: Ben Sheets (Bronze) <br>
+- [x] 78: Ben Sheets <br>- [x] 78: Ben Sheets (Silver) <br>- [x] 78: Ben Sheets (Bronze) <br>

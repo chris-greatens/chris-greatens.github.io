@@ -3,4 +3,4 @@
 
 ## Cards
 
-[x] 330: Chester Marcol <br>
+- [x] 330: Chester Marcol <br>

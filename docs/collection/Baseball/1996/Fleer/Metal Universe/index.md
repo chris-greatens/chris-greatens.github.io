@@ -3,4 +3,4 @@
 
 ## Cards
 
-[x] 104: Jay Buhner <br>
+- [x] 104: Jay Buhner <br>

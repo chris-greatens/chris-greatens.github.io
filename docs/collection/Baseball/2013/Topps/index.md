@@ -3,4 +3,4 @@
 
 ## Cards
 
-[x] 172: Nyjer Morgan <br>
+- [x] 172: Nyjer Morgan <br>

@@ -3,4 +3,4 @@
 
 ## Cards
 
-[x] 80: Herb Adderly <br>
+- [x] 80: Herb Adderly <br>

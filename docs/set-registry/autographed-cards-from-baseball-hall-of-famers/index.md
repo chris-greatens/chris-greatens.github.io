@@ -10,6 +10,7 @@ This is a set to collect autographs from every person in the baseball hall of fa
 ### Bob Feller
 - 2001 Topps Archives Reserve - Rookie Reprint Autographs #ARA11 Bob Feller (AUTO)<br>
 - 2004 Upper Deck Ultimate Collection - Dual Materials Signature #DJS-SF Ben Sheets & Bob Feller (AUTO)<br>
+- 2005 Topps All-time Fan Favorites - Autographs #FFA-BFE Bob Feller (AUTO)<br>
 
 ### Bob Gibson
 - 1993 Ted Williams  #90 Bob Gibson (AUTO)<br>

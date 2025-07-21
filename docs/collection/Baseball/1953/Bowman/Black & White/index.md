@@ -3,4 +3,4 @@
 
 ## Cards
 
-[x] 51: Lou Burdette <br>
+- [x] 51: Lou Burdette <br>

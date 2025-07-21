@@ -3,4 +3,4 @@
 
 ## Cards
 
-[x] 49: Jerry Coleman <br>
+- [x] 49: Jerry Coleman <br>

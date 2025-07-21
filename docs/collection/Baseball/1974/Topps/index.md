@@ -3,4 +3,4 @@
 
 ## Cards
 
-[x] 431: Gene Garber <br>
+- [x] 431: Gene Garber <br>

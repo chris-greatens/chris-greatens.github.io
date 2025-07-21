@@ -3,4 +3,4 @@
 
 ## Cards
 
-[x] MIL6: Yovani Gallardo <br>
+- [x] MIL6: Yovani Gallardo <br>

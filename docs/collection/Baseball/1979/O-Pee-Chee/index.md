@@ -3,4 +3,4 @@
 
 ## Cards
 
-[x] 174: Jim Palmer <br>
+- [x] 174: Jim Palmer <br>

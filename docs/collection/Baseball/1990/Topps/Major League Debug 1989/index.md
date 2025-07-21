@@ -3,4 +3,4 @@
 
 ## Cards
 
-[x] 64: Terry Jorgensen <br>
+- [x] 64: Terry Jorgensen <br>

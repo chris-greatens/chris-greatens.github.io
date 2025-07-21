@@ -3,4 +3,4 @@
 
 ## Cards
 
-[x] 358: Dale Sveum <br>[x] 588: Pete Ladd <br>
+- [x] 358: Dale Sveum <br>- [x] 588: Pete Ladd <br>

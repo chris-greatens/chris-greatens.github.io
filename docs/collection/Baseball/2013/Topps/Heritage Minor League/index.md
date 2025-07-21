@@ -3,4 +3,4 @@
 
 ## Cards
 
-[x] 153: Tyrone Taylor <br>
+- [x] 153: Tyrone Taylor <br>

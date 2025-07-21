@@ -3,4 +3,4 @@
 
 ## Cards
 
-[ ] 660: Pete Ladd <br>
+- [ ] 660: Pete Ladd <br>

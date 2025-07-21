@@ -3,4 +3,4 @@
 
 ## Cards
 
-[ ] 572: Pete Ladd <br>
+- [ ] 572: Pete Ladd <br>

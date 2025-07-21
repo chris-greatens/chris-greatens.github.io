@@ -7,4 +7,4 @@
 
 ## Cards
 
-[x] BF-NR: Baseball Flashbacks 1968 - Nolan Ryan (Baseball Flashbacks) <br>
+- [x] BF-NR: Baseball Flashbacks 1968 - Nolan Ryan (Baseball Flashbacks) <br>

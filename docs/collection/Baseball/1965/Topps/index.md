@@ -3,4 +3,4 @@
 
 ## Cards
 
-[x] 63: Ty Cline <br>
+- [x] 63: Ty Cline <br>

@@ -3,4 +3,4 @@
 
 ## Cards
 
-[x] 31: Don Money <br>
+- [x] 31: Don Money <br>

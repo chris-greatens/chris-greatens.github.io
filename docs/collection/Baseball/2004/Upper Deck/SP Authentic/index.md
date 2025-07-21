@@ -7,4 +7,4 @@
 
 ## Cards
 
-[x] CH-RR: Robin Roberts (SP Chirography Hall of Famers) <br>
+- [x] CH-RR: Robin Roberts (SP Chirography Hall of Famers) <br>

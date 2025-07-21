@@ -3,4 +3,4 @@
 
 ## Cards
 
-[x] 761: Rollie Fingers <br>
+- [x] 761: Rollie Fingers <br>

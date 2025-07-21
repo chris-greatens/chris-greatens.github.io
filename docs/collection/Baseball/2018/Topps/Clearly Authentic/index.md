@@ -7,4 +7,4 @@
 
 ## Cards
 
-[x] CAR-RY: Robin Yount (Reprint Autographs) <br>
+- [x] CAR-RY: Robin Yount (Reprint Autographs) <br>
