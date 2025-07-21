@@ -7,4 +7,4 @@
 
 ## Cards
 
-- [x] 90AU-LW: Larry Walker (1990 Topps Baseball 35th Anniversary Autographs) <br>
+- [x] 90AU-LW: Larry Walker (1990 Topps Baseball 35th Anniversary Autographs)<br>

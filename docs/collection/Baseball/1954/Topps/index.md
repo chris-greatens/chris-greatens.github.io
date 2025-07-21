@@ -3,4 +3,4 @@
 
 ## Cards
 
-- [x] 25: Harvey Kuehn <br>
+- [x] 25: Harvey Kuehn<br>

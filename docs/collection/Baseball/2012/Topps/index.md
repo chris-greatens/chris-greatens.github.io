@@ -3,4 +3,4 @@
 
 ## Cards
 
-- [x] 66: Nyjer Morgan <br>
+- [x] 66: Nyjer Morgan<br>

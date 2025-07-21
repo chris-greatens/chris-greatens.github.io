@@ -3,4 +3,4 @@
 
 ## Cards
 
-- [x] 50: Lou Ambers <br>
+- [x] 50: Lou Ambers<br>

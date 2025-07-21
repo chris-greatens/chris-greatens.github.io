@@ -3,4 +3,4 @@
 
 ## Cards
 
-- [x] 67: Jay Buhner <br>
+- [x] 67: Jay Buhner<br>

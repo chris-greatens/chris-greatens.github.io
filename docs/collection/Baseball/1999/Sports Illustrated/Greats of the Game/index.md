@@ -8,4 +8,88 @@
 
 ## Cards
 
-- [ ] NNO: Ernie Banks (Autographs) <br>- [x] NNO: Orlando Cepeda (Autographs) <br>- [x] NNO: Bob Gibson (Autographs) <br>- [x] NNO: Lou Brock (Autographs) <br>- [x] NNO: Gaylord Perry (Autographs) <br>- [x] NNO: Rollie Fingers (Autographs) <br>- [x] NNO: Bob Feller (Autographs) <br>- [x] NNO: Ed Mathews (Autographs) <br>- [x] NNO: Al Hrabosky (Autographs) <br>- [x] NNO: Bob Horner (Autographs) <br>- [x] NNO: Frank Robinson (Autographs) <br>- [x] NNO: Carl Yastrzemski (Autographs) <br>- [x] NNO: Dick Williams (Autographs) <br>- [ ] NNO: Tommie Agee (Autographs) <br>- [ ] NNO: Luis Aparicio (Autographs) <br>- [ ] NNO: Jesse Barfield (Autographs) <br>- [ ] NNO: Hank Bauer (Autographs) <br>- [ ] NNO: Bo Belinsky (Autographs) <br>- [ ] NNO: Paul Blair (Autographs) <br>- [ ] NNO: Vida Blue (Autographs) <br>- [ ] NNO: Jim Bouton (Autographs) <br>- [ ] NNO: Clete Boyer (Autographs) <br>- [ ] NNO: Bill Buckner (Autographs) <br>- [ ] NNO: Jeff Burroughs (Autographs) <br>- [ ] NNO: Bert Campaneris (Autographs) <br>- [ ] NNO: Steve Carlton (Autographs) <br>- [ ] NNO: Gary Carter (Autographs) <br>- [ ] NNO: David Clyde (Autographs) <br>- [ ] NNO: Andre Dawson (Autographs) <br>- [ ] NNO: Darrell Evans (Autographs) <br>- [ ] NNO: Mark Fidrych (Autographs) <br>- [ ] NNO: Bob Forsch (Autographs) <br>- [ ] NNO: George Foster (Autographs) <br>- [ ] NNO: Steve Garvey (Autographs) <br>- [ ] NNO: Goose Gossage (Autographs) <br>- [ ] NNO: Ron Guidry (Autographs) <br>- [ ] NNO: Bud Harrelson (Autographs) <br>- [ ] NNO: Kent Hrbek (Autographs) <br>- [ ] NNO: Reggie Jcakson (Autographs) <br>- [ ] NNO: Ferguson Jenkins (Autographs) <br>- [ ] NNO: Tommy John (Autographs) <br>- [ ] NNO: Randy Jones (Autographs) <br>- [ ] NNO: Al Kaline (Autographs) <br>- [ ] NNO: Harmon Killebrew (Autographs) <br>- [ ] NNO: Dave Kingman (Autographs) <br>- [ ] NNO: Jerry Koosman (Autographs) <br>- [ ] NNO: Ed Kranepool (Autographs) <br>- [ ] NNO: Bill Lee (Autographs) <br>- [ ] NNO: Jim Lonborg (Autographs) <br>- [ ] NNO: Sparky Lyle (Autographs) <br>- [ ] NNO: Willie Mays (Autographs) <br>- [ ] NNO: Sam McDowell (Autographs) <br>- [ ] NNO: Tug McGraw (Autographs) <br>- [ ] NNO: Stan Musial (Autographs) <br>- [ ] NNO: Graig Nettles (Autographs) <br>- [ ] NNO: Joe Niekro (Autographs) <br>- [ ] NNO: Al Oliver (Autographs) <br>- [ ] NNO: Dave Parker (Autographs) <br>- [ ] NNO: Rico Petrocelli (Autographs) <br>- [ ] NNO: Johnny Podres (Autographs) <br>- [ ] NNO: Boog Powell (Autographs) <br>- [ ] NNO: Mickey Rivers (Autographs) <br>- [ ] NNO: Robin Roberts (Autographs) <br>- [ ] NNO: Jerry Royster (Autographs) <br>- [x] NNO: Jeff Burroughs (Autographs) <br>- [ ] NNO: Joe Rudi (Autographs) <br>- [ ] NNO: Nolan Ryan (Autographs) <br>- [ ] NNO: Ron Santo (Autographs) <br>- [ ] NNO: Red Schoendienst (Autographs) <br>- [ ] NNO: Curt Simmons (Autographs) <br>- [ ] NNO: Bill Skowron (Autographs) <br>- [ ] NNO: Enos Slaughter (Autographs) <br>- [ ] NNO: Paul Splittorff (Autographs) <br>- [ ] NNO: Frank Thomas (Autographs) <br>- [ ] NNO: Mike Torrez (Autographs) <br>- [ ] NNO: Harry Walker (Autographs) <br>- [ ] NNO: Earl Weaver (Autographs) <br>- [ ] NNO: Roy White (Autographs) <br>- [ ] NNO: Maury Wills (Autographs) <br>- [ ] NNO: Jim Wynn (Autographs) <br>- [x] NNO: Buck O'Neil (Autographs) <br>- [x] 25C: Steve Carlton (Cover Collection) <br>- [x] 28C: Steve Garvey (Cover Collection) <br>- [x] 31C: Reggie Jackson (Cover Collection) <br>- [x] 40C: Rollie Fingers (Cover Collection) <br>
+- [ ] : Ernie Banks (Autographs)<br>
+- [x] : Orlando Cepeda (Autographs)<br>
+- [x] : Bob Gibson (Autographs)<br>
+- [x] : Lou Brock (Autographs)<br>
+- [x] : Gaylord Perry (Autographs)<br>
+- [x] : Rollie Fingers (Autographs)<br>
+- [x] : Bob Feller (Autographs)<br>
+- [x] : Ed Mathews (Autographs)<br>
+- [x] : Al Hrabosky (Autographs)<br>
+- [x] : Bob Horner (Autographs)<br>
+- [x] : Frank Robinson (Autographs)<br>
+- [x] : Carl Yastrzemski (Autographs)<br>
+- [x] : Dick Williams (Autographs)<br>
+- [ ] : Tommie Agee (Autographs)<br>
+- [ ] : Luis Aparicio (Autographs)<br>
+- [ ] : Jesse Barfield (Autographs)<br>
+- [ ] : Hank Bauer (Autographs)<br>
+- [ ] : Bo Belinsky (Autographs)<br>
+- [ ] : Paul Blair (Autographs)<br>
+- [ ] : Vida Blue (Autographs)<br>
+- [ ] : Jim Bouton (Autographs)<br>
+- [ ] : Clete Boyer (Autographs)<br>
+- [ ] : Bill Buckner (Autographs)<br>
+- [ ] : Jeff Burroughs (Autographs)<br>
+- [ ] : Bert Campaneris (Autographs)<br>
+- [ ] : Steve Carlton (Autographs)<br>
+- [ ] : Gary Carter (Autographs)<br>
+- [ ] : David Clyde (Autographs)<br>
+- [ ] : Andre Dawson (Autographs)<br>
+- [ ] : Darrell Evans (Autographs)<br>
+- [ ] : Mark Fidrych (Autographs)<br>
+- [ ] : Bob Forsch (Autographs)<br>
+- [ ] : George Foster (Autographs)<br>
+- [ ] : Steve Garvey (Autographs)<br>
+- [ ] : Goose Gossage (Autographs)<br>
+- [ ] : Ron Guidry (Autographs)<br>
+- [ ] : Bud Harrelson (Autographs)<br>
+- [ ] : Kent Hrbek (Autographs)<br>
+- [ ] : Reggie Jcakson (Autographs)<br>
+- [ ] : Ferguson Jenkins (Autographs)<br>
+- [ ] : Tommy John (Autographs)<br>
+- [ ] : Randy Jones (Autographs)<br>
+- [ ] : Al Kaline (Autographs)<br>
+- [ ] : Harmon Killebrew (Autographs)<br>
+- [ ] : Dave Kingman (Autographs)<br>
+- [ ] : Jerry Koosman (Autographs)<br>
+- [ ] : Ed Kranepool (Autographs)<br>
+- [ ] : Bill Lee (Autographs)<br>
+- [ ] : Jim Lonborg (Autographs)<br>
+- [ ] : Sparky Lyle (Autographs)<br>
+- [ ] : Willie Mays (Autographs)<br>
+- [ ] : Sam McDowell (Autographs)<br>
+- [ ] : Tug McGraw (Autographs)<br>
+- [ ] : Stan Musial (Autographs)<br>
+- [ ] : Graig Nettles (Autographs)<br>
+- [ ] : Joe Niekro (Autographs)<br>
+- [ ] : Al Oliver (Autographs)<br>
+- [ ] : Dave Parker (Autographs)<br>
+- [ ] : Rico Petrocelli (Autographs)<br>
+- [ ] : Johnny Podres (Autographs)<br>
+- [ ] : Boog Powell (Autographs)<br>
+- [ ] : Mickey Rivers (Autographs)<br>
+- [ ] : Robin Roberts (Autographs)<br>
+- [ ] : Jerry Royster (Autographs)<br>
+- [x] : Jeff Burroughs (Autographs)<br>
+- [ ] : Joe Rudi (Autographs)<br>
+- [ ] : Nolan Ryan (Autographs)<br>
+- [ ] : Ron Santo (Autographs)<br>
+- [ ] : Red Schoendienst (Autographs)<br>
+- [ ] : Curt Simmons (Autographs)<br>
+- [ ] : Bill Skowron (Autographs)<br>
+- [ ] : Enos Slaughter (Autographs)<br>
+- [ ] : Paul Splittorff (Autographs)<br>
+- [ ] : Frank Thomas (Autographs)<br>
+- [ ] : Mike Torrez (Autographs)<br>
+- [ ] : Harry Walker (Autographs)<br>
+- [ ] : Earl Weaver (Autographs)<br>
+- [ ] : Roy White (Autographs)<br>
+- [ ] : Maury Wills (Autographs)<br>
+- [ ] : Jim Wynn (Autographs)<br>
+- [x] : Buck O'Neil (Autographs)<br>
+- [x] 25C: Steve Carlton (Cover Collection)<br>
+- [x] 28C: Steve Garvey (Cover Collection)<br>
+- [x] 31C: Reggie Jackson (Cover Collection)<br>
+- [x] 40C: Rollie Fingers (Cover Collection)<br>

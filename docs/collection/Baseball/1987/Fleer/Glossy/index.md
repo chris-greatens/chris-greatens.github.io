@@ -3,4 +3,4 @@
 
 ## Cards
 
-- [x] 640: Dr. K & Super K <br>
+- [x] 640: Dr. K & Super K<br>

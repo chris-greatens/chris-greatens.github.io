@@ -3,4 +3,4 @@
 
 ## Cards
 
-- [x] 36: Raghib Ismail <br>
+- [x] 36: Raghib Ismail<br>

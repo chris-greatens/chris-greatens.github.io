@@ -3,4 +3,4 @@
 
 ## Cards
 
-- [x] 7: Fred Lynn <br>
+- [x] 7: Fred Lynn<br>

@@ -3,4 +3,4 @@
 
 ## Cards
 
-- [x] 175: Jim Bunning <br>
+- [x] 175: Jim Bunning<br>

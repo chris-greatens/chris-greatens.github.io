@@ -3,4 +3,4 @@
 
 ## Cards
 
-- [x] 492: Pete Ladd <br>
+- [x] 492: Pete Ladd<br>

@@ -3,4 +3,5 @@
 
 ## Cards
 
-- [x] 265: Don Money <br>- [x] 340: Jim Palmer <br>
+- [x] 265: Don Money<br>
+- [x] 340: Jim Palmer<br>

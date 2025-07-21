@@ -3,4 +3,4 @@
 
 ## Cards
 
-- [x] 51: Wayne Gretzky <br>
+- [x] 51: Wayne Gretzky<br>

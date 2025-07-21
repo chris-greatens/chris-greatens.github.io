@@ -7,4 +7,4 @@
 
 ## Cards
 
-- [x] FFA-BFE: Bob Feller (Autographs) <br>
+- [x] FFA-BFE: Bob Feller (Autographs)<br>

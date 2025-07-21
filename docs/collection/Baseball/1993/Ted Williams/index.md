@@ -7,4 +7,5 @@
 
 ## Cards
 
-- [x] BR4: Brooks Robinson (Brooks Robinson Collection) <br>- [x] 90: Bob Gibson <br>
+- [x] BR4: Brooks Robinson (Brooks Robinson Collection)<br>
+- [x] 90: Bob Gibson<br>

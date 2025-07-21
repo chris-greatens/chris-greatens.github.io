@@ -3,4 +3,4 @@
 
 ## Cards
 
-- [x] 400: Steve Garvey <br>
+- [x] 400: Steve Garvey<br>

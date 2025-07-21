@@ -3,4 +3,6 @@
 
 ## Cards
 
-- [ ] 595: Don Money <br>- [x] 678: Astros Future Stars <br>- [ ] 685: Padres Future Stars <br>
+- [ ] 595: Don Money<br>
+- [x] 678: Astros Future Stars<br>
+- [ ] 685: Padres Future Stars<br>

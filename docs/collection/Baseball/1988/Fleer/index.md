@@ -3,4 +3,4 @@
 
 ## Cards
 
-- [x] 198: Dale Sveum <br>
+- [x] 198: Dale Sveum<br>

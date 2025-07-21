@@ -7,4 +7,4 @@
 
 ## Cards
 
-- [x] PH-CC: Cecil Cooper (Place in History Signatures) <br>
+- [x] PH-CC: Cecil Cooper (Place in History Signatures)<br>

@@ -3,4 +3,4 @@
 
 ## Cards
 
-- [x] 115: Greg Vaughn <br>
+- [x] 115: Greg Vaughn<br>

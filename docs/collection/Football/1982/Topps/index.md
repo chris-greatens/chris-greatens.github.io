@@ -3,4 +3,4 @@
 
 ## Cards
 
-- [x] 303: Walter Payton In Action <br>
+- [x] 303: Walter Payton In Action<br>

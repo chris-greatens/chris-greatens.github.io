@@ -7,4 +7,4 @@
 
 ## Cards
 
-- [x] BCP163: Khris Davis (Prospects) <br>
+- [x] BCP163: Khris Davis (Prospects)<br>
