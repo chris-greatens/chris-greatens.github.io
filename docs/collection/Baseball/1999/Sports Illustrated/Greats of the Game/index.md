@@ -9,87 +9,87 @@
 ## Cards
 
 ### Autographs
-- [ ] : Ernie Banks<br>
-- [x] : Orlando Cepeda<br>
-- [x] : Bob Gibson<br>
-- [x] : Lou Brock<br>
-- [x] : Gaylord Perry<br>
-- [x] : Rollie Fingers<br>
-- [x] : Bob Feller<br>
-- [x] : Ed Mathews<br>
 - [x] : Al Hrabosky<br>
-- [x] : Bob Horner<br>
-- [x] : Frank Robinson<br>
-- [x] : Carl Yastrzemski<br>
-- [x] : Dick Williams<br>
-- [ ] : Tommie Agee<br>
-- [ ] : Luis Aparicio<br>
-- [ ] : Jesse Barfield<br>
-- [ ] : Hank Bauer<br>
-- [ ] : Bo Belinsky<br>
-- [x] : Paul Blair<br>
-- [ ] : Vida Blue<br>
-- [ ] : Jim Bouton<br>
-- [ ] : Clete Boyer<br>
-- [ ] : Bill Buckner<br>
-- [ ] : Jeff Burroughs<br>
-- [ ] : Bert Campaneris<br>
-- [ ] : Steve Carlton<br>
-- [ ] : Gary Carter<br>
-- [ ] : David Clyde<br>
-- [ ] : Andre Dawson<br>
-- [ ] : Darrell Evans<br>
-- [ ] : Mark Fidrych<br>
-- [ ] : Bob Forsch<br>
-- [ ] : George Foster<br>
-- [ ] : Steve Garvey<br>
-- [ ] : Goose Gossage<br>
-- [ ] : Ron Guidry<br>
-- [ ] : Bud Harrelson<br>
-- [ ] : Kent Hrbek<br>
-- [ ] : Reggie Jackson<br>
-- [x] : Ferguson Jenkins<br>
-- [ ] : Tommy John<br>
-- [ ] : Randy Jones<br>
 - [x] : Al Kaline<br>
-- [ ] : Harmon Killebrew<br>
-- [ ] : Dave Kingman<br>
-- [ ] : Jerry Koosman<br>
-- [ ] : Ed Kranepool<br>
-- [ ] : Bill Lee<br>
-- [ ] : Jim Lonborg<br>
-- [ ] : Sparky Lyle<br>
-- [ ] : Willie Mays<br>
-- [ ] : Sam McDowell<br>
-- [ ] : Tug McGraw<br>
-- [ ] : Stan Musial<br>
-- [ ] : Graig Nettles<br>
-- [ ] : Joe Niekro<br>
 - [ ] : Al Oliver<br>
-- [ ] : Dave Parker<br>
-- [ ] : Rico Petrocelli<br>
-- [x] : Johnny Podres<br>
-- [ ] : Boog Powell<br>
-- [ ] : Mickey Rivers<br>
-- [ ] : Robin Roberts<br>
-- [ ] : Jerry Royster<br>
-- [ ] : Joe Rudi<br>
-- [ ] : Nolan Ryan<br>
-- [x] : Ron Santo<br>
-- [x] : Red Schoendienst<br>
-- [ ] : Curt Simmons<br>
+- [ ] : Andre Dawson<br>
+- [ ] : Bert Campaneris<br>
+- [ ] : Bill Buckner<br>
+- [ ] : Bill Lee<br>
 - [ ] : Bill Skowron<br>
-- [ ] : Enos Slaughter<br>
-- [ ] : Paul Splittorff<br>
-- [ ] : Frank Thomas<br>
-- [ ] : Mike Torrez<br>
-- [ ] : Harry Walker<br>
-- [x] : Earl Weaver<br>
-- [ ] : Roy White<br>
-- [ ] : Maury Wills<br>
-- [ ] : Jim Wynn<br>
-- [x] : Jeff Burroughs<br>
+- [ ] : Bo Belinsky<br>
+- [x] : Bob Feller<br>
+- [ ] : Bob Forsch<br>
+- [x] : Bob Gibson<br>
+- [x] : Bob Horner<br>
+- [ ] : Boog Powell<br>
 - [x] : Buck O'Neil<br>
+- [ ] : Bud Harrelson<br>
+- [x] : Carl Yastrzemski<br>
+- [ ] : Clete Boyer<br>
+- [ ] : Curt Simmons<br>
+- [ ] : Darrell Evans<br>
+- [ ] : Dave Kingman<br>
+- [ ] : Dave Parker<br>
+- [ ] : David Clyde<br>
+- [x] : Dick Williams<br>
+- [x] : Earl Weaver<br>
+- [ ] : Ed Kranepool<br>
+- [x] : Ed Mathews<br>
+- [ ] : Enos Slaughter<br>
+- [ ] : Ernie Banks<br>
+- [x] : Ferguson Jenkins<br>
+- [x] : Frank Robinson<br>
+- [ ] : Frank Thomas<br>
+- [ ] : Gary Carter<br>
+- [x] : Gaylord Perry<br>
+- [ ] : George Foster<br>
+- [ ] : Goose Gossage<br>
+- [ ] : Graig Nettles<br>
+- [ ] : Hank Bauer<br>
+- [ ] : Harmon Killebrew<br>
+- [ ] : Harry Walker<br>
+- [ ] : Jeff Burroughs<br>
+- [x] : Jeff Burroughs<br>
+- [ ] : Jerry Koosman<br>
+- [ ] : Jerry Royster<br>
+- [ ] : Jesse Barfield<br>
+- [ ] : Jim Bouton<br>
+- [ ] : Jim Lonborg<br>
+- [ ] : Jim Wynn<br>
+- [ ] : Joe Niekro<br>
+- [ ] : Joe Rudi<br>
+- [x] : Johnny Podres<br>
+- [ ] : Kent Hrbek<br>
+- [x] : Lou Brock<br>
+- [ ] : Luis Aparicio<br>
+- [ ] : Mark Fidrych<br>
+- [ ] : Maury Wills<br>
+- [ ] : Mickey Rivers<br>
+- [ ] : Mike Torrez<br>
+- [ ] : Nolan Ryan<br>
+- [x] : Orlando Cepeda<br>
+- [x] : Paul Blair<br>
+- [ ] : Paul Splittorff<br>
+- [ ] : Randy Jones<br>
+- [x] : Red Schoendienst<br>
+- [ ] : Reggie Jackson<br>
+- [ ] : Rico Petrocelli<br>
+- [ ] : Robin Roberts<br>
+- [x] : Rollie Fingers<br>
+- [ ] : Ron Guidry<br>
+- [x] : Ron Santo<br>
+- [ ] : Roy White<br>
+- [ ] : Sam McDowell<br>
+- [ ] : Sparky Lyle<br>
+- [ ] : Stan Musial<br>
+- [ ] : Steve Carlton<br>
+- [ ] : Steve Garvey<br>
+- [ ] : Tommie Agee<br>
+- [ ] : Tommy John<br>
+- [ ] : Tug McGraw<br>
+- [ ] : Vida Blue<br>
+- [ ] : Willie Mays<br>
 ### Cover Collection
 - [x] 25C: Steve Carlton<br>
 - [x] 28C: Steve Garvey<br>
