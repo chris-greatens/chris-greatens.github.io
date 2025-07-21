@@ -49,7 +49,6 @@
 - [ ] : Hank Bauer<br>
 - [ ] : Harmon Killebrew<br>
 - [ ] : Harry Walker<br>
-- [ ] : Jeff Burroughs<br>
 - [x] : Jeff Burroughs<br>
 - [ ] : Jerry Koosman<br>
 - [ ] : Jerry Royster<br>
