@@ -3,10 +3,13 @@
 
 ## Subsets
 
+- Fan Favorites Autographs
 - Fan Favorites Premium
 
 ## Cards
 
+### Fan Favorites Autographs
+- [x] 60FF-WH: Whitey Herzog<br>
 ### Fan Favorites Premium
 - [x] 53FF-AB: Adrian Beltre<br>
 - [ ] 53FF-AJ: Aaron Judge<br>
@@ -24,7 +27,7 @@
 - [x] 53FF-JM: Juan Marichal<br>
 - [x] 53FF-JS: John Smoltz<br>
 - [x] 53FF-MRA: Mariano Rivera<br>
-- [ ] 53FF-MT: Mike Trout<br>
+- [x] 53FF-MT: Mike Trout<br>
 - [ ] 53FF-NR: Nolan Ryan<br>
 - [x] 53FF-RC: Roger Clemens<br>
 - [ ] 53FF-RJN: Randy Johnson<br>
@@ -32,6 +35,6 @@
 - [ ] 53FF-RY: Robin Yount<br>
 - [ ] 53FF-SO: Shohei Ohtani<br>
 - [x] 53FF-VG: Vladimir Guerrero Jr.<br>
-- [ ] 53FF-VGO: Vladimir Guerrero<br>
+- [x] 53FF-VGO: Vladimir Guerrero<br>
 - [x] 53FF-WB: Wade Boggs<br>
-- [ ] 53FF-WF: Wander Franco<br>
+- [x] 53FF-WF: Wander Franco<br>

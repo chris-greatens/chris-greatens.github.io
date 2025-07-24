@@ -11,6 +11,7 @@
 
 ### Autographs
 - [x] : Brooks Robinson<br>
+- [x] : Rollie Fingers<br>
 ### Then and Now
 - [x] 8C: Roger Clemens<br>
 ### Then and Now Autographs

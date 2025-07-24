@@ -4,4 +4,5 @@
 ## Cards
 
 ### No Subset
+- [x] 243: Whitey Herzog<br>
 - [ ] 572: Pete Ladd<br>

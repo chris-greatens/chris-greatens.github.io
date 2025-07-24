@@ -2,7 +2,7 @@
 
 This is a set to collect autographs from every person in the baseball hall of fame.
 
-## Players with qualifying cards: 32 / 351
+## Players with qualifying cards: 38 / 351
 
 ### Adrian Beltré
 - 2022 Topps Archives - Fan Favorites Premium #53FF-AB Adrian Beltre (AUTO)<br>
@@ -27,6 +27,9 @@ This is a set to collect autographs from every person in the baseball hall of fa
 ### Buck O'Neil
 - 1999 Sports Illustrated Greats of the Game - Autographs #NNO Buck O'Neil (AUTO)<br>
 
+### Bud Selig
+- 2013 Topps Allen & Ginter #300 Bud Selig (AUTO)<br>
+
 ### Cal Ripken Jr.
 - 2022 Topps Archives - Fan Favorites Premium #53FF-CR Cal Ripken Jr. (AUTO)<br>
 
@@ -35,6 +38,12 @@ This is a set to collect autographs from every person in the baseball hall of fa
 
 ### Carlton Fisk
 - 2022 Topps Archives - Fan Favorites Premium #53FF-CF Carlton Fisk (AUTO)<br>
+
+### CC Sabathia
+- 2022 Topps Tier One - Prime Performers Autographs #PPA-CS CC Sabathia (AUTO)<br>
+
+### Dave Parker
+- 1991 Topps  #235 Dave Parker (AUTO)<br>
 
 ### Dave Winfield
 - 2022 Topps Archives - Fan Favorites Premium #53FF-DW Dave Winfield (AUTO)<br>
@@ -57,6 +66,9 @@ This is a set to collect autographs from every person in the baseball hall of fa
 
 ### Ivan Rodriguez
 - 2022 Topps Archives - Fan Favorites Premium #53FF-IR Ivan Rodriguez (AUTO)<br>
+
+### Jim Kaat
+- 2021 Topps Chrome Platinum Anniversary - Refractor #626 Jim Kaat (AUTO)<br>
 
 ### Jim Palmer
 - 1973 Topps  #160 Jim Palmer (AUTO)<br>
@@ -90,6 +102,7 @@ This is a set to collect autographs from every person in the baseball hall of fa
 - 2018 Topps Clearly Authentic - Reprint Autographs #CAR-RY Robin Yount (AUTO)<br>
 
 ### Rollie Fingers
+- 1998 Sports Illustrated  - Autographs #NNO Rollie Fingers (AUTO)<br>
 - 1999 Sports Illustrated Greats of the Game - Autographs #NNO Rollie Fingers (AUTO)<br>
 
 ### Ryne Sandberg
@@ -101,14 +114,21 @@ This is a set to collect autographs from every person in the baseball hall of fa
 ### Tim Raines
 - 2022 Topps Series 1 - 1987 Topps Baseball 35th Anniversary Autographs Black #87BA-TRA Tim Raines (AUTO)<br>
 
+### Vladimir Guerrero
+- 2022 Topps Archives - Fan Favorites Premium #53FF-VGO Vladimir Guerrero (AUTO)<br>
+
 ### Wade Boggs
 - 2022 Topps Archives - Fan Favorites Premium #53FF-WB Wade Boggs (AUTO)<br>
+
+### Whitey Herzog
+- 1987 Topps  #243 Whitey Herzog (AUTO)<br>
+- 2022 Topps Archives - Fan Favorites Autographs #60FF-WH Whitey Herzog (AUTO)<br>
 
 ### Willie Mays
 - 2001 Fleer Platinum - Rack Pack Autographs #NNO 1998 SI Then and Now - Willie Mays (AUTO)<br>
 
 
-## Players without qualifying cards: 319
+## Players without qualifying cards: 313
 
 - Addie Joss
 - Al Barlick
@@ -155,7 +175,6 @@ This is a set to collect autographs from every person in the baseball hall of fa
 - Buck Leonard
 - Bucky Harris
 - Bud Fowler
-- Bud Selig
 - Bullet Joe Rogan
 - Burleigh Grimes
 - Cal Hubbard
@@ -164,7 +183,6 @@ This is a set to collect autographs from every person in the baseball hall of fa
 - Carl Hubbell
 - Casey Stengel
 - Catfish Hunter
-- CC Sabathia
 - Charles Comiskey
 - Charles Radbourn
 - Charlie Gehringer
@@ -182,7 +200,6 @@ This is a set to collect autographs from every person in the baseball hall of fa
 - Cy Young
 - Dan Brouthers
 - Dave Bancroft
-- Dave Parker
 - David Ortiz
 - Dazzy Vance
 - Deacon White
@@ -267,7 +284,6 @@ This is a set to collect autographs from every person in the baseball hall of fa
 - Jesse Haines
 - Jim Bottomley
 - Jim Bunning
-- Jim Kaat
 - Jim Leyland
 - Jim O'Rourke
 - Jim Rice
@@ -410,7 +426,6 @@ This is a set to collect autographs from every person in the baseball hall of fa
 - Turkey Stearnes
 - Ty Cobb
 - Vic Willis
-- Vladimir Guerrero
 - Waite Hoyt
 - Walter Alston
 - Walter Johnson
@@ -418,7 +433,6 @@ This is a set to collect autographs from every person in the baseball hall of fa
 - Warren Giles
 - Warren Spahn
 - Whitey Ford
-- Whitey Herzog
 - Wilbert Robinson
 - Will Harridge
 - Willard Brown
