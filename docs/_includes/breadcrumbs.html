@@ -1,11 +1,12 @@
 <a href="{{ site.url }}/">Home</a>
-{% assign parts = page.url | split: '/' | reject: '' %}
-{% assign path = '' %}
-
-{% for part in parts %}
-  {% assign path = path | append: '/' | append: part %}
-  &nbsp;>&nbsp;
-  <a href="{{ site.url }}{{ path }}/">
-    {{ part | replace: '-', ' ' | capitalize }}
-  </a>
+{% assign segments = page.url | split: '/' %}
+{% assign breadcrumbs = '' %}
+{% for segment in segments %}
+  {% if segment != '' and segment != 'index.html' %}
+    {% assign breadcrumbs = breadcrumbs | append: '/' | append: segment %}
+    &nbsp;&gt;&nbsp;
+    <a href="{{ site.url }}{{ breadcrumbs }}/">
+      {{ segment | replace: '-', ' ' | capitalize }}
+    </a>
+  {% endif %}
 {% endfor %}
