@@ -28,8 +28,10 @@ This is a set to collect autographs from every person in the Brewers Wall of Hon
 - 2018 Topps Clearly Authentic - Reprint Autographs #CAR-RY Robin Yount (AUTO)<br>
 
 ### Rollie Fingers
+- 1981 Topps Traded #761 Rollie Fingers (AUTO)<br>
 - 1998 Sports Illustrated  - Autographs #NNO Rollie Fingers (AUTO)<br>
 - 1999 Sports Illustrated Greats of the Game - Autographs #NNO Rollie Fingers (AUTO)<br>
+- 1999 Sports Illustrated Greats of the Game - Cover Collection #40C Rollie Fingers (AUTO)<br>
 
 ### Yovani Gallardo
 - 2012 Upper Deck SP Signature Edition #MIL6 Yovani Gallardo (AUTO)<br>
