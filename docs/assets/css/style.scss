@@ -3,3 +3,16 @@
 
 @import "{{ site.theme }}";
 .task-list-item { list-style-type: none }
+
+nav.breadcrumbs {
+  font-size: 0.9em;
+}
+
+nav.breadcrumbs a {
+  text-decoration: none;
+  color: #555;
+}
+
+nav.breadcrumbs a:hover {
+  text-decoration: underline;
+}

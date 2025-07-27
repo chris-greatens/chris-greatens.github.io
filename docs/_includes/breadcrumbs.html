@@ -1,0 +1,11 @@
+<a href="{{ site.baseurl }}/">Home</a>
+{% assign parts = page.url | split: '/' | reject: '' %}
+{% assign path = '' %}
+
+{% for part in parts %}
+  {% assign path = path | append: '/' | append: part %}
+  &nbsp;>&nbsp;
+  <a href="{{ site.baseurl }}{{ path }}/">
+    {{ part | replace: '-', ' ' | capitalize }}
+  </a>
+{% endfor %}
