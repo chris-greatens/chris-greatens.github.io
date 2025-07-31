@@ -2,7 +2,7 @@
 
 This is a set to collect autographs from every person in the baseball hall of fame.
 
-## Players with qualifying cards: 38 / 351
+## Players with qualifying cards: 42 / 351
 
 ### Adrian Beltré
 - 2022 Topps Archives - Fan Favorites Premium #53FF-AB Adrian Beltre (AUTO)<br>
@@ -42,6 +42,9 @@ This is a set to collect autographs from every person in the baseball hall of fa
 ### CC Sabathia
 - 2022 Topps Tier One - Prime Performers Autographs #PPA-CS CC Sabathia (AUTO)<br>
 
+### Chipper Jones
+- 2022 Topps Archives - Fan Favorites Premium #53FF-CJ Chipper Jones (AUTO)<br>
+
 ### Dave Parker
 - 1991 Topps  #235 Dave Parker (AUTO)<br>
 
@@ -51,6 +54,9 @@ This is a set to collect autographs from every person in the baseball hall of fa
 ### Dick Williams
 - 1999 Sports Illustrated Greats of the Game - Autographs #NNO Dick Williams (AUTO)<br>
 
+### Eddie Murray
+- 2022 Topps Archives - Fan Favorites Premium #53FF-EMY Eddie Murray (AUTO)<br>
+
 ### Frank Robinson
 - 1999 Sports Illustrated Greats of the Game - Autographs #NNO Frank Robinson (AUTO)<br>
 
@@ -59,6 +65,9 @@ This is a set to collect autographs from every person in the baseball hall of fa
 
 ### Gaylord Perry
 - 1999 Sports Illustrated Greats of the Game - Autographs #NNO Gaylord Perry (AUTO)<br>
+
+### Greg Maddux
+- 2022 Topps Archives - Fan Favorites Premium #53FF-GM Greg Maddux (AUTO)<br>
 
 ### Harmon Killebrew
 - 1998 Sports Illustrated  - Then and Now Autographs #NNO Harmon Killebrew (AUTO)<br>
@@ -89,6 +98,9 @@ This is a set to collect autographs from every person in the baseball hall of fa
 ### Mariano Rivera
 - 2022 Topps Archives - Fan Favorites Premium #53FF-MRA Mariano Rivera (AUTO)<br>
 
+### Nolan Ryan
+- 2022 Topps Archives - Fan Favorites Premium #53FF-NR Nolan Ryan (AUTO)<br>
+
 ### Orlando Cepeda
 - 1999 Sports Illustrated Greats of the Game - Autographs #NNO Orlando Cepeda (AUTO)<br>
 
@@ -100,6 +112,7 @@ This is a set to collect autographs from every person in the baseball hall of fa
 
 ### Robin Yount
 - 2018 Topps Clearly Authentic - Reprint Autographs #CAR-RY Robin Yount (AUTO)<br>
+- 2022 Topps Archives - Fan Favorites Premium #53FF-RY Robin Yount (AUTO)<br>
 
 ### Rollie Fingers
 - 1981 Topps Traded #761 Rollie Fingers (AUTO)<br>
@@ -130,7 +143,7 @@ This is a set to collect autographs from every person in the baseball hall of fa
 - 2001 Fleer Platinum - Rack Pack Autographs #NNO 1998 SI Then and Now - Willie Mays (AUTO)<br>
 
 
-## Players without qualifying cards: 313
+## Players without qualifying cards: 309
 
 - Addie Joss
 - Al Barlick
@@ -190,7 +203,6 @@ This is a set to collect autographs from every person in the baseball hall of fa
 - Charlie Gehringer
 - Chick Hafey
 - Chief Bender
-- Chipper Jones
 - Christy Mathewson
 - Chuck Klein
 - Clark Griffith
@@ -223,7 +235,6 @@ This is a set to collect autographs from every person in the baseball hall of fa
 - Edd Roush
 - Eddie Collins
 - Eddie Mathews
-- Eddie Murray
 - Eddie Plank
 - Edgar Martinez
 - Effa Manley
@@ -253,7 +264,6 @@ This is a set to collect autographs from every person in the baseball hall of fa
 - Gil Hodges
 - Goose Goslin
 - Goose Gossage
-- Greg Maddux
 - Grover Cleveland Alexander
 - Hack Wilson
 - Hal Newhouser
@@ -357,7 +367,6 @@ This is a set to collect autographs from every person in the baseball hall of fa
 - Ned Hanlon
 - Nellie Fox
 - Nestor Chylak Jr.
-- Nolan Ryan
 - Oscar Charleston
 - Ozzie Smith
 - Paul Molitor

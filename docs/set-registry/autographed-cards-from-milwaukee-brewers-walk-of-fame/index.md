@@ -23,6 +23,7 @@ This is a set to collect autographs from every person in the Brewers Walk of Fam
 
 ### Robin Yount
 - 2018 Topps Clearly Authentic - Reprint Autographs #CAR-RY Robin Yount (AUTO)<br>
+- 2022 Topps Archives - Fan Favorites Premium #53FF-RY Robin Yount (AUTO)<br>
 
 ### Rollie Fingers
 - 1981 Topps Traded #761 Rollie Fingers (AUTO)<br>
