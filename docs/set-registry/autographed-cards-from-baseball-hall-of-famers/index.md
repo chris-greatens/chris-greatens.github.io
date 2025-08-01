@@ -2,10 +2,19 @@
 
 This is a set to collect autographs from every person in the baseball hall of fame.
 
-## Players with qualifying cards: 42 / 351
+## Players with qualifying cards: 48 / 351
 
 ### Adrian Beltré
 - 2022 Topps Archives - Fan Favorites Premium #53FF-AB Adrian Beltre (AUTO)<br>
+
+### Alan Trammell
+- 2022 Topps Archives - Fan Favorites Autographs #93FF-AT Alan Trammell (AUTO)<br>
+
+### Bert Blyleven
+- 2022 Topps Heritage - Real One Autographs #ROA-BB Bert Blyleven (AUTO)<br>
+
+### Bill Mazeroski
+- 2022 Topps Finest Flashbacks - 1995 Finest Autographs #95FA-BMA Bill Mazeroski (AUTO)<br>
 
 ### Billy Williams
 - 2024 Topps Archives - 1990 Topps Batting Leaders Autographs Gold Foilboard #90BLA-BW Billy Williams (AUTO)<br>
@@ -38,6 +47,7 @@ This is a set to collect autographs from every person in the baseball hall of fa
 
 ### Carlton Fisk
 - 2022 Topps Archives - Fan Favorites Premium #53FF-CF Carlton Fisk (AUTO)<br>
+- 2023 Topps Finest - Finest Moments Autographs Gold Refractor #FMA-CF Carlton Fisk Finest Moment (AUTO)<br>
 
 ### CC Sabathia
 - 2022 Topps Tier One - Prime Performers Autographs #PPA-CS CC Sabathia (AUTO)<br>
@@ -65,6 +75,9 @@ This is a set to collect autographs from every person in the baseball hall of fa
 
 ### Gaylord Perry
 - 1999 Sports Illustrated Greats of the Game - Autographs #NNO Gaylord Perry (AUTO)<br>
+
+### Goose Gossage
+- 2022 Topps Archives - Fan Favorites Autographs #72FF-GG Goose Gossage (AUTO)<br>
 
 ### Greg Maddux
 - 2022 Topps Archives - Fan Favorites Premium #53FF-GM Greg Maddux (AUTO)<br>
@@ -122,12 +135,19 @@ This is a set to collect autographs from every person in the baseball hall of fa
 
 ### Ryne Sandberg
 - 2022 Topps Archives - Fan Favorites Premium #53FF-RS Ryne Sandberg (AUTO)<br>
+- 2023 Topps Finest - Finest Moments Autographs #FMA-RS Ryne Sandberg Finest Moment (AUTO)<br>
 
 ### Scott Rolen
 - 2001 Fleer Platinum - Rack Pack Autographs #NNO Scott Rolen (AUTO)<br>
 
+### Steve Carlton
+- 2022 Topps Heritage - Real One Autographs #ROA-SC Steve Carlton (AUTO)<br>
+
 ### Tim Raines
 - 2022 Topps Series 1 - 1987 Topps Baseball 35th Anniversary Autographs Black #87BA-TRA Tim Raines (AUTO)<br>
+
+### Trevor Hoffman
+- 2022 Topps Finest Flashbacks - 1995 Finest Autographs #95FA-TH Trevor Hoffman (AUTO)<br>
 
 ### Vladimir Guerrero
 - 2022 Topps Archives - Fan Favorites Premium #53FF-VGO Vladimir Guerrero (AUTO)<br>
@@ -143,14 +163,13 @@ This is a set to collect autographs from every person in the baseball hall of fa
 - 2001 Fleer Platinum - Rack Pack Autographs #NNO 1998 SI Then and Now - Willie Mays (AUTO)<br>
 
 
-## Players without qualifying cards: 309
+## Players without qualifying cards: 303
 
 - Addie Joss
 - Al Barlick
 - Al Kaline
 - Al Lopez
 - Al Simmons
-- Alan Trammell
 - Albert Spalding
 - Alex Pompez
 - Alexander Cartwright
@@ -163,12 +182,10 @@ This is a set to collect autographs from every person in the baseball hall of fa
 - Barney Dreyfuss
 - Barry Larkin
 - Ben Taylor
-- Bert Blyleven
 - Bid McPhee
 - Bill Dickey
 - Bill Foster
 - Bill Klem
-- Bill Mazeroski
 - Bill McGowan
 - Bill McKechnie
 - Bill Terry
@@ -263,7 +280,6 @@ This is a set to collect autographs from every person in the baseball hall of fa
 - George Wright
 - Gil Hodges
 - Goose Goslin
-- Goose Gossage
 - Grover Cleveland Alexander
 - Hack Wilson
 - Hal Newhouser
@@ -414,7 +430,6 @@ This is a set to collect autographs from every person in the baseball hall of fa
 - Sparky Anderson
 - Stan Coveleski
 - Stan Musial
-- Steve Carlton
 - Ted Lyons
 - Ted Simmons
 - Ted Williams
@@ -432,7 +447,6 @@ This is a set to collect autographs from every person in the baseball hall of fa
 - Tony Oliva
 - Tony Perez
 - Travis Jackson
-- Trevor Hoffman
 - Tris Speaker
 - Turkey Stearnes
 - Ty Cobb

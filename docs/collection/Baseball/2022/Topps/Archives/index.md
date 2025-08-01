@@ -10,6 +10,8 @@
 
 ### Fan Favorites Autographs
 - [x] 60FF-WH: Whitey Herzog<br>
+- [x] 72FF-GG: Goose Gossage<br>
+- [x] 93FF-AT: Alan Trammell<br>
 ### Fan Favorites Premium
 - [x] 53FF-AB: Adrian Beltre<br>
 - [ ] 53FF-AJ: Aaron Judge<br>

@@ -2,7 +2,7 @@
 
 This is a set to collect autographs from every person in the Brewers Wall of Honor.
 
-## Players with qualifying cards: 9 / 72
+## Players with qualifying cards: 10 / 72
 
 ### Ben Sheets
 - 2004 Upper Deck Ultimate Collection - Dual Materials Signature #DJS-SF Ben Sheets & Bob Feller (AUTO)<br>
@@ -34,11 +34,14 @@ This is a set to collect autographs from every person in the Brewers Wall of Hon
 - 1999 Sports Illustrated Greats of the Game - Autographs #NNO Rollie Fingers (AUTO)<br>
 - 1999 Sports Illustrated Greats of the Game - Cover Collection #40C Rollie Fingers (AUTO)<br>
 
+### Trevor Hoffman
+- 2022 Topps Finest Flashbacks - 1995 Finest Autographs #95FA-TH Trevor Hoffman (AUTO)<br>
+
 ### Yovani Gallardo
 - 2012 Upper Deck SP Signature Edition #MIL6 Yovani Gallardo (AUTO)<br>
 
 
-## Players without qualifying cards: 63
+## Players without qualifying cards: 62
 
 - B. J. Surhoff
 - Ben Oglivie
@@ -102,4 +105,3 @@ This is a set to collect autographs from every person in the Brewers Wall of Hon
 - Sixto Lezcano
 - Ted Simmons
 - Teddy Higuera
-- Trevor Hoffman
