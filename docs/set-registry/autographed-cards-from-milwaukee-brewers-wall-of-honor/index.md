@@ -2,7 +2,7 @@
 
 This is a set to collect autographs from every person in the Brewers Wall of Honor.
 
-## Players with qualifying cards: 10 / 72
+## Players with qualifying cards: 13 / 72
 
 ### Ben Sheets
 - 2004 Upper Deck Ultimate Collection - Dual Materials Signature #DJS-SF Ben Sheets & Bob Feller (AUTO)<br>
@@ -24,6 +24,15 @@ This is a set to collect autographs from every person in the Brewers Wall of Hon
 ### Fernando Vina
 - 1999 Topps Stadium Club #CS27 Fernando Vina & Quilvio Veras (AUTO)<br>
 
+### Gorman Thomas
+- 1974 Topps  #288 Gorman Thomas (AUTO)<br>
+
+### Jerry Augustine
+- 1977 Topps  #577 Jerry Augustine (AUTO)<br>
+
+### Johnny Briggs
+- 1972 Topps  #197 Johnny Briggs (AUTO)<br>
+
 ### Robin Yount
 - 2018 Topps Clearly Authentic - Reprint Autographs #CAR-RY Robin Yount (AUTO)<br>
 - 2022 Topps Archives - Fan Favorites Premium #53FF-RY Robin Yount (AUTO)<br>
@@ -41,7 +50,7 @@ This is a set to collect autographs from every person in the Brewers Wall of Hon
 - 2012 Upper Deck SP Signature Edition #MIL6 Yovani Gallardo (AUTO)<br>
 
 
-## Players without qualifying cards: 62
+## Players without qualifying cards: 59
 
 - B. J. Surhoff
 - Ben Oglivie
@@ -69,7 +78,6 @@ This is a set to collect autographs from every person in the Brewers Wall of Hon
 - Francisco Rodríguez
 - Geoff Jenkins
 - George Scott
-- Gorman Thomas
 - Greg Vaughn
 - Hank Aaron
 - Harry Dalton
@@ -78,13 +86,11 @@ This is a set to collect autographs from every person in the Brewers Wall of Hon
 - Jaime Navarro
 - Jeff Cirillo
 - Jeromy Burnitz
-- Jerry Augustine
 - Jim Colborn
 - Jim Gantner
 - Jim Slaton
 - John Axford
 - John Jaha
-- Johnny Briggs
 - Jonathan Lucroy
 - José Valentín
 - Ken Sanders

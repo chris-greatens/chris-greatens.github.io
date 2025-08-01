@@ -2,7 +2,7 @@
 
 This is a set to collect autographs from every person in the Brewers Walk of Fame.
 
-## Players with qualifying cards: 7 / 23
+## Players with qualifying cards: 8 / 23
 
 ### Ben Sheets
 - 2004 Upper Deck Ultimate Collection - Dual Materials Signature #DJS-SF Ben Sheets & Bob Feller (AUTO)<br>
@@ -18,6 +18,9 @@ This is a set to collect autographs from every person in the Brewers Walk of Fam
 - 1981 Topps  #106 Don Money (AUTO)<br>
 - 1982 Donruss  #384 Don Money (AUTO)<br>
 
+### Gorman Thomas
+- 1974 Topps  #288 Gorman Thomas (AUTO)<br>
+
 ### Johnny Logan
 - 1954 Bowman  #80 Johnny Logan (AUTO)<br>
 
@@ -32,12 +35,11 @@ This is a set to collect autographs from every person in the Brewers Walk of Fam
 - 1999 Sports Illustrated Greats of the Game - Cover Collection #40C Rollie Fingers (AUTO)<br>
 
 
-## Players without qualifying cards: 16
+## Players without qualifying cards: 15
 
 - Bob Uecker
 - Eddie Mathews
 - Geoff Jenkins
-- Gorman Thomas
 - Hank Aaron
 - Harry Dalton
 - Harvey Kuenn
