@@ -14,6 +14,7 @@ This is a set to collect autographs from every person in the baseball hall of fa
 - 2022 Topps Heritage - Real One Autographs #ROA-BB Bert Blyleven (AUTO)<br>
 
 ### Bill Mazeroski
+- 1994 Upper Deck The American Epic #66 Bill Mazeroski (AUTO)<br>
 - 2022 Topps Finest Flashbacks - 1995 Finest Autographs #95FA-BMA Bill Mazeroski (AUTO)<br>
 
 ### Billy Williams
@@ -132,6 +133,7 @@ This is a set to collect autographs from every person in the baseball hall of fa
 - 1998 Sports Illustrated  - Autographs #NNO Rollie Fingers (AUTO)<br>
 - 1999 Sports Illustrated Greats of the Game - Autographs #NNO Rollie Fingers (AUTO)<br>
 - 1999 Sports Illustrated Greats of the Game - Cover Collection #40C Rollie Fingers (AUTO)<br>
+- 2020 Topps Archives - Topps Originals Buyback Autographs #84 Rollie Fingers (AUTO)<br>
 
 ### Ryne Sandberg
 - 2022 Topps Archives - Fan Favorites Premium #53FF-RS Ryne Sandberg (AUTO)<br>
