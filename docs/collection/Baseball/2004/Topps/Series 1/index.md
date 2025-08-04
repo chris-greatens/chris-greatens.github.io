@@ -25,14 +25,14 @@
 - [ ] WS-TS: Tom Seaver<br>
 - [ ] WS-WM: Willie Mays<br>
 ### World Series Highlights Autographs
-- [ ] WSA-BM: Bill Mazeroski<br>
-- [ ] WSA-BR: Brooks Robinson<br>
-- [ ] WSA-CF: Carlton Fisk<br>
-- [ ] WSA-DL: Don Larsen<br>
-- [ ] WSA-JP: Jim Palmer<br>
+- [x] WSA-BM: Bill Mazeroski<br>
+- [x] WSA-BR: Brooks Robinson<br>
+- [x] WSA-CF: Carlton Fisk<br>
+- [x] WSA-DL: Don Larsen<br>
+- [x] WSA-JP: Jim Palmer<br>
 - [ ] WSA-KG: Kirk Gibson<br>
-- [ ] WSA-LB: Lou Brock<br>
-- [ ] WSA-MS: Mike Schmidt<br>
-- [ ] WSA-RJ: Reggie Jackson<br>
-- [ ] WSA-RY: Robin Yount<br>
-- [ ] WSA-SM: Stan Musial<br>
+- [x] WSA-LB: Lou Brock<br>
+- [x] WSA-MS: Mike Schmidt<br>
+- [x] WSA-RJ: Reggie Jackson<br>
+- [x] WSA-RY: Robin Yount<br>
+- [x] WSA-SM: Stan Musial<br>

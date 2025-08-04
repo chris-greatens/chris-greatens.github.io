@@ -25,12 +25,12 @@
 - [ ] WS-WF: Whitey Ford<br>
 - [ ] WS-WM: Willie McCovey<br>
 ### World Series Highlights Autographs
-- [ ] WSA-AK: Al Kaline<br>
-- [ ] WSA-BT: Bobby Thomson<br>
-- [ ] WSA-DB: Dusty Baker<br>
-- [ ] WSA-DJ: David Justice<br>
-- [ ] WSA-DS: Duke Snider<br>
-- [ ] WSA-HK: Harmon Killebrew<br>
-- [ ] WSA-JB: Johnny Bench<br>
-- [ ] WSA-JP: Johnny Podres<br>
-- [ ] WSA-WF: Whitey Ford<br>
+- [x] WSA-AK: Al Kaline<br>
+- [x] WSA-BT: Bobby Thomson<br>
+- [x] WSA-DB: Dusty Baker<br>
+- [x] WSA-DJ: David Justice<br>
+- [x] WSA-DS: Duke Snider<br>
+- [x] WSA-HK: Harmon Killebrew<br>
+- [x] WSA-JB: Johnny Bench<br>
+- [x] WSA-JP: Johnny Podres<br>
+- [x] WSA-WF: Whitey Ford<br>
