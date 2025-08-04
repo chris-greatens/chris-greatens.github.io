@@ -25,6 +25,7 @@ This is a set to collect autographs from every person in the Brewers Walk of Fam
 - 1954 Bowman  #80 Johnny Logan (AUTO)<br>
 
 ### Robin Yount
+- 2004 Topps Series 1 - World Series Highlights Autographs #WSA-RY Robin Yount (AUTO)<br>
 - 2018 Topps Clearly Authentic - Reprint Autographs #CAR-RY Robin Yount (AUTO)<br>
 - 2022 Topps Archives - Fan Favorites Premium #53FF-RY Robin Yount (AUTO)<br>
 

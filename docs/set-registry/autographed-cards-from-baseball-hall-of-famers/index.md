@@ -2,10 +2,13 @@
 
 This is a set to collect autographs from every person in the baseball hall of fame.
 
-## Players with qualifying cards: 48 / 351
+## Players with qualifying cards: 54 / 351
 
 ### Adrian Beltré
 - 2022 Topps Archives - Fan Favorites Premium #53FF-AB Adrian Beltre (AUTO)<br>
+
+### Al Kaline
+- 2004 Topps Series 2 - World Series Highlights Autographs #WSA-AK Al Kaline (AUTO)<br>
 
 ### Alan Trammell
 - 2022 Topps Archives - Fan Favorites Autographs #93FF-AT Alan Trammell (AUTO)<br>
@@ -15,6 +18,7 @@ This is a set to collect autographs from every person in the baseball hall of fa
 
 ### Bill Mazeroski
 - 1994 Upper Deck The American Epic #66 Bill Mazeroski (AUTO)<br>
+- 2004 Topps Series 1 - World Series Highlights Autographs #WSA-BM Bill Mazeroski (AUTO)<br>
 - 2022 Topps Finest Flashbacks - 1995 Finest Autographs #95FA-BMA Bill Mazeroski (AUTO)<br>
 
 ### Billy Williams
@@ -33,6 +37,7 @@ This is a set to collect autographs from every person in the baseball hall of fa
 
 ### Brooks Robinson
 - 1998 Sports Illustrated  - Autographs #NNO Brooks Robinson (AUTO)<br>
+- 2004 Topps Series 1 - World Series Highlights Autographs #WSA-BR Brooks Robinson (AUTO)<br>
 
 ### Buck O'Neil
 - 1999 Sports Illustrated Greats of the Game - Autographs #NNO Buck O'Neil (AUTO)<br>
@@ -47,6 +52,7 @@ This is a set to collect autographs from every person in the baseball hall of fa
 - 1999 Sports Illustrated Greats of the Game - Autographs #NNO Carl Yastrzemski (AUTO)<br>
 
 ### Carlton Fisk
+- 2004 Topps Series 1 - World Series Highlights Autographs #WSA-CF Carlton Fisk (AUTO)<br>
 - 2022 Topps Archives - Fan Favorites Premium #53FF-CF Carlton Fisk (AUTO)<br>
 - 2023 Topps Finest - Finest Moments Autographs Gold Refractor #FMA-CF Carlton Fisk Finest Moment (AUTO)<br>
 
@@ -64,6 +70,9 @@ This is a set to collect autographs from every person in the baseball hall of fa
 
 ### Dick Williams
 - 1999 Sports Illustrated Greats of the Game - Autographs #NNO Dick Williams (AUTO)<br>
+
+### Duke Snider
+- 2004 Topps Series 2 - World Series Highlights Autographs #WSA-DS Duke Snider (AUTO)<br>
 
 ### Eddie Murray
 - 2022 Topps Archives - Fan Favorites Premium #53FF-EMY Eddie Murray (AUTO)<br>
@@ -86,6 +95,7 @@ This is a set to collect autographs from every person in the baseball hall of fa
 ### Harmon Killebrew
 - 1998 Sports Illustrated  - Then and Now Autographs #NNO Harmon Killebrew (AUTO)<br>
 - 2001 Fleer Platinum - Rack Pack Autographs #NNO Harmon Killebrew (AUTO)<br>
+- 2004 Topps Series 2 - World Series Highlights Autographs #WSA-HK Harmon Killebrew (AUTO)<br>
 
 ### Ivan Rodriguez
 - 2022 Topps Archives - Fan Favorites Premium #53FF-IR Ivan Rodriguez (AUTO)<br>
@@ -96,9 +106,13 @@ This is a set to collect autographs from every person in the baseball hall of fa
 ### Jim Palmer
 - 1973 Topps  #160 Jim Palmer (AUTO)<br>
 - 1979 O-Pee-Chee  #174 Jim Palmer (AUTO)<br>
+- 2004 Topps Series 1 - World Series Highlights Autographs #WSA-JP Jim Palmer (AUTO)<br>
 
 ### John Smoltz
 - 2022 Topps Archives - Fan Favorites Premium #53FF-JS John Smoltz (AUTO)<br>
+
+### Johnny Bench
+- 2004 Topps Series 2 - World Series Highlights Autographs #WSA-JB Johnny Bench (AUTO)<br>
 
 ### Juan Marichal
 - 2022 Topps Archives - Fan Favorites Premium #53FF-JM Juan Marichal (AUTO)<br>
@@ -108,9 +122,13 @@ This is a set to collect autographs from every person in the baseball hall of fa
 
 ### Lou Brock
 - 1999 Sports Illustrated Greats of the Game - Autographs #NNO Lou Brock (AUTO)<br>
+- 2004 Topps Series 1 - World Series Highlights Autographs #WSA-LB Lou Brock (AUTO)<br>
 
 ### Mariano Rivera
 - 2022 Topps Archives - Fan Favorites Premium #53FF-MRA Mariano Rivera (AUTO)<br>
+
+### Mike Schmidt
+- 2004 Topps Series 1 - World Series Highlights Autographs #WSA-MS Mike Schmidt (AUTO)<br>
 
 ### Nolan Ryan
 - 2022 Topps Archives - Fan Favorites Premium #53FF-NR Nolan Ryan (AUTO)<br>
@@ -125,6 +143,7 @@ This is a set to collect autographs from every person in the baseball hall of fa
 - 2004 Upper Deck SP Authentic - SP Chirography Hall of Famers #CH-RR Robin Roberts (AUTO)<br>
 
 ### Robin Yount
+- 2004 Topps Series 1 - World Series Highlights Autographs #WSA-RY Robin Yount (AUTO)<br>
 - 2018 Topps Clearly Authentic - Reprint Autographs #CAR-RY Robin Yount (AUTO)<br>
 - 2022 Topps Archives - Fan Favorites Premium #53FF-RY Robin Yount (AUTO)<br>
 
@@ -142,6 +161,9 @@ This is a set to collect autographs from every person in the baseball hall of fa
 ### Scott Rolen
 - 2001 Fleer Platinum - Rack Pack Autographs #NNO Scott Rolen (AUTO)<br>
 
+### Stan Musial
+- 2004 Topps Series 1 - World Series Highlights Autographs #WSA-SM Stan Musial (AUTO)<br>
+
 ### Steve Carlton
 - 2022 Topps Heritage - Real One Autographs #ROA-SC Steve Carlton (AUTO)<br>
 
@@ -157,6 +179,9 @@ This is a set to collect autographs from every person in the baseball hall of fa
 ### Wade Boggs
 - 2022 Topps Archives - Fan Favorites Premium #53FF-WB Wade Boggs (AUTO)<br>
 
+### Whitey Ford
+- 2004 Topps Series 2 - World Series Highlights Autographs #WSA-WF Whitey Ford (AUTO)<br>
+
 ### Whitey Herzog
 - 1987 Topps  #243 Whitey Herzog (AUTO)<br>
 - 2022 Topps Archives - Fan Favorites Autographs #60FF-WH Whitey Herzog (AUTO)<br>
@@ -165,11 +190,10 @@ This is a set to collect autographs from every person in the baseball hall of fa
 - 2001 Fleer Platinum - Rack Pack Autographs #NNO 1998 SI Then and Now - Willie Mays (AUTO)<br>
 
 
-## Players without qualifying cards: 303
+## Players without qualifying cards: 297
 
 - Addie Joss
 - Al Barlick
-- Al Kaline
 - Al Lopez
 - Al Simmons
 - Albert Spalding
@@ -243,7 +267,6 @@ This is a set to collect autographs from every person in the baseball hall of fa
 - Don Drysdale
 - Don Sutton
 - Doug Harvey
-- Duke Snider
 - Earl Averill
 - Earl Weaver
 - Earle Combs
@@ -338,7 +361,6 @@ This is a set to collect autographs from every person in the baseball hall of fa
 - John McGraw
 - John Montgomery Ward
 - John Schuerholz
-- Johnny Bench
 - Johnny Evers
 - Johnny Mize
 - José Méndez
@@ -374,7 +396,6 @@ This is a set to collect autographs from every person in the baseball hall of fa
 - Mickey Welch
 - Mike Mussina
 - Mike Piazza
-- Mike Schmidt
 - Miller Huggins
 - Minnie Miñoso
 - Monte Irvin
@@ -431,7 +452,6 @@ This is a set to collect autographs from every person in the baseball hall of fa
 - Sol White
 - Sparky Anderson
 - Stan Coveleski
-- Stan Musial
 - Ted Lyons
 - Ted Simmons
 - Ted Williams
@@ -459,7 +479,6 @@ This is a set to collect autographs from every person in the baseball hall of fa
 - Walter O'Malley
 - Warren Giles
 - Warren Spahn
-- Whitey Ford
 - Wilbert Robinson
 - Will Harridge
 - Willard Brown
