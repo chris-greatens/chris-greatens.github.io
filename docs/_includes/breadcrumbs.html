@@ -6,7 +6,7 @@
     {% assign breadcrumbs = breadcrumbs | append: '/' | append: segment %}
     &nbsp;&gt;&nbsp;
     <a href="{{ site.url }}{{ breadcrumbs }}/">
-      {{ segment | replace: '-', ' ' | capitalize }}
+      {{ segment | replace: '%20', ' ' | replace: '-', ' '| capitalize }}
     </a>
   {% endif %}
 {% endfor %}
