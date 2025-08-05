@@ -35,7 +35,9 @@ This is a set to collect autographs from every person in the Brewers Walk of Fam
 - 1998 Sports Illustrated  - Autographs #NNO Rollie Fingers (AUTO)<br>
 - 1999 Sports Illustrated Greats of the Game - Autographs #NNO Rollie Fingers (AUTO)<br>
 - 1999 Sports Illustrated Greats of the Game - Cover Collection #40C Rollie Fingers (AUTO)<br>
+- 2018 Topps Archives Signature Series Retired Player Edition #35 Rollie Fingers (1983 O-Pee-Chee) (AUTO)<br>
 - 2020 Topps Archives - Topps Originals Buyback Autographs #84 Rollie Fingers (AUTO)<br>
+- 2022 Topps Archives Signature Series Retired Player Edition #185 Rollie Fingers (1986 Topps) (AUTO)<br>
 
 
 ## Players without qualifying cards: 15

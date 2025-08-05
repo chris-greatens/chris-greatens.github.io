@@ -2,7 +2,7 @@
 
 This is a set to collect autographs from every person in the Brewers Wall of Honor.
 
-## Players with qualifying cards: 14 / 72
+## Players with qualifying cards: 15 / 72
 
 ### Ben Oglivie
 - 2004 Topps All-Time Fan Favorites - Autographs #FFA-BO Ben Oglivie (AUTO)<br>
@@ -47,16 +47,22 @@ This is a set to collect autographs from every person in the Brewers Wall of Hon
 - 1998 Sports Illustrated  - Autographs #NNO Rollie Fingers (AUTO)<br>
 - 1999 Sports Illustrated Greats of the Game - Autographs #NNO Rollie Fingers (AUTO)<br>
 - 1999 Sports Illustrated Greats of the Game - Cover Collection #40C Rollie Fingers (AUTO)<br>
+- 2018 Topps Archives Signature Series Retired Player Edition #35 Rollie Fingers (1983 O-Pee-Chee) (AUTO)<br>
 - 2020 Topps Archives - Topps Originals Buyback Autographs #84 Rollie Fingers (AUTO)<br>
+- 2022 Topps Archives Signature Series Retired Player Edition #185 Rollie Fingers (1986 Topps) (AUTO)<br>
+
+### Ted Simmons
+- 2022 Topps Archives Signature Series Retired Player Edition #318 Ted Simmons (1985 Topps) (AUTO)<br>
 
 ### Trevor Hoffman
+- 2019 Topps Archives Signature Series Retired Player Edition #71 Trevor Hoffman (2011 Topps) (AUTO)<br>
 - 2022 Topps Finest Flashbacks - 1995 Finest Autographs #95FA-TH Trevor Hoffman (AUTO)<br>
 
 ### Yovani Gallardo
 - 2012 Upper Deck SP Signature Edition #MIL6 Yovani Gallardo (AUTO)<br>
 
 
-## Players without qualifying cards: 58
+## Players without qualifying cards: 57
 
 - B. J. Surhoff
 - Bill Castro
@@ -114,5 +120,4 @@ This is a set to collect autographs from every person in the Brewers Wall of Hon
 - Ryan Braun
 - Sal Bando
 - Sixto Lezcano
-- Ted Simmons
 - Teddy Higuera

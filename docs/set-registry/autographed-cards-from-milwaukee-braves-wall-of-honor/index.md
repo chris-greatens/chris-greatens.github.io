@@ -9,6 +9,7 @@ This is a set to collect autographs from every person in the Milwaukee Braves Wa
 - 2002 Topps Topps Super Teams - Autographs #STA-AP Andy Pafko (AUTO)<br>
 
 ### Bobby Thomson
+- 2001 Topps  - 1991 Bowman Buyback #410 The Shot Heard Round the World (AUTO)<br>
 - 2004 Topps Series 2 - World Series Highlights Autographs #WSA-BT Bobby Thomson (AUTO)<br>
 
 ### Johnny Logan

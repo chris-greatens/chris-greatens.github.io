@@ -2,7 +2,7 @@
 
 This is a set to collect autographs from every person in the baseball hall of fame.
 
-## Players with qualifying cards: 55 / 351
+## Players with qualifying cards: 58 / 351
 
 ### Adrian Beltré
 - 2022 Topps Archives - Fan Favorites Premium #53FF-AB Adrian Beltre (AUTO)<br>
@@ -142,6 +142,9 @@ This is a set to collect autographs from every person in the baseball hall of fa
 ### Pat Gillick
 - 2014 Panini Hall of Fame 75th Year Anniversary - Signatures #88 Pat Gillick (AUTO)<br>
 
+### Reggie Jackson
+- 2022 Topps Pristine - Pure Power Autographs #PPA-RJ Reggie Jackson (AUTO)<br>
+
 ### Robin Roberts
 - 2004 Upper Deck SP Authentic - SP Chirography Hall of Famers #CH-RR Robin Roberts (AUTO)<br>
 
@@ -150,12 +153,17 @@ This is a set to collect autographs from every person in the baseball hall of fa
 - 2018 Topps Clearly Authentic - Reprint Autographs #CAR-RY Robin Yount (AUTO)<br>
 - 2022 Topps Archives - Fan Favorites Premium #53FF-RY Robin Yount (AUTO)<br>
 
+### Rod Carew
+- 2023 Topps Archives - 1957 Topps Hit Stars Autographs Gold Foil #57HS-RC Rod Carew (AUTO)<br>
+
 ### Rollie Fingers
 - 1981 Topps Traded #761 Rollie Fingers (AUTO)<br>
 - 1998 Sports Illustrated  - Autographs #NNO Rollie Fingers (AUTO)<br>
 - 1999 Sports Illustrated Greats of the Game - Autographs #NNO Rollie Fingers (AUTO)<br>
 - 1999 Sports Illustrated Greats of the Game - Cover Collection #40C Rollie Fingers (AUTO)<br>
+- 2018 Topps Archives Signature Series Retired Player Edition #35 Rollie Fingers (1983 O-Pee-Chee) (AUTO)<br>
 - 2020 Topps Archives - Topps Originals Buyback Autographs #84 Rollie Fingers (AUTO)<br>
+- 2022 Topps Archives Signature Series Retired Player Edition #185 Rollie Fingers (1986 Topps) (AUTO)<br>
 
 ### Ryne Sandberg
 - 2022 Topps Archives - Fan Favorites Premium #53FF-RS Ryne Sandberg (AUTO)<br>
@@ -170,10 +178,14 @@ This is a set to collect autographs from every person in the baseball hall of fa
 ### Steve Carlton
 - 2022 Topps Heritage - Real One Autographs #ROA-SC Steve Carlton (AUTO)<br>
 
+### Ted Simmons
+- 2022 Topps Archives Signature Series Retired Player Edition #318 Ted Simmons (1985 Topps) (AUTO)<br>
+
 ### Tim Raines
 - 2022 Topps Series 1 - 1987 Topps Baseball 35th Anniversary Autographs Black #87BA-TRA Tim Raines (AUTO)<br>
 
 ### Trevor Hoffman
+- 2019 Topps Archives Signature Series Retired Player Edition #71 Trevor Hoffman (2011 Topps) (AUTO)<br>
 - 2022 Topps Finest Flashbacks - 1995 Finest Autographs #95FA-TH Trevor Hoffman (AUTO)<br>
 
 ### Vladimir Guerrero
@@ -184,6 +196,7 @@ This is a set to collect autographs from every person in the baseball hall of fa
 
 ### Whitey Ford
 - 2004 Topps Series 2 - World Series Highlights Autographs #WSA-WF Whitey Ford (AUTO)<br>
+- 2010 Panini Century - Baseball Three Cent Stamp Autographs #34 Whitey Ford (AUTO)<br>
 
 ### Whitey Herzog
 - 1987 Topps  #243 Whitey Herzog (AUTO)<br>
@@ -193,7 +206,7 @@ This is a set to collect autographs from every person in the baseball hall of fa
 - 2001 Fleer Platinum - Rack Pack Autographs #NNO 1998 SI Then and Now - Willie Mays (AUTO)<br>
 
 
-## Players without qualifying cards: 296
+## Players without qualifying cards: 293
 
 - Addie Joss
 - Al Barlick
@@ -429,13 +442,11 @@ This is a set to collect autographs from every person in the baseball hall of fa
 - Red Faber
 - Red Ruffing
 - Red Schoendienst
-- Reggie Jackson
 - Richie Ashburn
 - Rick Ferrell
 - Rickey Henderson
 - Roberto Alomar
 - Roberto Clemente
-- Rod Carew
 - Roger Bresnahan
 - Roger Connor
 - Rogers Hornsby
@@ -455,7 +466,6 @@ This is a set to collect autographs from every person in the baseball hall of fa
 - Sparky Anderson
 - Stan Coveleski
 - Ted Lyons
-- Ted Simmons
 - Ted Williams
 - Tim Keefe
 - Todd Helton
