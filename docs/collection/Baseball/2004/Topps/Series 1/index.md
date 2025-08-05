@@ -9,21 +9,21 @@
 ## Cards
 
 ### World Series Highlights
-- [ ] WS-BM: Bill Mazeroski<br>
-- [ ] WS-BR: Brooks Robinson<br>
-- [ ] WS-CF: Carlton Fisk<br>
-- [ ] WS-CY: Carl Yastrzemski<br>
-- [ ] WS-DL: Don Larsen<br>
-- [ ] WS-JP: Jim Palmer<br>
-- [ ] WS-KG: Kirk Gibson<br>
-- [ ] WS-KP: Kirby Puckett<br>
-- [ ] WS-LB: Lou Brock<br>
-- [ ] WS-MS: Mike Schmidt<br>
-- [ ] WS-RJ: Reggie Jackson<br>
-- [ ] WS-RY: Robin Yount<br>
-- [ ] WS-SM: Stan Musial<br>
-- [ ] WS-TS: Tom Seaver<br>
-- [ ] WS-WM: Willie Mays<br>
+- [x] WS-BM: Bill Mazeroski<br>
+- [x] WS-BR: Brooks Robinson<br>
+- [x] WS-CF: Carlton Fisk<br>
+- [x] WS-CY: Carl Yastrzemski<br>
+- [x] WS-DL: Don Larsen<br>
+- [x] WS-JP: Jim Palmer<br>
+- [x] WS-KG: Kirk Gibson<br>
+- [x] WS-KP: Kirby Puckett<br>
+- [x] WS-LB: Lou Brock<br>
+- [x] WS-MS: Mike Schmidt<br>
+- [x] WS-RJ: Reggie Jackson<br>
+- [x] WS-RY: Robin Yount<br>
+- [x] WS-SM: Stan Musial<br>
+- [x] WS-TS: Tom Seaver<br>
+- [x] WS-WM: Willie Mays<br>
 ### World Series Highlights Autographs
 - [x] WSA-BM: Bill Mazeroski<br>
 - [x] WSA-BR: Brooks Robinson<br>

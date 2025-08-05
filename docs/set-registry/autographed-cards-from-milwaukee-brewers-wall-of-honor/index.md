@@ -21,6 +21,7 @@ This is a set to collect autographs from every person in the Brewers Wall of Hon
 - 2009 Topps Heritage #546 Craig Counsell (AUTO)<br>
 
 ### Don Money
+- 1970 Topps  #645 Don Money (AUTO)<br>
 - 1981 Topps  #106 Don Money (AUTO)<br>
 - 1982 Donruss  #384 Don Money (AUTO)<br>
 

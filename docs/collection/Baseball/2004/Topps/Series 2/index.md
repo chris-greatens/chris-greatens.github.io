@@ -9,21 +9,21 @@
 ## Cards
 
 ### World Series Highlights
-- [ ] WS-AJ: Andruw Jones<br>
-- [ ] WS-AK: Al Kaline<br>
-- [ ] WS-BT: Bobby Thomson<br>
-- [ ] WS-DB: Dusty Baker<br>
-- [ ] WS-DJ: David Justice<br>
-- [ ] WS-DS: Duke Snider<br>
-- [ ] WS-FR: Frank Robinson<br>
-- [ ] WS-JB: Johnny Bench<br>
-- [ ] WS-JC: Joe Carter<br>
-- [ ] WS-JCA: Jose Canseco<br>
-- [ ] WS-JP: Johnny Podres<br>
-- [ ] WS-LG: Luis Gonzalez<br>
-- [ ] WS-OS: Ozzie Smith<br>
-- [ ] WS-WF: Whitey Ford<br>
-- [ ] WS-WM: Willie McCovey<br>
+- [x] WS-AJ: Andruw Jones<br>
+- [x] WS-AK: Al Kaline<br>
+- [x] WS-BT: Bobby Thomson<br>
+- [x] WS-DB: Dusty Baker<br>
+- [x] WS-DJ: David Justice<br>
+- [x] WS-DS: Duke Snider<br>
+- [x] WS-FR: Frank Robinson<br>
+- [x] WS-JB: Johnny Bench<br>
+- [x] WS-JC: Joe Carter<br>
+- [x] WS-JCA: Jose Canseco<br>
+- [x] WS-JP: Johnny Podres<br>
+- [x] WS-LG: Luis Gonzalez<br>
+- [x] WS-OS: Ozzie Smith<br>
+- [x] WS-WF: Whitey Ford<br>
+- [x] WS-WM: Willie McCovey<br>
 ### World Series Highlights Autographs
 - [x] WSA-AK: Al Kaline<br>
 - [x] WSA-BT: Bobby Thomson<br>
