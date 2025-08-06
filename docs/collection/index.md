@@ -1,5 +1,5 @@
 # Collection
-## {card_type}
-## {card_type}
-## {card_type}
-## {card_type}
+## Baseball
+## Boxing
+## Football
+## Hockey
