@@ -1,10 +1,3 @@
----
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
----
-
 # Welcome to my collection
 
 This is home to my trading card collection. I mainly collect baseball, but have interest in various other sports as well. 
