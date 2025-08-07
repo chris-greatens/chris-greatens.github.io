@@ -1,7 +1,2 @@
-# Bowman 1951 
-## Baseball
-
-## Cards
-
-### No Subset
-- [x] 49: Jerry Coleman<br>
+# Baseball - 1951 - Bowman
+## [Bowman](/collection/Baseball/1951/Bowman/Bowman)

@@ -1,7 +1,2 @@
-# Leaf 1990 
-## Baseball
-
-## Cards
-
-### No Subset
-- [x] 325: Larry Walker<br>
+# Baseball - 1990 - Leaf
+## [Leaf](/collection/Baseball/1990/Leaf/Leaf)

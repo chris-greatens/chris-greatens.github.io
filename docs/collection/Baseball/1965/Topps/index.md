@@ -1,7 +1,2 @@
-# Topps 1965 
-## Baseball
-
-## Cards
-
-### No Subset
-- [x] 63: Ty Cline<br>
+# Baseball - 1965 - Topps
+## [Topps](/collection/Baseball/1965/Topps/Topps)

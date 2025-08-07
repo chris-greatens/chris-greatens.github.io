@@ -1,7 +1,2 @@
-# Topps 1969 
-## Baseball
-
-## Cards
-
-### No Subset
-- [x] 175: Jim Bunning<br>
+# Baseball - 1969 - Topps
+## [Topps](/collection/Baseball/1969/Topps/Topps)

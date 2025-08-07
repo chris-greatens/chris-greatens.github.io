@@ -1,7 +1,2 @@
-# Topps 1984 
-## Baseball
-
-## Cards
-
-### No Subset
-- [ ] 243: Pete Ladd<br>
+# Baseball - 1984 - Topps
+## [Topps](/collection/Baseball/1984/Topps/Topps)

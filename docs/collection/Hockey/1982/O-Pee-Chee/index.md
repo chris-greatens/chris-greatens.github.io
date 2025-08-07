@@ -1,7 +1,2 @@
-# O-Pee-Chee 1982 
-## Hockey
-
-## Cards
-
-### No Subset
-- [x] 107: Wayne Gretzky In Action<br>
+# Hockey - 1982 - O-Pee-Chee
+## [O-Pee-Chee](/collection/Hockey/1982/O-Pee-Chee/O-Pee-Chee)

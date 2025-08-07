@@ -1,7 +1,2 @@
-# Team Best 2001 
-## Baseball
-
-## Cards
-
-### No Subset
-- [x] 85: Ben Sheets<br>
+# Baseball - 2001 - Team Best
+## [Team Best](/collection/Baseball/2001/Team Best/Team Best)

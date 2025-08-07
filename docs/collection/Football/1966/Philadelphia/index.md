@@ -1,7 +1,2 @@
-# Philadelphia 1966 
-## Football
-
-## Cards
-
-### No Subset
-- [x] 80: Herb Adderly<br>
+# Football - 1966 - Philadelphia
+## [Philadelphia](/collection/Football/1966/Philadelphia/Philadelphia)

@@ -1,7 +1,2 @@
-# Leaf 1986 
-## Baseball
-
-## Cards
-
-### No Subset
-- [x] 242: Sid Fernandez<br>
+# Baseball - 1986 - Leaf
+## [Leaf](/collection/Baseball/1986/Leaf/Leaf)

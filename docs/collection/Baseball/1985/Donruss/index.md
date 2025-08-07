@@ -1,7 +1,2 @@
-# Donruss 1985 
-## Baseball
-
-## Cards
-
-### No Subset
-- [ ] 271: Pete Ladd<br>
+# Baseball - 1985 - Donruss
+## [Donruss](/collection/Baseball/1985/Donruss/Donruss)

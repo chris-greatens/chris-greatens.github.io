@@ -1,7 +1,2 @@
-# Topps 2012 
-## Baseball
-
-## Cards
-
-### No Subset
-- [x] 66: Nyjer Morgan<br>
+# Baseball - 2012 - Topps
+## [Topps](/collection/Baseball/2012/Topps/Topps)

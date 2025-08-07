@@ -1,7 +1,2 @@
-# Topps 1982 
-## Football
-
-## Cards
-
-### No Subset
-- [x] 303: Walter Payton In Action<br>
+# Football - 1982 - Topps
+## [Topps](/collection/Football/1982/Topps/Topps)

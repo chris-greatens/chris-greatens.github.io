@@ -1,8 +1,3 @@
-# Fleer 1987 
-## Baseball
-
-## Cards
-
-### No Subset
-- [x] 358: Dale Sveum<br>
-- [x] 588: Pete Ladd<br>
+# Baseball - 1987 - Fleer
+## [Fleer](/collection/Baseball/1987/Fleer/Fleer)
+## [Fleer Glossy](/collection/Baseball/1987/Fleer/Fleer-Glossy)
