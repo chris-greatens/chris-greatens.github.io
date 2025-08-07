@@ -1,2 +1,9 @@
-# Football - 1960 - Topps
-## [Topps](/collection/Football/1960/Topps/Topps)
+# Topps 1960 
+## Football
+
+## Cards
+
+### No Subset
+- [x] 21: Chicago Bears Checklist<br>
+- [x] 71: Los Angeles Rams Checklist<br>
+- [x] 78: Roosevelt Brown<br>

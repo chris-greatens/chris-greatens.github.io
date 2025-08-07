@@ -1,2 +1,8 @@
-# Baseball - 1974 - Topps
-## [Topps](/collection/Baseball/1974/Topps/Topps)
+# Topps 1974 
+## Baseball
+
+## Cards
+
+### No Subset
+- [x] 288: Gorman Thomas<br>
+- [x] 431: Gene Garber<br>

@@ -1,2 +1,11 @@
-# Baseball - 1960 - Topps
-## [Topps](/collection/Baseball/1960/Topps/Topps)
+# Topps 1960 
+## Baseball
+
+## Cards
+
+### No Subset
+- [x] 19: Felix Mantilla<br>
+- [x] 132: Frank Howard<br>
+- [x] 136: Jim Kaat<br>
+- [x] 266: Joe Jay<br>
+- [x] 571: Billy Pierce All-star<br>

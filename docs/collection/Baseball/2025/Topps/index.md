@@ -1,4 +1,4 @@
 # Baseball - 2025 - Topps
-## [Topps Chrome](/collection/Baseball/2025/Topps/Topps-Chrome)
-## [Topps Now](/collection/Baseball/2025/Topps/Topps-Now)
-## [Topps Series 1](/collection/Baseball/2025/Topps/Topps-Series 1)
+## [Chrome](/collection/Baseball/2025/Topps/Chrome)
+## [Now](/collection/Baseball/2025/Topps/Now)
+## [Series 1](/collection/Baseball/2025/Topps/Series 1)

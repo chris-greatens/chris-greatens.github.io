@@ -1,3 +1,3 @@
 # Baseball - 2023 - Topps
-## [Topps Archives](/collection/Baseball/2023/Topps/Topps-Archives)
-## [Topps Finest](/collection/Baseball/2023/Topps/Topps-Finest)
+## [Archives](/collection/Baseball/2023/Topps/Archives)
+## [Finest](/collection/Baseball/2023/Topps/Finest)

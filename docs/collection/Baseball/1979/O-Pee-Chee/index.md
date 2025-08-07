@@ -1,2 +1,7 @@
-# Baseball - 1979 - O-Pee-Chee
-## [O-Pee-Chee](/collection/Baseball/1979/O-Pee-Chee/O-Pee-Chee)
+# O-Pee-Chee 1979 
+## Baseball
+
+## Cards
+
+### No Subset
+- [x] 174: Jim Palmer<br>

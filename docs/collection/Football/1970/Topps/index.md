@@ -1,2 +1,7 @@
-# Football - 1970 - Topps
-## [Topps](/collection/Football/1970/Topps/Topps)
+# Topps 1970 
+## Football
+
+## Cards
+
+### No Subset
+- [x] 115: Norm Snead<br>

@@ -1,2 +1,2 @@
 # Football - 1997 - Upper Deck
-## [Upper Deck Legends](/collection/Football/1997/Upper Deck/Upper Deck-Legends)
+## [Legends](/collection/Football/1997/Upper Deck/Legends)

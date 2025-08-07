@@ -1,2 +1,2 @@
 # Baseball - 2001 - Fleer
-## [Fleer Platinum](/collection/Baseball/2001/Fleer/Fleer-Platinum)
+## [Platinum](/collection/Baseball/2001/Fleer/Platinum)

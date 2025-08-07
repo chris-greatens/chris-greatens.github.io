@@ -1,2 +1,7 @@
-# Football - 1976 - Topps
-## [Topps](/collection/Football/1976/Topps/Topps)
+# Topps 1976 
+## Football
+
+## Cards
+
+### No Subset
+- [x] 185: Chester Marcol<br>

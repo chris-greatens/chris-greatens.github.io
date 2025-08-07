@@ -1,2 +1,7 @@
-# Football - 1975 - Topps
-## [Topps](/collection/Football/1975/Topps/Topps)
+# Topps 1975 
+## Football
+
+## Cards
+
+### No Subset
+- [x] 330: Chester Marcol<br>

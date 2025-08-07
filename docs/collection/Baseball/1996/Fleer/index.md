@@ -1,2 +1,2 @@
 # Baseball - 1996 - Fleer
-## [Fleer Metal Universe](/collection/Baseball/1996/Fleer/Fleer-Metal Universe)
+## [Metal Universe](/collection/Baseball/1996/Fleer/Metal Universe)

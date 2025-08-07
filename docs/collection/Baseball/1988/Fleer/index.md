@@ -1,2 +1,7 @@
-# Baseball - 1988 - Fleer
-## [Fleer](/collection/Baseball/1988/Fleer/Fleer)
+# Fleer 1988 
+## Baseball
+
+## Cards
+
+### No Subset
+- [x] 198: Dale Sveum<br>

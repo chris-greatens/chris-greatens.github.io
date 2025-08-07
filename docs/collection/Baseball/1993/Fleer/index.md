@@ -1,2 +1,2 @@
 # Baseball - 1993 - Fleer
-## [Fleer Ultra](/collection/Baseball/1993/Fleer/Fleer-Ultra)
+## [Ultra](/collection/Baseball/1993/Fleer/Ultra)

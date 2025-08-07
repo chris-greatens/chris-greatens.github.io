@@ -1,2 +1,7 @@
-# Baseball - 1999 - Just
-## [Just](/collection/Baseball/1999/Just/Just)
+# Just 1999 
+## Baseball
+
+## Cards
+
+### No Subset
+- [x] 233: Ben Sheets<br>
