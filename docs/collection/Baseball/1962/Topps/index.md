@@ -5,6 +5,7 @@
 
 ### No Subset
 - [x] 13: Dick Howser<br>
+- [ ] 30: Ed Mathews<br>
 - [x] 39: Joe Koppe<br>
 - [x] 52: N.L. Batting Leaders<br>
 - [x] 54: N.L. Home Run Leaders<br>
@@ -24,6 +25,8 @@
 - [x] 316: Killebrew Sends One Into Orbit<br>
 - [x] 318: The Switch Hitter Connects<br>
 - [x] 319: McCormick Shows His Stuff<br>
+- [ ] 320: Hank Aaron<br>
 - [x] 391: Bill Mazeroski All-star<br>
+- [ ] 394: All-Star (Hank Aaron)<br>
 - [x] 396: Frank Robinson All-star<br>
 - [x] 399: Warren Spahn All-star<br>
