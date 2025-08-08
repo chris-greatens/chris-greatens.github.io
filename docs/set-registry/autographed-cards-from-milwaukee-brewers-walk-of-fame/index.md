@@ -2,7 +2,7 @@
 
 This is a set to collect autographs from every person in the Brewers Walk of Fame.
 
-## Players with qualifying cards: 8 / 23
+## Players with qualifying cards: 9 / 23
 
 ### Ben Sheets
 - 2004 Upper Deck Ultimate Collection - Dual Materials Signature #DJS-SF Ben Sheets & Bob Feller (AUTO)<br>
@@ -18,6 +18,10 @@ This is a set to collect autographs from every person in the Brewers Walk of Fam
 - 1970 Topps  #645 Don Money (AUTO)<br>
 - 1981 Topps  #106 Don Money (AUTO)<br>
 - 1982 Donruss  #384 Don Money (AUTO)<br>
+
+### Ed Mathews
+- 1998 Upper Deck Retro #49 Ed Mathews (AUTO)<br>
+- 1999 Sports Illustrated Greats of the Game - Autographs #NNO Ed Mathews (AUTO)<br>
 
 ### Gorman Thomas
 - 1974 Topps  #288 Gorman Thomas (AUTO)<br>
@@ -40,10 +44,9 @@ This is a set to collect autographs from every person in the Brewers Walk of Fam
 - 2022 Topps Archives Signature Series Retired Player Edition #185 Rollie Fingers (1986 Topps) (AUTO)<br>
 
 
-## Players without qualifying cards: 15
+## Players without qualifying cards: 14
 
 - Bob Uecker
-- Eddie Mathews
 - Geoff Jenkins
 - Hank Aaron
 - Harry Dalton

@@ -2,7 +2,7 @@
 
 This is a set to collect autographs from every person in the Milwaukee Braves Wall of Honor.
 
-## Players with qualifying cards: 3 / 19
+## Players with qualifying cards: 4 / 19
 
 ### Andy Pafko
 - 2001 Topps  - Team Topps Legends Autographs #TT27F Andy Pafko (1959 Topps) (AUTO)<br>
@@ -12,17 +12,20 @@ This is a set to collect autographs from every person in the Milwaukee Braves Wa
 - 2001 Topps  - 1991 Bowman Buyback #410 The Shot Heard Round the World (AUTO)<br>
 - 2004 Topps Series 2 - World Series Highlights Autographs #WSA-BT Bobby Thomson (AUTO)<br>
 
+### Ed Mathews
+- 1998 Upper Deck Retro #49 Ed Mathews (AUTO)<br>
+- 1999 Sports Illustrated Greats of the Game - Autographs #NNO Ed Mathews (AUTO)<br>
+
 ### Johnny Logan
 - 1954 Bowman  #80 Johnny Logan (AUTO)<br>
 
 
-## Players without qualifying cards: 16
+## Players without qualifying cards: 15
 
 - Bill Bruton
 - Bob Buhl
 - Bob Uecker
 - Del Crandall
-- Eddie Mathews
 - Felix Mantilla
 - Frank Bolling
 - Frank Torre

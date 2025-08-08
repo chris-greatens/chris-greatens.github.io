@@ -2,7 +2,7 @@
 
 This is a set to collect autographs from every person in the baseball hall of fame.
 
-## Players with qualifying cards: 58 / 351
+## Players with qualifying cards: 59 / 351
 
 ### Adrian Beltré
 - 2022 Topps Archives - Fan Favorites Premium #53FF-AB Adrian Beltre (AUTO)<br>
@@ -73,6 +73,10 @@ This is a set to collect autographs from every person in the baseball hall of fa
 
 ### Duke Snider
 - 2004 Topps Series 2 - World Series Highlights Autographs #WSA-DS Duke Snider (AUTO)<br>
+
+### Ed Mathews
+- 1998 Upper Deck Retro #49 Ed Mathews (AUTO)<br>
+- 1999 Sports Illustrated Greats of the Game - Autographs #NNO Ed Mathews (AUTO)<br>
 
 ### Eddie Murray
 - 2022 Topps Archives - Fan Favorites Premium #53FF-EMY Eddie Murray (AUTO)<br>
@@ -206,7 +210,7 @@ This is a set to collect autographs from every person in the baseball hall of fa
 - 2001 Fleer Platinum - Rack Pack Autographs #NNO 1998 SI Then and Now - Willie Mays (AUTO)<br>
 
 
-## Players without qualifying cards: 293
+## Players without qualifying cards: 292
 
 - Addie Joss
 - Al Barlick
@@ -292,7 +296,6 @@ This is a set to collect autographs from every person in the baseball hall of fa
 - Ed Walsh
 - Edd Roush
 - Eddie Collins
-- Eddie Mathews
 - Eddie Plank
 - Edgar Martinez
 - Effa Manley
