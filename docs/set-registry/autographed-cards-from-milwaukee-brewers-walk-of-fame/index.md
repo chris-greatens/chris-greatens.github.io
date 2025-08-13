@@ -2,7 +2,7 @@
 
 This is a set to collect autographs from every person in the Brewers Walk of Fame.
 
-## Players with qualifying cards: 9 / 23
+## Players with qualifying cards: 10 / 23
 
 ### Ben Sheets
 - 2004 Upper Deck Ultimate Collection - Dual Materials Signature #DJS-SF Ben Sheets & Bob Feller (AUTO)<br>
@@ -43,8 +43,11 @@ This is a set to collect autographs from every person in the Brewers Walk of Fam
 - 2020 Topps Archives - Topps Originals Buyback Autographs #84 Rollie Fingers (AUTO)<br>
 - 2022 Topps Archives Signature Series Retired Player Edition #185 Rollie Fingers (1986 Topps) (AUTO)<br>
 
+### Warren Spahn
+- 1962 Topps  #312 Spahn Shows No-hit Form (AUTO)<br>
 
-## Players without qualifying cards: 14
+
+## Players without qualifying cards: 13
 
 - Bob Uecker
 - Geoff Jenkins
@@ -59,4 +62,3 @@ This is a set to collect autographs from every person in the Brewers Walk of Fam
 - Prince Fielder
 - Ryan Braun
 - Teddy Higuera
-- Warren Spahn

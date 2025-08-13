@@ -2,7 +2,7 @@
 
 This is a set to collect autographs from every person in the Milwaukee Braves Wall of Honor.
 
-## Players with qualifying cards: 4 / 19
+## Players with qualifying cards: 5 / 19
 
 ### Andy Pafko
 - 2001 Topps  - Team Topps Legends Autographs #TT27F Andy Pafko (1959 Topps) (AUTO)<br>
@@ -19,8 +19,11 @@ This is a set to collect autographs from every person in the Milwaukee Braves Wa
 ### Johnny Logan
 - 1954 Bowman  #80 Johnny Logan (AUTO)<br>
 
+### Warren Spahn
+- 1962 Topps  #312 Spahn Shows No-hit Form (AUTO)<br>
 
-## Players without qualifying cards: 15
+
+## Players without qualifying cards: 14
 
 - Bill Bruton
 - Bob Buhl
@@ -35,5 +38,4 @@ This is a set to collect autographs from every person in the Milwaukee Braves Wa
 - Joe Torre
 - Lew Burdette
 - Red Schoendienst
-- Warren Spahn
 - Wes Covington

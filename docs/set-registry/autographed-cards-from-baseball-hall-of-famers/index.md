@@ -2,7 +2,7 @@
 
 This is a set to collect autographs from every person in the baseball hall of fame.
 
-## Players with qualifying cards: 59 / 351
+## Players with qualifying cards: 61 / 351
 
 ### Adrian Beltré
 - 2022 Topps Archives - Fan Favorites Premium #53FF-AB Adrian Beltre (AUTO)<br>
@@ -146,6 +146,9 @@ This is a set to collect autographs from every person in the baseball hall of fa
 ### Pat Gillick
 - 2014 Panini Hall of Fame 75th Year Anniversary - Signatures #88 Pat Gillick (AUTO)<br>
 
+### Randy Johnson
+- 2022 Topps Archives - Fan Favorites Premium #53FF-RJN Randy Johnson (AUTO)<br>
+
 ### Reggie Jackson
 - 2022 Topps Pristine - Pure Power Autographs #PPA-RJ Reggie Jackson (AUTO)<br>
 
@@ -198,6 +201,9 @@ This is a set to collect autographs from every person in the baseball hall of fa
 ### Wade Boggs
 - 2022 Topps Archives - Fan Favorites Premium #53FF-WB Wade Boggs (AUTO)<br>
 
+### Warren Spahn
+- 1962 Topps  #312 Spahn Shows No-hit Form (AUTO)<br>
+
 ### Whitey Ford
 - 2004 Topps Series 2 - World Series Highlights Autographs #WSA-WF Whitey Ford (AUTO)<br>
 - 2010 Panini Century - Baseball Three Cent Stamp Autographs #34 Whitey Ford (AUTO)<br>
@@ -210,7 +216,7 @@ This is a set to collect autographs from every person in the baseball hall of fa
 - 2001 Fleer Platinum - Rack Pack Autographs #NNO 1998 SI Then and Now - Willie Mays (AUTO)<br>
 
 
-## Players without qualifying cards: 292
+## Players without qualifying cards: 290
 
 - Addie Joss
 - Al Barlick
@@ -438,7 +444,6 @@ This is a set to collect autographs from every person in the baseball hall of fa
 - Pud Galvin
 - Rabbit Maranville
 - Ralph Kiner
-- Randy Johnson
 - Ray Brown
 - Ray Dandridge
 - Ray Schalk
@@ -493,7 +498,6 @@ This is a set to collect autographs from every person in the baseball hall of fa
 - Walter Johnson
 - Walter O'Malley
 - Warren Giles
-- Warren Spahn
 - Wilbert Robinson
 - Will Harridge
 - Willard Brown
