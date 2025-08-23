@@ -1,6 +1,6 @@
 # Ben Sheets
 
-## Cards Owned: 10
+## Cards Owned: 11
 
 ## Card List
 
@@ -14,3 +14,4 @@
 2005 Upper Deck Ultimate Signature Edition - Supremacy #SS-BS Ben Sheets<br>
 2008 Topps Chrome - Blue Refractors #46 Ben Sheets<br>
 2008 Topps Co-Signers - Silver Blue #074-YG Ben Sheets<br>
+2008 Topps Co-Signers - Hyper Plaid Blue #74 Ben Sheets / Yovani Gallardo<br>

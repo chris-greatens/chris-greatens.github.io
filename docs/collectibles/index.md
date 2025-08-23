@@ -8,6 +8,8 @@ This page lists all the players I have collectiles in my personal collection.
 - [Christian Yelich](/collectibles/christian-yelich/)
 - [Eric Sogard](/collectibles/eric-sogard/)
 - [George Brett](/collectibles/george-brett/)
+- [Greg Vaughn](/collectibles/greg-vaughn/)
+- [Joe Crawford](/collectibles/joe-crawford/)
 - [Keon Broxton](/collectibles/keon-broxton/)
 - [Mike Trout](/collectibles/mike-trout/)
 - [Nolan Ryan](/collectibles/nolan-ryan/)

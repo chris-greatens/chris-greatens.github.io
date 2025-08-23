@@ -2,7 +2,7 @@
 
 This is a set to collect autographs from every person in the baseball hall of fame.
 
-## Players with qualifying cards: 61 / 351
+## Players with qualifying cards: 63 / 351
 
 ### Adrian Beltré
 - 2022 Topps Archives - Fan Favorites Premium #53FF-AB Adrian Beltre (AUTO)<br>
@@ -135,6 +135,7 @@ This is a set to collect autographs from every person in the baseball hall of fa
 - 2004 Topps Series 1 - World Series Highlights Autographs #WSA-MS Mike Schmidt (AUTO)<br>
 
 ### Nolan Ryan
+- 1994 Spectrum The Miracle of '69 #7 Nolan Ryan (AUTO)<br>
 - 2022 Topps Archives - Fan Favorites Premium #53FF-NR Nolan Ryan (AUTO)<br>
 
 ### Orlando Cepeda
@@ -191,6 +192,12 @@ This is a set to collect autographs from every person in the baseball hall of fa
 ### Tim Raines
 - 2022 Topps Series 1 - 1987 Topps Baseball 35th Anniversary Autographs Black #87BA-TRA Tim Raines (AUTO)<br>
 
+### Tom Seaver
+- 1994 Spectrum The Miracle of '69 #3 Tom Seaver (AUTO)<br>
+
+### Tony Gwynn
+- 2001 Fleer Platinum - Rack Pack Autographs #NNO Tony Gwynn (AUTO)<br>
+
 ### Trevor Hoffman
 - 2019 Topps Archives Signature Series Retired Player Edition #71 Trevor Hoffman (2011 Topps) (AUTO)<br>
 - 2022 Topps Finest Flashbacks - 1995 Finest Autographs #95FA-TH Trevor Hoffman (AUTO)<br>
@@ -216,7 +223,7 @@ This is a set to collect autographs from every person in the baseball hall of fa
 - 2001 Fleer Platinum - Rack Pack Autographs #NNO 1998 SI Then and Now - Willie Mays (AUTO)<br>
 
 
-## Players without qualifying cards: 290
+## Players without qualifying cards: 288
 
 - Addie Joss
 - Al Barlick
@@ -479,11 +486,9 @@ This is a set to collect autographs from every person in the baseball hall of fa
 - Todd Helton
 - Tom Connolly
 - Tom Glavine
-- Tom Seaver
 - Tom Yawkey
 - Tommy Lasorda
 - Tommy McCarthy
-- Tony Gwynn
 - Tony La Russa
 - Tony Lazzeri
 - Tony Oliva
