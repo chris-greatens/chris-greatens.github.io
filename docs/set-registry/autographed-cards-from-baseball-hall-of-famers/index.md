@@ -2,7 +2,7 @@
 
 This is a set to collect autographs from every person in the baseball hall of fame.
 
-## Players with qualifying cards: 63 / 351
+## Players with qualifying cards: 64 / 351
 
 ### Adrian Beltré
 - 2022 Topps Archives - Fan Favorites Premium #53FF-AB Adrian Beltre (AUTO)<br>
@@ -80,6 +80,9 @@ This is a set to collect autographs from every person in the baseball hall of fa
 
 ### Eddie Murray
 - 2022 Topps Archives - Fan Favorites Premium #53FF-EMY Eddie Murray (AUTO)<br>
+
+### Edgar Martinez
+- 2023 Topps  - 1988 Topps Baseball 35th Anniversary Autographs (Series One) #88BA-EMA Edgar Martinez (AUTO)<br>
 
 ### Frank Robinson
 - 1999 Sports Illustrated Greats of the Game - Autographs #NNO Frank Robinson (AUTO)<br>
@@ -223,7 +226,7 @@ This is a set to collect autographs from every person in the baseball hall of fa
 - 2001 Fleer Platinum - Rack Pack Autographs #NNO 1998 SI Then and Now - Willie Mays (AUTO)<br>
 
 
-## Players without qualifying cards: 288
+## Players without qualifying cards: 287
 
 - Addie Joss
 - Al Barlick
@@ -310,7 +313,6 @@ This is a set to collect autographs from every person in the baseball hall of fa
 - Edd Roush
 - Eddie Collins
 - Eddie Plank
-- Edgar Martinez
 - Effa Manley
 - Elmer Flick
 - Enos Slaughter
