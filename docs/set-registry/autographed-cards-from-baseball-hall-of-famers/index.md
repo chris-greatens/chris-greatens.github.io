@@ -2,7 +2,7 @@
 
 This is a set to collect autographs from every person in the baseball hall of fame.
 
-## Players with qualifying cards: 64 / 351
+## Players with qualifying cards: 65 / 351
 
 ### Adrian Beltré
 - 2022 Topps Archives - Fan Favorites Premium #53FF-AB Adrian Beltre (AUTO)<br>
@@ -134,6 +134,10 @@ This is a set to collect autographs from every person in the baseball hall of fa
 ### Mariano Rivera
 - 2022 Topps Archives - Fan Favorites Premium #53FF-MRA Mariano Rivera (AUTO)<br>
 
+### Mike Mussina
+- 1994 Upper Deck  #44 Mike Mussina (AUTO)<br>
+- 2001 Topps Heritage #365 Mike Mussina (AUTO)<br>
+
 ### Mike Schmidt
 - 2004 Topps Series 1 - World Series Highlights Autographs #WSA-MS Mike Schmidt (AUTO)<br>
 
@@ -226,7 +230,7 @@ This is a set to collect autographs from every person in the baseball hall of fa
 - 2001 Fleer Platinum - Rack Pack Autographs #NNO 1998 SI Then and Now - Willie Mays (AUTO)<br>
 
 
-## Players without qualifying cards: 287
+## Players without qualifying cards: 286
 
 - Addie Joss
 - Al Barlick
@@ -428,7 +432,6 @@ This is a set to collect autographs from every person in the baseball hall of fa
 - Mickey Cochrane
 - Mickey Mantle
 - Mickey Welch
-- Mike Mussina
 - Mike Piazza
 - Miller Huggins
 - Minnie Miñoso
