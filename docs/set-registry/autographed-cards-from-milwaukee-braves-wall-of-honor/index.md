@@ -13,6 +13,7 @@ This is a set to collect autographs from every person in the Milwaukee Braves Wa
 - 2004 Topps Series 2 - World Series Highlights Autographs #WSA-BT Bobby Thomson (AUTO)<br>
 
 ### Ed Mathews
+- 1981-89 Baseball Hall of Fame Metallic Plaques #NNO Ed Mathews (AUTO)<br>
 - 1998 Upper Deck Retro #49 Ed Mathews (AUTO)<br>
 - 1999 Sports Illustrated Greats of the Game - Autographs #NNO Ed Mathews (AUTO)<br>
 

@@ -2,7 +2,7 @@
 
 This is a set to collect autographs from every person in the baseball hall of fame.
 
-## Players with qualifying cards: 65 / 351
+## Players with qualifying cards: 67 / 351
 
 ### Adrian Beltré
 - 2022 Topps Archives - Fan Favorites Premium #53FF-AB Adrian Beltre (AUTO)<br>
@@ -75,6 +75,7 @@ This is a set to collect autographs from every person in the baseball hall of fa
 - 2004 Topps Series 2 - World Series Highlights Autographs #WSA-DS Duke Snider (AUTO)<br>
 
 ### Ed Mathews
+- 1981-89 Baseball Hall of Fame Metallic Plaques #NNO Ed Mathews (AUTO)<br>
 - 1998 Upper Deck Retro #49 Ed Mathews (AUTO)<br>
 - 1999 Sports Illustrated Greats of the Game - Autographs #NNO Ed Mathews (AUTO)<br>
 
@@ -97,6 +98,7 @@ This is a set to collect autographs from every person in the baseball hall of fa
 - 2022 Topps Archives - Fan Favorites Autographs #72FF-GG Goose Gossage (AUTO)<br>
 
 ### Greg Maddux
+- 1987 Fleer Update #U-68 Greg Maddux (AUTO)<br>
 - 2022 Topps Archives - Fan Favorites Premium #53FF-GM Greg Maddux (AUTO)<br>
 
 ### Harmon Killebrew
@@ -131,6 +133,9 @@ This is a set to collect autographs from every person in the baseball hall of fa
 - 1999 Sports Illustrated Greats of the Game - Autographs #NNO Lou Brock (AUTO)<br>
 - 2004 Topps Series 1 - World Series Highlights Autographs #WSA-LB Lou Brock (AUTO)<br>
 
+### Luis Aparicio
+- 2002 Topps  - Team Topps Legends Autographs #TT-LA Luis Aparicio (AUTO)<br>
+
 ### Mariano Rivera
 - 2022 Topps Archives - Fan Favorites Premium #53FF-MRA Mariano Rivera (AUTO)<br>
 
@@ -153,6 +158,9 @@ This is a set to collect autographs from every person in the baseball hall of fa
 
 ### Pat Gillick
 - 2014 Panini Hall of Fame 75th Year Anniversary - Signatures #88 Pat Gillick (AUTO)<br>
+
+### Phil Niekro
+- 2000 Upper Deck Legends - Legendary Signatures #S-PN Phil Niekro (AUTO)<br>
 
 ### Randy Johnson
 - 2022 Topps Archives - Fan Favorites Premium #53FF-RJN Randy Johnson (AUTO)<br>
@@ -203,6 +211,7 @@ This is a set to collect autographs from every person in the baseball hall of fa
 - 1994 Spectrum The Miracle of '69 #3 Tom Seaver (AUTO)<br>
 
 ### Tony Gwynn
+- 1986 TCMA Limited Autographs #NNO Tony Gwynn (AUTO)<br>
 - 2001 Fleer Platinum - Rack Pack Autographs #NNO Tony Gwynn (AUTO)<br>
 
 ### Trevor Hoffman
@@ -230,7 +239,7 @@ This is a set to collect autographs from every person in the baseball hall of fa
 - 2001 Fleer Platinum - Rack Pack Autographs #NNO 1998 SI Then and Now - Willie Mays (AUTO)<br>
 
 
-## Players without qualifying cards: 286
+## Players without qualifying cards: 284
 
 - Addie Joss
 - Al Barlick
@@ -423,7 +432,6 @@ This is a set to collect autographs from every person in the baseball hall of fa
 - Lou Boudreau
 - Lou Gehrig
 - Louis Santop
-- Luis Aparicio
 - Luke Appling
 - Martin Dihigo
 - Marvin Miller
@@ -449,7 +457,6 @@ This is a set to collect autographs from every person in the baseball hall of fa
 - Pedro Martinez
 - Pee Wee Reese
 - Pete Hill
-- Phil Niekro
 - Phil Rizzuto
 - Pie Traynor
 - Pop Lloyd
