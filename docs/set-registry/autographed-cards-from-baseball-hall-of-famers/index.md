@@ -110,6 +110,7 @@ This is a set to collect autographs from every person in the baseball hall of fa
 - 2022 Topps Archives - Fan Favorites Premium #53FF-IR Ivan Rodriguez (AUTO)<br>
 
 ### Jim Kaat
+- 1960 Topps  #136 Jim Kaat (AUTO)<br>
 - 2021 Topps Chrome Platinum Anniversary - Refractor #626 Jim Kaat (AUTO)<br>
 
 ### Jim Palmer

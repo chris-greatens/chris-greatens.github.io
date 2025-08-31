@@ -9,6 +9,7 @@ This page lists all the players I have collectiles in my personal collection.
 - [Eric Sogard](/collectibles/eric-sogard/)
 - [George Brett](/collectibles/george-brett/)
 - [Greg Vaughn](/collectibles/greg-vaughn/)
+- [Jacob Misiorowski](/collectibles/jacob-misiorowski/)
 - [Joe Crawford](/collectibles/joe-crawford/)
 - [Keon Broxton](/collectibles/keon-broxton/)
 - [Mike Trout](/collectibles/mike-trout/)
