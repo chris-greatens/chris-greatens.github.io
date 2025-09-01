@@ -12,3 +12,6 @@ This section contains various interests in my collection. For example, I am tryi
 
 ### [Complete Collection](/collection)
 This section contains pages for every set that I have cards from. Not every card in every set is here (yet).
+
+### [Collectibles](/collectibles)
+This section contains pages for the sports collectibles that I own.
