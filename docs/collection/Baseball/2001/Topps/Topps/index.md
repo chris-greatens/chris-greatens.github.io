@@ -12,3 +12,4 @@
 - [x] 410: The Shot Heard Round the World<br>
 ### Team Topps Legends Autographs
 - [x] TT27F: Andy Pafko (1959 Topps)<br>
+- [x] TT47R: Frank Howard<br>

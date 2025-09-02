@@ -12,3 +12,4 @@
 - [x] : Bob Gibson<br>
 - [x] : Harmon Killebrew<br>
 - [x] : Scott Rolen<br>
+- [x] : Tony Gwynn<br>

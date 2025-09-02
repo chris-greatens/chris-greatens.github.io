@@ -3,8 +3,8 @@
 
 ## Subsets
 
-- World Series Highlights
-- World Series Highlights Autographs
+- World Series Highlights  (Cards Owned: 15 / 15 (100.0% complete))
+- World Series Highlights Autographs  (Cards Owned: 10 / 11 (90.9% complete))
 
 ## Cards
 

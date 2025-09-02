@@ -4,7 +4,7 @@
 ## Subsets
 
 - Fan Favorites Autographs
-- Fan Favorites Premium
+- Fan Favorites Premium  (Cards Owned: 24 / 27 (88.9% complete))
 
 ## Cards
 

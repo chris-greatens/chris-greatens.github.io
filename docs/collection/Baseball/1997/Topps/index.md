@@ -3,10 +3,176 @@
 
 ## Subsets
 
-- Mickey Mantle Commemorative Reprints
+- Mickey Mantle Commemorative Reprints  (Cards Owned: 2 / 16 (12.5% complete))
+- Mickey Mantle Commemorative Reprints Finest  (Cards Owned: 0 / 16 (0.0% complete))
+- Mickey Mantle Commemorative Reprints Finest Refractors  (Cards Owned: 0 / 16 (0.0% complete))
+- Willie Mays Commemorative Reprints  (Cards Owned: 0 / 27 (0.0% complete))
+- Willie Mays Commemorative Reprints Autographs  (Cards Owned: 0 / 27 (0.0% complete))
+- Willie Mays Commemorative Reprints Finest  (Cards Owned: 0 / 27 (0.0% complete))
+- Willie Mays Commemorative Reprints Finest Refractor  (Cards Owned: 0 / 27 (0.0% complete))
 
 ## Cards
 
 ### Mickey Mantle Commemorative Reprints
+- [ ] 21: 1953 Bowman (Bauer/Mantle/Berra)<br>
+- [ ] 22: 1953 Bowman Mickey Mantle<br>
+- [ ] 23: Yankees' Power Hitters<br>
+- [ ] 24: World Series Batting Foes<br>
+- [ ] 25: 1958 Topps All-Star Mickey Mantle<br>
 - [x] 26: Mantle Hits 42nd Homer for Crown<br>
+- [ ] 27: 1959 Topps All-Star Mickey Mantle<br>
+- [ ] 28: Rival All-Stars<br>
+- [ ] 29: 1960 Topps All-Star Mickey Mantle<br>
+- [ ] 30: Mantle Blasts 565 ft. Home Run<br>
+- [ ] 31: 1961 Topps MVP Mickey Mantle<br>
 - [x] 32: 1961 Topps All-star Mickey Mantle<br>
+- [ ] 33: Managers' Dream (Mickey Mantle / Willie Mays)<br>
+- [ ] 34: The Switch Hitter Connects<br>
+- [ ] 35: 1962 Topps All-Star Mickey Mantle<br>
+- [ ] 36: A.L. Bombers (Roger Maris / Norm Cash / Mickey Mantle / Al Kaline)<br>
+### Mickey Mantle Commemorative Reprints Finest
+- [ ] 21: 1953 Bowman (Bauer/Mantle/Berra)<br>
+- [ ] 22: 1953 Bowman Mickey Mantle<br>
+- [ ] 23: Yankees' Power Hitters<br>
+- [ ] 24: World Series Batting Foes<br>
+- [ ] 25: 1958 Topps All-Star Mickey Mantle<br>
+- [ ] 26: Mantle Hits 42nd Homer for Crown<br>
+- [ ] 27: 1959 Topps All-Star Mickey Mantle<br>
+- [ ] 28: Rival All-Stars<br>
+- [ ] 29: 1960 Topps All-Star Mickey Mantle<br>
+- [ ] 30: Mantle Blasts 565 ft. Home Run<br>
+- [ ] 31: 1961 Topps MVP Mickey Mantle<br>
+- [ ] 32: 1961 Topps All-star Mickey Mantle<br>
+- [ ] 33: Managers' Dream (Mickey Mantle / Willie Mays)<br>
+- [ ] 34: The Switch Hitter Connects<br>
+- [ ] 35: 1962 Topps All-Star Mickey Mantle<br>
+- [ ] 36: A.L. Bombers (Roger Maris / Norm Cash / Mickey Mantle / Al Kaline)<br>
+### Mickey Mantle Commemorative Reprints Finest Refractors
+- [ ] 21: 1953 Bowman (Bauer/Mantle/Berra)<br>
+- [ ] 22: 1953 Bowman Mickey Mantle<br>
+- [ ] 23: Yankees' Power Hitters<br>
+- [ ] 24: World Series Batting Foes<br>
+- [ ] 25: 1958 Topps All-Star Mickey Mantle<br>
+- [ ] 26: Mantle Hits 42nd Homer for Crown<br>
+- [ ] 27: 1959 Topps All-Star Mickey Mantle<br>
+- [ ] 28: Rival All-Stars<br>
+- [ ] 29: 1960 Topps All-Star Mickey Mantle<br>
+- [ ] 30: Mantle Blasts 565 ft. Home Run<br>
+- [ ] 31: 1961 Topps MVP Mickey Mantle<br>
+- [ ] 32: 1961 Topps All-star Mickey Mantle<br>
+- [ ] 33: Managers' Dream (Mickey Mantle / Willie Mays)<br>
+- [ ] 34: The Switch Hitter Connects<br>
+- [ ] 35: 1962 Topps All-Star Mickey Mantle<br>
+- [ ] 36: A.L. Bombers (Roger Maris / Norm Cash / Mickey Mantle / Al Kaline)<br>
+### Willie Mays Commemorative Reprints
+- [ ] 1: 1951 Bowman Willie Mays<br>
+- [ ] 2: 1952 Topps Willie Mays<br>
+- [ ] 3: 1953 Topps Willie Mays<br>
+- [ ] 4: 1954 Bowman Willie Mays<br>
+- [ ] 5: 1954 Topps Willie Mays<br>
+- [ ] 6: 1955 Bowman Willie Mays<br>
+- [ ] 7: 1955 Topps Willie Mays<br>
+- [ ] 8: 1956 Topps Willie Mays<br>
+- [ ] 9: 1957 Topps Willie Mays<br>
+- [ ] 10: 1958 Topps Willie Mays<br>
+- [ ] 11: 1959 Topps Willie Mays<br>
+- [ ] 12: 1960 Topps Willie Mays<br>
+- [ ] 13: 1960 Topps All-Star Willie Mays<br>
+- [ ] 14: 1961 Topps Willie Mays<br>
+- [ ] 15: 1961 Topps All-Star Willie Mays<br>
+- [ ] 16: 1962 Topps Willie Mays<br>
+- [ ] 17: 1963 Topps Willie Mays<br>
+- [ ] 18: 1964 Topps Willie Mays<br>
+- [ ] 19: 1965 Topps Willie Mays<br>
+- [ ] 20: 1966 Topps Willie Mays<br>
+- [ ] 21: 1967 Topps Willie Mays<br>
+- [ ] 22: 1968 Topps Willie Mays<br>
+- [ ] 23: 1969 Topps Willie Mays<br>
+- [ ] 24: 1970 Topps Willie Mays<br>
+- [ ] 25: 1971 Topps Willie Mays<br>
+- [ ] 26: 1972 Topps Willie Mays<br>
+- [ ] 27: 1973 Topps Willie Mays<br>
+### Willie Mays Commemorative Reprints Autographs
+- [ ] 1: 1951 Bowman Willie Mays<br>
+- [ ] 2: 1952 Topps Willie Mays<br>
+- [ ] 3: 1953 Topps Willie Mays<br>
+- [ ] 4: 1954 Bowman Willie Mays<br>
+- [ ] 5: 1954 Topps Willie Mays<br>
+- [ ] 6: 1955 Bowman Willie Mays<br>
+- [ ] 7: 1955 Topps Willie Mays<br>
+- [ ] 8: 1956 Topps Willie Mays<br>
+- [ ] 9: 1957 Topps Willie Mays<br>
+- [ ] 10: 1958 Topps Willie Mays<br>
+- [ ] 11: 1959 Topps Willie Mays<br>
+- [ ] 12: 1960 Topps Willie Mays<br>
+- [ ] 13: 1960 Topps All-Star Willie Mays<br>
+- [ ] 14: 1961 Topps Willie Mays<br>
+- [ ] 15: 1961 Topps All-Star Willie Mays<br>
+- [ ] 16: 1962 Topps Willie Mays<br>
+- [ ] 17: 1963 Topps Willie Mays<br>
+- [ ] 18: 1964 Topps Willie Mays<br>
+- [ ] 19: 1965 Topps Willie Mays<br>
+- [ ] 20: 1966 Topps Willie Mays<br>
+- [ ] 21: 1967 Topps Willie Mays<br>
+- [ ] 22: 1968 Topps Willie Mays<br>
+- [ ] 23: 1969 Topps Willie Mays<br>
+- [ ] 24: 1970 Topps Willie Mays<br>
+- [ ] 25: 1971 Topps Willie Mays<br>
+- [ ] 26: 1972 Topps Willie Mays<br>
+- [ ] 27: 1973 Topps Willie Mays<br>
+### Willie Mays Commemorative Reprints Finest
+- [ ] 1: 1951 Bowman Willie Mays<br>
+- [ ] 2: 1952 Topps Willie Mays<br>
+- [ ] 3: 1953 Topps Willie Mays<br>
+- [ ] 4: 1954 Bowman Willie Mays<br>
+- [ ] 5: 1954 Topps Willie Mays<br>
+- [ ] 6: 1955 Bowman Willie Mays<br>
+- [ ] 7: 1955 Topps Willie Mays<br>
+- [ ] 8: 1956 Topps Willie Mays<br>
+- [ ] 9: 1957 Topps Willie Mays<br>
+- [ ] 10: 1958 Topps Willie Mays<br>
+- [ ] 11: 1959 Topps Willie Mays<br>
+- [ ] 12: 1960 Topps Willie Mays<br>
+- [ ] 13: 1960 Topps All-Star Willie Mays<br>
+- [ ] 14: 1961 Topps Willie Mays<br>
+- [ ] 15: 1961 Topps All-Star Willie Mays<br>
+- [ ] 16: 1962 Topps Willie Mays<br>
+- [ ] 17: 1963 Topps Willie Mays<br>
+- [ ] 18: 1964 Topps Willie Mays<br>
+- [ ] 19: 1965 Topps Willie Mays<br>
+- [ ] 20: 1966 Topps Willie Mays<br>
+- [ ] 21: 1967 Topps Willie Mays<br>
+- [ ] 22: 1968 Topps Willie Mays<br>
+- [ ] 23: 1969 Topps Willie Mays<br>
+- [ ] 24: 1970 Topps Willie Mays<br>
+- [ ] 25: 1971 Topps Willie Mays<br>
+- [ ] 26: 1972 Topps Willie Mays<br>
+- [ ] 27: 1973 Topps Willie Mays<br>
+### Willie Mays Commemorative Reprints Finest Refractor
+- [ ] 1: 1951 Bowman Willie Mays<br>
+- [ ] 2: 1952 Topps Willie Mays<br>
+- [ ] 3: 1953 Topps Willie Mays<br>
+- [ ] 4: 1954 Bowman Willie Mays<br>
+- [ ] 5: 1954 Topps Willie Mays<br>
+- [ ] 6: 1955 Bowman Willie Mays<br>
+- [ ] 7: 1955 Topps Willie Mays<br>
+- [ ] 8: 1956 Topps Willie Mays<br>
+- [ ] 9: 1957 Topps Willie Mays<br>
+- [ ] 10: 1958 Topps Willie Mays<br>
+- [ ] 11: 1959 Topps Willie Mays<br>
+- [ ] 12: 1960 Topps Willie Mays<br>
+- [ ] 13: 1960 Topps All-Star Willie Mays<br>
+- [ ] 14: 1961 Topps Willie Mays<br>
+- [ ] 15: 1961 Topps All-Star Willie Mays<br>
+- [ ] 16: 1962 Topps Willie Mays<br>
+- [ ] 17: 1963 Topps Willie Mays<br>
+- [ ] 18: 1964 Topps Willie Mays<br>
+- [ ] 19: 1965 Topps Willie Mays<br>
+- [ ] 20: 1966 Topps Willie Mays<br>
+- [ ] 21: 1967 Topps Willie Mays<br>
+- [ ] 22: 1968 Topps Willie Mays<br>
+- [ ] 23: 1969 Topps Willie Mays<br>
+- [ ] 24: 1970 Topps Willie Mays<br>
+- [ ] 25: 1971 Topps Willie Mays<br>
+- [ ] 26: 1972 Topps Willie Mays<br>
+- [ ] 27: 1973 Topps Willie Mays<br>

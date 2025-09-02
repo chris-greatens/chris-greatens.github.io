@@ -29,6 +29,7 @@
 ## [1979](/collection/Baseball/1979)
 ## [1980](/collection/Baseball/1980)
 ## [1981](/collection/Baseball/1981)
+## [1981-89](/collection/Baseball/1981-89)
 ## [1982](/collection/Baseball/1982)
 ## [1983](/collection/Baseball/1983)
 ## [1984](/collection/Baseball/1984)

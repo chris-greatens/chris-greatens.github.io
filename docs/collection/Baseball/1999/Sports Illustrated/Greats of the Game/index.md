@@ -3,7 +3,7 @@
 
 ## Subsets
 
-- Autographs  (Cards Owned: 21 / 80 (26.2% complete))
+- Autographs  (Cards Owned: 22 / 80 (27.5% complete))
 - Cover Collection
 
 ## Cards
@@ -13,7 +13,7 @@
 - [x] : Al Kaline<br>
 - [ ] : Al Oliver<br>
 - [ ] : Andre Dawson<br>
-- [ ] : Bert Campaneris<br>
+- [x] : Bert Campaneris<br>
 - [ ] : Bill Buckner<br>
 - [ ] : Bill Lee<br>
 - [ ] : Bill Skowron<br>
