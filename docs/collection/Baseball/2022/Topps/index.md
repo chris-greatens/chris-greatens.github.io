@@ -6,4 +6,5 @@
 ## [Heritage High Numbers](/collection/Baseball/2022/Topps/Heritage High Numbers)
 ## [Pristine](/collection/Baseball/2022/Topps/Pristine)
 ## [Series 1](/collection/Baseball/2022/Topps/Series 1)
+## [Stadium Club](/collection/Baseball/2022/Topps/Stadium Club)
 ## [Tier One](/collection/Baseball/2022/Topps/Tier One)

@@ -2,7 +2,7 @@
 
 This is a set to collect autographs from every person in the Brewers Wall of Honor.
 
-## Players with qualifying cards: 15 / 72
+## Players with qualifying cards: 18 / 72
 
 ### Ben Oglivie
 - 2004 Topps All-Time Fan Favorites - Autographs #FFA-BO Ben Oglivie (AUTO)<br>
@@ -37,6 +37,12 @@ This is a set to collect autographs from every person in the Brewers Wall of Hon
 ### Johnny Briggs
 - 1972 Topps  #197 Johnny Briggs (AUTO)<br>
 
+### Ken Sanders
+- 1971 Topps  #116 Ken Sanders (AUTO)<br>
+
+### Prince Fielder
+- 2025 Topps Finest - Creators Autographs Blue #CAV-PL Prince Fielder (AUTO)<br>
+
 ### Robin Yount
 - 2004 Topps Series 1 - World Series Highlights Autographs #WSA-RY Robin Yount (AUTO)<br>
 - 2018 Topps Clearly Authentic - Reprint Autographs #CAR-RY Robin Yount (AUTO)<br>
@@ -51,6 +57,9 @@ This is a set to collect autographs from every person in the Brewers Wall of Hon
 - 2020 Topps Archives - Topps Originals Buyback Autographs #84 Rollie Fingers (AUTO)<br>
 - 2022 Topps Archives Signature Series Retired Player Edition #185 Rollie Fingers (1986 Topps) (AUTO)<br>
 
+### Sixto Lezcano
+- 1976 Topps  #353 Sixto Lezcano (AUTO)<br>
+
 ### Ted Simmons
 - 2022 Topps Archives Signature Series Retired Player Edition #318 Ted Simmons (1985 Topps) (AUTO)<br>
 
@@ -62,7 +71,7 @@ This is a set to collect autographs from every person in the Brewers Wall of Hon
 - 2012 Upper Deck SP Signature Edition #MIL6 Yovani Gallardo (AUTO)<br>
 
 
-## Players without qualifying cards: 57
+## Players without qualifying cards: 54
 
 - B. J. Surhoff
 - Bill Castro
@@ -104,7 +113,6 @@ This is a set to collect autographs from every person in the Brewers Wall of Hon
 - John Jaha
 - Jonathan Lucroy
 - José Valentín
-- Ken Sanders
 - Kevin Seitzer
 - Mark Loretta
 - Mike Caldwell
@@ -113,11 +121,9 @@ This is a set to collect autographs from every person in the Brewers Wall of Hon
 - Pat Listach
 - Paul Molitor
 - Pete Vuckovich
-- Prince Fielder
 - Richie Sexson
 - Rickie Weeks
 - Rob Deer
 - Ryan Braun
 - Sal Bando
-- Sixto Lezcano
 - Teddy Higuera

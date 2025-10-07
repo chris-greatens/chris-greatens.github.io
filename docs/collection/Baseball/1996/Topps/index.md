@@ -4,7 +4,7 @@
 ## Subsets
 
 - Mickey Mantle Commemorative Finest Reprints  (Cards Owned: 1 / 19 (5.3% complete))
-- Mickey Mantle Commemorative Reprints  (Cards Owned: 9 / 19 (47.4% complete))
+- Mickey Mantle Commemorative Reprints  (Cards Owned: 10 / 19 (52.6% complete))
 - Mickey Mantle Commemorative Reprints Finest  (Cards Owned: 0 / 19 (0.0% complete))
 - Mickey Mantle Commemorative Reprints Finest Refractors  (Cards Owned: 1 / 19 (5.3% complete))
 
@@ -17,7 +17,7 @@
 - [ ] 2: 1952 Topps Mickey Mantle<br>
 - [x] 3: 1953 Topps Mickey Mantle<br>
 - [ ] 4: 1954 Bowman Mickey Mantle<br>
-- [ ] 5: 1955 Bowman Mickey Mantle<br>
+- [x] 5: 1955 Bowman Mickey Mantle<br>
 - [x] 6: 1956 Topps Mickey Mantle<br>
 - [x] 7: 1957 Topps Mickey Mantle<br>
 - [x] 8: 1958 Topps Mickey Mantle<br>

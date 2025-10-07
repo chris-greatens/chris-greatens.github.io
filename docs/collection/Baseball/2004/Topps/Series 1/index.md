@@ -4,7 +4,7 @@
 ## Subsets
 
 - World Series Highlights  (Cards Owned: 15 / 15 (100.0% complete))
-- World Series Highlights Autographs  (Cards Owned: 10 / 11 (90.9% complete))
+- World Series Highlights Autographs  (Cards Owned: 11 / 11 (100.0% complete))
 
 ## Cards
 
@@ -30,7 +30,7 @@
 - [x] WSA-CF: Carlton Fisk<br>
 - [x] WSA-DL: Don Larsen<br>
 - [x] WSA-JP: Jim Palmer<br>
-- [ ] WSA-KG: Kirk Gibson<br>
+- [x] WSA-KG: Kirk Gibson<br>
 - [x] WSA-LB: Lou Brock<br>
 - [x] WSA-MS: Mike Schmidt<br>
 - [x] WSA-RJ: Reggie Jackson<br>

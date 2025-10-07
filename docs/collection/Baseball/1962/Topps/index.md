@@ -11,6 +11,7 @@
 - [x] 54: N.L. Home Run Leaders<br>
 - [x] 56: N.L. E.R.A. Leaders<br>
 - [x] 60: N.L. Strikeout Leaders<br>
+- [x] 130: Frank Bolling<br>
 - [x] 232: World Series Game #1 - Yankees Win Opener<br>
 - [x] 233: World Series Game #2 - Jay Ties It Up<br>
 - [x] 234: World Series Game #3 - Maris Wins It in the 9th<br>

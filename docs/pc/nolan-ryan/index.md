@@ -1,6 +1,6 @@
 # Nolan Ryan
 
-## Cards Owned: 48
+## Cards Owned: 49
 
 ## Card List
 
@@ -52,3 +52,4 @@
 2022 Topps Heritage High Numbers - All Aboard! #AA-3 Ryan Sets Single Season Strikeout Record<br>
 2022 Topps Heritage High Numbers - All Aboard! #AA-4 Ryan Tests Limits of Endurance<br>
 2022 Topps Heritage High Numbers - All Aboard! #AA-6 Ryan's Age-40 Season Sets Records<br>
+2023 Topps Update - AKA #AKA-3 Nolan Ryan<br>

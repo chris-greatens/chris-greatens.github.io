@@ -2,7 +2,7 @@
 
 This is a set to collect autographs from every person in the Brewers Walk of Fame.
 
-## Players with qualifying cards: 10 / 23
+## Players with qualifying cards: 11 / 23
 
 ### Ben Sheets
 - 2004 Upper Deck Ultimate Collection - Dual Materials Signature #DJS-SF Ben Sheets & Bob Feller (AUTO)<br>
@@ -29,6 +29,10 @@ This is a set to collect autographs from every person in the Brewers Walk of Fam
 
 ### Johnny Logan
 - 1954 Bowman  #80 Johnny Logan (AUTO)<br>
+- 2002 Bowman Heritage - 1954 Reprints Autographs #BHRA-JL Johnny Logan (AUTO)<br>
+
+### Prince Fielder
+- 2025 Topps Finest - Creators Autographs Blue #CAV-PL Prince Fielder (AUTO)<br>
 
 ### Robin Yount
 - 2004 Topps Series 1 - World Series Highlights Autographs #WSA-RY Robin Yount (AUTO)<br>
@@ -48,7 +52,7 @@ This is a set to collect autographs from every person in the Brewers Walk of Fam
 - 1962 Topps  #312 Spahn Shows No-hit Form (AUTO)<br>
 
 
-## Players without qualifying cards: 13
+## Players without qualifying cards: 12
 
 - Bob Uecker
 - Geoff Jenkins
@@ -60,6 +64,5 @@ This is a set to collect autographs from every person in the Brewers Walk of Fam
 - John Quinn
 - Lew Burdette
 - Paul Molitor
-- Prince Fielder
 - Ryan Braun
 - Teddy Higuera

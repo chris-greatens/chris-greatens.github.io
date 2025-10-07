@@ -2,7 +2,7 @@
 
 This is a set to collect autographs from every person in the baseball hall of fame.
 
-## Players with qualifying cards: 67 / 351
+## Players with qualifying cards: 68 / 351
 
 ### Adrian Beltré
 - 2022 Topps Archives - Fan Favorites Premium #53FF-AB Adrian Beltre (AUTO)<br>
@@ -23,6 +23,7 @@ This is a set to collect autographs from every person in the baseball hall of fa
 
 ### Billy Williams
 - 2024 Topps Archives - 1990 Topps Batting Leaders Autographs Gold Foilboard #90BLA-BW Billy Williams (AUTO)<br>
+- 2025 Topps Series 2 - 1990 Topps Baseball 35th Anniversary Autographs (Series 2) #90B2-BWI Billy Williams (AUTO)<br>
 
 ### Bob Feller
 - 1999 Sports Illustrated Greats of the Game - Autographs #NNO Bob Feller (AUTO)<br>
@@ -57,6 +58,7 @@ This is a set to collect autographs from every person in the baseball hall of fa
 - 2023 Topps Finest - Finest Moments Autographs Gold Refractor #FMA-CF Carlton Fisk Finest Moment (AUTO)<br>
 
 ### CC Sabathia
+- 2020 Topps Archives - 1976 Topps Traded Autograph Silver #76TA-CCS CC Sabathia (AUTO)<br>
 - 2022 Topps Tier One - Prime Performers Autographs #PPA-CS CC Sabathia (AUTO)<br>
 
 ### Chipper Jones
@@ -128,6 +130,7 @@ This is a set to collect autographs from every person in the baseball hall of fa
 - 2022 Topps Archives - Fan Favorites Premium #53FF-JM Juan Marichal (AUTO)<br>
 
 ### Larry Walker
+- 1990 Leaf  #325 Larry Walker (AUTO)<br>
 - 2025 Topps Series 1 - 1990 Topps Baseball 35th Anniversary Autographs #90AU-LW Larry Walker (AUTO)<br>
 
 ### Lou Brock
@@ -150,6 +153,7 @@ This is a set to collect autographs from every person in the baseball hall of fa
 ### Nolan Ryan
 - 1994 Spectrum The Miracle of '69 #7 Nolan Ryan (AUTO)<br>
 - 2022 Topps Archives - Fan Favorites Premium #53FF-NR Nolan Ryan (AUTO)<br>
+- 2023 Topps Update - AKA #AKA-3 Nolan Ryan (AUTO)<br>
 
 ### Orlando Cepeda
 - 1999 Sports Illustrated Greats of the Game - Autographs #NNO Orlando Cepeda (AUTO)<br>
@@ -215,6 +219,9 @@ This is a set to collect autographs from every person in the baseball hall of fa
 - 1986 TCMA Limited Autographs #NNO Tony Gwynn (AUTO)<br>
 - 2001 Fleer Platinum - Rack Pack Autographs #NNO Tony Gwynn (AUTO)<br>
 
+### Tony Perez
+- 1998 Upper Deck Retro - Sign of the Times #TP Tony Perez (AUTO)<br>
+
 ### Trevor Hoffman
 - 2019 Topps Archives Signature Series Retired Player Edition #71 Trevor Hoffman (2011 Topps) (AUTO)<br>
 - 2022 Topps Finest Flashbacks - 1995 Finest Autographs #95FA-TH Trevor Hoffman (AUTO)<br>
@@ -240,7 +247,7 @@ This is a set to collect autographs from every person in the baseball hall of fa
 - 2001 Fleer Platinum - Rack Pack Autographs #NNO 1998 SI Then and Now - Willie Mays (AUTO)<br>
 
 
-## Players without qualifying cards: 284
+## Players without qualifying cards: 283
 
 - Addie Joss
 - Al Barlick
@@ -505,7 +512,6 @@ This is a set to collect autographs from every person in the baseball hall of fa
 - Tony La Russa
 - Tony Lazzeri
 - Tony Oliva
-- Tony Perez
 - Travis Jackson
 - Tris Speaker
 - Turkey Stearnes

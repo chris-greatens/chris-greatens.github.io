@@ -1,4 +1,4 @@
-# Topps 2022 Heritage
+# Topps 2023 Heritage
 ## Baseball
 
 ## Subsets
@@ -8,6 +8,4 @@
 ## Cards
 
 ### Real One Autographs
-- [x] ROA-BB: Bert Blyleven<br>
 - [x] ROA-CY: Christian Yelich<br>
-- [x] ROA-SC: Steve Carlton<br>

@@ -3,11 +3,14 @@
 
 ## Subsets
 
+- Real One Autographs
 - The Hammer's Greatest Hits  (Cards Owned: 0 / 15 (0.0% complete))
 - The Hammer's Greatest Hits Autographs  (Cards Owned: 0 / 15 (0.0% complete))
 
 ## Cards
 
+### Real One Autographs
+- [x] ROA-CYE: Christian Yelich<br>
 ### The Hammer's Greatest Hits
 - [ ] THGH-1: HR No. 715<br>
 - [ ] THGH-10: HR No. 700<br>
