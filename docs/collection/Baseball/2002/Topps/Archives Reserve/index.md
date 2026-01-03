@@ -5,3 +5,4 @@
 
 ### No Subset
 - [x] 7: Fred Lynn<br>
+- [x] 87: Dwight Gooden (1985 #620)<br>
