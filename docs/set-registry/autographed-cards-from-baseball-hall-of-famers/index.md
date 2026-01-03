@@ -2,7 +2,7 @@
 
 This is a set to collect autographs from every person in the baseball hall of fame.
 
-## Players with qualifying cards: 68 / 351
+## Players with qualifying cards: 68 / 352
 
 ### Adrian Beltré
 - 2022 Topps Archives - Fan Favorites Premium #53FF-AB Adrian Beltre (AUTO)<br>
@@ -247,7 +247,7 @@ This is a set to collect autographs from every person in the baseball hall of fa
 - 2001 Fleer Platinum - Rack Pack Autographs #NNO 1998 SI Then and Now - Willie Mays (AUTO)<br>
 
 
-## Players without qualifying cards: 283
+## Players without qualifying cards: 284
 
 - Addie Joss
 - Al Barlick
@@ -388,6 +388,7 @@ This is a set to collect autographs from every person in the baseball hall of fa
 - Jacob Ruppert
 - Jake Beckley
 - Jeff Bagwell
+- Jeff Kent
 - Jesse Burkett
 - Jesse Haines
 - Jim Bottomley
