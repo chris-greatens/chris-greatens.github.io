@@ -2,7 +2,7 @@
 
 This is a set to collect autographs from every person in the Brewers Wall of Honor.
 
-## Players with qualifying cards: 18 / 72
+## Players with qualifying cards: 20 / 74
 
 ### Ben Oglivie
 - 2004 Topps All-Time Fan Favorites - Autographs #FFA-BO Ben Oglivie (AUTO)<br>
@@ -14,11 +14,18 @@ This is a set to collect autographs from every person in the Brewers Wall of Hon
 ### Bud Selig
 - 2013 Topps Allen & Ginter #300 Bud Selig (AUTO)<br>
 
+### CC Sabathia
+- 2020 Topps Archives - 1976 Topps Traded Autograph Silver #76TA-CCS CC Sabathia (AUTO)<br>
+- 2022 Topps Tier One - Prime Performers Autographs #PPA-CS CC Sabathia (AUTO)<br>
+
 ### Cecil Cooper
 - 2006 Upper Deck SP Legendary Cuts - Place in History Signatures #PH-CC Cecil Cooper (AUTO)<br>
 
 ### Craig Counsell
 - 2009 Topps Heritage #546 Craig Counsell (AUTO)<br>
+
+### Dave Parker
+- 1991 Topps  #235 Dave Parker (AUTO)<br>
 
 ### Don Money
 - 1970 Topps  #645 Don Money (AUTO)<br>
