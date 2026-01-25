@@ -42,9 +42,9 @@
 
 ### Front
 
-![Pack front](/images/packs/1987_Donruss_Rack_037_front.jpg)
+![Pack front](/public/images/packs/1987_Donruss_Rack_037_front.jpg)
 
 ### Back
 
-![Pack back](/images/packs/1987_Donruss_Rack_037_back.jpg)
+![Pack back](/public/images/packs/1987_Donruss_Rack_037_back.jpg)
 

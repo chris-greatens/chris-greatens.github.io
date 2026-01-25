@@ -42,9 +42,9 @@
 
 ### Front
 
-![Pack front](/images/packs/1985_Fleer_Rack_039_front.jpg)
+![Pack front](/public/images/packs/1985_Fleer_Rack_039_front.jpg)
 
 ### Back
 
-![Pack back](/images/packs/1985_Fleer_Rack_039_back.jpg)
+![Pack back](/public/images/packs/1985_Fleer_Rack_039_back.jpg)
 

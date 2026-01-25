@@ -30,9 +30,9 @@
 
 ### Front
 
-![Pack front](/images/packs/1984_Fleer_Cello_032_front.jpg)
+![Pack front](/public/images/packs/1984_Fleer_Cello_032_front.jpg)
 
 ### Back
 
-![Pack back](/images/packs/1984_Fleer_Cello_032_back.jpg)
+![Pack back](/public/images/packs/1984_Fleer_Cello_032_back.jpg)
 
