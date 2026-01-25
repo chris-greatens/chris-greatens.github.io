@@ -3,6 +3,10 @@
 
 **Pack Type:** Cello
 
+**Variation:** Rack Pack Cello
+
+**Variation Notes:** Individually wrapped cello pack that was part of a rack pack
+
 **Purchase Date:** 2026-01-11
 
 **Purchase Source:** Facebook

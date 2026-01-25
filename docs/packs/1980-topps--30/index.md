@@ -3,6 +3,10 @@
 
 **Pack Type:** Cello
 
+**Variation:** Mrs Butterworths
+
+**Variation Notes:** 3-card promotional pack for Mrs Butterworths Syryp
+
 **Purchase Date:** 2025-09-28
 
 **Purchase Source:** eBay
