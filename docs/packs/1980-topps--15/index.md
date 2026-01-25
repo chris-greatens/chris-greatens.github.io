@@ -34,7 +34,12 @@
 - **Tim Flannery** (San Diego Padres)
 
 ## Images
+
 ### Front
-![Pack front](/public/images/packs/1980_Topps_Cello_015_front.jpg)
+
+![Pack front](/images/packs/1980_Topps_Cello_015_front.jpg)
+
 ### Back
-![Pack back](/public/images/packs/1980_Topps_Cello_015_back.jpg)
+
+![Pack back](/images/packs/1980_Topps_Cello_015_back.jpg)
+

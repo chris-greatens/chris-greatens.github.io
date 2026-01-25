@@ -32,7 +32,12 @@
 - **Pete Rose** (Cincinnati Reds)
 
 ## Images
+
 ### Front
-![Pack front](/public/images/packs/1986_Topps_Cello_017_front.jpg)
+
+![Pack front](/images/packs/1986_Topps_Cello_017_front.jpg)
+
 ### Back
-![Pack back](/public/images/packs/1986_Topps_Cello_017_back.jpg)
+
+![Pack back](/images/packs/1986_Topps_Cello_017_back.jpg)
+

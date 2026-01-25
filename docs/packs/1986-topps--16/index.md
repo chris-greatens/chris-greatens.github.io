@@ -32,7 +32,12 @@
 - **Dale Murphy** (Atlanta Braves)
 
 ## Images
+
 ### Front
-![Pack front](/public/images/packs/1986_Topps_Cello_016_front.jpg)
+
+![Pack front](/images/packs/1986_Topps_Cello_016_front.jpg)
+
 ### Back
-![Pack back](/public/images/packs/1986_Topps_Cello_016_back.jpg)
+
+![Pack back](/images/packs/1986_Topps_Cello_016_back.jpg)
+

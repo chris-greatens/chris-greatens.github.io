@@ -19,7 +19,12 @@
 - **Pete Ladd** (Milwaukee Brewers)
 
 ## Images
+
 ### Front
-![Pack front](/public/images/packs/1984_Topps_Cello_027_front.jpg)
+
+![Pack front](/images/packs/1984_Topps_Cello_027_front.jpg)
+
 ### Back
-![Pack back](/public/images/packs/1984_Topps_Cello_027_back.jpg)
+
+![Pack back](/images/packs/1984_Topps_Cello_027_back.jpg)
+

@@ -17,6 +17,15 @@
 
 **Team(s):** San Francisco Giants
 
+### Slot 2
+**Card Number:** 100
+
+**Description:** Reggie Jackson
+
+**Player(s):** Reggie Jackson
+
+**Team(s):** California Angels
+
 ### Slot 3
 **Card Number:** 243
 
@@ -59,11 +68,17 @@
 - **Dave Dravecky** (San Diego Padres)
 - **Jim Barr** (San Francisco Giants)
 - **Pete Ladd** (Milwaukee Brewers)
+- **Reggie Jackson** (California Angels)
 - **Rickey Henderson** (Montreal Expos, Oakland A's)
 - **Tim Raines** (Montreal Expos, Oakland A's)
 
 ## Images
+
 ### Front
-![Pack front](/public/images/packs/1984_Topps_Rack_031_front.jpg)
+
+![Pack front](/images/packs/1984_Topps_Rack_031_front.jpg)
+
 ### Back
-![Pack back](/public/images/packs/1984_Topps_Rack_031_back.jpg)
+
+![Pack back](/images/packs/1984_Topps_Rack_031_back.jpg)
+

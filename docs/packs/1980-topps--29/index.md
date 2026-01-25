@@ -23,7 +23,12 @@
 - **Reggie Baldwin** (Houston Astros)
 
 ## Images
+
 ### Front
-![Pack front](/public/images/packs/1980_Topps_Cello_029_front.jpg)
+
+![Pack front](/images/packs/1980_Topps_Cello_029_front.jpg)
+
 ### Back
-![Pack back](/public/images/packs/1980_Topps_Cello_029_back.jpg)
+
+![Pack back](/images/packs/1980_Topps_Cello_029_back.jpg)
+
