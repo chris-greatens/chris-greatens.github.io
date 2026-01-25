@@ -1,7 +1,10 @@
 # 1986 Topps 
 **Card Type:** Baseball
+
 **Pack Type:** Cello
+
 **Purchase Date:** 2025-09-01
+
 ## Cards
 No cards identified on this pack.
 ## Images

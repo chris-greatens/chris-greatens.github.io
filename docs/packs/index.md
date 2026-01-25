@@ -10,6 +10,7 @@ This page lists all the unopened packs in my collection.
 #### Cello
 - [Fleer (Pack 32) — Top: Pete Ladd (Milwaukee Brewers)](/packs/1984-fleer--32/)
 - [Topps (Pack 27) — Top: Pete Ladd (Milwaukee Brewers)](/packs/1984-topps--27/)
+- [Topps (Pack 33) — Top: Bill Schroeder (Milwaukee Brewers)](/packs/1984-topps--33/)
 #### Rack
 - [Topps (Pack 31) — Top: Jim Barr (San Francisco Giants) / Pete Ladd (Milwaukee Brewers)](/packs/1984-topps--31/)
 ### 1985
@@ -23,12 +24,4 @@ This page lists all the unopened packs in my collection.
 - [Topps (Pack 20)](/packs/1986-topps--20/)
 - [Topps (Pack 21) — Top: Pete Ladd (Milwaukee Brewers)](/packs/1986-topps--21/)
 #### Rack
-- [Topps (Pack 28) — Top: Gorman Thomas (Seattle Mariners) / Pete Ladd (Milwaukee Brewers)](/packs/1986-topps--28/)
-## Hockey
-### 1984
-#### Cello
-- [Topps (Pack 22)](/packs/1984-topps--22/)
-- [Topps (Pack 23)](/packs/1984-topps--23/)
-- [Topps (Pack 24)](/packs/1984-topps--24/)
-- [Topps (Pack 25)](/packs/1984-topps--25/)
-- [Topps (Pack 26)](/packs/1984-topps--26/)
+- [Topps (Pack 28) — Top: George Brett (Kansas City Royals) / Gorman Thomas (Seattle Mariners) / Pete Ladd (Milwaukee Brewers)](/packs/1986-topps--28/)
