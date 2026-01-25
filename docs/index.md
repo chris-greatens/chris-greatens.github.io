@@ -15,3 +15,6 @@ This section contains pages for every set that I have cards from. Not every card
 
 ### [Collectibles](/collectibles)
 This section contains pages for the sports collectibles that I own.
+
+### [Packs](/packs)
+This section contains pages for the unopened packs that I own.
