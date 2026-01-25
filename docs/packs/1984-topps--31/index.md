@@ -3,6 +3,10 @@
 
 **Pack Type:** Rack
 
+**Variation:** Grocery Rack Pack
+
+**Variation Notes:** Three individually wrapped cello packs sold as a rack pack
+
 **Purchase Date:** 2025-11-04
 
 **Purchase Source:** eBay
