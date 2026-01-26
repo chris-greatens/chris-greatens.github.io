@@ -6,6 +6,9 @@ This page lists all the unopened packs in my collection.
 - [Topps — Top: Don Money (Milwaukee Brewers) / Bottom: Brian Greer, Jim Wilhelm, Tim Flannery (San Diego Padres)](/packs/1980-topps--15/)
 - [Topps (Mrs Butterworths) — Bottom: Alan Knicely, Pete Ladd, Reggie Baldwin (Houston Astros)](/packs/1980-topps--30/)
 - [Topps (Squirt) — Bottom: Alan Knicely, Pete Ladd, Reggie Baldwin (Houston Astros)](/packs/1980-topps--29/)
+### 1983
+#### Rack
+- [Topps — Top: Mike Scott (New York Mets) / Don Money (Milwaukee Brewers) / Dale Berra (Pittsburgh Pirates)](/packs/1983-topps--40/)
 ### 1984
 #### Cello
 - [Fleer (Rack Pack Cello) — Top: Pete Ladd (Milwaukee Brewers)](/packs/1984-fleer--32/)
@@ -14,6 +17,7 @@ This page lists all the unopened packs in my collection.
 #### Rack
 - [Donruss — Top: Don Baylor (New York Yankees) / Jeff Newman (Boston Red Sox) / Pete Ladd (Milwaukee Brewers)](/packs/1984-donruss--38/)
 - [Topps — Top: Steve Sax (Los Angeles Dodgers) / Steve Bedrosian (Atlanta Braves) / Pete Ladd (Milwaukee Brewers)](/packs/1984-topps--35/)
+- [Topps — Top: Rod Carew (California Angels) / Dan Quisenberry (Kansas City Royals) / Cecil Cooper (Milwaukee Brewers)](/packs/1984-topps--41/)
 - [Topps (Grocery Rack Pack) — Top: Jim Barr (San Francisco Giants) / Reggie Jackson (California Angels) / Pete Ladd (Milwaukee Brewers)](/packs/1984-topps--31/)
 - [Topps (Grocery Rack Pack) — Top: Pete Ladd (Milwaukee Brewers) / Dave LaPoint (St. Louis Cardinals) / Bill Doran (Houston Astros)](/packs/1984-topps--34/)
 ### 1985
@@ -21,6 +25,7 @@ This page lists all the unopened packs in my collection.
 - [Topps — Top: Pete Ladd (Milwaukee Brewers) / Bottom: Danny Cox (St. Louis Cardinals)](/packs/1985-topps--19/)
 #### Rack
 - [Fleer — Top: Daryl Sconiers (California Angels) / Pete Ladd (Milwaukee Brewers) / George Vukovich (Cleveland Indians)](/packs/1985-fleer--39/)
+- [Topps — Top: Reggie Jackson (California Angels) / Bill Campbell (Philadelphia Phillies) / Cecil Cooper (Milwaukee Brewers)](/packs/1985-topps--42/)
 ### 1986
 #### Cello
 - [Topps — Top: Dale Murphy (Atlanta Braves) / Bottom: Chuck Tanner (Pittsburgh Pirates)](/packs/1986-topps--16/)
