@@ -16,6 +16,7 @@ This page lists all the unopened packs in my collection.
 - [Topps — Top: Bill Schroeder (Milwaukee Brewers) / Bottom: Ken Landreaux (Los Angeles Dodgers)](/packs/1984-topps--33/)
 #### Rack
 - [Donruss — Top: Don Baylor (New York Yankees) / Jeff Newman (Boston Red Sox) / Pete Ladd (Milwaukee Brewers)](/packs/1984-donruss--38/)
+- [Donruss — Top: Pete Ladd (Milwaukee Brewers) / Nolan Ryan (Houston Astros) / Ozzie Smith (St. Louis Cardinals)](/packs/1984-donruss--47/)
 - [Topps — Top: Steve Sax (Los Angeles Dodgers) / Steve Bedrosian (Atlanta Braves) / Pete Ladd (Milwaukee Brewers)](/packs/1984-topps--35/)
 - [Topps — Top: Rod Carew (California Angels) / Dan Quisenberry (Kansas City Royals) / Cecil Cooper (Milwaukee Brewers)](/packs/1984-topps--41/)
 - [Topps (Grocery Rack Pack) — Top: Jim Barr (San Francisco Giants) / Reggie Jackson (California Angels) / Pete Ladd (Milwaukee Brewers)](/packs/1984-topps--31/)
