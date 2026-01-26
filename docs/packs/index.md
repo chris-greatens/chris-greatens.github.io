@@ -38,3 +38,11 @@ This page lists all the unopened packs in my collection.
 ### 1987
 #### Rack
 - [Donruss — Top: Pete Ladd (Seattle Mariners) / Bret Saberhagen (Kansas City Royals) / Charlie Liebrandt (Kansas City Royals)](/packs/1987-donruss--37/)
+### 1988
+#### Rack
+- [Topps — Top: Mike Schmidt (Philadelphia Phillies) / Cecil Cooper (Milwaukee Brewers) / Nolan Ryan (Houston Astros)](/packs/1988-topps--43/)
+### 1990
+#### Rack
+- [Donruss — Top: Brian Holton (Baltimore Orioles) / Dion James (Cleveland Indians) / Greg Vaughn (Milwaukee Brewers)](/packs/1990-donruss--45/)
+- [Donruss — Top: Greg Vaughn (Milwaukee Brewers) / Kirk Gibson (Los Angeles Dodgers) / Ken Griffey Jr. (Seattle Mariners)](/packs/1990-donruss--46/)
+- [Fleer — Top: Greg Vaughn (Milwaukee Brewers) / Kirk McCaskill (California Angels) / Mike Greenwell, Wade Boggs (Boston Red Sox)](/packs/1990-fleer--44/)
