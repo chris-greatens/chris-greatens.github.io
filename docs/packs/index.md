@@ -1,6 +1,9 @@
 # Unopened Packs Collection
 This page lists all the unopened packs in my collection.
 ## Baseball
+### 1976
+#### Rack
+- [Topps — Top: George Medich (New York Yankees) / Don Money (Milwaukee Brewers) / Lynn McGlothen (St. Louis Cardinals)](/packs/1976-topps--49/)
 ### 1980
 #### Cello
 - [Topps — Top: Don Money (Milwaukee Brewers) / Bottom: Brian Greer, Jim Wilhelm, Tim Flannery (San Diego Padres)](/packs/1980-topps--15/)
@@ -36,6 +39,7 @@ This page lists all the unopened packs in my collection.
 #### Rack
 - [Topps — Top: George Brett (Kansas City Royals) / Gorman Thomas (Seattle Mariners) / Pete Ladd (Milwaukee Brewers)](/packs/1986-topps--28/)
 - [Topps — Top: Pete Rose (Cincinnati Reds) / Pete Ladd (Milwaukee Brewers)](/packs/1986-topps--36/)
+- [Topps — Top: Jack Morris (Detroit Tigers) / Jeff Leonard (San Francisco Giants) / Pete Ladd (Milwaukee Brewers)](/packs/1986-topps--48/)
 ### 1987
 #### Rack
 - [Donruss — Top: Pete Ladd (Seattle Mariners) / Bret Saberhagen (Kansas City Royals) / Charlie Liebrandt (Kansas City Royals)](/packs/1987-donruss--37/)
