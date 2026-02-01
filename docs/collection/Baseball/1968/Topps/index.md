@@ -10,5 +10,6 @@
 - [ ] 58: Ed Mathews<br>
 - [x] 85: Gaylord Perry<br>
 - [ ] 110: Hank Aaron<br>
+- [x] 200: Orlando Cepeda<br>
 - [x] 215: Jim Bunning<br>
 - [ ] 370: All-Star (Hank Aaron)<br>

@@ -9,6 +9,8 @@ This page lists all the unopened packs in my collection.
 - [Topps — Top: Don Money (Milwaukee Brewers) / Bottom: Brian Greer, Jim Wilhelm, Tim Flannery (San Diego Padres)](/packs/1980-topps--15/)
 - [Topps (Mrs Butterworths) — Bottom: Alan Knicely, Pete Ladd, Reggie Baldwin (Houston Astros)](/packs/1980-topps--30/)
 - [Topps (Squirt) — Bottom: Alan Knicely, Pete Ladd, Reggie Baldwin (Houston Astros)](/packs/1980-topps--29/)
+#### Rack
+- [Topps — Top: Pat Zachry (New York Mets) / Joel Youngblood (New York Mets) / Alan Knicely, Pete Ladd, Reggie Baldwin (Houston Astros)](/packs/1980-topps--50/)
 ### 1983
 #### Rack
 - [Topps — Top: Mike Scott (New York Mets) / Don Money (Milwaukee Brewers) / Dale Berra (Pittsburgh Pirates)](/packs/1983-topps--40/)
@@ -30,6 +32,7 @@ This page lists all the unopened packs in my collection.
 #### Rack
 - [Fleer — Top: Daryl Sconiers (California Angels) / Pete Ladd (Milwaukee Brewers) / George Vukovich (Cleveland Indians)](/packs/1985-fleer--39/)
 - [Topps — Top: Reggie Jackson (California Angels) / Bill Campbell (Philadelphia Phillies) / Cecil Cooper (Milwaukee Brewers)](/packs/1985-topps--42/)
+- [Topps — Top: Lou Whitaker (Detroit Tigers) / Pete Ladd (Milwaukee Brewers) / Andy Hawkins (San Diego Padres)](/packs/1985-topps--51/)
 ### 1986
 #### Cello
 - [Topps — Top: Dale Murphy (Atlanta Braves) / Bottom: Chuck Tanner (Pittsburgh Pirates)](/packs/1986-topps--16/)
