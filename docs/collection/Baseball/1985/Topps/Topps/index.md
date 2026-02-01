@@ -8,15 +8,23 @@
 ## Cards
 
 ### No Subset
+- [ ] 124: Rich Hebner<br>
+- [ ] 145: Alvin Davis<br>
+- [ ] 151: Moose Haas<br>
 - [ ] 209: Bill Campbell<br>
+- [ ] 273: Bill Almon - 1974 #1 Draft Pick<br>
 - [ ] 290: Cecil Cooper<br>
 - [ ] 291: Bob Welch<br>
 - [ ] 299: Andy Hawkins<br>
+- [ ] 307: Sparky Anderson<br>
 - [ ] 319: Jeff Jones<br>
+- [ ] 373: Mike Moore<br>
 - [ ] 416: Wayne Gross<br>
+- [ ] 429: Rick Cerone<br>
 - [ ] 471: Pete Ladd<br>
 - [ ] 499: Danny Cox<br>
 - [ ] 606: Rich Gale<br>
+- [ ] 620: Dwight Gooden<br>
 - [ ] 690: Alan Trammell<br>
 - [ ] 746: Jim Clancy<br>
 ### Glossy All-stars

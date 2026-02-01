@@ -12,9 +12,12 @@
 - [ ] 2: Pete Rose 1963-1966<br>
 - [ ] 17: Mike Stenhouse<br>
 - [ ] 24: Len Barker<br>
+- [ ] 104: Sid Fernandez<br>
 - [ ] 113: U.L. Washington<br>
+- [ ] 125: Davey Lopes<br>
 - [ ] 163: Pete Ladd<br>
 - [ ] 180: Don Mattingly<br>
+- [ ] 186: Houston Astros Team Leaders<br>
 - [ ] 192: Milt Wilcox<br>
 - [ ] 277: Jaime Cocanower<br>
 - [ ] 351: Chuck Tanner<br>
@@ -23,6 +26,7 @@
 - [ ] 468: Mike Scioscia<br>
 - [ ] 471: Bobby Cox<br>
 - [ ] 490: Jeff Leonard<br>
+- [ ] 491: Pascual Perez<br>
 - [ ] 517: Milt Thompson<br>
 - [ ] 545: Jimmy Key<br>
 - [ ] 600: Dale Murphy<br>
