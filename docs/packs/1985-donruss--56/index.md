@@ -7,13 +7,13 @@
 
 ## Top Cards
 ### Slot 1
-**Card Number:** 185
+**Card Number:** 84
 
-**Description:** Goose Gossage
+**Description:** Bill Doran
 
-**Player(s):** Goose Gossage
+**Player(s):** Bill Doran
 
-**Team(s):** San Diego Padres
+**Team(s):** Houston Astros
 
 ### Slot 2
 **Card Number:** 271
@@ -34,7 +34,7 @@
 **Team(s):** Philadelphia Phillies
 
 ## Visible Players
-- **Goose Gossage** (San Diego Padres)
+- **Bill Doran** (Houston Astros)
 - **John Russell** (Philadelphia Phillies)
 - **Pete Ladd** (Milwaukee Brewers)
 

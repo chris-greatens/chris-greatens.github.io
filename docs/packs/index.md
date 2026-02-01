@@ -33,7 +33,7 @@ This page lists all the unopened packs in my collection.
 - [Topps — Top: Pete Ladd (Milwaukee Brewers) / Bottom: Danny Cox (St. Louis Cardinals)](/packs/1985-topps--19/)
 #### Rack
 - [Donruss — Top: Steve Garvey (San Diego Padres) / Pete Ladd (Milwaukee Brewers) / Don Sutton (Milwaukee Brewers)](/packs/1985-donruss--55/)
-- [Donruss — Top: Goose Gossage (San Diego Padres) / Pete Ladd (Milwaukee Brewers) / John Russell (Philadelphia Phillies)](/packs/1985-donruss--56/)
+- [Donruss — Top: Bill Doran (Houston Astros) / Pete Ladd (Milwaukee Brewers) / John Russell (Philadelphia Phillies)](/packs/1985-donruss--56/)
 - [Donruss — Top: Goose Gossage (San Diego Padres) / Pete Ladd (Milwaukee Brewers) / Jim Rice (Boston Red Sox)](/packs/1985-donruss--57/)
 - [Donruss — Top: Julio Cruz (Chicago White Sox) / Pete Ladd (Milwaukee Brewers) / Mike Bielecki (Pittsburgh Pirates)](/packs/1985-donruss--58/)
 - [Fleer — Top: Daryl Sconiers (California Angels) / Pete Ladd (Milwaukee Brewers) / George Vukovich (Cleveland Indians)](/packs/1985-fleer--39/)
