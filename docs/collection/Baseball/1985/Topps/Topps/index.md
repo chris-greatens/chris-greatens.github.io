@@ -41,7 +41,6 @@
 - [ ] 11: Willie McCovey All-star<br>
 - [ ] 12: Joe Altobelli All-star<br>
 - [ ] 13: Rod Carew All-star<br>
-- [ ] 14: Lou Whitaker<br>
 - [ ] 14: Lou Whitaker All-star<br>
 - [ ] 15: George Brett All-star<br>
 - [ ] 16: Cal Ripken Jr. All-star<br>

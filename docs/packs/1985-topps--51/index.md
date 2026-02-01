@@ -9,7 +9,7 @@
 ### Slot 1
 **Card Number:** 14
 
-**Description:** Lou Whitaker
+**Description:** Lou Whitaker All-star
 
 **Player(s):** Lou Whitaker
 
@@ -35,13 +35,13 @@
 
 ## Bottom Cards
 ### Slot 1
-**Card Number:** 319
+**Card Number:** 14
 
-**Description:** Jeff Jones
+**Description:** Lou Whitaker All-star
 
-**Player(s):** Jeff Jones
+**Player(s):** Lou Whitaker
 
-**Team(s):** Oakland A's
+**Team(s):** Detroit Tigers
 
 ### Slot 2
 **Card Number:** 690
@@ -64,7 +64,6 @@
 ## Visible Players
 - **Alan Trammell** (Detroit Tigers)
 - **Andy Hawkins** (San Diego Padres)
-- **Jeff Jones** (Oakland A's)
 - **Lou Whitaker** (Detroit Tigers)
 - **Pete Ladd** (Milwaukee Brewers)
 - **Wayne Gross** (Baltimore Orioles)
