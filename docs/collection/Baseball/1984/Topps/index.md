@@ -3,7 +3,7 @@
 
 ## Subsets
 
-- Glossy All-Star
+- Glossy All-Stars
 
 ## Cards
 
@@ -31,6 +31,6 @@
 - [ ] 627: Dave LaPoint<br>
 - [ ] 730: Bruce Sutter<br>
 - [ ] 738: Bill Schroeder<br>
-### Glossy All-Star
+### Glossy All-Stars
 - [ ] 2: Rod Carew All-star<br>
 - [ ] 14: Steve Sax All-star<br>

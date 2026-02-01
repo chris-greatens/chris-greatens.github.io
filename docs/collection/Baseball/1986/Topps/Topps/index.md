@@ -29,28 +29,25 @@
 - [ ] 717: Dave Winfield A.L. All-star<br>
 - [ ] 750: Gorman Thomas<br>
 ### Glossy All-Stars
-- [ ] 1: Sparky Anderson<br>
-- [ ] 2: Eddie Murray<br>
-- [ ] 3: Lou Whitaker<br>
-- [ ] 4: George Brett<br>
+- [ ] 1: Sparky Anderson All-star<br>
+- [ ] 2: Eddie Murray All-star<br>
+- [ ] 3: Lou Whitaker All-star<br>
 - [ ] 4: George Brett All-star<br>
-- [ ] 5: Cal Ripken Jr.<br>
-- [ ] 6: Jim Rice<br>
-- [ ] 7: Rickey Henderson<br>
-- [ ] 8: Dave Winfield<br>
-- [ ] 9: Carlton Fisk<br>
-- [ ] 10: Jack Morris<br>
+- [ ] 5: Cal Ripken Jr. All-star<br>
+- [ ] 6: Jim Rice All-star<br>
+- [ ] 7: Rickey Henderson All-star<br>
+- [ ] 8: Dave Winfield All-star<br>
+- [ ] 9: Carlton Fisk All-star<br>
 - [ ] 10: Jack Morris All-star<br>
 - [ ] 11: American League All-star Team<br>
-- [ ] 12: Dick Williams<br>
-- [ ] 13: Steve Garvey<br>
-- [ ] 14: Tom Herr<br>
-- [ ] 15: Graig Nettles<br>
-- [ ] 16: Ozzie Smith<br>
+- [ ] 12: Dick Williams All-star<br>
+- [ ] 13: Steve Garvey All-star<br>
+- [ ] 14: Tom Herr All-star<br>
+- [ ] 15: Graig Nettles All-star<br>
 - [ ] 16: Ozzie Smith All-star<br>
-- [ ] 17: Tony Gwynn<br>
-- [ ] 18: Dale Murphy<br>
-- [ ] 19: Darryl Strawberry<br>
-- [ ] 20: Terry Kennedy<br>
-- [ ] 21: LaMarr Hoyt<br>
+- [ ] 17: Tony Gwynn All-star<br>
+- [ ] 18: Dale Murphy All-star<br>
+- [ ] 19: Darryl Strawberry All-star<br>
+- [ ] 20: Terry Kennedy All-star<br>
+- [ ] 21: LaMarr Hoyt All-star<br>
 - [ ] 22: National League All-star Team<br>
