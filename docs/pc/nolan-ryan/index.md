@@ -1,6 +1,6 @@
 # Nolan Ryan
 
-## Cards Owned: 49
+## Cards Owned: 68
 
 ## Card List
 
@@ -10,35 +10,54 @@
 1999 Topps  - Nolan Ryan Commemorative Reprints #2 1969 Topps Nolan Ryan<br>
 1999 Topps  - Nolan Ryan Commemorative Reprints Finest #2 1969 Topps Nolan Ryan<br>
 1999 Topps  - Nolan Ryan Commemorative Reprints #3 1970 Topps Nolan Ryan<br>
+1999 Topps  - Nolan Ryan Commemorative Reprints Finest Refractors #3 1970 Topps Nolan Ryan<br>
 1999 Topps  - Nolan Ryan Commemorative Reprints #4 1971 Topps Nolan Ryan<br>
 1999 Topps  - Nolan Ryan Commemorative Reprints Finest #4 1971 Topps Nolan Ryan<br>
+1999 Topps  - Nolan Ryan Commemorative Reprints Finest Refractors #4 1971 Topps Nolan Ryan<br>
 1999 Topps  - Nolan Ryan Commemorative Reprints #5 1972 Topps Nolan Ryan<br>
 1999 Topps  - Nolan Ryan Commemorative Reprints #6 1973 Topps Nolan Ryan<br>
+1999 Topps  - Nolan Ryan Commemorative Reprints Finest Refractors #6 1973 Topps Nolan Ryan<br>
 1999 Topps  - Nolan Ryan Commemorative Reprints #7 1974 Topps Nolan Ryan<br>
+1999 Topps  - Nolan Ryan Commemorative Reprints Finest Refractors #7 1974 Topps Nolan Ryan<br>
 1999 Topps  - Nolan Ryan Commemorative Reprints #8 1975 Topps Nolan Ryan<br>
+1999 Topps  - Nolan Ryan Commemorative Reprints Finest Refractors #8 1975 Topps Nolan Ryan<br>
 1999 Topps  - Nolan Ryan Commemorative Reprints #9 1976 Topps Nolan Ryan<br>
+1999 Topps  - Nolan Ryan Commemorative Reprints Finest Refractors #9 1976 Topps Nolan Ryan<br>
 1999 Topps  - Nolan Ryan Commemorative Reprints #10 1977 Topps Nolan Ryan<br>
+1999 Topps  - Nolan Ryan Commemorative Reprints Finest Refractors #10 1977 Topps Nolan Ryan<br>
 1999 Topps  - Nolan Ryan Commemorative Reprints #11 1978 Topps Nolan Ryan<br>
 1999 Topps  - Nolan Ryan Commemorative Reprints Finest #11 1978 Topps Nolan Ryan<br>
+1999 Topps  - Nolan Ryan Commemorative Reprints Finest Refractors #11 1978 Topps Nolan Ryan<br>
 1999 Topps  - Nolan Ryan Commemorative Reprints #12 1979 Topps Nolan Ryan<br>
 1999 Topps  - Nolan Ryan Commemorative Reprints #13 1980 Topps Nolan Ryan<br>
+1999 Topps  - Nolan Ryan Commemorative Reprints Finest Refractors #13 1980 Topps Nolan Ryan<br>
 1999 Topps  - Nolan Ryan Commemorative Reprints #14 1981 Topps Nolan Ryan<br>
 1999 Topps  - Nolan Ryan Commemorative Reprints Finest #14 1981 Topps Nolan Ryan<br>
+1999 Topps  - Nolan Ryan Commemorative Reprints Finest Refractors #14 1981 Topps Nolan Ryan<br>
 1999 Topps  - Nolan Ryan Commemorative Reprints #15 1982 Topps Nolan Ryan<br>
+1999 Topps  - Nolan Ryan Commemorative Reprints Finest Refractors #15 1982 Topps Nolan Ryan<br>
 1999 Topps  - Nolan Ryan Commemorative Reprints #16 1983 Topps Nolan Ryan<br>
 1999 Topps  - Nolan Ryan Commemorative Reprints Finest #16 1983 Topps Nolan Ryan<br>
+1999 Topps  - Nolan Ryan Commemorative Reprints Finest Refractors #16 1983 Topps Nolan Ryan<br>
 1999 Topps  - Nolan Ryan Commemorative Reprints #17 1984 Topps Nolan Ryan<br>
+1999 Topps  - Nolan Ryan Commemorative Reprints Finest Refractors #17 1984 Topps Nolan Ryan<br>
 1999 Topps  - Nolan Ryan Commemorative Reprints #18 1985 Topps Nolan Ryan<br>
+1999 Topps  - Nolan Ryan Commemorative Reprints Finest Refractors #18 1985 Topps Nolan Ryan<br>
 1999 Topps  - Nolan Ryan Commemorative Reprints #19 1986 Topps Nolan Ryan<br>
+1999 Topps  - Nolan Ryan Commemorative Reprints Finest Refractors #19 1986 Topps Nolan Ryan<br>
 1999 Topps  - Nolan Ryan Commemorative Reprints #20 1987 Topps Nolan Ryan<br>
 1999 Topps  - Nolan Ryan Commemorative Reprints Finest #20 1987 Topps Nolan Ryan<br>
+1999 Topps  - Nolan Ryan Commemorative Reprints Finest Refractors #20 1987 Topps Nolan Ryan<br>
 1999 Topps  - Nolan Ryan Commemorative Reprints Finest #21 1988 Topps Nolan Ryan<br>
 1999 Topps  - Nolan Ryan Commemorative Reprints #22 1989 Topps Nolan Ryan<br>
+1999 Topps  - Nolan Ryan Commemorative Reprints Finest Refractors #22 1989 Topps Nolan Ryan<br>
 1999 Topps  - Nolan Ryan Commemorative Reprints #23 1990 Topps Nolan Ryan<br>
 1999 Topps  - Nolan Ryan Commemorative Reprints Finest #23 1990 Topps Nolan Ryan<br>
 1999 Topps  - Nolan Ryan Commemorative Reprints #24 1991 Topps Nolan Ryan<br>
 1999 Topps  - Nolan Ryan Commemorative Reprints Finest #24 1991 Topps Nolan Ryan<br>
+1999 Topps  - Nolan Ryan Commemorative Reprints Finest Refractors #25 1992 Topps Nolan Ryan<br>
 1999 Topps  - Nolan Ryan Commemorative Reprints #26 1993 Topps Nolan Ryan<br>
+1999 Topps  - Nolan Ryan Commemorative Reprints Finest Refractors #26 1993 Topps Nolan Ryan<br>
 1999 Topps  - Nolan Ryan Commemorative Reprints #27 1994 Topps Nolan Ryan<br>
 2017 Topps Heritage - Baseball Flashbacks #BF-NR Baseball Flashbacks 1968 - Nolan Ryan<br>
 2022 Topps Archives - Fan Favorites Premium #53FF-NR Nolan Ryan<br>

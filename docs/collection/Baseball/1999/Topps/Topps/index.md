@@ -6,7 +6,7 @@
 - Nolan Ryan Commemorative Reprints  (Cards Owned: 25 / 27 (92.6% complete))
 - Nolan Ryan Commemorative Reprints Autographs  (Cards Owned: 0 / 27 (0.0% complete))
 - Nolan Ryan Commemorative Reprints Finest  (Cards Owned: 10 / 27 (37.0% complete))
-- Nolan Ryan Commemorative Reprints Finest Refractors  (Cards Owned: 0 / 27 (0.0% complete))
+- Nolan Ryan Commemorative Reprints Finest Refractors  (Cards Owned: 19 / 27 (70.4% complete))
 
 ## Cards
 
@@ -97,28 +97,28 @@
 ### Nolan Ryan Commemorative Reprints Finest Refractors
 - [ ] 1: 1968 Topps Nolan Ryan<br>
 - [ ] 2: 1969 Topps Nolan Ryan<br>
-- [ ] 3: 1970 Topps Nolan Ryan<br>
-- [ ] 4: 1971 Topps Nolan Ryan<br>
+- [x] 3: 1970 Topps Nolan Ryan<br>
+- [x] 4: 1971 Topps Nolan Ryan<br>
 - [ ] 5: 1972 Topps Nolan Ryan<br>
-- [ ] 6: 1973 Topps Nolan Ryan<br>
-- [ ] 7: 1974 Topps Nolan Ryan<br>
-- [ ] 8: 1975 Topps Nolan Ryan<br>
-- [ ] 9: 1976 Topps Nolan Ryan<br>
-- [ ] 10: 1977 Topps Nolan Ryan<br>
-- [ ] 11: 1978 Topps Nolan Ryan<br>
+- [x] 6: 1973 Topps Nolan Ryan<br>
+- [x] 7: 1974 Topps Nolan Ryan<br>
+- [x] 8: 1975 Topps Nolan Ryan<br>
+- [x] 9: 1976 Topps Nolan Ryan<br>
+- [x] 10: 1977 Topps Nolan Ryan<br>
+- [x] 11: 1978 Topps Nolan Ryan<br>
 - [ ] 12: 1979 Topps Nolan Ryan<br>
-- [ ] 13: 1980 Topps Nolan Ryan<br>
-- [ ] 14: 1981 Topps Nolan Ryan<br>
-- [ ] 15: 1982 Topps Nolan Ryan<br>
-- [ ] 16: 1983 Topps Nolan Ryan<br>
-- [ ] 17: 1984 Topps Nolan Ryan<br>
-- [ ] 18: 1985 Topps Nolan Ryan<br>
-- [ ] 19: 1986 Topps Nolan Ryan<br>
-- [ ] 20: 1987 Topps Nolan Ryan<br>
+- [x] 13: 1980 Topps Nolan Ryan<br>
+- [x] 14: 1981 Topps Nolan Ryan<br>
+- [x] 15: 1982 Topps Nolan Ryan<br>
+- [x] 16: 1983 Topps Nolan Ryan<br>
+- [x] 17: 1984 Topps Nolan Ryan<br>
+- [x] 18: 1985 Topps Nolan Ryan<br>
+- [x] 19: 1986 Topps Nolan Ryan<br>
+- [x] 20: 1987 Topps Nolan Ryan<br>
 - [ ] 21: 1988 Topps Nolan Ryan<br>
-- [ ] 22: 1989 Topps Nolan Ryan<br>
+- [x] 22: 1989 Topps Nolan Ryan<br>
 - [ ] 23: 1990 Topps Nolan Ryan<br>
 - [ ] 24: 1991 Topps Nolan Ryan<br>
-- [ ] 25: 1992 Topps Nolan Ryan<br>
-- [ ] 26: 1993 Topps Nolan Ryan<br>
+- [x] 25: 1992 Topps Nolan Ryan<br>
+- [x] 26: 1993 Topps Nolan Ryan<br>
 - [ ] 27: 1994 Topps Nolan Ryan<br>
