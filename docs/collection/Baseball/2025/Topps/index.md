@@ -1,4 +1,5 @@
 # Baseball - 2025 - Topps
+## [Archives](/collection/Baseball/2025/Topps/Archives)
 ## [Chrome](/collection/Baseball/2025/Topps/Chrome)
 ## [Chrome Logofractor](/collection/Baseball/2025/Topps/Chrome Logofractor)
 ## [Finest](/collection/Baseball/2025/Topps/Finest)

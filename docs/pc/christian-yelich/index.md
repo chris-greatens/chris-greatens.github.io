@@ -1,6 +1,6 @@
 # Christian Yelich
 
-## Cards Owned: 20
+## Cards Owned: 21
 
 ## Card List
 
@@ -16,6 +16,7 @@
 2023 Topps Heritage - Real One Autographs #ROA-CY Christian Yelich<br>
 2024 Topps 582 Montgomery Club #145 Christian Yelich<br>
 2024 Topps Allen & Ginter - Full-Sized Relics A #AGR-CY Christian Yelich<br>
+2025 Topps Archives - Black Foil #195 Christian Yelich<br>
 2025 Topps Chrome - Refractor #89 Christian Yelich<br>
 2025 Topps Chrome Logofractor #89 Christian Yelich<br>
 2025 Topps Finest #89 Christian Yelich<br>
