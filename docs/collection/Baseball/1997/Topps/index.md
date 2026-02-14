@@ -3,9 +3,9 @@
 
 ## Subsets
 
-- Mickey Mantle Commemorative Reprints  (Cards Owned: 2 / 16 (12.5% complete))
-- Mickey Mantle Commemorative Reprints Finest  (Cards Owned: 0 / 16 (0.0% complete))
-- Mickey Mantle Commemorative Reprints Finest Refractors  (Cards Owned: 0 / 16 (0.0% complete))
+- Mickey Mantle Commemorative Reprints  (Cards Owned: 6 / 16 (37.5% complete))
+- Mickey Mantle Commemorative Reprints Finest  (Cards Owned: 16 / 16 (100.0% complete))
+- Mickey Mantle Commemorative Reprints Finest Refractors  (Cards Owned: 16 / 16 (100.0% complete))
 - Willie Mays Commemorative Reprints  (Cards Owned: 0 / 27 (0.0% complete))
 - Willie Mays Commemorative Reprints Autographs  (Cards Owned: 0 / 27 (0.0% complete))
 - Willie Mays Commemorative Reprints Finest  (Cards Owned: 0 / 27 (0.0% complete))
@@ -17,53 +17,53 @@
 - [ ] 21: 1953 Bowman (Bauer/Mantle/Berra)<br>
 - [ ] 22: 1953 Bowman Mickey Mantle<br>
 - [ ] 23: Yankees' Power Hitters<br>
-- [ ] 24: World Series Batting Foes<br>
+- [x] 24: World Series Batting Foes<br>
 - [ ] 25: 1958 Topps All-Star Mickey Mantle<br>
 - [x] 26: Mantle Hits 42nd Homer for Crown<br>
-- [ ] 27: 1959 Topps All-Star Mickey Mantle<br>
+- [x] 27: 1959 Topps All-Star Mickey Mantle<br>
 - [ ] 28: Rival All-Stars<br>
 - [ ] 29: 1960 Topps All-Star Mickey Mantle<br>
 - [ ] 30: Mantle Blasts 565 ft. Home Run<br>
-- [ ] 31: 1961 Topps MVP Mickey Mantle<br>
+- [x] 31: 1961 Topps MVP Mickey Mantle<br>
 - [x] 32: 1961 Topps All-star Mickey Mantle<br>
 - [ ] 33: Managers' Dream (Mickey Mantle / Willie Mays)<br>
-- [ ] 34: The Switch Hitter Connects<br>
+- [x] 34: The Switch Hitter Connects<br>
 - [ ] 35: 1962 Topps All-Star Mickey Mantle<br>
 - [ ] 36: A.L. Bombers (Roger Maris / Norm Cash / Mickey Mantle / Al Kaline)<br>
 ### Mickey Mantle Commemorative Reprints Finest
-- [ ] 21: 1953 Bowman (Bauer/Mantle/Berra)<br>
-- [ ] 22: 1953 Bowman Mickey Mantle<br>
-- [ ] 23: Yankees' Power Hitters<br>
-- [ ] 24: World Series Batting Foes<br>
-- [ ] 25: 1958 Topps All-Star Mickey Mantle<br>
-- [ ] 26: Mantle Hits 42nd Homer for Crown<br>
-- [ ] 27: 1959 Topps All-Star Mickey Mantle<br>
-- [ ] 28: Rival All-Stars<br>
-- [ ] 29: 1960 Topps All-Star Mickey Mantle<br>
-- [ ] 30: Mantle Blasts 565 ft. Home Run<br>
-- [ ] 31: 1961 Topps MVP Mickey Mantle<br>
-- [ ] 32: 1961 Topps All-star Mickey Mantle<br>
-- [ ] 33: Managers' Dream (Mickey Mantle / Willie Mays)<br>
-- [ ] 34: The Switch Hitter Connects<br>
-- [ ] 35: 1962 Topps All-Star Mickey Mantle<br>
-- [ ] 36: A.L. Bombers (Roger Maris / Norm Cash / Mickey Mantle / Al Kaline)<br>
+- [x] 21: 1953 Bowman (Bauer/Mantle/Berra)<br>
+- [x] 22: 1953 Bowman Mickey Mantle<br>
+- [x] 23: Yankees' Power Hitters<br>
+- [x] 24: World Series Batting Foes<br>
+- [x] 25: 1958 Topps All-Star Mickey Mantle<br>
+- [x] 26: Mantle Hits 42nd Homer for Crown<br>
+- [x] 27: 1959 Topps All-Star Mickey Mantle<br>
+- [x] 28: Rival All-Stars<br>
+- [x] 29: 1960 Topps All-Star Mickey Mantle<br>
+- [x] 30: Mantle Blasts 565 ft. Home Run<br>
+- [x] 31: 1961 Topps MVP Mickey Mantle<br>
+- [x] 32: 1961 Topps All-star Mickey Mantle<br>
+- [x] 33: Managers' Dream (Mickey Mantle / Willie Mays)<br>
+- [x] 34: The Switch Hitter Connects<br>
+- [x] 35: 1962 Topps All-Star Mickey Mantle<br>
+- [x] 36: A.L. Bombers (Roger Maris / Norm Cash / Mickey Mantle / Al Kaline)<br>
 ### Mickey Mantle Commemorative Reprints Finest Refractors
-- [ ] 21: 1953 Bowman (Bauer/Mantle/Berra)<br>
-- [ ] 22: 1953 Bowman Mickey Mantle<br>
-- [ ] 23: Yankees' Power Hitters<br>
-- [ ] 24: World Series Batting Foes<br>
-- [ ] 25: 1958 Topps All-Star Mickey Mantle<br>
-- [ ] 26: Mantle Hits 42nd Homer for Crown<br>
-- [ ] 27: 1959 Topps All-Star Mickey Mantle<br>
-- [ ] 28: Rival All-Stars<br>
-- [ ] 29: 1960 Topps All-Star Mickey Mantle<br>
-- [ ] 30: Mantle Blasts 565 ft. Home Run<br>
-- [ ] 31: 1961 Topps MVP Mickey Mantle<br>
-- [ ] 32: 1961 Topps All-star Mickey Mantle<br>
-- [ ] 33: Managers' Dream (Mickey Mantle / Willie Mays)<br>
-- [ ] 34: The Switch Hitter Connects<br>
-- [ ] 35: 1962 Topps All-Star Mickey Mantle<br>
-- [ ] 36: A.L. Bombers (Roger Maris / Norm Cash / Mickey Mantle / Al Kaline)<br>
+- [x] 21: 1953 Bowman (Bauer/Mantle/Berra)<br>
+- [x] 22: 1953 Bowman Mickey Mantle<br>
+- [x] 23: Yankees' Power Hitters<br>
+- [x] 24: World Series Batting Foes<br>
+- [x] 25: 1958 Topps All-Star Mickey Mantle<br>
+- [x] 26: Mantle Hits 42nd Homer for Crown<br>
+- [x] 27: 1959 Topps All-Star Mickey Mantle<br>
+- [x] 28: Rival All-Stars<br>
+- [x] 29: 1960 Topps All-Star Mickey Mantle<br>
+- [x] 30: Mantle Blasts 565 ft. Home Run<br>
+- [x] 31: 1961 Topps MVP Mickey Mantle<br>
+- [x] 32: 1961 Topps All-star Mickey Mantle<br>
+- [x] 33: Managers' Dream (Mickey Mantle / Willie Mays)<br>
+- [x] 34: The Switch Hitter Connects<br>
+- [x] 35: 1962 Topps All-Star Mickey Mantle<br>
+- [x] 36: A.L. Bombers (Roger Maris / Norm Cash / Mickey Mantle / Al Kaline)<br>
 ### Willie Mays Commemorative Reprints
 - [ ] 1: 1951 Bowman Willie Mays<br>
 - [ ] 2: 1952 Topps Willie Mays<br>
