@@ -4,7 +4,9 @@
 ## Subsets
 
 - Baseball Heroes: Hank Aaron
+- Baseball Heroes: Hank Aaron Autograph
 - Baseball Heroes: Nolan Ryan
+- Baseball Heroes: Nolan Ryan Autograph
 
 ## Cards
 
@@ -19,6 +21,8 @@
 - [ ] 26: 1982 Hall of Fame<br>
 - [ ] 27: Checklist<br>
 - [ ] : Header Card<br>
+### Baseball Heroes: Hank Aaron Autograph
+- [ ] 27: Checklist<br>
 ### Baseball Heroes: Nolan Ryan
 - [ ] 10: 1968 Victory #1<br>
 - [ ] 11: 1973 A Career Year<br>
@@ -30,3 +34,5 @@
 - [ ] 17: 1990 ...And Still Counting!<br>
 - [ ] 18: Checklist<br>
 - [ ] : Header Card<br>
+### Baseball Heroes: Nolan Ryan Autograph
+- [ ] 18: Checklist<br>

@@ -40,6 +40,7 @@
 ## [1989](/collection/Baseball/1989)
 ## [1990](/collection/Baseball/1990)
 ## [1991](/collection/Baseball/1991)
+## [1992](/collection/Baseball/1992)
 ## [1993](/collection/Baseball/1993)
 ## [1994](/collection/Baseball/1994)
 ## [1996](/collection/Baseball/1996)
