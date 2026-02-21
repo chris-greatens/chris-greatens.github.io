@@ -55,6 +55,9 @@ This page lists all the unopened packs in my collection.
 ### 1987
 #### Rack
 - [Donruss — Top: Pete Ladd (Seattle Mariners) / Bret Saberhagen (Kansas City Royals) / Charlie Liebrandt (Kansas City Royals)](/packs/1987-donruss--37/)
+- [Donruss — Top: Scott Nielsen (New York Yankees) / Dwight Gooden (New York Mets) / Ty Gainey (Houston Astros)](/packs/1987-donruss--63/)
+- [Donruss — Top: Pete Ladd (Seattle Mariners) / David Cone (Kansas City Royals) / Ken Howell (Los Angeles Dodgers)](/packs/1987-donruss--64/)
+- [Donruss — Top: Jose Canseco (Oakland A's) / Pete Ladd (Seattle Mariners) / David Cone (Kansas City Royals)](/packs/1987-donruss--65/)
 - [Topps — Top: Ozzie Smith (St. Louis Cardinals) / Ruben Sierra (Texas Rangers) / Pete Ladd (Seattle Mariners)](/packs/1987-topps--61/)
 ### 1988
 #### Rack
