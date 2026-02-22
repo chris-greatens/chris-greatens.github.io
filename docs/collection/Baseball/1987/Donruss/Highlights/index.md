@@ -1,0 +1,62 @@
+# Donruss 1987 Highlights
+## Baseball
+
+## Cards
+
+### No Subset
+- [ ] 1: Juan Nieves<br>
+- [ ] 2: Mike Schmidt<br>
+- [ ] 3: Eric Davis<br>
+- [ ] 4: Sid Fernandez<br>
+- [ ] 5: Brian Downing<br>
+- [ ] 6: Bret Saberhagen<br>
+- [ ] 7: Tim Raines<br>
+- [ ] 8: Eric Davis<br>
+- [ ] 9: Steve Bedrosian<br>
+- [ ] 10: Larry Parrish<br>
+- [ ] 11: Jim Clancy<br>
+- [ ] 12: Tony Gwynn<br>
+- [ ] 13: Orel Hershiser<br>
+- [ ] 14: Wade Boggs<br>
+- [ ] 15: Steve Ontiveros<br>
+- [ ] 16: Tim Raines<br>
+- [ ] 17: Don Mattingly<br>
+- [ ] 18: Ray Dandridge<br>
+- [ ] 19: Jim "Catfish" Hunter<br>
+- [ ] 20: Billy Williams<br>
+- [ ] 21: Bo Diaz<br>
+- [ ] 22: Floyd Youmans<br>
+- [ ] 23: Don Mattingly<br>
+- [ ] 24: Frank Viola<br>
+- [ ] 25: Bobby Witt<br>
+- [ ] 26: Kevin Seitzer<br>
+- [ ] 27: Mark McGwire<br>
+- [ ] 28: Andre Dawson<br>
+- [ ] 29: Paul Molitor<br>
+- [ ] 30: Kirby Puckett<br>
+- [ ] 31: Andre Dawson<br>
+- [ ] 32: Doug Drabek<br>
+- [ ] 33: Dwight Evans<br>
+- [ ] 34: Mark Langston<br>
+- [ ] 35: Wally Joyner<br>
+- [ ] 36: Vince Coleman<br>
+- [ ] 37: Eddie Murray<br>
+- [ ] 38: Cal Ripken<br>
+- [ ] 39: Toronto Blue Jays HR Record<br>
+- [ ] 40: McGuire & Canseco<br>
+- [ ] 41: Bob Boone<br>
+- [ ] 42: Darryl Strawberry<br>
+- [ ] 43: Howard Johnson<br>
+- [ ] 44: Wade Boggs<br>
+- [ ] 45: Benito Santiago<br>
+- [ ] 46: Mark McGwire<br>
+- [ ] 47: Kevin Seitzer<br>
+- [ ] 48: Don Mattingly<br>
+- [ ] 49: Darryl Strawberry<br>
+- [ ] 50: Pascual Perez<br>
+- [ ] 51: Alan Trammell<br>
+- [ ] 52: Doyle Alexander<br>
+- [ ] 53: Nolan Ryan<br>
+- [ ] 54: Mark McGwire<br>
+- [ ] 55: Benito Santiago<br>
+- [ ] 56: Highlight Checklist<br>
