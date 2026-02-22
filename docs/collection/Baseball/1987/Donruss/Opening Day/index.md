@@ -70,7 +70,7 @@
 - [ ] 64: Tony Pena<br>
 - [ ] 65: Ozzie Smith<br>
 - [ ] 66: Tito Landrum<br>
-- [ ] 67: Jackark<br>
+- [ ] 67: Jack Clark<br>
 - [ ] 68: Bob Dernier<br>
 - [ ] 69: Rick Sutcliffe<br>
 - [ ] 70: Andre Dawson<br>
@@ -99,7 +99,7 @@
 - [ ] 93: Alonzo Powell<br>
 - [ ] 94: Vance Law<br>
 - [ ] 95: Bob Brenly<br>
-- [ ] 96: Willark<br>
+- [ ] 96: Will Clark<br>
 - [ ] 97: Chili Davis<br>
 - [ ] 98: Mike Krukow<br>
 - [ ] 99: Jose Uribe<br>
