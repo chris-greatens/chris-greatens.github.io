@@ -6,6 +6,7 @@ This is a set to collect autographs from every person in the Brewers Walk of Fam
 
 ### Ben Sheets
 - 2004 Upper Deck Ultimate Collection - Dual Materials Signature #DJS-SF Ben Sheets & Bob Feller (AUTO)<br>
+- 2005 Upper Deck SP Collection - SP Authentic Signatures #12 Ben Sheets (AUTO)<br>
 - 2005 Upper Deck Ultimate Signature Edition - Supremacy #SS-BS Ben Sheets (AUTO)<br>
 
 ### Bud Selig

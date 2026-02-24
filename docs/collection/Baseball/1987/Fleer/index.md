@@ -1,4 +1,5 @@
 # Baseball - 1987 - Fleer
 ## [Fleer](/collection/Baseball/1987/Fleer/Fleer)
 ## [Glossy](/collection/Baseball/1987/Fleer/Glossy)
+## [Star Stickers](/collection/Baseball/1987/Fleer/Star Stickers)
 ## [Update](/collection/Baseball/1987/Fleer/Update)
