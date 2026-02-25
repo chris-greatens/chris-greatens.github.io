@@ -1,4 +1,4 @@
-# Fleer 1987 Update
+# Fleer 1987 Update Glossy
 ## Baseball
 
 ## Cards
@@ -101,7 +101,7 @@
 - [ ] U-65: Jim Lindeman<br>
 - [ ] U-66: Bill Long<br>
 - [ ] U-67: Mike Loynd<br>
-- [x] U-68: Greg Maddux<br>
+- [ ] U-68: Greg Maddux<br>
 - [ ] U-69: Bill Madlock<br>
 - [ ] U-7: Rod Booker<br>
 - [ ] U-70: Dave Magadan<br>

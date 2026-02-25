@@ -3,3 +3,4 @@
 ## [Glossy](/collection/Baseball/1987/Fleer/Glossy)
 ## [Star Stickers](/collection/Baseball/1987/Fleer/Star Stickers)
 ## [Update](/collection/Baseball/1987/Fleer/Update)
+## [Update Glossy](/collection/Baseball/1987/Fleer/Update Glossy)
