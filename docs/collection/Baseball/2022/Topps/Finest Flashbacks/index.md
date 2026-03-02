@@ -4,6 +4,7 @@
 ## Subsets
 
 - 1995 Finest Autographs
+- Prism Refractor
 
 ## Cards
 
@@ -11,3 +12,5 @@
 - [x] 95FA-BMA: Bill Mazeroski<br>
 - [x] 95FA-CY: Christian Yelich<br>
 - [x] 95FA-TH: Trevor Hoffman<br>
+### Prism Refractor
+- [x] 157: Christian Yelich<br>

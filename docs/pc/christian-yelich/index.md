@@ -1,6 +1,6 @@
 # Christian Yelich
 
-## Cards Owned: 21
+## Cards Owned: 22
 
 ## Card List
 
@@ -11,6 +11,7 @@
 2021 Topps Archives - Real Ones Autographs #ROA-CY Christian Yelich<br>
 2021 Topps Finest - Finest Autographs #FA-CY Christian Yelich<br>
 2022 Topps Finest Flashbacks - 1995 Finest Autographs #95FA-CY Christian Yelich<br>
+2022 Topps Finest Flashbacks - Prism Refractor #157 Christian Yelich<br>
 2022 Topps Heritage - Real One Autographs #ROA-CY Christian Yelich<br>
 2022 Topps Stadium Club - 1991 Design Variation Autographs #DVA-CY Christian Yelich<br>
 2023 Topps Heritage - Real One Autographs #ROA-CY Christian Yelich<br>
