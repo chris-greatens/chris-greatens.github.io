@@ -45,6 +45,8 @@ A catalog of my study materials on sleight of hand, mentalism, and the theory of
 | **Letters from Juan (Vol 1-6)** | Juan Tamariz | Psychology | 2023 | Direct lessons from the Master. |
 | **Topping the Deck: The Perfect Move** | Jamy Ian Swiss | Card Magic | 2023 | Focused on this one move. |
 
+# Books of my desire
+
 These are the books that I would like to add to my collection:
 
 | Title | Author | Type of Magic | Year | Notes |
@@ -55,6 +57,7 @@ These are the books that I would like to add to my collection:
 | **Scams & Fantasies with Cards** | Darwin Ortiz | Card Magic | 2002 | |
 | **Lessons in Card Mastery** | Darwin Ortiz | Card Magic | 2012 | Logical, creative modern card magic. |
 | **Gambling Sleight of Hand** | Steve Forte | Card Magic | 2020 | Logical, creative modern card magic. |
+
 ---
 
 > "Magic is not a trick; it is a performance of an impossible dream."
