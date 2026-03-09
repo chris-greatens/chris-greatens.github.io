@@ -29,6 +29,7 @@ A catalog of my study materials on sleight of hand, mentalism, and the theory of
 | **13 Steps to Mentalism** | Tony Corinda | Mentalism | 1961 | The core text for mentalists. |
 | **Close-up Card Magic** | Harry Lorayne | Card Magic | 1962 | High-energy, impromptu card magic. |
 | **Magic and Showmanship** | Henning Nelms | Theory/Presentation | 1969 | Essential guide to acting and stagecraft. |
+| **Card Mastery** | Michael MacDougall | Card Magic | 1975 | Techniques used by gambling cheats. |
 | **Self-Working Card Tricks** | Karl Fulves | Self-Working | 1976 | Reliable, no-sleight miracles. |
 | **Self-Working Mental Magic** | Karl Fulves | Mentalism | 1979 | Mind-reading without the sleights. |
 | **More Self-Working Card Tricks** | Karl Fulves | Self-Working | 1984 | Further no-sleight exploration. |
