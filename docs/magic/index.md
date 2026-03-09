@@ -46,12 +46,13 @@ A catalog of my study materials on sleight of hand, mentalism, and the theory of
 | **Topping the Deck: The Perfect Move** | Jamy Ian Swiss | Card Magic | 2023 | Focused on this one move. |
 
 These are the books that I would like to add to my collection:
+
 | Title | Author | Type of Magic | Year | Notes |
 | :--- | :--- | :--- | :--- | :--- |
-| **Stars of Magic** | Various | Card Magic | 1961 | Logical, creative modern card magic. |
-| **Cardshark** | Darwin Ortiz | Card Magic | 1995 | Logical, creative modern card magic. |
+| **Stars of Magic** | Various | Card Magic | 1961 | |
+| **Cardshark** | Darwin Ortiz | Card Magic | 1995 | |
 | **The Paper Engine** | Aaron Fisher | Card Magic | 2002 | |
-| **Scams & Fantasies with Cards** | Darwin Ortiz | Card Magic | 2002 | Logical, creative modern card magic. |
+| **Scams & Fantasies with Cards** | Darwin Ortiz | Card Magic | 2002 | |
 | **Lessons in Card Mastery** | Darwin Ortiz | Card Magic | 2012 | Logical, creative modern card magic. |
 | **Gambling Sleight of Hand** | Steve Forte | Card Magic | 2020 | Logical, creative modern card magic. |
 ---
