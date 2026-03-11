@@ -38,7 +38,11 @@ A catalog of my study materials on sleight of hand, mentalism, and the theory of
 | **More Self-Working Card Tricks** | Karl Fulves | Self-Working | 1984 | Further no-sleight exploration. |
 | **Cruel Tricks for Dear Friends** | Penn & Teller | Comedy Magic | 1989 | Edgy, prank-style magic. |
 | **How to Play with Your Food** | Penn & Teller | Kitchen Magic | 1992 | Table-side entertainment. |
-| **Semi-Automatic Card Tricks (1-5)** | Steve Beam | Self-Working | 1993 | High-IQ self-working magic. |
+| **Semi-Automatic Card Tricks (Vol 1)** | Steve Beam | Self-Working | 1993 | High-IQ self-working magic. |
+| **Semi-Automatic Card Tricks (Vol 2)** | Steve Beam | Self-Working | 1993 | High-IQ self-working magic. |
+| **Semi-Automatic Card Tricks (Vol 3)** | Steve Beam | Self-Working | 1993 | High-IQ self-working magic. |
+| **Semi-Automatic Card Tricks (Vol 4)** | Steve Beam | Self-Working | 1993 | High-IQ self-working magic. |
+| **Semi-Automatic Card Tricks (Vol 5)** | Steve Beam | Self-Working | 1993 | High-IQ self-working magic. |
 | **Card College Vol. 1** | Roberto Giobbi | Card Magic | 1995 | The systematic modern curriculum. |
 | **Card College Vol. 2** | Roberto Giobbi | Card Magic | 1995 | The systematic modern curriculum. |
 | **Card College Vol. 3** | Roberto Giobbi | Card Magic | 1995 | The systematic modern curriculum. |
