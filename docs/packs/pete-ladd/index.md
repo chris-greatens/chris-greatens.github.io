@@ -1,8 +1,8 @@
 # Packs with Pete Ladd on Top or Bottom
 
-**Total Packs:** 30
+**Total Packs:** 32
 
-**Packs with Pete Ladd on Top:** 28
+**Packs with Pete Ladd on Top:** 30
 
 **Packs with Pete Ladd on Bottom:** 2
 
@@ -11,6 +11,7 @@
 - [Topps (Mrs Butterworths)](/packs/1980-topps--30/) — Baseball — Bottom
 - [Topps (Squirt)](/packs/1980-topps--29/) — Baseball — Bottom
 ### 1984
+- [Fleer](/packs/1984-fleer--67/) — Baseball — Top
 - [Fleer (Rack Pack Cello)](/packs/1984-fleer--32/) — Baseball — Top
 - [Topps](/packs/1984-topps--27/) — Baseball — Top
 ### 1985
@@ -43,6 +44,7 @@
 - [Topps](/packs/1986-topps--36/) — Baseball — Top
 - [Topps](/packs/1986-topps--48/) — Baseball — Top
 - [Topps](/packs/1986-topps--52/) — Baseball — Top
+- [Topps](/packs/1986-topps--66/) — Baseball — Top
 ### 1987
 - [Donruss](/packs/1987-donruss--37/) — Baseball — Top
 - [Donruss](/packs/1987-donruss--64/) — Baseball — Top

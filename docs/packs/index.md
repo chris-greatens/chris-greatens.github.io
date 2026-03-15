@@ -17,6 +17,7 @@ This page lists all the unopened packs in my collection.
 - [Topps — Top: Mike Scott (New York Mets) / Don Money (Milwaukee Brewers) / Dale Berra (Pittsburgh Pirates)](/packs/1983-topps--40/)
 ### 1984
 #### Cello
+- [Fleer — Top: Pete Ladd (Milwaukee Brewers) / Bottom: Dave Collins (Toronto Blue Jays)](/packs/1984-fleer--67/)
 - [Fleer (Rack Pack Cello) — Top: Pete Ladd (Milwaukee Brewers)](/packs/1984-fleer--32/)
 - [Topps — Top: Pete Ladd (Milwaukee Brewers)](/packs/1984-topps--27/)
 - [Topps — Top: Bill Schroeder (Milwaukee Brewers) / Bottom: Ken Landreaux (Los Angeles Dodgers)](/packs/1984-topps--33/)
@@ -52,6 +53,7 @@ This page lists all the unopened packs in my collection.
 - [Topps — Top: Pete Rose (Cincinnati Reds) / Pete Ladd (Milwaukee Brewers)](/packs/1986-topps--36/)
 - [Topps — Top: Jack Morris (Detroit Tigers) / Jeff Leonard (San Francisco Giants) / Pete Ladd (Milwaukee Brewers)](/packs/1986-topps--48/)
 - [Topps — Top: LaMarr Hoyt (San Diego Padres) / Davey Lopes (Chicago Cubs) / Pete Ladd (Milwaukee Brewers)](/packs/1986-topps--52/)
+- [Topps — Top: Terry Kennedy (San Diego Padres) / Cal Ripken Jr. (Baltimore Orioles) / Pete Ladd (Milwaukee Brewers)](/packs/1986-topps--66/)
 ### 1987
 #### Rack
 - [Donruss — Top: Pete Ladd (Seattle Mariners) / Bret Saberhagen (Kansas City Royals) / Charlie Liebrandt (Kansas City Royals)](/packs/1987-donruss--37/)

@@ -12,6 +12,7 @@
 - [ ] 2: Pete Rose 1963-1966<br>
 - [ ] 17: Mike Stenhouse<br>
 - [ ] 24: Len Barker<br>
+- [ ] 55: Fred Lynn<br>
 - [ ] 104: Sid Fernandez<br>
 - [ ] 113: U.L. Washington<br>
 - [ ] 125: Davey Lopes<br>
@@ -20,6 +21,7 @@
 - [ ] 186: Houston Astros Team Leaders<br>
 - [ ] 192: Milt Wilcox<br>
 - [ ] 277: Jaime Cocanower<br>
+- [ ] 340: Cal Ripken Jr.<br>
 - [ ] 351: Chuck Tanner<br>
 - [ ] 419: Frank Wills<br>
 - [ ] 458: Kevin Bass<br>
@@ -30,6 +32,8 @@
 - [ ] 517: Milt Thompson<br>
 - [ ] 545: Jimmy Key<br>
 - [ ] 600: Dale Murphy<br>
+- [ ] 612: Richard Dotson<br>
+- [ ] 701: Keith Hernandez All-star<br>
 - [ ] 717: Dave Winfield A.L. All-star<br>
 - [ ] 750: Gorman Thomas<br>
 ### Glossy All-Stars

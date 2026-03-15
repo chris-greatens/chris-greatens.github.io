@@ -59,6 +59,7 @@ This is a set to collect autographs from every person in the Brewers Wall of Hon
 ### Rollie Fingers
 - 1981 Topps Traded #761 Rollie Fingers (AUTO)<br>
 - 1998 Sports Illustrated  - Autographs #NNO Rollie Fingers (AUTO)<br>
+- 1998 Upper Deck Retro - Sign of the Times #RF Rollie Fingers (AUTO)<br>
 - 1999 Sports Illustrated Greats of the Game - Autographs #NNO Rollie Fingers (AUTO)<br>
 - 1999 Sports Illustrated Greats of the Game - Cover Collection #40C Rollie Fingers (AUTO)<br>
 - 2018 Topps Archives Signature Series Retired Player Edition #35 Rollie Fingers (1983 O-Pee-Chee) (AUTO)<br>

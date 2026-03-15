@@ -2,10 +2,10 @@
 
 **Total Packs:** 1
 
-**Packs with Randy Johnson on Top:** 0
+**Packs with Randy Johnson on Top:** 1
 
-**Packs with Randy Johnson on Bottom:** 1
+**Packs with Randy Johnson on Bottom:** 0
 
 ## Rack
-### 1983
-- [Fleer](/packs/1983-fleer--62/) — Baseball — Bottom
+### 1990
+- [Donruss](/packs/1990-donruss--59/) — Baseball — Top

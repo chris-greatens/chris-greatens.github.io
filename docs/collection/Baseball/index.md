@@ -70,3 +70,4 @@
 ## [2023](/collection/Baseball/2023)
 ## [2024](/collection/Baseball/2024)
 ## [2025](/collection/Baseball/2025)
+## [2026](/collection/Baseball/2026)

@@ -10,4 +10,5 @@
 ### No Subset
 - [x] 49: Ed Mathews<br>
 ### Sign of the Times
+- [x] RF: Rollie Fingers<br>
 - [x] TP: Tony Perez<br>
