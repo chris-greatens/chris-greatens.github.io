@@ -31,6 +31,7 @@ This page lists all the unopened packs in my collection.
 - [Topps (Grocery Rack Pack) — Top: Pete Ladd (Milwaukee Brewers) / Dave LaPoint (St. Louis Cardinals) / Bill Doran (Houston Astros)](/packs/1984-topps--34/)
 ### 1985
 #### Cello
+- [Fleer — Top: Pete Ladd (Milwaukee Brewers) / Bottom: Dave Righetti (New York Yankees)](/packs/1985-fleer--71/)
 - [Topps — Top: Pete Ladd (Milwaukee Brewers) / Bottom: Danny Cox (St. Louis Cardinals)](/packs/1985-topps--19/)
 #### Rack
 - [Donruss — Top: Steve Garvey (San Diego Padres) / Pete Ladd (Milwaukee Brewers) / Don Sutton (Milwaukee Brewers)](/packs/1985-donruss--55/)
@@ -55,12 +56,16 @@ This page lists all the unopened packs in my collection.
 - [Topps — Top: LaMarr Hoyt (San Diego Padres) / Davey Lopes (Chicago Cubs) / Pete Ladd (Milwaukee Brewers)](/packs/1986-topps--52/)
 - [Topps — Top: Terry Kennedy (San Diego Padres) / Cal Ripken Jr. (Baltimore Orioles) / Pete Ladd (Milwaukee Brewers)](/packs/1986-topps--66/)
 ### 1987
+#### Cello
+- [Topps — Top: Cecil Cooper (Milwaukee Brewers) / Bottom: Astros Leaders (Houston Astros)](/packs/1987-topps--69/)
+- [Topps — Top: Pete Ladd (Seattle Mariners) / Bottom: Bo Diaz (Cincinnati Reds)](/packs/1987-topps--70/)
 #### Rack
 - [Donruss — Top: Pete Ladd (Seattle Mariners) / Bret Saberhagen (Kansas City Royals) / Charlie Liebrandt (Kansas City Royals)](/packs/1987-donruss--37/)
 - [Donruss — Top: Scott Nielsen (New York Yankees) / Dwight Gooden (New York Mets) / Ty Gainey (Houston Astros)](/packs/1987-donruss--63/)
 - [Donruss — Top: Pete Ladd (Seattle Mariners) / David Cone (Kansas City Royals) / Ken Howell (Los Angeles Dodgers)](/packs/1987-donruss--64/)
 - [Donruss — Top: Jose Canseco (Oakland A's) / Pete Ladd (Seattle Mariners) / David Cone (Kansas City Royals)](/packs/1987-donruss--65/)
 - [Topps — Top: Ozzie Smith (St. Louis Cardinals) / Ruben Sierra (Texas Rangers) / Pete Ladd (Seattle Mariners)](/packs/1987-topps--61/)
+- [Topps — Top: Dave Winfield (New York Yankees) / Gerald Perry (Atlanta Braves) / Pete Ladd (Seattle Mariners)](/packs/1987-topps--68/)
 ### 1988
 #### Rack
 - [Topps — Top: Mike Schmidt (Philadelphia Phillies) / Cecil Cooper (Milwaukee Brewers) / Nolan Ryan (Houston Astros)](/packs/1988-topps--43/)

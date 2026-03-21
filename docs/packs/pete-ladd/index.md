@@ -1,8 +1,8 @@
 # Packs with Pete Ladd on Top or Bottom
 
-**Total Packs:** 32
+**Total Packs:** 35
 
-**Packs with Pete Ladd on Top:** 30
+**Packs with Pete Ladd on Top:** 33
 
 **Packs with Pete Ladd on Bottom:** 2
 
@@ -15,9 +15,12 @@
 - [Fleer (Rack Pack Cello)](/packs/1984-fleer--32/) — Baseball — Top
 - [Topps](/packs/1984-topps--27/) — Baseball — Top
 ### 1985
+- [Fleer](/packs/1985-fleer--71/) — Baseball — Top
 - [Topps](/packs/1985-topps--19/) — Baseball — Top
 ### 1986
 - [Topps](/packs/1986-topps--21/) — Baseball — Top
+### 1987
+- [Topps](/packs/1987-topps--70/) — Baseball — Top
 ## Rack
 ### 1980
 - [Topps](/packs/1980-topps--50/) — Baseball — Top
@@ -50,3 +53,4 @@
 - [Donruss](/packs/1987-donruss--64/) — Baseball — Top
 - [Donruss](/packs/1987-donruss--65/) — Baseball — Top
 - [Topps](/packs/1987-topps--61/) — Baseball — Top
+- [Topps](/packs/1987-topps--68/) — Baseball — Top

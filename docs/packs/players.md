@@ -10,11 +10,13 @@ This table lists players that appear on the top or bottom of unopened packs, wit
 | Allen Ripley | 0 | 1 | 1 | [View Packs](/packs/allen-ripley/) |
 | Alvin Davis | 0 | 1 | 1 | [View Packs](/packs/alvin-davis/) |
 | Andy Hawkins | 1 | 0 | 1 | [View Packs](/packs/andy-hawkins/) |
+| Astros Leaders | 0 | 1 | 1 | [View Packs](/packs/astros-leaders/) |
 | Bill Almon | 0 | 2 | 2 | [View Packs](/packs/bill-almon/) |
 | Bill Campbell | 1 | 0 | 1 | [View Packs](/packs/bill-campbell/) |
 | Bill Doran | 2 | 0 | 2 | [View Packs](/packs/bill-doran/) |
 | Bill Robinson | 0 | 1 | 1 | [View Packs](/packs/bill-robinson/) |
 | Bill Schroeder | 1 | 0 | 1 | [View Packs](/packs/bill-schroeder/) |
+| Bo Diaz | 0 | 1 | 1 | [View Packs](/packs/bo-diaz/) |
 | Bob Clark | 0 | 1 | 1 | [View Packs](/packs/bob-clark/) |
 | Bob Shirley | 0 | 1 | 1 | [View Packs](/packs/bob-shirley/) |
 | Bob Welch | 0 | 1 | 1 | [View Packs](/packs/bob-welch/) |
@@ -26,7 +28,7 @@ This table lists players that appear on the top or bottom of unopened packs, wit
 | Bruce Sutter | 0 | 1 | 1 | [View Packs](/packs/bruce-sutter/) |
 | Cal Ripken Jr. | 1 | 0 | 1 | [View Packs](/packs/cal-ripken-jr./) |
 | Carmen Castillo | 0 | 1 | 1 | [View Packs](/packs/carmen-castillo/) |
-| Cecil Cooper | 3 | 0 | 3 | [View Packs](/packs/cecil-cooper/) |
+| Cecil Cooper | 4 | 0 | 4 | [View Packs](/packs/cecil-cooper/) |
 | Charlie Liebrandt | 1 | 0 | 1 | [View Packs](/packs/charlie-liebrandt/) |
 | Chris Speier | 0 | 1 | 1 | [View Packs](/packs/chris-speier/) |
 | Chuck Tanner | 0 | 1 | 1 | [View Packs](/packs/chuck-tanner/) |
@@ -34,11 +36,13 @@ This table lists players that appear on the top or bottom of unopened packs, wit
 | Dale Murphy | 2 | 0 | 2 | [View Packs](/packs/dale-murphy/) |
 | Dan Quisenberry | 1 | 0 | 1 | [View Packs](/packs/dan-quisenberry/) |
 | Danny Cox | 0 | 1 | 1 | [View Packs](/packs/danny-cox/) |
+| Danny Darwin | 0 | 1 | 1 | [View Packs](/packs/danny-darwin/) |
 | Daryl Sconiers | 1 | 0 | 1 | [View Packs](/packs/daryl-sconiers/) |
 | Dave Collins | 0 | 1 | 1 | [View Packs](/packs/dave-collins/) |
 | Dave Dravecky | 0 | 1 | 1 | [View Packs](/packs/dave-dravecky/) |
 | Dave LaPoint | 1 | 0 | 1 | [View Packs](/packs/dave-lapoint/) |
-| Dave Winfield | 0 | 1 | 1 | [View Packs](/packs/dave-winfield/) |
+| Dave Righetti | 0 | 1 | 1 | [View Packs](/packs/dave-righetti/) |
+| Dave Winfield | 1 | 1 | 2 | [View Packs](/packs/dave-winfield/) |
 | Davey Lopes | 1 | 0 | 1 | [View Packs](/packs/davey-lopes/) |
 | David Cone | 2 | 0 | 2 | [View Packs](/packs/david-cone/) |
 | Dion James | 1 | 0 | 1 | [View Packs](/packs/dion-james/) |
@@ -56,6 +60,7 @@ This table lists players that appear on the top or bottom of unopened packs, wit
 | George Brett | 1 | 0 | 1 | [View Packs](/packs/george-brett/) |
 | George Medich | 1 | 0 | 1 | [View Packs](/packs/george-medich/) |
 | George Vukovich | 1 | 0 | 1 | [View Packs](/packs/george-vukovich/) |
+| Gerald Perry | 1 | 0 | 1 | [View Packs](/packs/gerald-perry/) |
 | Gleen Wilson | 0 | 1 | 1 | [View Packs](/packs/gleen-wilson/) |
 | Goose Gossage | 1 | 0 | 1 | [View Packs](/packs/goose-gossage/) |
 | Gorman Thomas | 1 | 0 | 1 | [View Packs](/packs/gorman-thomas/) |
@@ -64,7 +69,7 @@ This table lists players that appear on the top or bottom of unopened packs, wit
 | Jeff Leonard | 1 | 0 | 1 | [View Packs](/packs/jeff-leonard/) |
 | Jeff Newman | 1 | 0 | 1 | [View Packs](/packs/jeff-newman/) |
 | Jim Barr | 1 | 0 | 1 | [View Packs](/packs/jim-barr/) |
-| Jim Clancy | 0 | 1 | 1 | [View Packs](/packs/jim-clancy/) |
+| Jim Clancy | 0 | 2 | 2 | [View Packs](/packs/jim-clancy/) |
 | Jim Dwyer | 0 | 1 | 1 | [View Packs](/packs/jim-dwyer/) |
 | Jim Rice | 1 | 0 | 1 | [View Packs](/packs/jim-rice/) |
 | Jim Wilhelm | 0 | 1 | 1 | [View Packs](/packs/jim-wilhelm/) |
@@ -108,7 +113,7 @@ This table lists players that appear on the top or bottom of unopened packs, wit
 | Ozzie Smith | 2 | 0 | 2 | [View Packs](/packs/ozzie-smith/) |
 | Pascual Perez | 0 | 1 | 1 | [View Packs](/packs/pascual-perez/) |
 | Pat Zachry | 1 | 0 | 1 | [View Packs](/packs/pat-zachry/) |
-| Pete Ladd | 30 | 2 | 32 | [View Packs](/packs/pete-ladd/) |
+| Pete Ladd | 33 | 2 | 35 | [View Packs](/packs/pete-ladd/) |
 | Pete Rose | 2 | 0 | 2 | [View Packs](/packs/pete-rose/) |
 | Randy Johnson | 0 | 1 | 1 | [View Packs](/packs/randy-johnson/) |
 | Randy Johnson | 1 | 0 | 1 | [View Packs](/packs/randy-johnson/) |
@@ -121,6 +126,7 @@ This table lists players that appear on the top or bottom of unopened packs, wit
 | Rickey Henderson | 0 | 2 | 2 | [View Packs](/packs/rickey-henderson/) |
 | Rod Carew | 1 | 0 | 1 | [View Packs](/packs/rod-carew/) |
 | Rowland Office | 0 | 1 | 1 | [View Packs](/packs/rowland-office/) |
+| Roy Lee Jackson | 0 | 1 | 1 | [View Packs](/packs/roy-lee-jackson/) |
 | Ruben Sierra | 1 | 0 | 1 | [View Packs](/packs/ruben-sierra/) |
 | Scott McGregor | 0 | 1 | 1 | [View Packs](/packs/scott-mcgregor/) |
 | Scott Nielsen | 1 | 0 | 1 | [View Packs](/packs/scott-nielsen/) |
