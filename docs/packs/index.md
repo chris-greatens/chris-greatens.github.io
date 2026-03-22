@@ -45,6 +45,7 @@ This page lists all the unopened packs in my collection.
 - [Topps (Grocery Rack Pack) — Top: Mike Moore (Seattle Mariners) / Pete Ladd (Milwaukee Brewers) / Rich Hebner (Chicago Cubs)](/packs/1985-topps--53/)
 ### 1986
 #### Cello
+- [Fleer — Top: Pete Ladd (Milwaukee Brewers) / Bottom: John Tudor (St. Louis Cardinals)](/packs/1986-fleer--72/)
 - [Topps — Top: Dale Murphy (Atlanta Braves) / Bottom: Chuck Tanner (Pittsburgh Pirates)](/packs/1986-topps--16/)
 - [Topps — Top: Pete Rose (Cincinnati Reds) / Bottom: Kevin Bass (Houston Astros)](/packs/1986-topps--17/)
 - [Topps — Top: Don Mattingly (New York Yankees) / Bottom: Len Barker (Atlanta Braves)](/packs/1986-topps--18/)
@@ -57,6 +58,8 @@ This page lists all the unopened packs in my collection.
 - [Topps — Top: Terry Kennedy (San Diego Padres) / Cal Ripken Jr. (Baltimore Orioles) / Pete Ladd (Milwaukee Brewers)](/packs/1986-topps--66/)
 ### 1987
 #### Cello
+- [Fleer — Top: Pete Ladd (Seattle Mariners) / Bottom: Wayne Krenchicki (Montreal Expos)](/packs/1987-fleer--73/)
+- [Fleer — Top: Pete Ladd (Seattle Mariners) / Bottom: Carmen Castillo (Cleveland Indians)](/packs/1987-fleer--74/)
 - [Topps — Top: Cecil Cooper (Milwaukee Brewers) / Bottom: Astros Leaders (Houston Astros)](/packs/1987-topps--69/)
 - [Topps — Top: Pete Ladd (Seattle Mariners) / Bottom: Bo Diaz (Cincinnati Reds)](/packs/1987-topps--70/)
 #### Rack

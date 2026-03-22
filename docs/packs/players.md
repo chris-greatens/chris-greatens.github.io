@@ -27,7 +27,7 @@ This table lists players that appear on the top or bottom of unopened packs, wit
 | Brian Holton | 1 | 0 | 1 | [View Packs](/packs/brian-holton/) |
 | Bruce Sutter | 0 | 1 | 1 | [View Packs](/packs/bruce-sutter/) |
 | Cal Ripken Jr. | 1 | 0 | 1 | [View Packs](/packs/cal-ripken-jr./) |
-| Carmen Castillo | 0 | 1 | 1 | [View Packs](/packs/carmen-castillo/) |
+| Carmen Castillo | 0 | 2 | 2 | [View Packs](/packs/carmen-castillo/) |
 | Cecil Cooper | 4 | 0 | 4 | [View Packs](/packs/cecil-cooper/) |
 | Charlie Liebrandt | 1 | 0 | 1 | [View Packs](/packs/charlie-liebrandt/) |
 | Chris Speier | 0 | 1 | 1 | [View Packs](/packs/chris-speier/) |
@@ -76,6 +76,7 @@ This table lists players that appear on the top or bottom of unopened packs, wit
 | Jimmy Key | 0 | 1 | 1 | [View Packs](/packs/jimmy-key/) |
 | Joel Youngblood | 1 | 1 | 1 | [View Packs](/packs/joel-youngblood/) |
 | John Russell | 1 | 0 | 1 | [View Packs](/packs/john-russell/) |
+| John Tudor | 0 | 1 | 1 | [View Packs](/packs/john-tudor/) |
 | John Wathan | 0 | 1 | 1 | [View Packs](/packs/john-wathan/) |
 | Jose Canseco | 1 | 0 | 1 | [View Packs](/packs/jose-canseco/) |
 | Julio Cruz | 1 | 0 | 1 | [View Packs](/packs/julio-cruz/) |
@@ -113,7 +114,7 @@ This table lists players that appear on the top or bottom of unopened packs, wit
 | Ozzie Smith | 2 | 0 | 2 | [View Packs](/packs/ozzie-smith/) |
 | Pascual Perez | 0 | 1 | 1 | [View Packs](/packs/pascual-perez/) |
 | Pat Zachry | 1 | 0 | 1 | [View Packs](/packs/pat-zachry/) |
-| Pete Ladd | 33 | 2 | 35 | [View Packs](/packs/pete-ladd/) |
+| Pete Ladd | 36 | 2 | 38 | [View Packs](/packs/pete-ladd/) |
 | Pete Rose | 2 | 0 | 2 | [View Packs](/packs/pete-rose/) |
 | Randy Johnson | 0 | 1 | 1 | [View Packs](/packs/randy-johnson/) |
 | Randy Johnson | 1 | 0 | 1 | [View Packs](/packs/randy-johnson/) |
@@ -146,3 +147,4 @@ This table lists players that appear on the top or bottom of unopened packs, wit
 | U.L. Washington | 0 | 1 | 1 | [View Packs](/packs/u.l.-washington/) |
 | Wade Boggs | 1 | 0 | 1 | [View Packs](/packs/wade-boggs/) |
 | Wayne Gross | 0 | 1 | 1 | [View Packs](/packs/wayne-gross/) |
+| Wayne Krenchicki | 0 | 1 | 1 | [View Packs](/packs/wayne-krenchicki/) |

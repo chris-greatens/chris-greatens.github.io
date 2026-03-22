@@ -1,8 +1,8 @@
 # Packs with Pete Ladd on Top or Bottom
 
-**Total Packs:** 35
+**Total Packs:** 38
 
-**Packs with Pete Ladd on Top:** 33
+**Packs with Pete Ladd on Top:** 36
 
 **Packs with Pete Ladd on Bottom:** 2
 
@@ -18,8 +18,11 @@
 - [Fleer](/packs/1985-fleer--71/) — Baseball — Top
 - [Topps](/packs/1985-topps--19/) — Baseball — Top
 ### 1986
+- [Fleer](/packs/1986-fleer--72/) — Baseball — Top
 - [Topps](/packs/1986-topps--21/) — Baseball — Top
 ### 1987
+- [Fleer](/packs/1987-fleer--73/) — Baseball — Top
+- [Fleer](/packs/1987-fleer--74/) — Baseball — Top
 - [Topps](/packs/1987-topps--70/) — Baseball — Top
 ## Rack
 ### 1980
