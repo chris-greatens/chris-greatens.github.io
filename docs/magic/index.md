@@ -29,7 +29,6 @@ A catalog of my study materials on sleight of hand, mentalism, and the theory of
 | **Classic Secrets of Magic** | Bruce Elliott | General Magic | 1953 | Essential stage and parlor effects. |
 | **Houdini on Magic** | Walter Gibson | General Magic | 1953 | Compiled writings and history of Houdini. |
 | **Scarne on Card Tricks** | John Scarne | Card Magic | 1953 | Professional non-sleight card magic. |
-| **13 Steps to Mentalism** | Tony Corinda | Mentalism | 1961 | The core text for mentalists. |
 | **Close-up Card Magic** | Harry Lorayne | Card Magic | 1962 | High-energy, impromptu card magic. |
 | **Magic and Showmanship** | Henning Nelms | Theory/Presentation | 1969 | Essential guide to acting and stagecraft. |
 | **Card Mastery** | Michael MacDougall | Card Magic | 1975 | Techniques used by gambling cheats. |
@@ -77,6 +76,7 @@ These are the books that I would like to add to my collection:
 | **Gambling Sleight of Hand Volume 1** | Steve Forte | Card Magic | 2020 | |
 | **Gambling Sleight of Hand Volume 2** | Steve Forte | Card Magic | 2020 | |
 | **The Magic of Johnny Thompson** | Jamy Ian Swiss | General Magic | 2025 | |
+| **13 Steps to Mentalism** | Tony Corinda | Mentalism | 1961 | |
 
 ---
 
