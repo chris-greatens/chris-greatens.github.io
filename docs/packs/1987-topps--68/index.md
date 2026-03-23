@@ -71,3 +71,13 @@
 - **Pete Ladd** (Seattle Mariners)
 - **Roy Lee Jackson** (Minnesota Twins)
 
+## Images
+
+### Front
+
+![Pack front](/public/images/packs/1987_Topps_Rack_068_front.jpg)
+
+### Back
+
+![Pack back](/public/images/packs/1987_Topps_Rack_068_back.jpg)
+
