@@ -56,6 +56,7 @@ This page lists all the unopened packs in my collection.
 - [Topps — Top: Jack Morris (Detroit Tigers) / Jeff Leonard (San Francisco Giants) / Pete Ladd (Milwaukee Brewers)](/packs/1986-topps--48/)
 - [Topps — Top: LaMarr Hoyt (San Diego Padres) / Davey Lopes (Chicago Cubs) / Pete Ladd (Milwaukee Brewers)](/packs/1986-topps--52/)
 - [Topps — Top: Terry Kennedy (San Diego Padres) / Cal Ripken Jr. (Baltimore Orioles) / Pete Ladd (Milwaukee Brewers)](/packs/1986-topps--66/)
+- [Topps — Top: Steve Garvey (San Diego Padres) / Wally Backman (New York Mets) / Pete Ladd (Milwaukee Brewers)](/packs/1986-topps--75/)
 ### 1987
 #### Cello
 - [Fleer — Top: Pete Ladd (Seattle Mariners) / Bottom: Wayne Krenchicki (Montreal Expos)](/packs/1987-fleer--73/)

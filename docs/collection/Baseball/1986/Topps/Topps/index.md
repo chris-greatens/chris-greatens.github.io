@@ -11,6 +11,7 @@
 - [ ] 1: Pete Rose<br>
 - [ ] 2: Pete Rose 1963-1966<br>
 - [ ] 17: Mike Stenhouse<br>
+- [ ] 21: George Bamberger<br>
 - [ ] 24: Len Barker<br>
 - [ ] 55: Fred Lynn<br>
 - [ ] 104: Sid Fernandez<br>
@@ -19,8 +20,10 @@
 - [ ] 163: Pete Ladd<br>
 - [ ] 180: Don Mattingly<br>
 - [ ] 186: Houston Astros Team Leaders<br>
+- [ ] 191: Wally Backman<br>
 - [ ] 192: Milt Wilcox<br>
 - [ ] 277: Jaime Cocanower<br>
+- [ ] 319: Rick Camp<br>
 - [ ] 340: Cal Ripken Jr.<br>
 - [ ] 351: Chuck Tanner<br>
 - [ ] 419: Frank Wills<br>
@@ -33,6 +36,7 @@
 - [ ] 545: Jimmy Key<br>
 - [ ] 600: Dale Murphy<br>
 - [ ] 612: Richard Dotson<br>
+- [ ] 689: Dave Stewart<br>
 - [ ] 701: Keith Hernandez All-star<br>
 - [ ] 717: Dave Winfield A.L. All-star<br>
 - [ ] 750: Gorman Thomas<br>

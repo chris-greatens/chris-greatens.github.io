@@ -1,8 +1,8 @@
 # Packs with Pete Ladd on Top or Bottom
 
-**Total Packs:** 38
+**Total Packs:** 39
 
-**Packs with Pete Ladd on Top:** 36
+**Packs with Pete Ladd on Top:** 37
 
 **Packs with Pete Ladd on Bottom:** 2
 
@@ -51,6 +51,7 @@
 - [Topps](/packs/1986-topps--48/) — Baseball — Top
 - [Topps](/packs/1986-topps--52/) — Baseball — Top
 - [Topps](/packs/1986-topps--66/) — Baseball — Top
+- [Topps](/packs/1986-topps--75/) — Baseball — Top
 ### 1987
 - [Donruss](/packs/1987-donruss--37/) — Baseball — Top
 - [Donruss](/packs/1987-donruss--64/) — Baseball — Top
