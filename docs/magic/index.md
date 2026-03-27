@@ -35,7 +35,9 @@ A catalog of my study materials on sleight of hand, mentalism, and the theory of
 | **Self-Working Card Tricks** | Karl Fulves | Self-Working | 1976 | Reliable, no-sleight miracles. |
 | **Self-Working Mental Magic** | Karl Fulves | Mentalism | 1979 | Mind-reading without the sleights. |
 | **More Self-Working Card Tricks** | Karl Fulves | Self-Working | 1984 | Further no-sleight exploration. |
+| **M.I.N.T. (Vol 1)** | Edward Marlo | Card Magic | 1988 | Routines, techniques, and slights from The New Tops magazine. |
 | **Cruel Tricks for Dear Friends** | Penn & Teller | Comedy Magic | 1989 | Edgy, prank-style magic. |
+| **John Carney's Carneycopia** | Stephen Minch | Close-up Magic | 1991 | Table-side entertainment. |
 | **How to Play with Your Food** | Penn & Teller | Kitchen Magic | 1992 | Table-side entertainment. |
 | **Semi-Automatic Card Tricks (Vol 1)** | Steve Beam | Self-Working | 1993 | High-IQ self-working magic. |
 | **Semi-Automatic Card Tricks (Vol 2)** | Steve Beam | Self-Working | 1993 | High-IQ self-working magic. |
@@ -47,6 +49,7 @@ A catalog of my study materials on sleight of hand, mentalism, and the theory of
 | **Card College Vol. 3** | Roberto Giobbi | Card Magic | 1995 | The systematic modern curriculum. |
 | **Card College Vol. 4** | Roberto Giobbi | Card Magic | 1995 | The systematic modern curriculum. |
 | **Card College Vol. 5** | Roberto Giobbi | Card Magic | 1995 | The systematic modern curriculum. |
+| **M.I.N.T. (Vol 2)** | Edward Marlo | Card Magic | 1995 | Routines, techniques, and slights from The New Tops magazine. |
 | **Mark Wilson's Course in Magic** | Mark Wilson | General Magic | 1995 | The "Encyclopedia" of magic. |
 | **Tricks with Your Head** | Mac King | Comedy/Parlor | 2002 | Hilarious and practical routines. |
 | **How to Play in Traffic** | Penn & Teller | Street Magic | 2002 | Guerrilla-style magic and pranks. |
