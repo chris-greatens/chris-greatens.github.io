@@ -3,7 +3,7 @@
 
 ## Subsets
 
-- Nolan Ryan Commemorative Reprints  (Cards Owned: 25 / 27 (92.6% complete))
+- Nolan Ryan Commemorative Reprints  (Cards Owned: 26 / 27 (96.3% complete))
 - Nolan Ryan Commemorative Reprints Autographs  (Cards Owned: 0 / 27 (0.0% complete))
 - Nolan Ryan Commemorative Reprints Finest  (Cards Owned: 10 / 27 (37.0% complete))
 - Nolan Ryan Commemorative Reprints Finest Refractors  (Cards Owned: 19 / 27 (70.4% complete))
@@ -35,7 +35,7 @@
 - [x] 22: 1989 Topps Nolan Ryan<br>
 - [x] 23: 1990 Topps Nolan Ryan<br>
 - [x] 24: 1991 Topps Nolan Ryan<br>
-- [ ] 25: 1992 Topps Nolan Ryan<br>
+- [x] 25: 1992 Topps Nolan Ryan<br>
 - [x] 26: 1993 Topps Nolan Ryan<br>
 - [x] 27: 1994 Topps Nolan Ryan<br>
 ### Nolan Ryan Commemorative Reprints Autographs
