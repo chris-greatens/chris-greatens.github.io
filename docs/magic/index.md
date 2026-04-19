@@ -55,6 +55,7 @@ A catalog of my study materials on sleight of hand, mentalism, and the theory of
 | **How to Play in Traffic** | Penn & Teller | Street Magic | 2002 | Guerrilla-style magic and pranks. |
 | **A Book in English** | Woody Aragon | Card Magic | 2011 | Incredible "Automatic" magic. |
 | **Principia** | Harapan Ong | Card Magic | 2018 | Logical, creative modern card magic. |
+| **The Magic of Johnny Thompson** | Jamy Ian Swiss | General Magic | 2018 | Magic from one of the legends. |
 | **How Magicians Think** | Joshua Jay | History/Theory | 2021 | A look behind the curtain of the craft. |
 | **Letters from Juan (Vol 1)** | Juan Tamariz | Psychology | 2023 | Direct lessons from the Master. |
 | **Letters from Juan (Vol 2)** | Juan Tamariz | Psychology | 2023 | Direct lessons from the Master. |
@@ -80,6 +81,25 @@ These are the books that I would like to add to my collection:
 | **Gambling Sleight of Hand Volume 2** | Steve Forte | Card Magic | 2020 | |
 | **The Magic of Johnny Thompson** | Jamy Ian Swiss | General Magic | 2025 | |
 | **13 Steps to Mentalism** | Tony Corinda | Mentalism | 1961 | |
+| **Very Hush Hush** | John Bannon | Card Magic | 2023 | |
+| **Destination Zero** | John Bannon | Card Magic | 2023 | |
+| **Mentalissimo** | John Bannon | Mentalism Card Magic | 2023 | |
+| **High Caliber** | John Bannon | Mentalism Card Magic | 2023 | |
+| **Semi-Automatic Card Tricks (Vol 6)** | Steve Beam | Self-Working | 1993 | High-IQ self-working magic. |
+| **Semi-Automatic Card Tricks (Vol 7)** | Steve Beam | Self-Working | 1993 | High-IQ self-working magic. |
+| **Semi-Automatic Card Tricks (Vol 8)** | Steve Beam | Self-Working | 1993 | High-IQ self-working magic. |
+| **Semi-Automatic Card Tricks (Vol 9)** | Steve Beam | Self-Working | 1993 | High-IQ self-working magic. |
+| **Semi-Automatic Card Tricks (Vol 10)** | Steve Beam | Self-Working | 1993 | High-IQ self-working magic. |
+| **Semi-Automatic Card Tricks (Vol 11)** | Steve Beam | Self-Working | 1993 | High-IQ self-working magic. |
+| **Semi-Automatic Card Tricks (Vol 12)** | Steve Beam | Self-Working | 1993 | High-IQ self-working magic. |
+| **The Card Magic of Nick Trost** | Nick Trost | Card Magic | 2023 | |
+| **Subtle Card Creations of Nick Trost (Vol 1)** | Nick Trost | Card Magic | 2023 | |
+| **Subtle Card Creations of Nick Trost (Vol 2)** | Nick Trost | Card Magic | 2023 | |
+| **Subtle Card Creations of Nick Trost (Vol 3)** | Nick Trost | Card Magic | 2023 | |
+| **Subtle Card Creations of Nick Trost (Vol 4)** | Nick Trost | Card Magic | 2023 | |
+| **Subtle Card Creations of Nick Trost (Vol 5)** | Nick Trost | Card Magic | 2023 | |
+| **Subtle Card Creations of Nick Trost (Vol 6)** | Nick Trost | Card Magic | 2023 | |
+| **The Memory Arts** | Sarah and David Trustman | Card Magic | 2023 | |
 
 ---
 

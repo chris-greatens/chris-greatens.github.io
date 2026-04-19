@@ -9,3 +9,4 @@
 ## [Series 2](/collection/Baseball/2025/Topps/Series 2)
 ## [Stadium Club](/collection/Baseball/2025/Topps/Stadium Club)
 ## [Tribute](/collection/Baseball/2025/Topps/Tribute)
+## [Update](/collection/Baseball/2025/Topps/Update)

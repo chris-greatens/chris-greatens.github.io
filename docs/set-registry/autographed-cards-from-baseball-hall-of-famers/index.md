@@ -89,6 +89,7 @@ This is a set to collect autographs from every person in the baseball hall of fa
 
 ### Frank Robinson
 - 1999 Sports Illustrated Greats of the Game - Autographs #NNO Frank Robinson (AUTO)<br>
+- 2001 Fleer Platinum - Rack Pack Autographs #NNO Frank Robinson (AUTO)<br>
 
 ### Frank Thomas
 - 2022 Topps Archives - Fan Favorites Premium #53FF-FT Frank Thomas (AUTO)<br>

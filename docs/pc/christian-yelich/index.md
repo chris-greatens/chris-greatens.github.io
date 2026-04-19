@@ -1,6 +1,6 @@
 # Christian Yelich
 
-## Cards Owned: 22
+## Cards Owned: 23
 
 ## Card List
 
@@ -26,3 +26,4 @@
 2025 Topps Now #328 Yelich Ties Brewers Club Record with 8 RBIs<br>
 2025 Topps Series 1 - 1990 Topps Baseball 35th Anniversary Chrome Mojo #T90C-77 Christian Yelich<br>
 2025 Topps Tribute - Green #21 Christian Yelich<br>
+2026 Topps Heritage #332 Christian Yelich<br>
