@@ -32,6 +32,7 @@ A catalog of my study materials on sleight of hand, mentalism, and the theory of
 | **Close-up Card Magic** | Harry Lorayne | Card Magic | 1962 | High-energy, impromptu card magic. |
 | **Magic and Showmanship** | Henning Nelms | Theory/Presentation | 1969 | Essential guide to acting and stagecraft. |
 | **Card Mastery** | Michael MacDougall | Card Magic | 1975 | Techniques used by gambling cheats. |
+| **Magic With Cards** | Frank Garcia & George Schindler | Card Magic | 1975 | Over 100 easy-to-perform card tricks. |
 | **Self-Working Card Tricks** | Karl Fulves | Self-Working | 1976 | Reliable, no-sleight miracles. |
 | **Self-Working Mental Magic** | Karl Fulves | Mentalism | 1979 | Mind-reading without the sleights. |
 | **More Self-Working Card Tricks** | Karl Fulves | Self-Working | 1984 | Further no-sleight exploration. |
@@ -51,11 +52,16 @@ A catalog of my study materials on sleight of hand, mentalism, and the theory of
 | **Card College Vol. 5** | Roberto Giobbi | Card Magic | 1995 | The systematic modern curriculum. |
 | **M.I.N.T. (Vol 2)** | Edward Marlo | Card Magic | 1995 | Routines, techniques, and slights from The New Tops magazine. |
 | **Mark Wilson's Course in Magic** | Mark Wilson | General Magic | 1995 | The "Encyclopedia" of magic. |
+| **The Card Magic of Nick Trost** | Nick Trost | Card Magic | 1997 | Over 100 card magic tricks. |
 | **Tricks with Your Head** | Mac King | Comedy/Parlor | 2002 | Hilarious and practical routines. |
 | **How to Play in Traffic** | Penn & Teller | Street Magic | 2002 | Guerrilla-style magic and pranks. |
+| **Mnemonica: Symphony in Mnemornic Major** | Juan Tamariz | Card Magic | 2004 | Memorized deck card magic. |
 | **A Book in English** | Woody Aragon | Card Magic | 2011 | Incredible "Automatic" magic. |
+| **Destination Zero** | John Bannon | Card Magic | 2015 | Collection of self-working card tricks. |
 | **Principia** | Harapan Ong | Card Magic | 2018 | Logical, creative modern card magic. |
+| **The Memory Arts** | Sarah and David Trustman | Magic Theory | 2018 | Learn how to memorize deck. |
 | **The Magic of Johnny Thompson** | Jamy Ian Swiss | General Magic | 2018 | Magic from one of the legends. |
+| **Cardially Yours** | Ed Marlo | Card Magic | 2018 | A collection of works from one of the legends. |
 | **How Magicians Think** | Joshua Jay | History/Theory | 2021 | A look behind the curtain of the craft. |
 | **Letters from Juan (Vol 1)** | Juan Tamariz | Psychology | 2023 | Direct lessons from the Master. |
 | **Letters from Juan (Vol 2)** | Juan Tamariz | Psychology | 2023 | Direct lessons from the Master. |
@@ -63,6 +69,7 @@ A catalog of my study materials on sleight of hand, mentalism, and the theory of
 | **Letters from Juan (Vol 4)** | Juan Tamariz | Psychology | 2023 | Direct lessons from the Master. |
 | **Letters from Juan (Vol 5)** | Juan Tamariz | Psychology | 2023 | Direct lessons from the Master. |
 | **Letters from Juan (Vol 6)** | Juan Tamariz | Psychology | 2023 | Direct lessons from the Master. |
+| **Very Hush Hush ** | John Bannon | Card Magic | 2023 | Forty card tricks with a "mental" slant. |
 | **Topping the Deck: The Perfect Move** | Jamy Ian Swiss | Card Magic | 2023 | Focused on this one move. |
 
 # Books of my desire
@@ -79,10 +86,6 @@ These are the books that I would like to add to my collection:
 | **Lessons in Card Mastery** | Darwin Ortiz | Card Magic | 2012 | |
 | **Gambling Sleight of Hand Volume 1** | Steve Forte | Card Magic | 2020 | |
 | **Gambling Sleight of Hand Volume 2** | Steve Forte | Card Magic | 2020 | |
-| **The Magic of Johnny Thompson** | Jamy Ian Swiss | General Magic | 2025 | |
-| **13 Steps to Mentalism** | Tony Corinda | Mentalism | 1961 | |
-| **Very Hush Hush** | John Bannon | Card Magic | 2023 | |
-| **Destination Zero** | John Bannon | Card Magic | 2023 | |
 | **Mentalissimo** | John Bannon | Mentalism Card Magic | 2023 | |
 | **High Caliber** | John Bannon | Mentalism Card Magic | 2023 | |
 | **Semi-Automatic Card Tricks (Vol 6)** | Steve Beam | Self-Working | 1993 | High-IQ self-working magic. |
@@ -92,14 +95,12 @@ These are the books that I would like to add to my collection:
 | **Semi-Automatic Card Tricks (Vol 10)** | Steve Beam | Self-Working | 1993 | High-IQ self-working magic. |
 | **Semi-Automatic Card Tricks (Vol 11)** | Steve Beam | Self-Working | 1993 | High-IQ self-working magic. |
 | **Semi-Automatic Card Tricks (Vol 12)** | Steve Beam | Self-Working | 1993 | High-IQ self-working magic. |
-| **The Card Magic of Nick Trost** | Nick Trost | Card Magic | 2023 | |
 | **Subtle Card Creations of Nick Trost (Vol 1)** | Nick Trost | Card Magic | 2023 | |
 | **Subtle Card Creations of Nick Trost (Vol 2)** | Nick Trost | Card Magic | 2023 | |
 | **Subtle Card Creations of Nick Trost (Vol 3)** | Nick Trost | Card Magic | 2023 | |
 | **Subtle Card Creations of Nick Trost (Vol 4)** | Nick Trost | Card Magic | 2023 | |
 | **Subtle Card Creations of Nick Trost (Vol 5)** | Nick Trost | Card Magic | 2023 | |
 | **Subtle Card Creations of Nick Trost (Vol 6)** | Nick Trost | Card Magic | 2023 | |
-| **The Memory Arts** | Sarah and David Trustman | Card Magic | 2023 | |
 
 ---
 

@@ -77,6 +77,7 @@ This is a set to collect autographs from every person in the Brewers Wall of Hon
 - 2022 Topps Finest Flashbacks - 1995 Finest Autographs #95FA-TH Trevor Hoffman (AUTO)<br>
 
 ### Yovani Gallardo
+- 2012 Upper Deck SP Signature Edition #MIL14 Cutter Dykstra & Yovani Gallardo (AUTO)<br>
 - 2012 Upper Deck SP Signature Edition #MIL6 Yovani Gallardo (AUTO)<br>
 
 
