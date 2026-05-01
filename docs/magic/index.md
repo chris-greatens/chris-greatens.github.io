@@ -15,6 +15,8 @@ A catalog of my study materials on sleight of hand, mentalism, and the theory of
 | **Tarbell Course in Magic (Vol 2)** | Harlan Tarbell | General Magic | 1927 | Foundation stones of modern magic. |
 | **Tarbell Course in Magic (Vol 3)** | Harlan Tarbell | General Magic | 1927 | Foundation stones of modern magic. |
 | **Tarbell Course in Magic (Vol 4)** | Harlan Tarbell | General Magic | 1927 | Foundation stones of modern magic. |
+| **Tarbell Course in Magic (Vol 5)** | Harlan Tarbell | General Magic | 1927 | Foundation stones of modern magic. |
+| **Tarbell Course in Magic (Vol 6)** | Harlan Tarbell | General Magic | 1927 | Foundation stones of modern magic. |
 | **The Secrets of Houdini** | J.C. Cannell | General Magic | 1931 | Insights into the methods of the legend. |
 | **Card Manipulations** | Jean Hugard | Card Magic | 1934 | Essential sleight mechanics. |
 | **Encyclopedia of Card Tricks** | Jean Hugard | Card Magic | 1937 | Thousands of routines in one reference. |
@@ -69,8 +71,9 @@ A catalog of my study materials on sleight of hand, mentalism, and the theory of
 | **Letters from Juan (Vol 4)** | Juan Tamariz | Psychology | 2023 | Direct lessons from the Master. |
 | **Letters from Juan (Vol 5)** | Juan Tamariz | Psychology | 2023 | Direct lessons from the Master. |
 | **Letters from Juan (Vol 6)** | Juan Tamariz | Psychology | 2023 | Direct lessons from the Master. |
-| **Very Hush Hush ** | John Bannon | Card Magic | 2023 | Forty card tricks with a "mental" slant. |
+| **Very Hush Hush** | John Bannon | Card Magic | 2023 | Forty card tricks with a "mental" slant. |
 | **Topping the Deck: The Perfect Move** | Jamy Ian Swiss | Card Magic | 2023 | Focused on this one move. |
+| **The Particle System** | Joshua Jay | Card Magic | 2025 | Joshua's take on memorized deck magic. |
 
 # Books of my desire
 
@@ -78,6 +81,8 @@ These are the books that I would like to add to my collection:
 
 | Title | Author | Type of Magic | Year | Notes |
 | :--- | :--- | :--- | :--- | :--- |
+| **Tarbell Course in Magic (Volume 7)** | Harlen Tarbell  | Foundational Magic | 1927 | |
+| **Tarbell Course in Magic (Volume 8)** | Harlen Tarbell  | Foundational Magic | 1927 | |
 | **Stars of Magic** | Various | Card Magic | 1961 | |
 | **Stewart James in Print: The First Fifty Years** | Stewart James | Card Magic | 1989 | |
 | **Cardshark** | Darwin Ortiz | Card Magic | 1995 | |
@@ -101,6 +106,7 @@ These are the books that I would like to add to my collection:
 | **Subtle Card Creations of Nick Trost (Vol 4)** | Nick Trost | Card Magic | 2023 | |
 | **Subtle Card Creations of Nick Trost (Vol 5)** | Nick Trost | Card Magic | 2023 | |
 | **Subtle Card Creations of Nick Trost (Vol 6)** | Nick Trost | Card Magic | 2023 | |
+| **13 Steps to Mentalism** | Corinda | Mentalism | 2023 | |
 
 ---
 
