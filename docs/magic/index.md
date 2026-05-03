@@ -55,6 +55,7 @@ A catalog of my study materials on sleight of hand, mentalism, and the theory of
 | **M.I.N.T. (Vol 2)** | Edward Marlo | Card Magic | 1995 | Routines, techniques, and slights from The New Tops magazine. |
 | **Mark Wilson's Course in Magic** | Mark Wilson | General Magic | 1995 | The "Encyclopedia" of magic. |
 | **The Card Magic of Nick Trost** | Nick Trost | Card Magic | 1997 | Over 100 card magic tricks. |
+| **Digital Effects: The Magic of Joe Mogar** | Steve Beam | Thimble Magic | 1997 | Innovative, visual thinble magic routines. |
 | **Tricks with Your Head** | Mac King | Comedy/Parlor | 2002 | Hilarious and practical routines. |
 | **How to Play in Traffic** | Penn & Teller | Street Magic | 2002 | Guerrilla-style magic and pranks. |
 | **Mnemonica: Symphony in Mnemornic Major** | Juan Tamariz | Card Magic | 2004 | Memorized deck card magic. |
