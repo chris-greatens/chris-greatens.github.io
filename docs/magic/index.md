@@ -108,6 +108,7 @@ These are the books that I would like to add to my collection:
 | **Subtle Card Creations of Nick Trost (Vol 5)** | Nick Trost | Card Magic | 2023 | |
 | **Subtle Card Creations of Nick Trost (Vol 6)** | Nick Trost | Card Magic | 2023 | |
 | **13 Steps to Mentalism** | Corinda | Mentalism | 2023 | |
+| **The Final Cut** | Ed Marlo | Card Magic | 2019 | |
 
 ---
 
