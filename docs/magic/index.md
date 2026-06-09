@@ -58,13 +58,15 @@ A catalog of my study materials on sleight of hand, mentalism, and the theory of
 | **Digital Effects: The Magic of Joe Mogar** | Steve Beam | Thimble Magic | 1997 | Innovative, visual thinble magic routines. |
 | **Tricks with Your Head** | Mac King | Comedy/Parlor | 2002 | Hilarious and practical routines. |
 | **How to Play in Traffic** | Penn & Teller | Street Magic | 2002 | Guerrilla-style magic and pranks. |
+| **Revolutionary Card Technique** | Ed Marlo | Card Magic | 2003 | A collection of works from one of the legends. Part I of the series. |
 | **Mnemonica: Symphony in Mnemornic Major** | Juan Tamariz | Card Magic | 2004 | Memorized deck card magic. |
+| **Cardially Yours** | Ed Marlo | Card Magic | 2008 | A collection of works from one of the legends. Part II of the series. |
 | **A Book in English** | Woody Aragon | Card Magic | 2011 | Incredible "Automatic" magic. |
 | **Destination Zero** | John Bannon | Card Magic | 2015 | Collection of self-working card tricks. |
 | **Principia** | Harapan Ong | Card Magic | 2018 | Logical, creative modern card magic. |
 | **The Memory Arts** | Sarah and David Trustman | Magic Theory | 2018 | Learn how to memorize deck. |
 | **The Magic of Johnny Thompson** | Jamy Ian Swiss | General Magic | 2018 | Magic from one of the legends. |
-| **Cardially Yours** | Ed Marlo | Card Magic | 2018 | A collection of works from one of the legends. |
+| **The Final Cut** | Ed Marlo | Card Magic | 2019 | A collection of works from one of the legends. Part III of the series. |
 | **How Magicians Think** | Joshua Jay | History/Theory | 2021 | A look behind the curtain of the craft. |
 | **Letters from Juan (Vol 1)** | Juan Tamariz | Psychology | 2023 | Direct lessons from the Master. |
 | **Letters from Juan (Vol 2)** | Juan Tamariz | Psychology | 2023 | Direct lessons from the Master. |
@@ -108,7 +110,6 @@ These are the books that I would like to add to my collection:
 | **Subtle Card Creations of Nick Trost (Vol 5)** | Nick Trost | Card Magic | 2023 | |
 | **Subtle Card Creations of Nick Trost (Vol 6)** | Nick Trost | Card Magic | 2023 | |
 | **13 Steps to Mentalism** | Corinda | Mentalism | 2023 | |
-| **The Final Cut** | Ed Marlo | Card Magic | 2019 | |
 
 ---
 
