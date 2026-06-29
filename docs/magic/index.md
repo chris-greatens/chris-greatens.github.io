@@ -77,6 +77,7 @@ A catalog of my study materials on sleight of hand, mentalism, and the theory of
 | **Very Hush Hush** | John Bannon | Card Magic | 2023 | Forty card tricks with a "mental" slant. |
 | **Topping the Deck: The Perfect Move** | Jamy Ian Swiss | Card Magic | 2023 | Focused on this one move. |
 | **The Particle System** | Joshua Jay | Card Magic | 2025 | Joshua's take on memorized deck magic. |
+| **The Paper Engine: 20th Anniversary Edition** | Aaron Fisher | Advanced Card Magic | 2025 | An advanced guide to master-level sleight of hand card magic. |
 
 # Books of my desire
 
@@ -89,13 +90,14 @@ These are the books that I would like to add to my collection:
 | **Stars of Magic** | Various | Card Magic | 1961 | |
 | **Stewart James in Print: The First Fifty Years** | Stewart James | Card Magic | 1989 | |
 | **Cardshark** | Darwin Ortiz | Card Magic | 1995 | |
-| **The Paper Engine** | Aaron Fisher | Card Magic | 2002 | |
 | **Scams & Fantasies with Cards** | Darwin Ortiz | Card Magic | 2002 | |
 | **Lessons in Card Mastery** | Darwin Ortiz | Card Magic | 2012 | |
 | **Gambling Sleight of Hand Volume 1** | Steve Forte | Card Magic | 2020 | |
 | **Gambling Sleight of Hand Volume 2** | Steve Forte | Card Magic | 2020 | |
 | **Mentalissimo** | John Bannon | Mentalism Card Magic | 2023 | |
 | **High Caliber** | John Bannon | Mentalism Card Magic | 2023 | |
+| **52 Explorations** | Jack Parker | Card Magic | 2022 | |
+| **52 Memories** | Jack Parker | Card Magic | 2007 | |
 | **Semi-Automatic Card Tricks (Vol 6)** | Steve Beam | Self-Working | 1993 | High-IQ self-working magic. |
 | **Semi-Automatic Card Tricks (Vol 7)** | Steve Beam | Self-Working | 1993 | High-IQ self-working magic. |
 | **Semi-Automatic Card Tricks (Vol 8)** | Steve Beam | Self-Working | 1993 | High-IQ self-working magic. |
