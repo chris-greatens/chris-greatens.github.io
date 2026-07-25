@@ -1,7 +1,10 @@
 # Baseball - 2025 - Topps
+## [All-star Game](/collection/Baseball/2025/Topps/All-star Game)
 ## [Archives](/collection/Baseball/2025/Topps/Archives)
 ## [Chrome](/collection/Baseball/2025/Topps/Chrome)
 ## [Chrome Logofractor](/collection/Baseball/2025/Topps/Chrome Logofractor)
+## [Chrome Platinum Anniversary](/collection/Baseball/2025/Topps/Chrome Platinum Anniversary)
+## [Chrome Update](/collection/Baseball/2025/Topps/Chrome Update)
 ## [Finest](/collection/Baseball/2025/Topps/Finest)
 ## [Heritage](/collection/Baseball/2025/Topps/Heritage)
 ## [Now](/collection/Baseball/2025/Topps/Now)

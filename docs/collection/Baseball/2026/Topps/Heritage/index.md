@@ -4,6 +4,8 @@
 ## Subsets
 
 - 50th Anniversary Buybacks
+- Chrome
+- Clubhouse Jersey
 
 ## Cards
 
@@ -14,3 +16,7 @@
 ### 50th Anniversary Buybacks
 - [x] 79: Don Money<br>
 - [x] 577: Jerry Augustine<br>
+### Chrome
+- [x] 272: Jackson Chourio<br>
+### Clubhouse Jersey
+- [x] CCR-CY: Christian Yelich Clubhouse Jersey<br>

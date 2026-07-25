@@ -1,6 +1,7 @@
 # Baseball - 2022 - Topps
 ## [Archives](/collection/Baseball/2022/Topps/Archives)
 ## [Archives Signature Series Retired Player Edition](/collection/Baseball/2022/Topps/Archives Signature Series Retired Player Edition)
+## [Cosmic Chrome](/collection/Baseball/2022/Topps/Cosmic Chrome)
 ## [Finest Flashbacks](/collection/Baseball/2022/Topps/Finest Flashbacks)
 ## [Heritage](/collection/Baseball/2022/Topps/Heritage)
 ## [Heritage High Numbers](/collection/Baseball/2022/Topps/Heritage High Numbers)

@@ -5,6 +5,7 @@
 
 - 1976 Player Icons Holographic
 - 1976 Redefined Holographic
+- Dark Blue Border
 - Real One Autographs
 
 ## Cards
@@ -15,5 +16,7 @@
 - [x] 76PI-9: William Contreras<br>
 ### 1976 Redefined Holographic
 - [x] 76R-6: Jackson Chourio<br>
+### Dark Blue Border
+- [x] 479: Garrett Mitchell<br>
 ### Real One Autographs
 - [x] ROA-CY: Christian Yelich<br>
