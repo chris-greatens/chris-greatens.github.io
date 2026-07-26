@@ -5,9 +5,11 @@ This page lists all the players I have collectiles in my personal collection.
 ## Players
 
 - [Andruw Monasterio](/collectibles/andruw-monasterio/)
+- [Ben Sheets](/collectibles/ben-sheets/)
 - [Bill Schroeder](/collectibles/bill-schroeder/)
 - [Cecil Cooper](/collectibles/cecil-cooper/)
 - [Christian Yelich](/collectibles/christian-yelich/)
+- [Dan Kolb](/collectibles/dan-kolb/)
 - [Don Money](/collectibles/don-money/)
 - [Ed Sedar](/collectibles/ed-sedar/)
 - [Eric Sogard](/collectibles/eric-sogard/)
