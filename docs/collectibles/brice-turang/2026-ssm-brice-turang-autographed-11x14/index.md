@@ -18,6 +18,8 @@
 
 **MLB Authentication Number:** SP731149
 
+**Authentication Code:** FYM
+
 **Image(s):** 
 ![image description](/public/images/collectibles/turang.jpg)
 ![image description](/public/images/collectibles/turang-mlb-holo.jpg)

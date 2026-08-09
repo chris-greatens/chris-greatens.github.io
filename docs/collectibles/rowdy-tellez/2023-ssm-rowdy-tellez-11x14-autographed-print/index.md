@@ -20,7 +20,7 @@
 
 **Authentication Code:** GXM
 
-**Authentication Document:** <a href="/public/documents/collectibles/tellez-authentication" target="_blank">View PDF</a>
+**Authentication Document:** <a href="/public/documents/collectibles/tellez-authentication.pdf" target="_blank">View PDF</a>
 
 **Image(s):** 
 ![image description](/public/images/collectibles/tellez-picture.jpg)

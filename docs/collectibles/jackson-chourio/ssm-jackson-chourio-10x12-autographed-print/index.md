@@ -20,7 +20,7 @@
 
 **Authentication Code:** GVY
 
-**Authentication Document:** <a href="/public/documents/collectibles/chourio-authentication" target="_blank">View PDF</a>
+**Authentication Document:** <a href="/public/documents/collectibles/chourio-authentication.pdf" target="_blank">View PDF</a>
 
 **Image(s):** 
 ![image description](/public/images/collectibles/chourio-picture.jpg)
