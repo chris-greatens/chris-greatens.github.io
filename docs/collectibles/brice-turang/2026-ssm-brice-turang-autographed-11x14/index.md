@@ -16,7 +16,7 @@
 
 **Autograph Type:** On item
 
-**MLB Authentication Number:** [SP731149](https://www.mlb.com/authentication/certificate?type=MLB&hid=SP731149)
+**MLB Authentication Number:** SP731149
 
 **Image(s):** 
 ![image description](/public/images/collectibles/turang.jpg)
