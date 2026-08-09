@@ -20,7 +20,7 @@
 
 **Authentication Code:** NKG
 
-**Authentication Document:** [View PDF](/public/documents/collectibles/yelich-authentication)
+**Authentication Document:** <a href="/public/documents/collectibles/yelich-authentication" target="_blank">View PDF</a>
 
 **Image(s):** 
 ![image description](/public/images/collectibles/yelich-photo.jpg)

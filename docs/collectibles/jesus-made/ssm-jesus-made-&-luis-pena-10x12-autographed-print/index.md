@@ -20,7 +20,7 @@
 
 **Authentication Code:** JTZ
 
-**Authentication Document:** [View PDF](/public/documents/collectibles/made-pena-authentication)
+**Authentication Document:** <a href="/public/documents/collectibles/made-pena-authentication" target="_blank">View PDF</a>
 
 **Image(s):** 
 ![image description](/public/images/collectibles/made-pena-photo.jpg)

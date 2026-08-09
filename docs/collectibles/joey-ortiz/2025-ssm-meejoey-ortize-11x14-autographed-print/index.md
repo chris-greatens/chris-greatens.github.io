@@ -20,7 +20,7 @@
 
 **Authentication Code:** XRK
 
-**Authentication Document:** [View PDF](/public/documents/collectibles/ortiz-authentication)
+**Authentication Document:** <a href="/public/documents/collectibles/ortiz-authentication" target="_blank">View PDF</a>
 
 **Image(s):** 
 ![image description](/public/images/collectibles/ortiz-picture.jpg)
