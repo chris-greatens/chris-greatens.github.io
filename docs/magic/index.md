@@ -87,17 +87,10 @@ These are the books that I would like to add to my collection:
 | :--- | :--- | :--- | :--- | :--- |
 | **Tarbell Course in Magic (Volume 7)** | Harlen Tarbell  | Foundational Magic | 1927 | |
 | **Tarbell Course in Magic (Volume 8)** | Harlen Tarbell  | Foundational Magic | 1927 | |
+| **The Phantom of the Card Table** | Edward McGuire | Card Magic | 1930 | |
 | **Stars of Magic** | Various | Card Magic | 1961 | |
+| **Revelations** | Dai Vernon | Card Magic | 1984 | |
 | **Stewart James in Print: The First Fifty Years** | Stewart James | Card Magic | 1989 | |
-| **Cardshark** | Darwin Ortiz | Card Magic | 1995 | |
-| **Scams & Fantasies with Cards** | Darwin Ortiz | Card Magic | 2002 | |
-| **Lessons in Card Mastery** | Darwin Ortiz | Card Magic | 2012 | |
-| **Gambling Sleight of Hand Volume 1** | Steve Forte | Card Magic | 2020 | |
-| **Gambling Sleight of Hand Volume 2** | Steve Forte | Card Magic | 2020 | |
-| **Mentalissimo** | John Bannon | Mentalism Card Magic | 2023 | |
-| **High Caliber** | John Bannon | Mentalism Card Magic | 2023 | |
-| **52 Explorations** | Jack Parker | Card Magic | 2022 | |
-| **52 Memories** | Jack Parker | Card Magic | 2007 | |
 | **Semi-Automatic Card Tricks (Vol 6)** | Steve Beam | Self-Working | 1993 | High-IQ self-working magic. |
 | **Semi-Automatic Card Tricks (Vol 7)** | Steve Beam | Self-Working | 1993 | High-IQ self-working magic. |
 | **Semi-Automatic Card Tricks (Vol 8)** | Steve Beam | Self-Working | 1993 | High-IQ self-working magic. |
@@ -105,6 +98,20 @@ These are the books that I would like to add to my collection:
 | **Semi-Automatic Card Tricks (Vol 10)** | Steve Beam | Self-Working | 1993 | High-IQ self-working magic. |
 | **Semi-Automatic Card Tricks (Vol 11)** | Steve Beam | Self-Working | 1993 | High-IQ self-working magic. |
 | **Semi-Automatic Card Tricks (Vol 12)** | Steve Beam | Self-Working | 1993 | High-IQ self-working magic. |
+| **Cardshark** | Darwin Ortiz | Card Magic | 1995 | |
+| **Scams & Fantasies with Cards** | Darwin Ortiz | Card Magic | 2002 | |
+| **52 Memories** | Jack Parker | Card Magic | 2007 | |
+| **Scripting Magic Volume 1** | Pete McCabe | Magic show scripting | 2007 | |
+| **The Magic of Fred Robinson** | Peter Duffie | Card Magic | 2009 | |
+| **Del Ray: America's Foremost** | John Moehring | Card Magic | 2010 | |
+| **Lessons in Card Mastery** | Darwin Ortiz | Card Magic | 2012 | |
+| **Scripting Magic Volume 2** | Pete McCabe | Magic show scripting | 2017 | |
+| **Pure Imagination** | John Campbell | Card Magic | 2018 | |
+| **Gambling Sleight of Hand Volume 1** | Steve Forte | Card Magic | 2020 | |
+| **Gambling Sleight of Hand Volume 2** | Steve Forte | Card Magic | 2020 | |
+| **52 Explorations** | Jack Parker | Card Magic | 2022 | |
+| **Mentalissimo** | John Bannon | Mentalism Card Magic | 2023 | |
+| **High Caliber** | John Bannon | Mentalism Card Magic | 2023 | |
 | **Subtle Card Creations of Nick Trost (Vol 1)** | Nick Trost | Card Magic | 2023 | |
 | **Subtle Card Creations of Nick Trost (Vol 2)** | Nick Trost | Card Magic | 2023 | |
 | **Subtle Card Creations of Nick Trost (Vol 3)** | Nick Trost | Card Magic | 2023 | |
@@ -112,6 +119,9 @@ These are the books that I would like to add to my collection:
 | **Subtle Card Creations of Nick Trost (Vol 5)** | Nick Trost | Card Magic | 2023 | |
 | **Subtle Card Creations of Nick Trost (Vol 6)** | Nick Trost | Card Magic | 2023 | |
 | **13 Steps to Mentalism** | Corinda | Mentalism | 2023 | |
+| **The Principles of Destruction** | Ben Seidman | Magic show construction | 2025 | |
+| **Marlo's Magazines (6 Volume Set)** | Ed Marlo | Card magic routines, moves, and sleights | 2025 | |
+| **The Unexpected Card Book** | Ed Marlo | Card magic | 2025 | |
 
 ---
 

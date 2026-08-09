@@ -1,11 +1,3 @@
-# Bowman 2023 
-## Baseball
-
-## Subsets
-
-- Sights on September
-
-## Cards
-
-### Sights on September
-- [x] SOS-11: Jackson Chourio Sights on September<br>
+# Baseball - 2023 - Bowman
+## [Bowman](/collection/Baseball/2023/Bowman/Bowman)
+## [Chrome](/collection/Baseball/2023/Bowman/Chrome)

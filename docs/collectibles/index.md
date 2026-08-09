@@ -7,6 +7,7 @@ This page lists all the players I have collectiles in my personal collection.
 - [Andruw Monasterio](/collectibles/andruw-monasterio/)
 - [Ben Sheets](/collectibles/ben-sheets/)
 - [Bill Schroeder](/collectibles/bill-schroeder/)
+- [Brice Turang](/collectibles/brice-turang/)
 - [Cecil Cooper](/collectibles/cecil-cooper/)
 - [Christian Yelich](/collectibles/christian-yelich/)
 - [Dan Kolb](/collectibles/dan-kolb/)
