@@ -85,12 +85,22 @@ These are the books that I would like to add to my collection:
 
 | Title | Author | Type of Magic | Year | Notes |
 | :--- | :--- | :--- | :--- | :--- |
+| **The Magician's Handbook** | P.T. Selbit | General Magic | 1901 | |
 | **Tarbell Course in Magic (Volume 7)** | Harlen Tarbell  | Foundational Magic | 1927 | |
 | **Tarbell Course in Magic (Volume 8)** | Harlen Tarbell  | Foundational Magic | 1927 | |
 | **The Phantom of the Card Table** | Edward McGuire | Card Magic | 1930 | |
+| **Effective Card Magic** | Bill Simon | Card Magic | 1952 | |
 | **Stars of Magic** | Various | Card Magic | 1961 | |
+| **The Art of Close-up Magic Volume 1** | Lewis Ganson | Close-up Magic | 1967 | |
+| **The Art of Close-up Magic Volume 2** | Lewis Ganson | Close-up Magic | 1969 | |
+| **The Doc and His Deck** | Jacob Taub | Card Magic | 1976 | |
 | **Revelations** | Dai Vernon | Card Magic | 1984 | |
+| **The Vernon Chronicles -- Volume 1 -- The Lost Inner Secrets** | Dai Vernon | Card Magic | 1987 | |
+| **The Vernon Chronicles -- Volume 2 -- Most Lost Inner Secrets** | Dai Vernon | Card Magic | 1989 | |
+| **The Vernon Chronicles -- Volume 3 -- Further Lost Inner Secrets** | Dai Vernon | Card Magic | 1989 | |
 | **Stewart James in Print: The First Fifty Years** | Stewart James | Card Magic | 1989 | |
+| **The Vernon Chronicles -- Volume 4 -- He Fooled Houdini** | Dai Vernon | Card Magic | 1989 | |
+| **Card File** | Jerry Mentzer | Card Magic | 1993 | |
 | **Semi-Automatic Card Tricks (Vol 6)** | Steve Beam | Self-Working | 1993 | High-IQ self-working magic. |
 | **Semi-Automatic Card Tricks (Vol 7)** | Steve Beam | Self-Working | 1993 | High-IQ self-working magic. |
 | **Semi-Automatic Card Tricks (Vol 8)** | Steve Beam | Self-Working | 1993 | High-IQ self-working magic. |
@@ -99,6 +109,10 @@ These are the books that I would like to add to my collection:
 | **Semi-Automatic Card Tricks (Vol 11)** | Steve Beam | Self-Working | 1993 | High-IQ self-working magic. |
 | **Semi-Automatic Card Tricks (Vol 12)** | Steve Beam | Self-Working | 1993 | High-IQ self-working magic. |
 | **Cardshark** | Darwin Ortiz | Card Magic | 1995 | |
+| **Ultimate Secrets of Card Magic** | Dai Vernon | Card Magic | 1995 | |
+| **Miracles with Cards** | James Swain | Card Magic | 1996 | |
+| **21 Century Card Magic** | James Swain | Card Magic | 1999 | |
+| **Card File Two** | Jerry Mentzer | Card Magic | 2000 | |
 | **Scams & Fantasies with Cards** | Darwin Ortiz | Card Magic | 2002 | |
 | **52 Memories** | Jack Parker | Card Magic | 2007 | |
 | **Scripting Magic Volume 1** | Pete McCabe | Magic show scripting | 2007 | |
@@ -106,6 +120,7 @@ These are the books that I would like to add to my collection:
 | **Del Ray: America's Foremost** | John Moehring | Card Magic | 2010 | |
 | **Lessons in Card Mastery** | Darwin Ortiz | Card Magic | 2012 | |
 | **Scripting Magic Volume 2** | Pete McCabe | Magic show scripting | 2017 | |
+| **Less is More** | Benjamin Earl | Card Magic | 2017 | |
 | **Pure Imagination** | John Campbell | Card Magic | 2018 | |
 | **Gambling Sleight of Hand Volume 1** | Steve Forte | Card Magic | 2020 | |
 | **Gambling Sleight of Hand Volume 2** | Steve Forte | Card Magic | 2020 | |
