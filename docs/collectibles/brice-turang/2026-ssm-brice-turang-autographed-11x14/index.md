@@ -20,6 +20,8 @@
 
 **Authentication Code:** FYM
 
+**Authentication Document:** <a href="/public/documents/collectibles/turang-authentication.pdf" target="_blank">View PDF</a>
+
 **Image(s):** 
 ![image description](/public/images/collectibles/turang.jpg)
 ![image description](/public/images/collectibles/turang-mlb-holo.jpg)
