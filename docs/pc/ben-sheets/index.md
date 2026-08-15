@@ -1,15 +1,21 @@
 # Ben Sheets
 
-## Cards Owned: 14
+## Cards Owned: 20
 
 ## Card List
 
 1999 Just  #233 Ben Sheets<br>
+2000 Bowman  - Autographs #BS Ben Sheets<br>
 2000 Team Best Rookies #78 Ben Sheets<br>
 2000 Team Best Rookies - Silver #78 Ben Sheets<br>
 2000 Team Best Rookies - Bronze #78 Ben Sheets<br>
 2000 Topps Traded & Rookies #T10 Ben Sheets<br>
+2000 Upper Deck SPx #145 Ben Sheets<br>
 2001 Team Best  #85 Ben Sheets<br>
+2001 Upper Deck Rookie Update - USA Touch of Gold Autographs #BSh Ben Sheets<br>
+2001 Upper Deck SP Top Prospects - Chirography #BS Ben Sheets<br>
+2002 Topps Heritage #99 Ben Sheets - Night<br>
+2002 Topps Heritage #99 Ben Sheets<br>
 2004 Upper Deck Ultimate Collection - Dual Materials Signature #DJS-SF Ben Sheets & Bob Feller<br>
 2005 Topps  #347 2004 National League ERA Leaders<br>
 2005 Upper Deck ESPN - SportsCenter Swatches #GU-BS Ben Sheets<br>

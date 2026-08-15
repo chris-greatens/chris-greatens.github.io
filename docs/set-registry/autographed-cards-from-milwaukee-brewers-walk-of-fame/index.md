@@ -5,6 +5,10 @@ This is a set to collect autographs from every person in the Brewers Walk of Fam
 ## Players with qualifying cards: 11 / 23
 
 ### Ben Sheets
+- 2000 Bowman  - Autographs #BS Ben Sheets (AUTO)<br>
+- 2000 Upper Deck SPx #145 Ben Sheets (AUTO)<br>
+- 2001 Upper Deck Rookie Update - USA Touch of Gold Autographs #BSh Ben Sheets (AUTO)<br>
+- 2001 Upper Deck SP Top Prospects - Chirography #BS Ben Sheets (AUTO)<br>
 - 2004 Upper Deck Ultimate Collection - Dual Materials Signature #DJS-SF Ben Sheets & Bob Feller (AUTO)<br>
 - 2005 Upper Deck SP Collection - SP Authentic Signatures #12 Ben Sheets (AUTO)<br>
 - 2005 Upper Deck Ultimate Signature Edition - Supremacy #SS-BS Ben Sheets (AUTO)<br>
