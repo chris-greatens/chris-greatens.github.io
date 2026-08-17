@@ -4,4 +4,4 @@
 ## Cards
 
 ### No Subset
-- [ ] 84: Ben Sheets<br>
+- [x] 84: Ben Sheets<br>

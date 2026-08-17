@@ -8,4 +8,4 @@
 ## Cards
 
 ### Refractors
-- [ ] 85: Ben Sheets<br>
+- [x] 85: Ben Sheets<br>

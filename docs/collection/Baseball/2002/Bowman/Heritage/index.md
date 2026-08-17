@@ -13,6 +13,6 @@
 - [x] BHRA-DC: Del Crandall<br>
 - [x] BHRA-JL: Johnny Logan<br>
 ### Gold Refactors
-- [ ] 102: Ben Sheets<br>
+- [x] 102: Ben Sheets<br>
 ### Refactors
-- [ ] 102: Ben Sheets<br>
+- [x] 102: Ben Sheets<br>

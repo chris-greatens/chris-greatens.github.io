@@ -14,7 +14,9 @@ This is a set to collect autographs from every person in the Brewers Walk of Fam
 - 2001 Upper Deck Rookie Update - USA Touch of Gold Autographs #BSh Ben Sheets (AUTO)<br>
 - 2001 Upper Deck SP Authentic - Chirography #BS Ben Sheets (AUTO)<br>
 - 2001 Upper Deck SP Top Prospects - Chirography #BS Ben Sheets (AUTO)<br>
+- 2002 Fleer Showcase - Sweet Sigs Lumber #NNO Ben Sheets (AUTO)<br>
 - 2002 Topps  - Autographs #TA16 Ben Sheets (AUTO)<br>
+- 2002 Topps T206 - Autographs #TA-BS Ben Sheets (AUTO)<br>
 - 2004 Upper Deck Ultimate Collection - Dual Materials Signature #DJS-SF Ben Sheets & Bob Feller (AUTO)<br>
 - 2005 Upper Deck SP Collection - SP Authentic Signatures #12 Ben Sheets (AUTO)<br>
 - 2005 Upper Deck Ultimate Signature Edition - Supremacy #SS-BS Ben Sheets (AUTO)<br>
