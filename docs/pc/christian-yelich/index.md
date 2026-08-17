@@ -1,6 +1,6 @@
 # Christian Yelich
 
-## Cards Owned: 35
+## Cards Owned: 36
 
 ## Card List
 
@@ -12,6 +12,7 @@
 2021 Topps  - Foilboard (Walmart) #100 Christian Yelich<br>
 2021 Topps Archives - Real Ones Autographs #ROA-CY Christian Yelich<br>
 2021 Topps Finest - Finest Autographs #FA-CY Christian Yelich<br>
+2021 Topps Stadium Club - Beam Team Orange #BT-9 Christian Yelich<br>
 2022 Topps Cosmic Chrome #124 Christian Yelich<br>
 2022 Topps Finest Flashbacks - 1995 Finest Autographs #95FA-CY Christian Yelich<br>
 2022 Topps Finest Flashbacks - Prism Refractor #157 Christian Yelich<br>

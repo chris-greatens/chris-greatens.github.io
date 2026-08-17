@@ -10,8 +10,14 @@ This is a set to collect autographs from every person in the Brewers Wall of Hon
 ### Ben Sheets
 - 2000 Bowman  - Autographs #BS Ben Sheets (AUTO)<br>
 - 2000 Upper Deck SPx #145 Ben Sheets (AUTO)<br>
+- 2001 Bowman  - Autographs #BA-BS Ben Sheets (AUTO)<br>
+- 2001 Fleer Showcase - Sweet Sigs Leather Edition #NNO Ben Sheets (AUTO)<br>
+- 2001 Fleer Showcase - Sweet Sigs Lumber Edition #NNO Ben Sheets (AUTO)<br>
+- 2001 Topps Finest - Autographs #FA-BS Ben Sheets (AUTO)<br>
 - 2001 Upper Deck Rookie Update - USA Touch of Gold Autographs #BSh Ben Sheets (AUTO)<br>
+- 2001 Upper Deck SP Authentic - Chirography #BS Ben Sheets (AUTO)<br>
 - 2001 Upper Deck SP Top Prospects - Chirography #BS Ben Sheets (AUTO)<br>
+- 2002 Topps  - Autographs #TA16 Ben Sheets (AUTO)<br>
 - 2004 Upper Deck Ultimate Collection - Dual Materials Signature #DJS-SF Ben Sheets & Bob Feller (AUTO)<br>
 - 2005 Upper Deck SP Collection - SP Authentic Signatures #12 Ben Sheets (AUTO)<br>
 - 2005 Upper Deck Ultimate Signature Edition - Supremacy #SS-BS Ben Sheets (AUTO)<br>
@@ -34,6 +40,7 @@ This is a set to collect autographs from every person in the Brewers Wall of Hon
 
 ### Don Money
 - 1970 Topps  #645 Don Money (AUTO)<br>
+- 1975 Topps  #175 Don Money (AUTO)<br>
 - 1981 Topps  #106 Don Money (AUTO)<br>
 - 1982 Donruss  #384 Don Money (AUTO)<br>
 
