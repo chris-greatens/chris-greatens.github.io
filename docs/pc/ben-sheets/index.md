@@ -1,6 +1,6 @@
 # Ben Sheets
 
-## Cards Owned: 35
+## Cards Owned: 38
 
 ## Card List
 
@@ -23,6 +23,8 @@
 2001 Upper Deck SP Top Prospects - Chirography #BS Ben Sheets<br>
 2002 Bowman Heritage - Refactors #102 Ben Sheets<br>
 2002 Bowman Heritage - Gold Refactors #102 Ben Sheets<br>
+2002 Donruss Originals #301 Ben Sheets<br>
+2002 Donruss Studio - Private Signings #166 Ben Sheets<br>
 2002 Fleer Genuine #49 Ben Sheets<br>
 2002 Fleer Showcase - Sweet Sigs Lumber #NNO Ben Sheets<br>
 2002 Topps  - Autographs #TA16 Ben Sheets<br>
@@ -31,6 +33,7 @@
 2002 Topps Heritage #99 Ben Sheets - Night<br>
 2002 Topps Heritage #99 Ben Sheets<br>
 2002 Topps T206 - Autographs #TA-BS Ben Sheets<br>
+2002 Upper Deck  - Breakout Performers #BP6 Ben Sheets<br>
 2004 Upper Deck Ultimate Collection - Dual Materials Signature #DJS-SF Ben Sheets & Bob Feller<br>
 2005 Topps  #347 2004 National League ERA Leaders<br>
 2005 Upper Deck ESPN - SportsCenter Swatches #GU-BS Ben Sheets<br>
