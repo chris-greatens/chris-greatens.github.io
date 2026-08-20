@@ -21,6 +21,8 @@ This is a set to collect autographs from every person in the Brewers Wall of Hon
 - 2002 Fleer Showcase - Sweet Sigs Lumber #NNO Ben Sheets (AUTO)<br>
 - 2002 Topps  - Autographs #TA16 Ben Sheets (AUTO)<br>
 - 2002 Topps T206 - Autographs #TA-BS Ben Sheets (AUTO)<br>
+- 2003 Playoff Absolute Memorabilia - Spectrum Signatures #144 Ben Sheets (AUTO)<br>
+- 2003 Upper Deck  - UD Bonus #BS Ben Sheets (AUTO)<br>
 - 2004 Upper Deck Ultimate Collection - Dual Materials Signature #DJS-SF Ben Sheets & Bob Feller (AUTO)<br>
 - 2005 Upper Deck SP Collection - SP Authentic Signatures #12 Ben Sheets (AUTO)<br>
 - 2005 Upper Deck Ultimate Signature Edition - Supremacy #SS-BS Ben Sheets (AUTO)<br>

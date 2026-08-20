@@ -1,6 +1,6 @@
 # Ben Sheets
 
-## Cards Owned: 38
+## Cards Owned: 43
 
 ## Card List
 
@@ -34,6 +34,11 @@
 2002 Topps Heritage #99 Ben Sheets<br>
 2002 Topps T206 - Autographs #TA-BS Ben Sheets<br>
 2002 Upper Deck  - Breakout Performers #BP6 Ben Sheets<br>
+2003 Playoff Absolute Memorabilia - Spectrum Signatures #144 Ben Sheets<br>
+2003 Topps Chrome - Refractors #144 Ben Sheets<br>
+2003 Upper Deck  - UD Bonus #BS Ben Sheets<br>
+2003 Upper Deck Classic Portraits - Gold #89 Ben Sheets<br>
+2003 Upper Deck MVP - Express Delivery #ED10 Ben Sheets<br>
 2004 Upper Deck Ultimate Collection - Dual Materials Signature #DJS-SF Ben Sheets & Bob Feller<br>
 2005 Topps  #347 2004 National League ERA Leaders<br>
 2005 Upper Deck ESPN - SportsCenter Swatches #GU-BS Ben Sheets<br>
