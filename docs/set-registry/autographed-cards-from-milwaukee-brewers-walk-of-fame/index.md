@@ -2,7 +2,7 @@
 
 This is a set to collect autographs from every person in the Brewers Walk of Fame.
 
-## Players with qualifying cards: 11 / 23
+## Players with qualifying cards: 12 / 23
 
 ### Ben Sheets
 - 2000 Bowman  - Autographs #BS Ben Sheets (AUTO)<br>
@@ -20,7 +20,11 @@ This is a set to collect autographs from every person in the Brewers Walk of Fam
 - 2002 Topps T206 - Autographs #TA-BS Ben Sheets (AUTO)<br>
 - 2003 Playoff Absolute Memorabilia - Spectrum Signatures #144 Ben Sheets (AUTO)<br>
 - 2003 Upper Deck  - UD Bonus #BS Ben Sheets (AUTO)<br>
+- 2004 Upper Deck SPx - Swatch Supremacy Signatures Young Stars #SS-BS Ben Sheets (AUTO)<br>
+- 2004 Upper Deck Ultimate Collection - Game Materials Signatures #GJS-BS Ben Sheets (AUTO)<br>
+- 2004 Upper Deck Ultimate Collection - Signatures #BS Ben Sheets (AUTO)<br>
 - 2004 Upper Deck Ultimate Collection - Dual Materials Signature #DJS-SF Ben Sheets & Bob Feller (AUTO)<br>
+- 2005 Upper Deck  #276 Ben Sheets / Geoff Jenkins (AUTO)<br>
 - 2005 Upper Deck SP Collection - SP Authentic Signatures #12 Ben Sheets (AUTO)<br>
 - 2005 Upper Deck Ultimate Signature Edition - Supremacy #SS-BS Ben Sheets (AUTO)<br>
 
@@ -40,6 +44,9 @@ This is a set to collect autographs from every person in the Brewers Walk of Fam
 - 1981-89 Baseball Hall of Fame Metallic Plaques #NNO Ed Mathews (AUTO)<br>
 - 1998 Upper Deck Retro #49 Ed Mathews (AUTO)<br>
 - 1999 Sports Illustrated Greats of the Game - Autographs #NNO Ed Mathews (AUTO)<br>
+
+### Geoff Jenkins
+- 2005 Upper Deck  #276 Ben Sheets / Geoff Jenkins (AUTO)<br>
 
 ### Gorman Thomas
 - 1974 Topps  #288 Gorman Thomas (AUTO)<br>
@@ -70,10 +77,9 @@ This is a set to collect autographs from every person in the Brewers Walk of Fam
 - 1962 Topps  #312 Spahn Shows No-hit Form (AUTO)<br>
 
 
-## Players without qualifying cards: 12
+## Players without qualifying cards: 11
 
 - Bob Uecker
-- Geoff Jenkins
 - Hank Aaron
 - Harry Dalton
 - Harvey Kuenn

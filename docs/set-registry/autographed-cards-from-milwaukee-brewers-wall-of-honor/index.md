@@ -2,7 +2,7 @@
 
 This is a set to collect autographs from every person in the Brewers Wall of Honor.
 
-## Players with qualifying cards: 20 / 74
+## Players with qualifying cards: 21 / 74
 
 ### Ben Oglivie
 - 2004 Topps All-Time Fan Favorites - Autographs #FFA-BO Ben Oglivie (AUTO)<br>
@@ -23,7 +23,11 @@ This is a set to collect autographs from every person in the Brewers Wall of Hon
 - 2002 Topps T206 - Autographs #TA-BS Ben Sheets (AUTO)<br>
 - 2003 Playoff Absolute Memorabilia - Spectrum Signatures #144 Ben Sheets (AUTO)<br>
 - 2003 Upper Deck  - UD Bonus #BS Ben Sheets (AUTO)<br>
+- 2004 Upper Deck SPx - Swatch Supremacy Signatures Young Stars #SS-BS Ben Sheets (AUTO)<br>
+- 2004 Upper Deck Ultimate Collection - Game Materials Signatures #GJS-BS Ben Sheets (AUTO)<br>
+- 2004 Upper Deck Ultimate Collection - Signatures #BS Ben Sheets (AUTO)<br>
 - 2004 Upper Deck Ultimate Collection - Dual Materials Signature #DJS-SF Ben Sheets & Bob Feller (AUTO)<br>
+- 2005 Upper Deck  #276 Ben Sheets / Geoff Jenkins (AUTO)<br>
 - 2005 Upper Deck SP Collection - SP Authentic Signatures #12 Ben Sheets (AUTO)<br>
 - 2005 Upper Deck Ultimate Signature Edition - Supremacy #SS-BS Ben Sheets (AUTO)<br>
 
@@ -51,6 +55,9 @@ This is a set to collect autographs from every person in the Brewers Wall of Hon
 
 ### Fernando Vina
 - 1999 Topps Stadium Club #CS27 Fernando Vina & Quilvio Veras (AUTO)<br>
+
+### Geoff Jenkins
+- 2005 Upper Deck  #276 Ben Sheets / Geoff Jenkins (AUTO)<br>
 
 ### Gorman Thomas
 - 1974 Topps  #288 Gorman Thomas (AUTO)<br>
@@ -97,7 +104,7 @@ This is a set to collect autographs from every person in the Brewers Wall of Hon
 - 2012 Upper Deck SP Signature Edition #MIL6 Yovani Gallardo (AUTO)<br>
 
 
-## Players without qualifying cards: 54
+## Players without qualifying cards: 53
 
 - B. J. Surhoff
 - Bill Castro
@@ -122,7 +129,6 @@ This is a set to collect autographs from every person in the Brewers Wall of Hon
 - Don Sutton
 - Doug Melvin
 - Francisco Rodríguez
-- Geoff Jenkins
 - George Scott
 - Greg Vaughn
 - Hank Aaron
