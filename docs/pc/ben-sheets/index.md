@@ -1,6 +1,6 @@
 # Ben Sheets
 
-## Cards Owned: 53
+## Cards Owned: 56
 
 ## Card List
 
@@ -52,8 +52,11 @@
 2005 Topps  #347 2004 National League ERA Leaders<br>
 2005 Upper Deck  #276 Ben Sheets / Geoff Jenkins<br>
 2005 Upper Deck ESPN - SportsCenter Swatches #GU-BS Ben Sheets<br>
+2005 Upper Deck Pros & Prospects - Signs of Stardom #BS Ben Sheets<br>
+2005 Upper Deck Reflections - Dual Signatures Red #BSSK Ben Sheets / Scott Kasmir<br>
 2005 Upper Deck SP Collection - SP Authentic Signatures #12 Ben Sheets<br>
 2005 Upper Deck Ultimate Signature Edition - Supremacy #SS-BS Ben Sheets<br>
+2005 Upper Deck Ultimate Signature Edition - Decades #SD-BS Ben Sheets<br>
 2008 Topps Chrome - Blue Refractors #46 Ben Sheets<br>
 2008 Topps Co-Signers - Silver Blue #074-YG Ben Sheets<br>
 2008 Topps Co-Signers - Hyper Plaid Blue #74 Ben Sheets / Yovani Gallardo<br>

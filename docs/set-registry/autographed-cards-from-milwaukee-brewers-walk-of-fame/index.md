@@ -25,8 +25,11 @@ This is a set to collect autographs from every person in the Brewers Walk of Fam
 - 2004 Upper Deck Ultimate Collection - Signatures #BS Ben Sheets (AUTO)<br>
 - 2004 Upper Deck Ultimate Collection - Dual Materials Signature #DJS-SF Ben Sheets & Bob Feller (AUTO)<br>
 - 2005 Upper Deck  #276 Ben Sheets / Geoff Jenkins (AUTO)<br>
+- 2005 Upper Deck Pros & Prospects - Signs of Stardom #BS Ben Sheets (AUTO)<br>
+- 2005 Upper Deck Reflections - Dual Signatures Red #BSSK Ben Sheets / Scott Kasmir (AUTO)<br>
 - 2005 Upper Deck SP Collection - SP Authentic Signatures #12 Ben Sheets (AUTO)<br>
 - 2005 Upper Deck Ultimate Signature Edition - Supremacy #SS-BS Ben Sheets (AUTO)<br>
+- 2005 Upper Deck Ultimate Signature Edition - Decades #SD-BS Ben Sheets (AUTO)<br>
 
 ### Bud Selig
 - 2013 Topps Allen & Ginter #300 Bud Selig (AUTO)<br>
