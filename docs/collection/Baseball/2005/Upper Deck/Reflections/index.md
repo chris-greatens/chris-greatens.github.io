@@ -8,6 +8,6 @@
 ## Cards
 
 ### No Subset
-- [ ] 18: Ben Sheets<br>
+- [x] 18: Ben Sheets<br>
 ### Dual Signatures Red
 - [x] BSSK: Ben Sheets / Scott Kasmir<br>
