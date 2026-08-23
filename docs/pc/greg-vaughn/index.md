@@ -1,6 +1,6 @@
 # Greg Vaughn
 
-## Cards Owned: 36
+## Cards Owned: 48
 
 ## Card List
 
@@ -38,5 +38,17 @@
 1995 Upper Deck Collector's Choice SE #70 Greg Vaughn<br>
 1995 Upper Deck Collector's Choice SE - Silver Signatures #70 Greg Vaughn<br>
 1995 Upper Deck Denny's Holograms #27 Greg Vaughn<br>
+1996 Bowman Best #27 Greg Vaughn<br>
+1996 Bowman Best - Refractors #27 Greg Vaughn<br>
 1996-03 Dansbury Mint 22k Gold #115 Greg Vaughn<br>
+1996 Fleer Metal Universe #74 Greg Vaughn<br>
+1996 Fleer Metal Universe - Platinum Edition #74 Greg Vaughn<br>
+1996 Pinnacle Zenith - Mozaics #14 Milwaukee Brewers (Seitzer,Vaughn,McDonald)<br>
+1996 Topps Bazooka #28 Greg Vaughn<br>
+1996 Topps Finest - Refractors #179 Greg Vaughn<br>
+1996 Upper Deck Collector's Choice - Silver Signatures #590 Greg Vaughn<br>
+1997 Bowman Best - Refractors #53 Greg Vaughn<br>
 1997 Pinnacle  - Museum Collection #43 Greg Vaughn<br>
+1997 Pinnacle Totally Certified #64 Greg Vaughn<br>
+1997 Topps Finest - Refractors #221 Greg Vaughn<br>
+1999 Topps  - Power Brokers Refractors #PB11 Greg Vaughn<br>
