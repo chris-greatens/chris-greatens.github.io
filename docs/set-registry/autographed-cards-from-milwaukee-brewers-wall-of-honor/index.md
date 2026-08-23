@@ -35,6 +35,7 @@ This is a set to collect autographs from every person in the Brewers Wall of Hon
 - 2005 Upper Deck SP Collection - SP Authentic Signatures #12 Ben Sheets (AUTO)<br>
 - 2005 Upper Deck Ultimate Signature Edition - Supremacy #SS-BS Ben Sheets (AUTO)<br>
 - 2005 Upper Deck Ultimate Signature Edition - Decades #SD-BS Ben Sheets (AUTO)<br>
+- 2013 Panini USA Baseball Champions - Stars and Stripes Signatures #BNS Ben Sheets (AUTO)<br>
 
 ### Bud Selig
 - 2013 Topps Allen & Ginter #300 Bud Selig (AUTO)<br>

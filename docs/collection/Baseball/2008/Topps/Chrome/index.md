@@ -4,11 +4,14 @@
 ## Subsets
 
 - Blue Refractors
+- Copper Refractors
 - Refractors
 
 ## Cards
 
 ### Blue Refractors
 - [x] 46: Ben Sheets<br>
+### Copper Refractors
+- [x] 46: Ben Sheets<br>
 ### Refractors
-- [ ] 46: Ben Sheets<br>
+- [x] 46: Ben Sheets<br>

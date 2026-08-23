@@ -1,6 +1,6 @@
 # Ben Sheets
 
-## Cards Owned: 72
+## Cards Owned: 91
 
 ## Card List
 
@@ -73,6 +73,25 @@
 2006 Topps Chrome - Refractors #157 Ben Sheets<br>
 2006 Topps Finest - Refractors #103 Ben Sheets<br>
 2006 Upper Deck Special F/X - Purple #253 Ben Sheets<br>
+2007 Bowman Chrome - Refractors #130 Ben Sheets<br>
+2007 Fleer Ultra #99 Ben Sheets<br>
+2007 Topps  - Gold #208 Ben Sheets<br>
+2007 Topps Chrome - White Refractors #91 Ben Sheets<br>
+2007 Topps Chrome - Refractors #91 Ben Sheets<br>
+2007 Topps Finest - Green Refractors #5 Ben Sheets<br>
+2008 Topps Allen & Ginter #57 Ben Sheets<br>
 2008 Topps Chrome - Blue Refractors #46 Ben Sheets<br>
+2008 Topps Chrome - Refractors #46 Ben Sheets<br>
+2008 Topps Chrome - Copper Refractors #46 Ben Sheets<br>
 2008 Topps Co-Signers - Silver Blue #074-YG Ben Sheets<br>
 2008 Topps Co-Signers - Hyper Plaid Blue #74 Ben Sheets / Yovani Gallardo<br>
+2008 Topps Finest - Blue Refractors #28 Ben Sheets<br>
+2008 Topps Heritage #298 Ben Sheets<br>
+2008 Topps Heritage - Chrome Refractors #298 Ben Sheets<br>
+2008 Upper Deck First Edition #42 Ben Sheets<br>
+2009 Topps Heritage - Chrome #C28 Ben Sheets<br>
+2009 Upper Deck SP Legendary Cuts - Destination Stardom Memorabilia #DSM-BS Ben Sheets<br>
+2013 Panini USA Baseball Champions - Stars and Stripes Signatures #BNS Ben Sheets<br>
+2013 Panini USA Baseball Champions - Legends Certified Die Cuts Mirror Blue #1 Ben Sheets<br>
+2013 Panini USA Baseball Champions - Legends Certified Die Cuts #1 Ben Sheets<br>
+2013 Panini USA Baseball Champions - Highlights #5 Ben Sheets Shuts Out Cuba to Win Gold in Sydney<br>
