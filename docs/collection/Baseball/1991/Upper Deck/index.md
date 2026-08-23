@@ -10,6 +10,8 @@
 
 ## Cards
 
+### No Subset
+- [x] 526: Greg Vaughn<br>
 ### Baseball Heroes: Hank Aaron
 - [ ] 19: 1954 Rookie Year<br>
 - [ ] 20: 1957 MVP<br>

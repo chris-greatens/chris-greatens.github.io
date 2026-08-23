@@ -3,4 +3,5 @@
 ## [Donruss](/collection/Baseball/1990/Donruss)
 ## [Fleer](/collection/Baseball/1990/Fleer)
 ## [Upper Deck](/collection/Baseball/1990/Upper Deck)
+## [Score](/collection/Baseball/1990/Score)
 ## [Leaf](/collection/Baseball/1990/Leaf)

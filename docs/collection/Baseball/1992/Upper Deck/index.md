@@ -7,6 +7,7 @@
 - Baseball Heroes: Johnny Bench and Joe Morgan Autographs
 - Baseball Heroes: Ted Williams
 - Baseball Heroes: Ted Williams Autograph
+- Home Run Heroes
 
 ## Cards
 
@@ -36,3 +37,5 @@
 - [ ] : Header Card<br>
 ### Baseball Heroes: Ted Williams Autograph
 - [ ] 36: Checklist<br>
+### Home Run Heroes
+- [x] HR15: Greg Vaughn<br>

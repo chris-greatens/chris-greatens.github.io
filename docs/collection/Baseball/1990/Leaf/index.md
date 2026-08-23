@@ -4,4 +4,5 @@
 ## Cards
 
 ### No Subset
+- [x] 111: Greg Vaughn<br>
 - [x] 325: Larry Walker<br>

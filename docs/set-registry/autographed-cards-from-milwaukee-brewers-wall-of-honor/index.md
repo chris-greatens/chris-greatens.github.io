@@ -2,7 +2,7 @@
 
 This is a set to collect autographs from every person in the Brewers Wall of Honor.
 
-## Players with qualifying cards: 21 / 74
+## Players with qualifying cards: 22 / 74
 
 ### Ben Oglivie
 - 2004 Topps All-Time Fan Favorites - Autographs #FFA-BO Ben Oglivie (AUTO)<br>
@@ -68,6 +68,9 @@ This is a set to collect autographs from every person in the Brewers Wall of Hon
 ### Gorman Thomas
 - 1974 Topps  #288 Gorman Thomas (AUTO)<br>
 
+### Greg Vaughn
+- 1991 Topps  #347 Greg Vaughn (AUTO)<br>
+
 ### Jerry Augustine
 - 1977 Topps  #577 Jerry Augustine (AUTO)<br>
 
@@ -110,7 +113,7 @@ This is a set to collect autographs from every person in the Brewers Wall of Hon
 - 2012 Upper Deck SP Signature Edition #MIL6 Yovani Gallardo (AUTO)<br>
 
 
-## Players without qualifying cards: 53
+## Players without qualifying cards: 52
 
 - B. J. Surhoff
 - Bill Castro
@@ -136,7 +139,6 @@ This is a set to collect autographs from every person in the Brewers Wall of Hon
 - Doug Melvin
 - Francisco Rodríguez
 - George Scott
-- Greg Vaughn
 - Hank Aaron
 - Harry Dalton
 - Harvey Kuenn
