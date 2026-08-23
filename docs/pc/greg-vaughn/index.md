@@ -1,6 +1,6 @@
 # Greg Vaughn
 
-## Cards Owned: 26
+## Cards Owned: 36
 
 ## Card List
 
@@ -28,5 +28,15 @@
 1994 Pinnacle  - Museum Collection #37 Greg Vaughn<br>
 1994 Topps Stadium Club - First Day Issue #378 Greg Vaughn<br>
 1994 Upper Deck Collector's Choice - Silver Signature #585 Greg Vaughn<br>
+1995 Bowman  #410 Greg Vaughn<br>
+1995 Bowman Best #55 Greg Vaughn<br>
+1995 Pinnacle  - Museum Collection #110 Greg Vaughn<br>
+1995 Topps Finest - Refractors #114 Greg Vaughn<br>
+1995 Topps Stadium Club - Clear Cut #24 Greg Vaughn<br>
+1995 Upper Deck Collector's Choice - Silver Signatures #170 Greg Vaughn<br>
+1995 Upper Deck Collector's Choice - Gold Signatures #170 Greg Vaughn<br>
+1995 Upper Deck Collector's Choice SE #70 Greg Vaughn<br>
+1995 Upper Deck Collector's Choice SE - Silver Signatures #70 Greg Vaughn<br>
+1995 Upper Deck Denny's Holograms #27 Greg Vaughn<br>
 1996-03 Dansbury Mint 22k Gold #115 Greg Vaughn<br>
 1997 Pinnacle  - Museum Collection #43 Greg Vaughn<br>
