@@ -70,6 +70,13 @@ This is a set to collect autographs from every person in the Brewers Wall of Hon
 
 ### Greg Vaughn
 - 1991 Topps  #347 Greg Vaughn (AUTO)<br>
+- 2000 Upper Deck SP Authentic - Buyback Autographs #153 Greg Vaughn (96 SP) - n (AUTO)<br>
+- 2000 Upper Deck SP Authentic - Buyback Autographs #155 Greg Vaughn (99 SP) (AUTO)<br>
+- 2014 Topps Archives - Fan Favorites Autographs Purple #FFA-GV Greg Vaughn (AUTO)<br>
+- 2015 Topps Tier One - Acclaimed Autographs #AA-GV Greg Vaughn (AUTO)<br>
+- 2015 Topps Tier One - Acclaimed Autographs #AA-GV Greg Vaughn (AUTO)<br>
+- 2015 Topps Tier One - Acclaimed Autographs #AA-GV Greg Vaughn (AUTO)<br>
+- 2015 Topps Tier One - Acclaimed Autographs Bronze Ink #AA-GV Greg Vaughn (AUTO)<br>
 
 ### Jerry Augustine
 - 1977 Topps  #577 Jerry Augustine (AUTO)<br>

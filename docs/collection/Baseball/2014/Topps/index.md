@@ -1,11 +1,3 @@
-# Topps 2014 
-## Baseball
-
-## Subsets
-
-- Rookie Image Patches
-
-## Cards
-
-### Rookie Image Patches
-- [x] RCP-20: Dwight Gooden<br>
+# Baseball - 2014 - Topps
+## [Topps](/collection/Baseball/2014/Topps/Topps)
+## [Archives](/collection/Baseball/2014/Topps/Archives)

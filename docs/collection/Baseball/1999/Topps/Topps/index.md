@@ -3,6 +3,7 @@
 
 ## Subsets
 
+- All-Topps Mystery Finest Refractors
 - Nolan Ryan Commemorative Reprints  (Cards Owned: 27 / 27 (100.0% complete))
 - Nolan Ryan Commemorative Reprints Autographs  (Cards Owned: 0 / 27 (0.0% complete))
 - Nolan Ryan Commemorative Reprints Finest  (Cards Owned: 10 / 27 (37.0% complete))
@@ -11,6 +12,8 @@
 
 ## Cards
 
+### All-Topps Mystery Finest Refractors
+- [x] M26: Greg Vaughn<br>
 ### Nolan Ryan Commemorative Reprints
 - [x] 1: 1968 Topps Nolan Ryan<br>
 - [x] 2: 1969 Topps Nolan Ryan<br>

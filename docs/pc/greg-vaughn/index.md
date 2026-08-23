@@ -1,6 +1,6 @@
 # Greg Vaughn
 
-## Cards Owned: 48
+## Cards Owned: 60
 
 ## Card List
 
@@ -51,4 +51,16 @@
 1997 Pinnacle  - Museum Collection #43 Greg Vaughn<br>
 1997 Pinnacle Totally Certified #64 Greg Vaughn<br>
 1997 Topps Finest - Refractors #221 Greg Vaughn<br>
+1999 Sports Illustrated  - Fabulous 40s #4FF Greg Vaughn<br>
 1999 Topps  - Power Brokers Refractors #PB11 Greg Vaughn<br>
+1999 Topps  - All-Topps Mystery Finest Refractors #M26 Greg Vaughn<br>
+1999 Topps Finest - Prominent Figures #PF16 Greg Vaughn<br>
+1999 Topps Stadium Club - Triumvirate Illuminator #T1A Greg Vaughn<br>
+1999 Topps Traded and Rookies #T86 Greg Vaughn<br>
+2000 Topps Finest #181 Greg Vaughn<br>
+2000 Upper Deck SP Authentic - Buyback Autographs #153 Greg Vaughn (96 SP) - n<br>
+2000 Upper Deck SP Authentic - Buyback Autographs #155 Greg Vaughn (99 SP)<br>
+2003 Topps  - Gold #162 Greg Vaughn<br>
+2014 Topps Archives - Fan Favorites Autographs Purple #FFA-GV Greg Vaughn<br>
+2015 Topps Tier One - Acclaimed Autographs #AA-GV Greg Vaughn<br>
+2015 Topps Tier One - Acclaimed Autographs Bronze Ink #AA-GV Greg Vaughn<br>
