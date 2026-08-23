@@ -1,6 +1,6 @@
 # Ben Sheets
 
-## Cards Owned: 64
+## Cards Owned: 72
 
 ## Card List
 
@@ -49,6 +49,8 @@
 2004 Upper Deck Ultimate Collection - Dual Materials Signature #DJS-SF Ben Sheets & Bob Feller<br>
 2004 Upper Deck Ultimate Collection - Dual Materials #DJ-SP Ben Sheets / Mark Prior<br>
 2004 Upper Deck USA 25th Anniversary #USA-164 Ben Sheets<br>
+2005 Bowman Heritage - Mini #179 Ben Sheets<br>
+2005 Bowman Heritage - Mahogany #179 Ben Sheets<br>
 2005 Donruss Studio - Spirit of the Game Signature Combos #SOG-6 Ben Sheets<br>
 2005 Fleer Showcase - Autographed Legacy #23 Ben Sheets<br>
 2005 Topps  #347 2004 National League ERA Leaders<br>
@@ -65,6 +67,12 @@
 2005 Upper Deck SP Collection - SP Authentic Signatures #12 Ben Sheets<br>
 2005 Upper Deck Ultimate Signature Edition - Supremacy #SS-BS Ben Sheets<br>
 2005 Upper Deck Ultimate Signature Edition - Decades #SD-BS Ben Sheets<br>
+2006 Bowman Chrome - Blue Refractors #43 Ben Sheets<br>
+2006 Fleer  #69 Ben Sheets<br>
+2006 Topps Chrome - Black Refractors #157 Ben Sheets<br>
+2006 Topps Chrome - Refractors #157 Ben Sheets<br>
+2006 Topps Finest - Refractors #103 Ben Sheets<br>
+2006 Upper Deck Special F/X - Purple #253 Ben Sheets<br>
 2008 Topps Chrome - Blue Refractors #46 Ben Sheets<br>
 2008 Topps Co-Signers - Silver Blue #074-YG Ben Sheets<br>
 2008 Topps Co-Signers - Hyper Plaid Blue #74 Ben Sheets / Yovani Gallardo<br>
