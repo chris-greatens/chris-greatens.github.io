@@ -2,7 +2,7 @@
 
 This is a set to collect autographs from every person in the Brewers Wall of Honor.
 
-## Players with qualifying cards: 22 / 74
+## Players with qualifying cards: 23 / 74
 
 ### Ben Oglivie
 - 2004 Topps All-Time Fan Favorites - Autographs #FFA-BO Ben Oglivie (AUTO)<br>
@@ -78,6 +78,13 @@ This is a set to collect autographs from every person in the Brewers Wall of Hon
 - 2015 Topps Tier One - Acclaimed Autographs #AA-GV Greg Vaughn (AUTO)<br>
 - 2015 Topps Tier One - Acclaimed Autographs Bronze Ink #AA-GV Greg Vaughn (AUTO)<br>
 
+### Jeff Cirillo
+- 1995 Signature Rookies Old Judge - Preview '95 Signatures #10 Jeff Cirillo (AUTO)<br>
+- 1995 Signature Rookies Old Judge - Signatures #10 Jeff Cirillo (AUTO)<br>
+- 1996 Leaf Signature Series - Autographs Bronze #NNO Jeff Cirillo (AUTO)<br>
+- 1996 Leaf Signature Series - Autographs Silver #NNO Jeff Cirillo (AUTO)<br>
+- 1996 Leaf Signature Series - Autographs Gold #NNO Jeff Cirillo (AUTO)<br>
+
 ### Jerry Augustine
 - 1977 Topps  #577 Jerry Augustine (AUTO)<br>
 
@@ -120,7 +127,7 @@ This is a set to collect autographs from every person in the Brewers Wall of Hon
 - 2012 Upper Deck SP Signature Edition #MIL6 Yovani Gallardo (AUTO)<br>
 
 
-## Players without qualifying cards: 52
+## Players without qualifying cards: 51
 
 - B. J. Surhoff
 - Bill Castro
@@ -151,7 +158,6 @@ This is a set to collect autographs from every person in the Brewers Wall of Hon
 - Harvey Kuenn
 - J.J. Hardy
 - Jaime Navarro
-- Jeff Cirillo
 - Jeromy Burnitz
 - Jim Colborn
 - Jim Gantner
