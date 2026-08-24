@@ -8,6 +8,7 @@
 ## Cards
 
 ### No Subset
+- [x] 69: Jeff Cirillo<br>
 - [x] 74: Greg Vaughn<br>
 - [x] 104: Jay Buhner<br>
 ### Platinum Edition

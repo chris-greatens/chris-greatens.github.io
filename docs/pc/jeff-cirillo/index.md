@@ -1,6 +1,6 @@
 # Jeff Cirillo
 
-## Cards Owned: 9
+## Cards Owned: 18
 
 ## Card List
 
@@ -10,6 +10,15 @@
 1995 Signature Rookies Old Judge - Preview '95 #10 Jeff Cirillo<br>
 1995 Signature Rookies Old Judge - Preview '95 Signatures #10 Jeff Cirillo<br>
 1995 Signature Rookies Old Judge - Signatures #10 Jeff Cirillo<br>
+1996 Fleer Metal Universe #69 Jeff Cirillo<br>
 1996 Leaf Signature Series - Autographs Bronze #NNO Jeff Cirillo<br>
 1996 Leaf Signature Series - Autographs Silver #NNO Jeff Cirillo<br>
 1996 Leaf Signature Series - Autographs Gold #NNO Jeff Cirillo<br>
+1996 Upper Deck Collector's Choice - Gold Signatures #188 Jeff Cirillo<br>
+1997 Fleer Metal Universe #63 Jeff Cirillo<br>
+1997 Fleer Ultra #74 Jeff Cirillo<br>
+1998 Topps Stadium Club - First Day Issue #47 Jeff Cirillo<br>
+1999 Fleer Flair Showcase - Flair Showcase Row 1 #141 Jeff Cirillo<br>
+1999 Upper Deck SP Signature Edition - Autographs #JCi Jeff Cirillo<br>
+2000 Topps Stadium Club #81 Jeff Cirillo<br>
+2001 Topps Finest - Refractors #13 Jeff Cirillo<br>

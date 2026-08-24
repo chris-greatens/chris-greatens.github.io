@@ -84,6 +84,9 @@ This is a set to collect autographs from every person in the Brewers Wall of Hon
 - 1996 Leaf Signature Series - Autographs Bronze #NNO Jeff Cirillo (AUTO)<br>
 - 1996 Leaf Signature Series - Autographs Silver #NNO Jeff Cirillo (AUTO)<br>
 - 1996 Leaf Signature Series - Autographs Gold #NNO Jeff Cirillo (AUTO)<br>
+- 1997 Fleer Ultra #74 Jeff Cirillo (AUTO)<br>
+- 1999 Upper Deck SP Signature Edition - Autographs #JCi Jeff Cirillo (AUTO)<br>
+- 2000 Topps Stadium Club #81 Jeff Cirillo (AUTO)<br>
 
 ### Jerry Augustine
 - 1977 Topps  #577 Jerry Augustine (AUTO)<br>
