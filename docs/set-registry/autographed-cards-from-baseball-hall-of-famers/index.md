@@ -2,12 +2,13 @@
 
 This is a set to collect autographs from every person in the baseball hall of fame.
 
-## Players with qualifying cards: 69 / 354
+## Players with qualifying cards: 71 / 354
 
 ### Adrian Beltré
 - 2022 Topps Archives - Fan Favorites Premium #53FF-AB Adrian Beltre (AUTO)<br>
 
 ### Al Kaline
+- 1993 Ted Williams  #38 Al Kaline (AUTO)<br>
 - 2004 Topps Series 2 - World Series Highlights Autographs #WSA-AK Al Kaline (AUTO)<br>
 
 ### Alan Trammell
@@ -17,6 +18,7 @@ This is a set to collect autographs from every person in the baseball hall of fa
 - 2022 Topps Heritage - Real One Autographs #ROA-BB Bert Blyleven (AUTO)<br>
 
 ### Bill Mazeroski
+- 1993 Ted Williams  #78 Bill Mazeroski (AUTO)<br>
 - 1994 Upper Deck The American Epic #66 Bill Mazeroski (AUTO)<br>
 - 2004 Topps Series 1 - World Series Highlights Autographs #WSA-BM Bill Mazeroski (AUTO)<br>
 - 2022 Topps Finest Flashbacks - 1995 Finest Autographs #95FA-BMA Bill Mazeroski (AUTO)<br>
@@ -26,6 +28,7 @@ This is a set to collect autographs from every person in the baseball hall of fa
 - 2025 Topps Series 2 - 1990 Topps Baseball 35th Anniversary Autographs (Series 2) #90B2-BWI Billy Williams (AUTO)<br>
 
 ### Bob Feller
+- 1994 Ted Williams  #25 Bob Feller (AUTO)<br>
 - 1999 Sports Illustrated Greats of the Game - Autographs #NNO Bob Feller (AUTO)<br>
 - 2001 Topps Archives Reserve - Rookie Reprint Autographs #ARA11 Bob Feller (AUTO)<br>
 - 2004 Upper Deck Ultimate Collection - Dual Materials Signature #DJS-SF Ben Sheets & Bob Feller (AUTO)<br>
@@ -78,6 +81,7 @@ This is a set to collect autographs from every person in the baseball hall of fa
 
 ### Ed Mathews
 - 1981-89 Baseball Hall of Fame Metallic Plaques #NNO Ed Mathews (AUTO)<br>
+- 1994 Ted Williams  #43 Ed Mathews (AUTO)<br>
 - 1998 Upper Deck Retro #49 Ed Mathews (AUTO)<br>
 - 1999 Sports Illustrated Greats of the Game - Autographs #NNO Ed Mathews (AUTO)<br>
 
@@ -117,6 +121,7 @@ This is a set to collect autographs from every person in the baseball hall of fa
 
 ### Jim Kaat
 - 1960 Topps  #136 Jim Kaat (AUTO)<br>
+- 1994 Ted Williams  #48 Jim Kaat (AUTO)<br>
 - 2021 Topps Chrome Platinum Anniversary - Refractor #626 Jim Kaat (AUTO)<br>
 
 ### Jim Palmer
@@ -142,6 +147,7 @@ This is a set to collect autographs from every person in the baseball hall of fa
 - 2004 Topps Series 1 - World Series Highlights Autographs #WSA-LB Lou Brock (AUTO)<br>
 
 ### Luis Aparicio
+- 1993 Ted Williams  #25 Luis Aparicio (AUTO)<br>
 - 2002 Topps  - Team Topps Legends Autographs #TT-LA Luis Aparicio (AUTO)<br>
 
 ### Mariano Rivera
@@ -153,6 +159,9 @@ This is a set to collect autographs from every person in the baseball hall of fa
 
 ### Mike Schmidt
 - 2004 Topps Series 1 - World Series Highlights Autographs #WSA-MS Mike Schmidt (AUTO)<br>
+
+### Monte Irvin
+- 1993 Ted Williams  #54 Monte Irvin (AUTO)<br>
 
 ### Nolan Ryan
 - 1994 Spectrum The Miracle of '69 #7 Nolan Ryan (AUTO)<br>
@@ -170,6 +179,9 @@ This is a set to collect autographs from every person in the baseball hall of fa
 
 ### Phil Niekro
 - 2000 Upper Deck Legends - Legendary Signatures #S-PN Phil Niekro (AUTO)<br>
+
+### Ralph Kiner
+- 1993 Ted Williams  #76 Ralph Kiner (AUTO)<br>
 
 ### Randy Johnson
 - 2022 Topps Archives - Fan Favorites Premium #53FF-RJN Randy Johnson (AUTO)<br>
@@ -252,7 +264,7 @@ This is a set to collect autographs from every person in the baseball hall of fa
 - 2001 Fleer Platinum - Rack Pack Autographs #NNO 1998 SI Then and Now - Willie Mays (AUTO)<br>
 
 
-## Players without qualifying cards: 285
+## Players without qualifying cards: 283
 
 - Addie Joss
 - Al Barlick
@@ -458,7 +470,6 @@ This is a set to collect autographs from every person in the baseball hall of fa
 - Mike Piazza
 - Miller Huggins
 - Minnie Miñoso
-- Monte Irvin
 - Mordecai Brown
 - Morgan Bulkeley
 - Mule Suttles
@@ -477,7 +488,6 @@ This is a set to collect autographs from every person in the baseball hall of fa
 - Pop Lloyd
 - Pud Galvin
 - Rabbit Maranville
-- Ralph Kiner
 - Ray Brown
 - Ray Dandridge
 - Ray Schalk

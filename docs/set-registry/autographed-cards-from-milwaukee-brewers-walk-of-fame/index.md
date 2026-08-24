@@ -38,6 +38,7 @@ This is a set to collect autographs from every person in the Brewers Walk of Fam
 - 2013 Topps Allen & Ginter #300 Bud Selig (AUTO)<br>
 
 ### Cecil Cooper
+- 1993 Ted Williams  #49 Cecil Cooper (AUTO)<br>
 - 2006 Upper Deck SP Legendary Cuts - Place in History Signatures #PH-CC Cecil Cooper (AUTO)<br>
 
 ### Don Money
@@ -48,6 +49,7 @@ This is a set to collect autographs from every person in the Brewers Walk of Fam
 
 ### Ed Mathews
 - 1981-89 Baseball Hall of Fame Metallic Plaques #NNO Ed Mathews (AUTO)<br>
+- 1994 Ted Williams  #43 Ed Mathews (AUTO)<br>
 - 1998 Upper Deck Retro #49 Ed Mathews (AUTO)<br>
 - 1999 Sports Illustrated Greats of the Game - Autographs #NNO Ed Mathews (AUTO)<br>
 
@@ -56,6 +58,7 @@ This is a set to collect autographs from every person in the Brewers Walk of Fam
 
 ### Gorman Thomas
 - 1974 Topps  #288 Gorman Thomas (AUTO)<br>
+- 1994 Ted Williams  #45 Gorman Thomas (AUTO)<br>
 
 ### Johnny Logan
 - 1954 Bowman  #80 Johnny Logan (AUTO)<br>

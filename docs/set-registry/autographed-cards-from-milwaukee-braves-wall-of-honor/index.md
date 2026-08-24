@@ -17,6 +17,7 @@ This is a set to collect autographs from every person in the Milwaukee Braves Wa
 
 ### Ed Mathews
 - 1981-89 Baseball Hall of Fame Metallic Plaques #NNO Ed Mathews (AUTO)<br>
+- 1994 Ted Williams  #43 Ed Mathews (AUTO)<br>
 - 1998 Upper Deck Retro #49 Ed Mathews (AUTO)<br>
 - 1999 Sports Illustrated Greats of the Game - Autographs #NNO Ed Mathews (AUTO)<br>
 

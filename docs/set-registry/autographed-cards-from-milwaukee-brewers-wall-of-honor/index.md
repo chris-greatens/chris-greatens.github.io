@@ -5,6 +5,7 @@ This is a set to collect autographs from every person in the Brewers Wall of Hon
 ## Players with qualifying cards: 23 / 74
 
 ### Ben Oglivie
+- 1994 Ted Williams  #44 Ben Oglivie (AUTO)<br>
 - 2004 Topps All-Time Fan Favorites - Autographs #FFA-BO Ben Oglivie (AUTO)<br>
 
 ### Ben Sheets
@@ -45,6 +46,7 @@ This is a set to collect autographs from every person in the Brewers Wall of Hon
 - 2022 Topps Tier One - Prime Performers Autographs #PPA-CS CC Sabathia (AUTO)<br>
 
 ### Cecil Cooper
+- 1993 Ted Williams  #49 Cecil Cooper (AUTO)<br>
 - 2006 Upper Deck SP Legendary Cuts - Place in History Signatures #PH-CC Cecil Cooper (AUTO)<br>
 
 ### Craig Counsell
@@ -67,6 +69,7 @@ This is a set to collect autographs from every person in the Brewers Wall of Hon
 
 ### Gorman Thomas
 - 1974 Topps  #288 Gorman Thomas (AUTO)<br>
+- 1994 Ted Williams  #45 Gorman Thomas (AUTO)<br>
 
 ### Greg Vaughn
 - 1991 Topps  #347 Greg Vaughn (AUTO)<br>
@@ -87,6 +90,8 @@ This is a set to collect autographs from every person in the Brewers Wall of Hon
 - 1997 Fleer Ultra #74 Jeff Cirillo (AUTO)<br>
 - 1999 Upper Deck SP Signature Edition - Autographs #JCi Jeff Cirillo (AUTO)<br>
 - 2000 Topps Stadium Club #81 Jeff Cirillo (AUTO)<br>
+- 2005 Topps Chrome Updates & Highlights - Refractors #UH76 Jeff Cirillo (AUTO)<br>
+- 2006 Upper Deck Special F/X - Purple #682 Jeff Cirillo (AUTO)<br>
 
 ### Jerry Augustine
 - 1977 Topps  #577 Jerry Augustine (AUTO)<br>

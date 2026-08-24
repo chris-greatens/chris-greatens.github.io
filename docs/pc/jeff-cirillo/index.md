@@ -1,6 +1,6 @@
 # Jeff Cirillo
 
-## Cards Owned: 18
+## Cards Owned: 24
 
 ## Card List
 
@@ -22,3 +22,9 @@
 1999 Upper Deck SP Signature Edition - Autographs #JCi Jeff Cirillo<br>
 2000 Topps Stadium Club #81 Jeff Cirillo<br>
 2001 Topps Finest - Refractors #13 Jeff Cirillo<br>
+2005 Topps Chrome Updates & Highlights - Refractors #UH76 Jeff Cirillo<br>
+2005 Topps Chrome Updates & Highlights - Black Refractors #UH76 Jeff Cirillo<br>
+2005 Topps Updates & Highlights - Gold #UH77 Jeff Cirillo<br>
+2006 Topps Updates & Highlights - Gold #UH112 Jeff Cirillo<br>
+2006 Upper Deck Special F/X - Purple #682 Jeff Cirillo<br>
+2017 Topps  - Rediscover Topps 2005 Topps Updates & Highlights Stamped Buybacks Gold #UH77 Jeff Cirillo<br>
