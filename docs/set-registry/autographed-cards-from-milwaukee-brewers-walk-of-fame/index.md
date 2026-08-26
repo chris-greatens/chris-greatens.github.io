@@ -42,8 +42,15 @@ This is a set to collect autographs from every person in the Brewers Walk of Fam
 - 2006 Upper Deck SP Legendary Cuts - Place in History Signatures #PH-CC Cecil Cooper (AUTO)<br>
 
 ### Don Money
+- 1969 Topps  #454 1969 Phillies Rookie Stars (AUTO)<br>
 - 1970 Topps  #645 Don Money (AUTO)<br>
+- 1971 Topps  #49 Don Money (AUTO)<br>
+- 1972 Topps  #635 Don Money (AUTO)<br>
+- 1973 Topps  #386 Don Money (AUTO)<br>
+- 1974 Topps  #413 Don Money (AUTO)<br>
 - 1975 Topps  #175 Don Money (AUTO)<br>
+- 1976 Topps  #402 Don Money (AUTO)<br>
+- 1977 Topps  #79 Don Money (AUTO)<br>
 - 1981 Topps  #106 Don Money (AUTO)<br>
 - 1982 Donruss  #384 Don Money (AUTO)<br>
 

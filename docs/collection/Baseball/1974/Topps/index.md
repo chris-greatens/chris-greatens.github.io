@@ -12,5 +12,6 @@
 - [ ] 6: Hank Aaron Special<br>
 - [x] 288: Gorman Thomas<br>
 - [ ] 332: All-Star First Basemen<br>
+- [x] 413: Don Money<br>
 - [x] 431: Gene Garber<br>
 - [ ] 634: Ed Mathews<br>
