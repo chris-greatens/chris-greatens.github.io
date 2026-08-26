@@ -4,7 +4,7 @@
 
 ## Card List
 
-1994 Spectrum The Miracle of '69 #7 Nolan Ryan<br>
+1994 Spectrum The Miracle of '69 #7 Nolan Ryan (Autographed)<br>
 1999 Topps  - Nolan Ryan Commemorative Reprints #1 1968 Topps Nolan Ryan<br>
 1999 Topps  - Nolan Ryan Commemorative Reprints Finest #1 1968 Topps Nolan Ryan<br>
 1999 Topps  - Nolan Ryan Commemorative Reprints #2 1969 Topps Nolan Ryan<br>
@@ -62,7 +62,7 @@
 1999 Topps  - Nolan Ryan Commemorative Reprints Finest Refractors #26 1993 Topps Nolan Ryan<br>
 1999 Topps  - Nolan Ryan Commemorative Reprints #27 1994 Topps Nolan Ryan<br>
 2017 Topps Heritage - Baseball Flashbacks #BF-NR Baseball Flashbacks 1968 - Nolan Ryan<br>
-2022 Topps Archives - Fan Favorites Premium #53FF-NR Nolan Ryan<br>
+2022 Topps Archives - Fan Favorites Premium #53FF-NR Nolan Ryan (11/50) (Autographed)<br>
 2022 Topps Heritage High Numbers - All Aboard! #AA-1 Flame-throwing Ryan Cool After No-no<br>
 2022 Topps Heritage High Numbers - All Aboard! #AA-5 Fourth No-hitter Matches Idol Koufax<br>
 2022 Topps Heritage High Numbers - All Aboard! #AA-10 Nolan Is 20th to Reach 300 Wins<br>
@@ -73,4 +73,4 @@
 2022 Topps Heritage High Numbers - All Aboard! #AA-3 Ryan Sets Single Season Strikeout Record<br>
 2022 Topps Heritage High Numbers - All Aboard! #AA-4 Ryan Tests Limits of Endurance<br>
 2022 Topps Heritage High Numbers - All Aboard! #AA-6 Ryan's Age-40 Season Sets Records<br>
-2023 Topps Update - AKA #AKA-3 Nolan Ryan<br>
+2023 Topps Update - AKA #AKA-3 Nolan Ryan (Autographed)<br>

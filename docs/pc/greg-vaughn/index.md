@@ -1,6 +1,6 @@
 # Greg Vaughn
 
-## Cards Owned: 60
+## Cards Owned: 62
 
 ## Card List
 
@@ -12,7 +12,7 @@
 1991 Fleer Ultra #183 Greg Vaughn<br>
 1991 Leaf Studio #79 Greg Vaughn<br>
 1991 Score  #528 Greg Vaughn<br>
-1991 Topps  #347 Greg Vaughn<br>
+1991 Topps  #347 Greg Vaughn (Autographed)<br>
 1991 Topps Desert Shield #547 Greg Vaughn<br>
 1991 Upper Deck  #526 Greg Vaughn<br>
 1992 Bowman  #496 Greg Vaughn<br>
@@ -49,18 +49,20 @@
 1996 Upper Deck Collector's Choice - Silver Signatures #590 Greg Vaughn<br>
 1997 Bowman Best - Refractors #53 Greg Vaughn<br>
 1997 Pinnacle  - Museum Collection #43 Greg Vaughn<br>
-1997 Pinnacle Totally Certified #64 Greg Vaughn<br>
+1997 Pinnacle Totally Certified #64 Greg Vaughn (1902/3999)<br>
 1997 Topps Finest - Refractors #221 Greg Vaughn<br>
 1999 Sports Illustrated  - Fabulous 40s #4FF Greg Vaughn<br>
 1999 Topps  - Power Brokers Refractors #PB11 Greg Vaughn<br>
 1999 Topps  - All-Topps Mystery Finest Refractors #M26 Greg Vaughn<br>
-1999 Topps Finest - Prominent Figures #PF16 Greg Vaughn<br>
+1999 Topps Finest - Prominent Figures #PF16 Greg Vaughn (705/847)<br>
 1999 Topps Stadium Club - Triumvirate Illuminator #T1A Greg Vaughn<br>
 1999 Topps Traded and Rookies #T86 Greg Vaughn<br>
 2000 Topps Finest #181 Greg Vaughn<br>
-2000 Upper Deck SP Authentic - Buyback Autographs #153 Greg Vaughn (96 SP) - n<br>
-2000 Upper Deck SP Authentic - Buyback Autographs #155 Greg Vaughn (99 SP)<br>
-2003 Topps  - Gold #162 Greg Vaughn<br>
-2014 Topps Archives - Fan Favorites Autographs Purple #FFA-GV Greg Vaughn<br>
-2015 Topps Tier One - Acclaimed Autographs #AA-GV Greg Vaughn<br>
-2015 Topps Tier One - Acclaimed Autographs Bronze Ink #AA-GV Greg Vaughn<br>
+2000 Upper Deck SP Authentic - Buyback Autographs #153 Greg Vaughn (96 SP) - n (22/113) (Autographed)<br>
+2000 Upper Deck SP Authentic - Buyback Autographs #155 Greg Vaughn (99 SP) (34/527) (Autographed)<br>
+2003 Topps  - Gold #162 Greg Vaughn (1138/2003)<br>
+2014 Topps Archives - Fan Favorites Autographs Purple #FFA-GV Greg Vaughn (4/10) (Autographed)<br>
+2015 Topps Tier One - Acclaimed Autographs #AA-GV Greg Vaughn (43/399) (Autographed)<br>
+2015 Topps Tier One - Acclaimed Autographs #AA-GV Greg Vaughn (326/399) (Autographed)<br>
+2015 Topps Tier One - Acclaimed Autographs #AA-GV Greg Vaughn (69/399) (Autographed)<br>
+2015 Topps Tier One - Acclaimed Autographs Bronze Ink #AA-GV Greg Vaughn (6/25) (Autographed)<br>
