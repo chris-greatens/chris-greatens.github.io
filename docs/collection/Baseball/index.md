@@ -26,6 +26,7 @@
 ## [1975](/collection/Baseball/1975)
 ## [1976](/collection/Baseball/1976)
 ## [1977](/collection/Baseball/1977)
+## [1978](/collection/Baseball/1978)
 ## [1979](/collection/Baseball/1979)
 ## [1980](/collection/Baseball/1980)
 ## [1981](/collection/Baseball/1981)

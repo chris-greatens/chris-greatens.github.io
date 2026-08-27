@@ -65,8 +65,14 @@ This is a set to collect autographs from every person in the Brewers Wall of Hon
 - 1975 Topps  #175 Don Money (AUTO)<br>
 - 1976 Topps  #402 Don Money (AUTO)<br>
 - 1977 Topps  #79 Don Money (AUTO)<br>
+- 1978 Topps  #24 Don Money (AUTO)<br>
+- 1979 Topps  #265 Don Money (AUTO)<br>
+- 1980 Topps  #595 Don Money (AUTO)<br>
 - 1981 Topps  #106 Don Money (AUTO)<br>
 - 1982 Donruss  #384 Don Money (AUTO)<br>
+- 1982 Topps  #709 Don Money (AUTO)<br>
+- 1983 Topps  #608 Don Money (AUTO)<br>
+- 1984 Topps  #374 Don Money (AUTO)<br>
 
 ### Fernando Vina
 - 1999 Topps Stadium Club #CS27 Fernando Vina & Quilvio Veras (AUTO)<br>

@@ -22,6 +22,7 @@
 - [ ] 290: Dave Dravecky<br>
 - [ ] 332: Kevin Gross<br>
 - [ ] 365: Steve Bedrosian<br>
+- [x] 374: Don Money<br>
 - [ ] 420: Cecil Cooper<br>
 - [ ] 423: Mike Morgan<br>
 - [ ] 473: Jim Dwyer<br>
