@@ -40,6 +40,7 @@ This is a set to collect autographs from every person in the Brewers Walk of Fam
 ### Cecil Cooper
 - 1993 Ted Williams  #49 Cecil Cooper (AUTO)<br>
 - 2006 Upper Deck SP Legendary Cuts - Place in History Signatures #PH-CC Cecil Cooper (AUTO)<br>
+- 2012 Upper Deck SP Signature Edition #MIL1 Cecil Cooper (AUTO)<br>
 
 ### Don Money
 - 1969 Topps  #454 1969 Phillies Rookie Stars (AUTO)<br>

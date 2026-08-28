@@ -2,7 +2,7 @@
 
 This is a set to collect autographs from every person in the Brewers Wall of Honor.
 
-## Players with qualifying cards: 24 / 74
+## Players with qualifying cards: 26 / 74
 
 ### Ben Oglivie
 - 1994 Ted Williams  #44 Ben Oglivie (AUTO)<br>
@@ -48,6 +48,10 @@ This is a set to collect autographs from every person in the Brewers Wall of Hon
 ### Cecil Cooper
 - 1993 Ted Williams  #49 Cecil Cooper (AUTO)<br>
 - 2006 Upper Deck SP Legendary Cuts - Place in History Signatures #PH-CC Cecil Cooper (AUTO)<br>
+- 2012 Upper Deck SP Signature Edition #MIL1 Cecil Cooper (AUTO)<br>
+
+### Corey Hart
+- 2012 Upper Deck SP Signature Edition #MIL5 Corey Hart (AUTO)<br>
 
 ### Craig Counsell
 - 2009 Topps Heritage #546 Craig Counsell (AUTO)<br>
@@ -121,6 +125,9 @@ This is a set to collect autographs from every person in the Brewers Wall of Hon
 ### Prince Fielder
 - 2025 Topps Finest - Creators Autographs Blue #CAV-PL Prince Fielder (AUTO)<br>
 
+### Rickie Weeks
+- 2012 Upper Deck SP Signature Edition #MIL4 Rickie Weeks (AUTO)<br>
+
 ### Robin Yount
 - 2004 Topps Series 1 - World Series Highlights Autographs #WSA-RY Robin Yount (AUTO)<br>
 - 2018 Topps Clearly Authentic - Reprint Autographs #CAR-RY Robin Yount (AUTO)<br>
@@ -151,7 +158,7 @@ This is a set to collect autographs from every person in the Brewers Wall of Hon
 - 2012 Upper Deck SP Signature Edition #MIL6 Yovani Gallardo (AUTO)<br>
 
 
-## Players without qualifying cards: 50
+## Players without qualifying cards: 48
 
 - B. J. Surhoff
 - Bill Castro
@@ -167,7 +174,6 @@ This is a set to collect autographs from every person in the Brewers Wall of Hon
 - Charlie Moore
 - Chris Bosio
 - Chuck Crim
-- Corey Hart
 - Dan Plesac
 - Darrell Porter
 - Darryl Hamilton
@@ -198,7 +204,6 @@ This is a set to collect autographs from every person in the Brewers Wall of Hon
 - Pat Listach
 - Pete Vuckovich
 - Richie Sexson
-- Rickie Weeks
 - Rob Deer
 - Ryan Braun
 - Sal Bando
