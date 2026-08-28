@@ -1,4 +1,5 @@
 # Baseball - 2026 - Topps
+## [Chrome](/collection/Baseball/2026/Topps/Chrome)
 ## [Chrome Black](/collection/Baseball/2026/Topps/Chrome Black)
 ## [Finest](/collection/Baseball/2026/Topps/Finest)
 ## [Heritage](/collection/Baseball/2026/Topps/Heritage)

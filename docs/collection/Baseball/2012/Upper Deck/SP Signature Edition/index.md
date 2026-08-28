@@ -13,7 +13,7 @@
 - [ ] MIL14: Cutter Dykstra / Yovani Gallardo<br>
 - [ ] MIL15: Kentrail Davis / Cameron Garfield / Seth Lintz<br>
 - [ ] MIL16: Cutter Dykstra / Jose Garcia / Cameron Garfield / Seth Lintz<br>
-- [ ] MIL2: Paul Molitor<br>
+- [x] MIL2: Paul Molitor<br>
 - [ ] MIL3: Geoff Jenkins<br>
 - [ ] MIL4: Rickie Weeks<br>
 - [ ] MIL5: Corey Hart<br>

@@ -2,7 +2,7 @@
 
 This is a set to collect autographs from every person in the Brewers Wall of Honor.
 
-## Players with qualifying cards: 23 / 74
+## Players with qualifying cards: 24 / 74
 
 ### Ben Oglivie
 - 1994 Ted Williams  #44 Ben Oglivie (AUTO)<br>
@@ -115,6 +115,9 @@ This is a set to collect autographs from every person in the Brewers Wall of Hon
 ### Ken Sanders
 - 1971 Topps  #116 Ken Sanders (AUTO)<br>
 
+### Paul Molitor
+- 2012 Upper Deck SP Signature Edition #MIL2 Paul Molitor (AUTO)<br>
+
 ### Prince Fielder
 - 2025 Topps Finest - Creators Autographs Blue #CAV-PL Prince Fielder (AUTO)<br>
 
@@ -148,7 +151,7 @@ This is a set to collect autographs from every person in the Brewers Wall of Hon
 - 2012 Upper Deck SP Signature Edition #MIL6 Yovani Gallardo (AUTO)<br>
 
 
-## Players without qualifying cards: 51
+## Players without qualifying cards: 50
 
 - B. J. Surhoff
 - Bill Castro
@@ -193,7 +196,6 @@ This is a set to collect autographs from every person in the Brewers Wall of Hon
 - Mike Fetters
 - Moose Haas
 - Pat Listach
-- Paul Molitor
 - Pete Vuckovich
 - Richie Sexson
 - Rickie Weeks

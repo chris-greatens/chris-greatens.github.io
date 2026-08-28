@@ -2,7 +2,7 @@
 
 This is a set to collect autographs from every person in the baseball hall of fame.
 
-## Players with qualifying cards: 71 / 354
+## Players with qualifying cards: 72 / 354
 
 ### Adrian Beltré
 - 2022 Topps Archives - Fan Favorites Premium #53FF-AB Adrian Beltre (AUTO)<br>
@@ -177,6 +177,9 @@ This is a set to collect autographs from every person in the baseball hall of fa
 ### Pat Gillick
 - 2014 Panini Hall of Fame 75th Year Anniversary - Signatures #88 Pat Gillick (AUTO)<br>
 
+### Paul Molitor
+- 2012 Upper Deck SP Signature Edition #MIL2 Paul Molitor (AUTO)<br>
+
 ### Phil Niekro
 - 2000 Upper Deck Legends - Legendary Signatures #S-PN Phil Niekro (AUTO)<br>
 
@@ -264,7 +267,7 @@ This is a set to collect autographs from every person in the baseball hall of fa
 - 2001 Fleer Platinum - Rack Pack Autographs #NNO 1998 SI Then and Now - Willie Mays (AUTO)<br>
 
 
-## Players without qualifying cards: 283
+## Players without qualifying cards: 282
 
 - Addie Joss
 - Al Barlick
@@ -478,7 +481,6 @@ This is a set to collect autographs from every person in the baseball hall of fa
 - Nellie Fox
 - Nestor Chylak Jr.
 - Oscar Charleston
-- Paul Molitor
 - Paul Waner
 - Pedro Martinez
 - Pee Wee Reese
