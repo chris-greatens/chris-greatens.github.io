@@ -211,7 +211,7 @@
 - [ ] 205: Rick Manning<br>
 - [ ] 206: Bob McClure<br>
 - [ ] 207: Paul Molitor<br>
-- [ ] 208: Don Money<br>
+- [x] 208: Don Money<br>
 - [ ] 209: Charlie Moore<br>
 - [ ] 210: Ben Oglivie<br>
 - [ ] 211: Chuck Porter<br>

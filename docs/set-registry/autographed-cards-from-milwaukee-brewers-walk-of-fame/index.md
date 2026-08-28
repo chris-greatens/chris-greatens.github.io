@@ -55,10 +55,15 @@ This is a set to collect autographs from every person in the Brewers Walk of Fam
 - 1978 Topps  #24 Don Money (AUTO)<br>
 - 1979 Topps  #265 Don Money (AUTO)<br>
 - 1980 Topps  #595 Don Money (AUTO)<br>
+- 1981 Donruss  #443 Don Money (AUTO)<br>
+- 1981 Fleer  #524 Don Money (AUTO)<br>
 - 1981 Topps  #106 Don Money (AUTO)<br>
 - 1982 Donruss  #384 Don Money (AUTO)<br>
+- 1982 Fleer  #149 Don Money (AUTO)<br>
 - 1982 Topps  #709 Don Money (AUTO)<br>
+- 1983 Donruss  #132 Don Money (AUTO)<br>
 - 1983 Topps  #608 Don Money (AUTO)<br>
+- 1984 Fleer  #208 Don Money (AUTO)<br>
 - 1984 Topps  #374 Don Money (AUTO)<br>
 
 ### Ed Mathews

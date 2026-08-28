@@ -25,16 +25,16 @@
 ### Baseball Heroes: Johnny Bench and Joe Morgan Autographs
 - [ ] 45: Checklist<br>
 ### Baseball Heroes: Ted Williams
-- [ ] 28: 1939 Rookie Year<br>
-- [ ] 29: 1941 .406<br>
-- [ ] 30: 1942 Triple Crown Year<br>
-- [ ] 31: 1946 & 1949 MVP<br>
+- [x] 28: 1939 Rookie Year<br>
+- [x] 29: 1941 .406<br>
+- [x] 30: 1942 Triple Crown Year<br>
+- [x] 31: 1946 & 1949 MVP<br>
 - [ ] 32: 1947 Second Triple Crown<br>
-- [ ] 33: 1950s Player of the Decade<br>
-- [ ] 34: 1960 500 Home Run Club<br>
-- [ ] 35: 1968 Hall of Fame<br>
-- [ ] 36: Checklist<br>
-- [ ] : Header Card<br>
+- [x] 33: 1950s Player of the Decade<br>
+- [x] 34: 1960 500 Home Run Club<br>
+- [x] 35: 1968 Hall of Fame<br>
+- [x] 36: Checklist<br>
+- [x] : Header Card<br>
 ### Baseball Heroes: Ted Williams Autograph
 - [ ] 36: Checklist<br>
 ### Home Run Heroes

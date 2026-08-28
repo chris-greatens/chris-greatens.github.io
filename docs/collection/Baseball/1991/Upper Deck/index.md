@@ -15,14 +15,14 @@
 ### Baseball Heroes: Hank Aaron
 - [ ] 19: 1954 Rookie Year<br>
 - [ ] 20: 1957 MVP<br>
-- [ ] 21: 1965 Move to Atlanta<br>
-- [ ] 22: 1970 3000!<br>
-- [ ] 23: 1974 715!<br>
-- [ ] 24: 1975 Return to Milwaukee<br>
-- [ ] 25: 1976 755!<br>
-- [ ] 26: 1982 Hall of Fame<br>
-- [ ] 27: Checklist<br>
-- [ ] : Header Card<br>
+- [x] 21: 1965 Move to Atlanta<br>
+- [x] 22: 1970 3000!<br>
+- [x] 23: 1974 715!<br>
+- [x] 24: 1975 Return to Milwaukee<br>
+- [x] 25: 1976 755!<br>
+- [x] 26: 1982 Hall of Fame<br>
+- [x] 27: Checklist<br>
+- [x] : Header Card<br>
 ### Baseball Heroes: Hank Aaron Autograph
 - [ ] 27: Checklist<br>
 ### Baseball Heroes: Nolan Ryan
