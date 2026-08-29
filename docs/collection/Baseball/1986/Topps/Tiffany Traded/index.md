@@ -1,4 +1,4 @@
-# Topps 1986 Traded
+# Topps 1986 Tiffany Traded
 ## Baseball
 
 ## Cards

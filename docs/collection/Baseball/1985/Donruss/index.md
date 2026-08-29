@@ -9,7 +9,7 @@
 - [ ] 28: Mike Bielecki Rated Rookie<br>
 - [ ] 84: Bill Doran<br>
 - [ ] 185: Goose Gossage<br>
-- [ ] 271: Pete Ladd<br>
+- [x] 271: Pete Ladd<br>
 - [ ] 307: Steve Garvey<br>
 - [ ] 452: Julio Cruz<br>
 - [ ] 648: John Russell<br>

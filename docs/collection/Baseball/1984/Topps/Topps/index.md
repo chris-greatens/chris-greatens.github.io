@@ -16,7 +16,7 @@
 - [ ] 134: 1983 Stolen Base Leaders<br>
 - [ ] 183: Al Williams<br>
 - [ ] 198: Bill Doran<br>
-- [ ] 243: Pete Ladd<br>
+- [x] 243: Pete Ladd<br>
 - [ ] 260: Scott McGregor<br>
 - [ ] 282: Jim Barr<br>
 - [ ] 290: Dave Dravecky<br>

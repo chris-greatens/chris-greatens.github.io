@@ -4,7 +4,7 @@
 ## Cards
 
 ### No Subset
-- [ ] 37: Pete Ladd<br>
+- [x] 37: Pete Ladd<br>
 - [x] 41: Don Money<br>
 - [ ] 60: Mike Flanagan<br>
 - [ ] 71: Gary Roenicke<br>

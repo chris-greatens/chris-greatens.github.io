@@ -21,7 +21,7 @@
 - [ ] 373: Mike Moore<br>
 - [ ] 416: Wayne Gross<br>
 - [ ] 429: Rick Cerone<br>
-- [ ] 471: Pete Ladd<br>
+- [x] 471: Pete Ladd<br>
 - [ ] 499: Danny Cox<br>
 - [ ] 606: Rich Gale<br>
 - [ ] 620: Dwight Gooden<br>

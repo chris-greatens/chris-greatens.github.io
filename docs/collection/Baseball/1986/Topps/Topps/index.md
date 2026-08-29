@@ -17,7 +17,7 @@
 - [ ] 104: Sid Fernandez<br>
 - [ ] 113: U.L. Washington<br>
 - [ ] 125: Davey Lopes<br>
-- [ ] 163: Pete Ladd<br>
+- [x] 163: Pete Ladd<br>
 - [ ] 180: Don Mattingly<br>
 - [ ] 186: Houston Astros Team Leaders<br>
 - [ ] 191: Wally Backman<br>

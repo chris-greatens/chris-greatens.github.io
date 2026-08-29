@@ -591,7 +591,7 @@
 - [ ] 585: Lee Guetterman<br>
 - [ ] 586: Mark Huismann<br>
 - [ ] 587: Bob Kearney<br>
-- [ ] 588: Pete Ladd<br>
+- [x] 588: Pete Ladd<br>
 - [ ] 589: Mark Langston<br>
 - [ ] 590: Mike Moore<br>
 - [ ] 591: Mike Morgan<br>

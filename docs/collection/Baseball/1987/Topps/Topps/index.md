@@ -579,7 +579,7 @@
 - [ ] 569: Wade Rowdon<br>
 - [ ] 570: Sid Fernandez<br>
 - [ ] 571: Ozzie Virgil<br>
-- [ ] 572: Pete Ladd<br>
+- [x] 572: Pete Ladd<br>
 - [ ] 573: Hal McRae<br>
 - [ ] 574: Manny Lee<br>
 - [ ] 575: Pat Tabler<br>
