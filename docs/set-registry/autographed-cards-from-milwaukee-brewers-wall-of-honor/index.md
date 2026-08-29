@@ -82,6 +82,7 @@ This is a set to collect autographs from every person in the Brewers Wall of Hon
 - 1983 Topps  #608 Don Money (AUTO)<br>
 - 1984 Fleer  #208 Don Money (AUTO)<br>
 - 1984 Topps  #374 Don Money (AUTO)<br>
+- 2004 Upper Deck Legends Timeless Teams - Autographs #224 Don Money (AUTO)<br>
 
 ### Fernando Vina
 - 1999 Topps Stadium Club #CS27 Fernando Vina & Quilvio Veras (AUTO)<br>

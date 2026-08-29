@@ -67,6 +67,7 @@
 ## [2013](/collection/Baseball/2013)
 ## [2014](/collection/Baseball/2014)
 ## [2015](/collection/Baseball/2015)
+## [2016](/collection/Baseball/2016)
 ## [2017](/collection/Baseball/2017)
 ## [2018](/collection/Baseball/2018)
 ## [2019](/collection/Baseball/2019)

@@ -10,5 +10,6 @@
 - [ ] 428: Pat Zachry<br>
 - [x] 595: Don Money<br>
 - [ ] 639: Larry Biittner<br>
+- [x] 668: Brewers Future Stars<br>
 - [x] 678: Astros Future Stars<br>
 - [ ] 685: Padres Future Stars<br>

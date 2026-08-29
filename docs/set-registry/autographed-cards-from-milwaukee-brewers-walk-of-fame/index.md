@@ -65,6 +65,7 @@ This is a set to collect autographs from every person in the Brewers Walk of Fam
 - 1983 Topps  #608 Don Money (AUTO)<br>
 - 1984 Fleer  #208 Don Money (AUTO)<br>
 - 1984 Topps  #374 Don Money (AUTO)<br>
+- 2004 Upper Deck Legends Timeless Teams - Autographs #224 Don Money (AUTO)<br>
 
 ### Ed Mathews
 - 1981-89 Baseball Hall of Fame Metallic Plaques #NNO Ed Mathews (AUTO)<br>
