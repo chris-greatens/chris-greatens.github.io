@@ -13,8 +13,8 @@
 ### No Subset
 - [x] 526: Greg Vaughn<br>
 ### Baseball Heroes: Hank Aaron
-- [ ] 19: 1954 Rookie Year<br>
-- [ ] 20: 1957 MVP<br>
+- [x] 19: 1954 Rookie Year<br>
+- [x] 20: 1957 MVP<br>
 - [x] 21: 1965 Move to Atlanta<br>
 - [x] 22: 1970 3000!<br>
 - [x] 23: 1974 715!<br>
