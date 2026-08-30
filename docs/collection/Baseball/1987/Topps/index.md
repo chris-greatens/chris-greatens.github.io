@@ -3,3 +3,4 @@
 ## [Tiffany](/collection/Baseball/1987/Topps/Tiffany)
 ## [Tiffany Traded](/collection/Baseball/1987/Topps/Tiffany Traded)
 ## [Traded](/collection/Baseball/1987/Topps/Traded)
+## [Woolworth Baseball Highlights](/collection/Baseball/1987/Topps/Woolworth Baseball Highlights)

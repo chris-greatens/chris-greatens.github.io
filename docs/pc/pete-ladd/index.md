@@ -14,7 +14,7 @@
 1984 Fleer Star Stickers #77 Pete Ladd<br>
 1984 Topps  #243 Pete Ladd (Autographed)<br>
 1984 Topps Nestle #243 Pete Ladd<br>
-1984 Topps TIffany #243 Pete Ladd<br>
+1984 Topps Tiffany #243 Pete Ladd<br>
 1985 Donruss  #271 Pete Ladd<br>
 1985 Fleer  #585 Pete Ladd (Autographed)<br>
 1985 Topps  #471 Pete Ladd (Autographed)<br>

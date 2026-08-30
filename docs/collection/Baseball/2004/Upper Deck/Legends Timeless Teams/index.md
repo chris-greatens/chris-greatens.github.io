@@ -10,9 +10,14 @@
 ## Cards
 
 ### No Subset
+- [x] 107: Cecil Cooper<br>
+- [x] 208: Cecil Cooper<br>
 - [x] 213: Don Money<br>
+- [x] 220: Cecil Cooper<br>
 - [x] 224: Don Money<br>
 ### Autographs
+- [x] 208: Cecil Cooper<br>
+- [x] 220: Cecil Cooper<br>
 - [x] 224: Don Money<br>
 ### Bronze
 - [x] 213: Don Money<br>

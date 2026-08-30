@@ -5,6 +5,7 @@
 
 ### No Subset
 - [ ] 1: '75 Record Breaker (Hank Aaron)<br>
+- [x] 78: Cecil Cooper<br>
 - [ ] 146: George Medich<br>
 - [ ] 256: Rowland Office<br>
 - [ ] 277: Chicago Cubs Checklist<br>

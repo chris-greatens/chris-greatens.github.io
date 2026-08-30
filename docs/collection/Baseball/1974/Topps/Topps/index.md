@@ -14,4 +14,5 @@
 - [ ] 332: All-Star First Basemen<br>
 - [x] 413: Don Money<br>
 - [x] 431: Gene Garber<br>
+- [x] 523: Cecil Cooper<br>
 - [ ] 634: Ed Mathews<br>

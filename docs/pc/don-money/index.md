@@ -52,7 +52,7 @@
 1983 Topps  #608 Don Money<br>
 1984 Fleer  #208 Don Money (Autographed)<br>
 1984 Topps  #374 Don Money (Autographed)<br>
-1984 Topps TIffany #374 Don Money<br>
+1984 Topps Tiffany #374 Don Money<br>
 2001 Upper Deck Decade 1970's #51 Don Money<br>
 2004 Upper Deck Legends Timeless Teams #213 Don Money<br>
 2004 Upper Deck Legends Timeless Teams - Bronze #213 Don Money (41/50)<br>

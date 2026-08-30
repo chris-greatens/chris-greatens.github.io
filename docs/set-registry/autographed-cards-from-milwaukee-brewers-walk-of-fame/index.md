@@ -38,8 +38,18 @@ This is a set to collect autographs from every person in the Brewers Walk of Fam
 - 2013 Topps Allen & Ginter #300 Bud Selig (AUTO)<br>
 
 ### Cecil Cooper
+- 1977 O-Pee-Chee  #102 Cecil Cooper (AUTO)<br>
+- 1977 Topps  #235 Cecil Cooper (AUTO)<br>
+- 1984 Topps Nestle #420 Cecil Cooper (AUTO)<br>
 - 1993 Ted Williams  #49 Cecil Cooper (AUTO)<br>
+- 2000 Fleer Greats of the Game - Autographs #NNO Cecil Cooper (AUTO)<br>
+- 2001 Topps Archives - Autographs #TAA130 Cecil Cooper (AUTO)<br>
+- 2003 Topps All-Time Fan Favorites - Archives Autographs #FFA-CC Cecil Cooper (AUTO)<br>
+- 2004 Upper Deck Legends Timeless Teams - Autographs #208 Cecil Cooper (AUTO)<br>
+- 2004 Upper Deck Legends Timeless Teams - Autographs #220 Cecil Cooper (AUTO)<br>
+- 2005 Upper Deck SP Legendary Cuts - Place in History Signatures #PH-CC Cecil Cooper (AUTO)<br>
 - 2006 Upper Deck SP Legendary Cuts - Place in History Signatures #PH-CC Cecil Cooper (AUTO)<br>
+- 2012 Topps Archives - Fan Favorite Autographs #FFA-CC Cecil Cooper (AUTO)<br>
 - 2012 Upper Deck SP Signature Edition #MIL1 Cecil Cooper (AUTO)<br>
 
 ### Don Money

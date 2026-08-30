@@ -3,3 +3,4 @@
 ## [Fleer](/collection/Baseball/1986/Fleer)
 ## [Leaf](/collection/Baseball/1986/Leaf)
 ## [TCMA](/collection/Baseball/1986/TCMA)
+## [Sportflics](/collection/Baseball/1986/Sportflics)

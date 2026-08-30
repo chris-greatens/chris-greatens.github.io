@@ -5,5 +5,6 @@
 
 ### No Subset
 - [x] 79: Don Money<br>
+- [x] 235: Cecil Cooper<br>
 - [x] 400: Steve Garvey<br>
 - [x] 577: Jerry Augustine<br>

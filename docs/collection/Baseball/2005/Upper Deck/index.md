@@ -4,4 +4,5 @@
 ## [Pros & Prospects](/collection/Baseball/2005/Upper Deck/Pros & Prospects)
 ## [Reflections](/collection/Baseball/2005/Upper Deck/Reflections)
 ## [SP Collection](/collection/Baseball/2005/Upper Deck/SP Collection)
+## [SP Legendary Cuts](/collection/Baseball/2005/Upper Deck/SP Legendary Cuts)
 ## [Ultimate Signature Edition](/collection/Baseball/2005/Upper Deck/Ultimate Signature Edition)

@@ -4,4 +4,5 @@
 ## Cards
 
 ### No Subset
+- [x] 52: Cecil Cooper<br>
 - [x] 313: Don Money<br>
