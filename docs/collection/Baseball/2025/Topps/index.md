@@ -1,5 +1,6 @@
 # Baseball - 2025 - Topps
 ## [All-star Game](/collection/Baseball/2025/Topps/All-star Game)
+## [Allen & Ginter](/collection/Baseball/2025/Topps/Allen & Ginter)
 ## [Archives](/collection/Baseball/2025/Topps/Archives)
 ## [Chrome](/collection/Baseball/2025/Topps/Chrome)
 ## [Chrome Logofractor](/collection/Baseball/2025/Topps/Chrome Logofractor)
@@ -7,6 +8,7 @@
 ## [Chrome Update](/collection/Baseball/2025/Topps/Chrome Update)
 ## [Finest](/collection/Baseball/2025/Topps/Finest)
 ## [Heritage](/collection/Baseball/2025/Topps/Heritage)
+## [Holiday](/collection/Baseball/2025/Topps/Holiday)
 ## [Inception](/collection/Baseball/2025/Topps/Inception)
 ## [Now](/collection/Baseball/2025/Topps/Now)
 ## [Series 1](/collection/Baseball/2025/Topps/Series 1)

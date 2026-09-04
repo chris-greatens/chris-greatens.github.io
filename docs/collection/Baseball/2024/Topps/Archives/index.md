@@ -7,5 +7,7 @@
 
 ## Cards
 
+### No Subset
+- [x] 44: Jackson Chourio<br>
 ### 1990 Topps Batting Leaders Autographs Gold Foilboard
 - [x] 90BLA-BW: Billy Williams<br>

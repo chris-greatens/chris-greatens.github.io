@@ -6,6 +6,7 @@
 - Flagship Collection
 - Flagship Collection Chrome
 - Holofoil Orange
+- Stars of MLB
 
 ## Cards
 
@@ -15,3 +16,5 @@
 - [x] 83: Jackson Chourio<br>
 ### Holofoil Orange
 - [x] 448: Jackson Chourio<br>
+### Stars of MLB
+- [x] SMLB-45: Jackson Chourio<br>

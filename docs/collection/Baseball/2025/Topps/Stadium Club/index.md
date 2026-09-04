@@ -6,6 +6,7 @@
 - Base Autographs Yellow Foil
 - Pink Foil
 - Red Foil
+- Yours for the Taking
 
 ## Cards
 
@@ -17,3 +18,5 @@
 - [x] 171: Christian Yelich<br>
 ### Red Foil
 - [x] 171: Christian Yelich<br>
+### Yours for the Taking
+- [x] YK-13: Jackson Chourio<br>
