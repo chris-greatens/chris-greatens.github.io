@@ -5,6 +5,7 @@ This page lists all the players in my personal collection.
 ## Players
 
 - [Ben Sheets](./ben-sheets/)
+- [Caleb Durbin](./caleb-durbin/)
 - [Christian Yelich](./christian-yelich/)
 - [Don Money](./don-money/)
 - [Greg Vaughn](./greg-vaughn/)

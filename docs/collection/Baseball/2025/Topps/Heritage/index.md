@@ -16,6 +16,7 @@
 - [x] 106: Jackson Chourio<br>
 - [x] 300: William Contreras<br>
 - [x] 427: Sal Frelick<br>
+- [x] 539: Caleb Durbin<br>
 ### 1976 Player Icons Holographic
 - [x] 76PI-9: William Contreras<br>
 ### 1976 Redefined Holographic
