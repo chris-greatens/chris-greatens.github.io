@@ -12,6 +12,7 @@
 
 ### No Subset
 - [x] USC30: Jackson Chourio<br>
+- [x] USC61: Sal Frelick<br>
 ### 1989 Topps Baseball 35th Anniversary
 - [x] 89CU-4: Jackson Chourio<br>
 ### Future Stars

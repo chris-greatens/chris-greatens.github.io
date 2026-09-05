@@ -11,6 +11,9 @@
 
 ## Cards
 
+### No Subset
+- [x] 105: Brice Turang<br>
+- [x] 192: William Contreras<br>
 ### 1991 Topps Baseball 35th Anniversary
 - [x] T91-18: Jackson Chourio<br>
 ### 1991 Topps Baseball 35th Anniversary Autographs

@@ -8,6 +8,9 @@
 
 ## Cards
 
+### No Subset
+- [x] 289: William Contreras<br>
+- [x] 614: Brice Turang<br>
 ### 50th Anniversary Buybacks
 - [x] 413: Don Money<br>
 ### Real One Autographs

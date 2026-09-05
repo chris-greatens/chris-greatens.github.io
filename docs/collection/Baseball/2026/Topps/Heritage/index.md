@@ -12,6 +12,7 @@
 ### No Subset
 - [x] 144: Jacob Misiorowski<br>
 - [x] 272: Jackson Chourio<br>
+- [x] 325: Brice Turang<br>
 - [x] 332: Christian Yelich<br>
 ### 50th Anniversary Buybacks
 - [x] 79: Don Money<br>

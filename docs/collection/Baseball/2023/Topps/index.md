@@ -1,8 +1,11 @@
 # Baseball - 2023 - Topps
 ## [Topps](/collection/Baseball/2023/Topps/Topps)
 ## [Archives](/collection/Baseball/2023/Topps/Archives)
+## [Chrome Platinum Anniversary](/collection/Baseball/2023/Topps/Chrome Platinum Anniversary)
 ## [Cosmic Chrome](/collection/Baseball/2023/Topps/Cosmic Chrome)
 ## [Finest](/collection/Baseball/2023/Topps/Finest)
+## [Finest Flashbacks](/collection/Baseball/2023/Topps/Finest Flashbacks)
 ## [Heritage](/collection/Baseball/2023/Topps/Heritage)
+## [Holiday](/collection/Baseball/2023/Topps/Holiday)
 ## [Stadium Club](/collection/Baseball/2023/Topps/Stadium Club)
 ## [Update](/collection/Baseball/2023/Topps/Update)

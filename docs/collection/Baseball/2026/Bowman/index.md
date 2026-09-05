@@ -12,6 +12,8 @@
 
 ## Cards
 
+### No Subset
+- [x] 30: Brice Turang<br>
 ### Bowman Sterling
 - [x] BST-1: Jackson Chourio<br>
 ### Chrome 1st Prospect

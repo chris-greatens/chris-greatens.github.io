@@ -2,6 +2,7 @@
 ## [All-star Game](/collection/Baseball/2025/Topps/All-star Game)
 ## [Allen & Ginter](/collection/Baseball/2025/Topps/Allen & Ginter)
 ## [Archives](/collection/Baseball/2025/Topps/Archives)
+## [Black Chrome](/collection/Baseball/2025/Topps/Black Chrome)
 ## [Chrome](/collection/Baseball/2025/Topps/Chrome)
 ## [Chrome Logofractor](/collection/Baseball/2025/Topps/Chrome Logofractor)
 ## [Chrome Platinum Anniversary](/collection/Baseball/2025/Topps/Chrome Platinum Anniversary)

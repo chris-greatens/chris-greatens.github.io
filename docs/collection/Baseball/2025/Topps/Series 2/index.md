@@ -8,6 +8,9 @@
 
 ## Cards
 
+### No Subset
+- [x] 433: William Contreras<br>
+- [x] 651: Sal Frelick<br>
 ### 1990 Topps Baseball 35th Anniversary Autographs (Series 2)
 - [x] 90B2-BWI: Billy Williams<br>
 ### Major League Marial Relics

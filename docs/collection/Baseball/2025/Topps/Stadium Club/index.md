@@ -12,6 +12,8 @@
 
 ### No Subset
 - [x] 138: Jackson Chourio<br>
+- [x] 150: William Contreras<br>
+- [x] 193: Brice Turang<br>
 ### Base Autographs Yellow Foil
 - [x] SCBA-SF: Sal Frelick<br>
 ### Pink Foil
