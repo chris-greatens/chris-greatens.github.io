@@ -14,8 +14,10 @@
 
 ### No Subset
 - [x] 30: Brice Turang<br>
+- [x] 35: Jacob Misiorowski<br>
 ### Bowman Sterling
 - [x] BST-1: Jackson Chourio<br>
+- [x] BST-13: Jacob Misiorowski<br>
 ### Chrome 1st Prospect
 - [x] BCP-149: Andrew Fischer Chrome 1st Prospect<br>
 ### Chrome Autographs Mojo Refractors

@@ -10,6 +10,7 @@
 
 ### No Subset
 - [x] 78: Jackson Chourio<br>
+- [x] 80: Caleb Durbin<br>
 - [x] 89: Christian Yelich<br>
 ### Creators Autographs Blue
 - [x] CAV-PL: Prince Fielder<br>

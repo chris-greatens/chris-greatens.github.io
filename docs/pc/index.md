@@ -10,6 +10,7 @@ This page lists all the players in my personal collection.
 - [Don Money](./don-money/)
 - [Greg Vaughn](./greg-vaughn/)
 - [Jackson Chourio](./jackson-chourio/)
+- [Jacob Misiorowski](./jacob-misiorowski/)
 - [Jeff Cirillo](./jeff-cirillo/)
 - [Nolan Ryan](./nolan-ryan/)
 - [Pete Ladd](./pete-ladd/)

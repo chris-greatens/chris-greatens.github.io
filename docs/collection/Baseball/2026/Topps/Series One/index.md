@@ -12,8 +12,10 @@
 ## Cards
 
 ### No Subset
+- [x] 10: Jacob Misiorowski<br>
 - [x] 105: Brice Turang<br>
 - [x] 192: William Contreras<br>
+- [x] 297: Caleb Durbin<br>
 ### 1991 Topps Baseball 35th Anniversary
 - [x] T91-18: Jackson Chourio<br>
 ### 1991 Topps Baseball 35th Anniversary Autographs

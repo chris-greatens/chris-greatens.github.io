@@ -36,10 +36,12 @@ A catalog of my study materials on sleight of hand, mentalism, and the theory of
 | **Card Mastery** | Michael MacDougall | Card Magic | 1975 | Techniques used by gambling cheats. |
 | **Magic With Cards** | Frank Garcia & George Schindler | Card Magic | 1975 | Over 100 easy-to-perform card tricks. |
 | **Self-Working Card Tricks** | Karl Fulves | Self-Working | 1976 | Reliable, no-sleight miracles. |
+| **Arch Triumphs** | Jon Racherbaumer | Card magic | 1978 | Book dedicated to the trick that fooled Houdini. | 
 | **Self-Working Mental Magic** | Karl Fulves | Mentalism | 1979 | Mind-reading without the sleights. |
 | **More Self-Working Card Tricks** | Karl Fulves | Self-Working | 1984 | Further no-sleight exploration. |
 | **M.I.N.T. (Vol 1)** | Edward Marlo | Card Magic | 1988 | Routines, techniques, and slights from The New Tops magazine. |
 | **Cruel Tricks for Dear Friends** | Penn & Teller | Comedy Magic | 1989 | Edgy, prank-style magic. |
+| **The Vernon Chronicles -- Volume 4 -- He Fooled Houdini** | Dai Vernon | Card Magic | 1989 | |
 | **John Carney's Carneycopia** | Stephen Minch | Close-up Magic | 1991 | Table-side entertainment. |
 | **How to Play with Your Food** | Penn & Teller | Kitchen Magic | 1992 | Table-side entertainment. |
 | **Semi-Automatic Card Tricks (Vol 1)** | Steve Beam | Self-Working | 1993 | High-IQ self-working magic. |
@@ -54,6 +56,7 @@ A catalog of my study materials on sleight of hand, mentalism, and the theory of
 | **Card College Vol. 5** | Roberto Giobbi | Card Magic | 1995 | The systematic modern curriculum. |
 | **M.I.N.T. (Vol 2)** | Edward Marlo | Card Magic | 1995 | Routines, techniques, and slights from The New Tops magazine. |
 | **Mark Wilson's Course in Magic** | Mark Wilson | General Magic | 1995 | The "Encyclopedia" of magic. |
+| **Miracles with Cards** | James Swain | Card Magic | 1996 | |
 | **The Card Magic of Nick Trost** | Nick Trost | Card Magic | 1997 | Over 100 card magic tricks. |
 | **Digital Effects: The Magic of Joe Mogar** | Steve Beam | Thimble Magic | 1997 | Innovative, visual thinble magic routines. |
 | **Tricks with Your Head** | Mac King | Comedy/Parlor | 2002 | Hilarious and practical routines. |
@@ -99,7 +102,6 @@ These are the books that I would like to add to my collection:
 | **The Vernon Chronicles -- Volume 2 -- Most Lost Inner Secrets** | Dai Vernon | Card Magic | 1989 | |
 | **The Vernon Chronicles -- Volume 3 -- Further Lost Inner Secrets** | Dai Vernon | Card Magic | 1989 | |
 | **Stewart James in Print: The First Fifty Years** | Stewart James | Card Magic | 1989 | |
-| **The Vernon Chronicles -- Volume 4 -- He Fooled Houdini** | Dai Vernon | Card Magic | 1989 | |
 | **Card File** | Jerry Mentzer | Card Magic | 1993 | |
 | **Semi-Automatic Card Tricks (Vol 6)** | Steve Beam | Self-Working | 1993 | High-IQ self-working magic. |
 | **Semi-Automatic Card Tricks (Vol 7)** | Steve Beam | Self-Working | 1993 | High-IQ self-working magic. |
@@ -110,7 +112,6 @@ These are the books that I would like to add to my collection:
 | **Semi-Automatic Card Tricks (Vol 12)** | Steve Beam | Self-Working | 1993 | High-IQ self-working magic. |
 | **Cardshark** | Darwin Ortiz | Card Magic | 1995 | |
 | **Ultimate Secrets of Card Magic** | Dai Vernon | Card Magic | 1995 | |
-| **Miracles with Cards** | James Swain | Card Magic | 1996 | |
 | **21 Century Card Magic** | James Swain | Card Magic | 1999 | |
 | **Card File Two** | Jerry Mentzer | Card Magic | 2000 | |
 | **Scams & Fantasies with Cards** | Darwin Ortiz | Card Magic | 2002 | |

@@ -9,6 +9,7 @@
 ## Cards
 
 ### No Subset
+- [x] 95: Garrett Mitchell<br>
 - [x] 289: William Contreras<br>
 - [x] 614: Brice Turang<br>
 ### 50th Anniversary Buybacks
