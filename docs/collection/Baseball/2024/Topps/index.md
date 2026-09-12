@@ -5,6 +5,7 @@
 ## [Big League](/collection/Baseball/2024/Topps/Big League)
 ## [Chrome Update](/collection/Baseball/2024/Topps/Chrome Update)
 ## [Heritage](/collection/Baseball/2024/Topps/Heritage)
+## [Heritage Mini](/collection/Baseball/2024/Topps/Heritage Mini)
 ## [Holiday](/collection/Baseball/2024/Topps/Holiday)
 ## [Now](/collection/Baseball/2024/Topps/Now)
 ## [Series 1](/collection/Baseball/2024/Topps/Series 1)

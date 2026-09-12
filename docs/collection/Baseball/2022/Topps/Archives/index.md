@@ -8,6 +8,8 @@
 
 ## Cards
 
+### No Subset
+- [x] 281: Willy Adames<br>
 ### Fan Favorites Autographs
 - [x] 60FF-WH: Whitey Herzog<br>
 - [x] 72FF-GG: Goose Gossage<br>

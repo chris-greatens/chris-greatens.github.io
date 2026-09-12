@@ -38,3 +38,4 @@ This page lists all the players I have collectiles in my personal collection.
 - [Rob Deer](/collectibles/rob-deer/)
 - [Robin Yount](/collectibles/robin-yount/)
 - [Rowdy Tellez](/collectibles/rowdy-tellez/)
+- [Sal Frelick](/collectibles/sal-frelick/)
