@@ -1,6 +1,6 @@
 # Jackson Chourio
 
-## Cards Owned: 48
+## Cards Owned: 49
 
 ## Card List
 
@@ -23,6 +23,7 @@
 2024 Topps Holiday #H119 Jackson Chourio<br>
 2024 Topps Holiday - Holiday Tree #H119 Jackson Chourio<br>
 2024 Topps Now #37 Jackson Chourio<br>
+2024 Topps Series 2 #698 Jackson Chourio - Press Conference<br>
 2024 Topps Stadium Club - Power Packed #PP-28 Jackson Chourio<br>
 2024 Topps Stadium Club - Special Forces #SF-4 Jackson Chourio<br>
 2024 Topps Stadium Club #184 Jackson Chourio<br>

@@ -10,6 +10,8 @@
 
 ## Cards
 
+### No Subset
+- [x] 409: Logan Henderson<br>
 ### Flagship Collection
 - [x] 39: Jacob Misiorowski<br>
 ### Flagship Collection Chrome

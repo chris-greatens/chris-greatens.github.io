@@ -1,6 +1,6 @@
 # Greg Vaughn
 
-## Cards Owned: 62
+## Cards Owned: 61
 
 ## Card List
 
@@ -48,7 +48,6 @@
 1996 Topps Finest - Refractors #179 Greg Vaughn<br>
 1996 Upper Deck Collector's Choice - Silver Signatures #590 Greg Vaughn<br>
 1997 Bowman Best - Refractors #53 Greg Vaughn<br>
-1997 Pinnacle  - Museum Collection #43 Greg Vaughn<br>
 1997 Pinnacle Totally Certified #64 Greg Vaughn (1902/3999)<br>
 1997 Topps Finest - Refractors #221 Greg Vaughn<br>
 1999 Sports Illustrated  - Fabulous 40s #4FF Greg Vaughn<br>

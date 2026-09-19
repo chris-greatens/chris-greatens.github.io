@@ -7,8 +7,10 @@ This page lists all the unopened packs in my collection.
 ### 1980
 #### Cello
 - [Topps — Top: Don Money (Milwaukee Brewers) / Bottom: Brian Greer, Jim Wilhelm, Tim Flannery (San Diego Padres)](/packs/1980-topps--15/)
+- [Topps](/packs/1980-topps--76/)
 - [Topps (Mrs Butterworths) — Bottom: Alan Knicely, Pete Ladd, Reggie Baldwin (Houston Astros)](/packs/1980-topps--30/)
 - [Topps (Squirt) — Bottom: Alan Knicely, Pete Ladd, Reggie Baldwin (Houston Astros)](/packs/1980-topps--29/)
+- [Topps (Squirt) — Bottom: Alan Knicely, Pete Ladd, Reggie Baldwin (Houston Astros)](/packs/1980-topps--77/)
 #### Rack
 - [Topps — Top: Pat Zachry (New York Mets) / Joel Youngblood (New York Mets) / Alan Knicely, Pete Ladd, Reggie Baldwin (Houston Astros)](/packs/1980-topps--50/)
 ### 1983

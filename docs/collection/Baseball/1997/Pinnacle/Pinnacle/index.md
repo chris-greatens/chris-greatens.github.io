@@ -8,4 +8,4 @@
 ## Cards
 
 ### Museum Collection
-- [x] 43: Greg Vaughn<br>
+- [ ] 43: Greg Vaughn<br>

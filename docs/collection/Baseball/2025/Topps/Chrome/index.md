@@ -4,6 +4,7 @@
 ## Subsets
 
 - Refractor
+- X-Fractors
 
 ## Cards
 
@@ -13,3 +14,5 @@
 - [x] 262: Jackson Chourio<br>
 ### Refractor
 - [x] 89: Christian Yelich<br>
+### X-Fractors
+- [x] USC112: Caleb Durbin<br>

@@ -8,4 +8,5 @@
 ## [Pristine](/collection/Baseball/2022/Topps/Pristine)
 ## [Series 1](/collection/Baseball/2022/Topps/Series 1)
 ## [Stadium Club](/collection/Baseball/2022/Topps/Stadium Club)
+## [Stadium Club Chrome](/collection/Baseball/2022/Topps/Stadium Club Chrome)
 ## [Tier One](/collection/Baseball/2022/Topps/Tier One)

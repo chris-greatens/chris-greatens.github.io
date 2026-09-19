@@ -1,0 +1,38 @@
+# 1980 Topps 
+**Card Type:** Baseball
+
+**Pack Type:** Cello
+
+**Variation:** Squirt
+
+**Variation Notes:** 3-card promotional pack for Squirt soda
+
+**Purchase Date:** 2026-09-19
+
+**Purchase Source:** eBay
+
+## Bottom Cards
+### Slot 1
+**Card Number:** 678
+
+**Description:** Astros Future Stars
+
+**Player(s):** Alan Knicely, Pete Ladd, Reggie Baldwin
+
+**Team(s):** Houston Astros
+
+## Visible Players
+- **Alan Knicely** (Houston Astros)
+- **Pete Ladd** (Houston Astros)
+- **Reggie Baldwin** (Houston Astros)
+
+## Images
+
+### Front
+
+![Pack front](/public/images/packs/1980_Topps_Cello_077_front.jpg)
+
+### Back
+
+![Pack back](/public/images/packs/1980_Topps_Cello_077_back.jpg)
+

@@ -13,6 +13,7 @@
 ## [Holiday](/collection/Baseball/2025/Topps/Holiday)
 ## [Inception](/collection/Baseball/2025/Topps/Inception)
 ## [Now](/collection/Baseball/2025/Topps/Now)
+## [Pro Debut](/collection/Baseball/2025/Topps/Pro Debut)
 ## [Series 1](/collection/Baseball/2025/Topps/Series 1)
 ## [Series 2](/collection/Baseball/2025/Topps/Series 2)
 ## [Stadium Club](/collection/Baseball/2025/Topps/Stadium Club)

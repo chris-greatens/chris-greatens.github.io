@@ -5,7 +5,7 @@ This table lists players that appear on the top or bottom of unopened packs, wit
 | --- | ---: | ---: | ---: | --- |
 | Al Holland | 0 | 1 | 1 | [View Packs](/packs/al-holland/) |
 | Al Williams | 0 | 1 | 1 | [View Packs](/packs/al-williams/) |
-| Alan Knicely | 1 | 2 | 3 | [View Packs](/packs/alan-knicely/) |
+| Alan Knicely | 1 | 3 | 4 | [View Packs](/packs/alan-knicely/) |
 | Alan Trammell | 0 | 1 | 1 | [View Packs](/packs/alan-trammell/) |
 | Allen Ripley | 0 | 1 | 1 | [View Packs](/packs/allen-ripley/) |
 | Alvin Davis | 0 | 1 | 1 | [View Packs](/packs/alvin-davis/) |
@@ -115,11 +115,11 @@ This table lists players that appear on the top or bottom of unopened packs, wit
 | Ozzie Smith | 2 | 0 | 2 | [View Packs](/packs/ozzie-smith/) |
 | Pascual Perez | 0 | 1 | 1 | [View Packs](/packs/pascual-perez/) |
 | Pat Zachry | 1 | 0 | 1 | [View Packs](/packs/pat-zachry/) |
-| Pete Ladd | 37 | 2 | 39 | [View Packs](/packs/pete-ladd/) |
+| Pete Ladd | 37 | 3 | 40 | [View Packs](/packs/pete-ladd/) |
 | Pete Rose | 2 | 0 | 2 | [View Packs](/packs/pete-rose/) |
 | Randy Johnson | 0 | 1 | 1 | [View Packs](/packs/randy-johnson/) |
 | Randy Johnson | 1 | 0 | 1 | [View Packs](/packs/randy-johnson/) |
-| Reggie Baldwin | 1 | 2 | 3 | [View Packs](/packs/reggie-baldwin/) |
+| Reggie Baldwin | 1 | 3 | 4 | [View Packs](/packs/reggie-baldwin/) |
 | Reggie Jackson | 2 | 0 | 2 | [View Packs](/packs/reggie-jackson/) |
 | Rich Gale | 0 | 1 | 1 | [View Packs](/packs/rich-gale/) |
 | Rich Hebner | 1 | 0 | 1 | [View Packs](/packs/rich-hebner/) |

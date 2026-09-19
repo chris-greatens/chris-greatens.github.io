@@ -6,11 +6,13 @@
 - Base Autographs Yellow Foil
 - Pink Foil
 - Red Foil
+- Sepia
 - Yours for the Taking
 
 ## Cards
 
 ### No Subset
+- [x] 13: Logan Henderson<br>
 - [x] 138: Jackson Chourio<br>
 - [x] 142: Caleb Durbin<br>
 - [x] 150: William Contreras<br>
@@ -20,6 +22,9 @@
 ### Pink Foil
 - [x] 171: Christian Yelich<br>
 ### Red Foil
+- [x] 13: Logan Henderson<br>
 - [x] 171: Christian Yelich<br>
+### Sepia
+- [x] 13: Logan Henderson<br>
 ### Yours for the Taking
 - [x] YK-13: Jackson Chourio<br>

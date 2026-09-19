@@ -7,8 +7,10 @@
 - Chrome 1st Prospect
 - Chrome Autographs Mojo Refractors
 - Chrome Prospect Blue Geometric Refractor
+- Chrome Prospects Mojo Refractor
 - Electric Sluggers Chrome
 - Power Chords
+- Prospects
 
 ## Cards
 
@@ -24,7 +26,11 @@
 - [x] BMA-MD: Marco Dinges<br>
 ### Chrome Prospect Blue Geometric Refractor
 - [x] BCP-142: Brady Ebel<br>
+### Chrome Prospects Mojo Refractor
+- [x] BCP-41: Brailyn Antunez<br>
 ### Electric Sluggers Chrome
 - [x] ES-20: Jesus Made Electric Sluggers<br>
 ### Power Chords
 - [x] PC-4: Jackson Chourio<br>
+### Prospects
+- [x] BCP-41: Brailyn Antunez<br>

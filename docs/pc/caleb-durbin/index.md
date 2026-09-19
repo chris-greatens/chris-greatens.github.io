@@ -1,9 +1,10 @@
 # Caleb Durbin
 
-## Cards Owned: 13
+## Cards Owned: 14
 
 ## Card List
 
+2025 Topps Chrome - X-Fractors #USC112 Caleb Durbin<br>
 2025 Topps Chrome Update - Sepia Refractor #USC82 Caleb Durbin<br>
 2025 Topps Chrome Update #USC82 Caleb Durbin<br>
 2025 Topps Chrome Update - Refractor #USC82 Caleb Durbin<br>

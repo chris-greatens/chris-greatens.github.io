@@ -1,6 +1,6 @@
 # Christian Yelich
 
-## Cards Owned: 36
+## Cards Owned: 37
 
 ## Card List
 
@@ -35,6 +35,7 @@
 2025 Topps Stadium Club - Red Foil #171 Christian Yelich<br>
 2025 Topps Tribute - Green #21 Christian Yelich (14/99)<br>
 2025 Topps Update - Most Valuable #MV-10 Christian Yelich Most Valuable<br>
+2026 Topps Chrome - X-Fractors #15 Christian Yelich<br>
 2026 Topps Chrome Black - Purple Refractor #42 Christian Yelich (2/75)<br>
 2026 Topps Heritage - Clubhouse Jersey #CCR-CY Christian Yelich Clubhouse Jersey<br>
 2026 Topps Heritage #332 Christian Yelich<br>
