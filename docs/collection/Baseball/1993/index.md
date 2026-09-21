@@ -4,3 +4,4 @@
 ## [Ted Williams](/collection/Baseball/1993/Ted Williams)
 ## [Action Packed](/collection/Baseball/1993/Action Packed)
 ## [Pinnacle](/collection/Baseball/1993/Pinnacle)
+## [Police Sets](/collection/Baseball/1993/Police Sets)

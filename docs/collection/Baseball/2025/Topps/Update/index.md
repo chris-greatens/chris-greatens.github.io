@@ -11,6 +11,7 @@
 ## Cards
 
 ### No Subset
+- [x] US233: Crew Missiles<br>
 - [x] US59: Caleb Durbin<br>
 ### 1990 Topps Baseball 35th Anniversary
 - [x] U90-8: Jackson Chourio<br>

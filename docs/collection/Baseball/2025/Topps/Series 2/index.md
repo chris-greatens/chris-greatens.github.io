@@ -10,6 +10,7 @@
 ## Cards
 
 ### No Subset
+- [x] 396: Milwaukee Brewers<br>
 - [x] 433: William Contreras<br>
 - [x] 651: Sal Frelick<br>
 ### 1990 Topps Baseball 35th Anniversary Autographs (Series 2)
