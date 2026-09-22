@@ -18,6 +18,7 @@
 ### Future Stars
 - [x] FSU-16: Jackson Chourio<br>
 ### Refractors
+- [x] USC157: Kyle Harrison<br>
 - [x] USC18: Jackson Chourio<br>
 ### X-Fractors
 - [x] USC30: Jackson Chourio<br>

@@ -6,6 +6,7 @@
 - Flagship Collection
 - Flagship Collection Chrome
 - Holofoil Orange
+- Sandglitter
 - Stars of MLB
 
 ## Cards
@@ -18,5 +19,8 @@
 - [x] 83: Jackson Chourio<br>
 ### Holofoil Orange
 - [x] 448: Jackson Chourio<br>
+### Sandglitter
+- [x] 651: Abner Uribe<br>
+- [x] 670: Kyle Harrison<br>
 ### Stars of MLB
 - [x] SMLB-45: Jackson Chourio<br>

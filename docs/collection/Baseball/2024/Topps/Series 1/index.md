@@ -10,9 +10,11 @@
 ## Cards
 
 ### No Subset
+- [x] 26: Freddy Peralta<br>
 - [x] 61: William Contreras<br>
 - [x] 76: Sal Frelick<br>
 - [x] 103: Brandon Woodruff<br>
+- [x] 310: Abner Uribe<br>
 ### 2023 Greatest Hits
 - [x] 23GH-29: Sal Frelick<br>
 ### Holiday

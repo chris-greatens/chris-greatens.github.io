@@ -11,6 +11,7 @@
 ## Cards
 
 ### No Subset
+- [x] 330: Devin Williams<br>
 - [x] 444: Brandon Woodruff<br>
 - [x] 451: Sal Frelick<br>
 ### 50th Anniversary Buybacks

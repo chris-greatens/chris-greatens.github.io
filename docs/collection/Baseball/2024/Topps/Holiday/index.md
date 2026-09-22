@@ -9,6 +9,7 @@
 
 ### No Subset
 - [x] H119: Jackson Chourio<br>
+- [x] H129: Devin Williams<br>
 - [x] H35: Sal Frelick<br>
 - [x] H40: Brice Turang<br>
 ### Holiday Tree
