@@ -22,7 +22,9 @@
 - [x] 141: Trevor Megill<br>
 - [x] 186: Quinn Priester<br>
 - [x] 192: William Contreras<br>
+- [x] 202: Isaac Collins<br>
 - [x] 217: Chad Patrick<br>
+- [x] 286: Anthony Seigler<br>
 - [x] 297: Caleb Durbin<br>
 - [x] 303: Andrew Vaughn<br>
 ### 1991 Topps Baseball 35th Anniversary

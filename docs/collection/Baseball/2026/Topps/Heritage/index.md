@@ -5,11 +5,13 @@
 
 - 50th Anniversary Buybacks
 - Chrome
+- Chrome Light Blue Sparkle Refractors
 - Clubhouse Jersey
 
 ## Cards
 
 ### No Subset
+- [x] 102: Isaac Collins<br>
 - [x] 144: Jacob Misiorowski<br>
 - [x] 272: Jackson Chourio<br>
 - [x] 325: Brice Turang<br>
@@ -20,5 +22,7 @@
 - [x] 577: Jerry Augustine<br>
 ### Chrome
 - [x] 272: Jackson Chourio<br>
+### Chrome Light Blue Sparkle Refractors
+- [x] 102: Isaac Collins<br>
 ### Clubhouse Jersey
 - [x] CCR-CY: Christian Yelich Clubhouse Jersey<br>

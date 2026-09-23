@@ -17,6 +17,7 @@
 ### Mega Box Refractor
 - [x] 11: Jackson Chourio<br>
 ### Prospects
+- [x] BP-36: Yophery Rodriguez<br>
 - [x] BP-38: Luis Pena<br>
 - [x] BP-66: Jesus Made<br>
 ### Very Important Prospects

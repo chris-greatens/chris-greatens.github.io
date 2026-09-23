@@ -16,6 +16,7 @@
 - [x] 138: Jackson Chourio<br>
 - [x] 142: Caleb Durbin<br>
 - [x] 150: William Contreras<br>
+- [x] 161: Prince Fielder<br>
 - [x] 193: Brice Turang<br>
 ### Base Autographs Yellow Foil
 - [x] SCBA-SF: Sal Frelick<br>
