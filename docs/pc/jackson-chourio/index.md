@@ -1,6 +1,6 @@
 # Jackson Chourio
 
-## Cards Owned: 51
+## Cards Owned: 53
 
 ## Card List
 
@@ -14,6 +14,8 @@
 2024 Bowman  - Prospects #BP-140 Jackson Chourio<br>
 2024 Bowman  - Chrome Prospects #BP-140 Jackson Chourio<br>
 2024 Bowman  - Rising Infernos #RI-20 Jackson Chourio Rising Infernos<br>
+2024 Bowman Bowman's Best - Shots by the Kid #TK-5 Jackson Chourio<br>
+2024 Choice Wisconsin Timber Rattlers SGA #11 Jackson Chourio<br>
 2024 Topps Archives #44 Jackson Chourio<br>
 2024 Topps Chrome Update - Future Stars #FSU-16 Jackson Chourio<br>
 2024 Topps Chrome Update #USC30 Jackson Chourio<br>

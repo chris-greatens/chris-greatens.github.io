@@ -7,6 +7,7 @@
 - Chrome
 - Chrome Light Blue Sparkle Refractors
 - Clubhouse Jersey
+- Dark Yellow
 
 ## Cards
 
@@ -26,3 +27,5 @@
 - [x] 102: Isaac Collins<br>
 ### Clubhouse Jersey
 - [x] CCR-CY: Christian Yelich Clubhouse Jersey<br>
+### Dark Yellow
+- [x] 332: Christian Yelich<br>

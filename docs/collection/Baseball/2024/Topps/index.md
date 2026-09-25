@@ -12,4 +12,5 @@
 ## [Series 2](/collection/Baseball/2024/Topps/Series 2)
 ## [Stadium Club](/collection/Baseball/2024/Topps/Stadium Club)
 ## [Throwback Thursday Set 45](/collection/Baseball/2024/Topps/Throwback Thursday Set 45)
+## [Trading Card Day](/collection/Baseball/2024/Topps/Trading Card Day)
 ## [Update Series](/collection/Baseball/2024/Topps/Update Series)

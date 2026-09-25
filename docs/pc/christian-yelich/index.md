@@ -1,6 +1,6 @@
 # Christian Yelich
 
-## Cards Owned: 44
+## Cards Owned: 45
 
 ## Card List
 
@@ -44,6 +44,7 @@
 2026 Topps Heritage - Clubhouse Jersey #CCR-CY Christian Yelich Clubhouse Jersey<br>
 2026 Topps Heritage #332 Christian Yelich<br>
 2026 Topps Heritage #332 Christian Yelich - Image Variation<br>
+2026 Topps Heritage - Dark Yellow #332 Christian Yelich<br>
 2026 Topps Series One - 1991 Topps Baseball 35th Anniversary Koi Fish (Series One) #T91-83 Christian Yelich<br>
 2026 Topps Series One - 1991 Topps Baseball 35th Anniversary Blue #T91-83 Christian Yelich (139/150)<br>
 2026 Topps Series One - Team Color Border #154 Christian Yelich<br>

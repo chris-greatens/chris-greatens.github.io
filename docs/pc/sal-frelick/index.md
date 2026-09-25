@@ -1,6 +1,6 @@
 # Sal Frelick
 
-## Cards Owned: 25
+## Cards Owned: 28
 
 ## Card List
 
@@ -8,7 +8,10 @@
 2023 Bowman  - Sights on September #SOS-12 Sal Frelick<br>
 2023 Bowman  - Bowman Scouts Top 100 #BTP-33 Sal Frelick<br>
 2024 Bowman  #39 Sal Frelick<br>
+2024 Bowman Bowman's Best - Shots by the Kid #TK-8 Sal Frelick<br>
+2024 Bowman Bowman's Best - Shots by the Kid Mini-Diamond Refractors #TK-8 Sal Frelick<br>
 2024 Bowman Chrome #23 Sal Frelick<br>
+2024 Choice Wisconsin Timber Rattlers SGA #13 Sal Frelick<br>
 2024 Panini Donruss #56 Sal Frelick<br>
 2024 Topps 582 Montgomery Club #76 Sal Frelick<br>
 2024 Topps Allen & Ginter - Mini #98 Sal Frelick<br>
