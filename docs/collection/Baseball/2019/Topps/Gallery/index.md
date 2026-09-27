@@ -7,5 +7,7 @@
 
 ## Cards
 
+### No Subset
+- [x] 62: Christian Yelich<br>
 ### Heritage
 - [x] HT-17: Christian Yelich<br>

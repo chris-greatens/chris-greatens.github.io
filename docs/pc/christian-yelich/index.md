@@ -1,6 +1,6 @@
 # Christian Yelich
 
-## Cards Owned: 98
+## Cards Owned: 110
 
 ## Card List
 
@@ -39,6 +39,7 @@
 2019 Topps Chrome Update #77 Christian Yelich<br>
 2019 Topps Finest - 1994-95 Finest Basketball Prized Performers #PP-CY Christian Yelich<br>
 2019 Topps Gallery - Heritage #HT-17 Christian Yelich<br>
+2019 Topps Gallery #62 Christian Yelich<br>
 2019 Topps Heritage - Real One Autographs #ROA-CYE Christian Yelich (Autographed)<br>
 2019 Topps Heritage - New Age Performers #NAP-24 Christian Yelich<br>
 2019 Topps Heritage - Now and Then #NT-2 Christian Yelich<br>
@@ -58,8 +59,19 @@
 2019 Topps Stadium Club #87 Christian Yelich<br>
 2019 Topps Tribute #47 Christian Yelich<br>
 2019 Topps Update - Gold #US185 Christian Yelich (1054/2019)<br>
+2020 Bowman Platinum #74 Christian Yelich<br>
+2020 Panini Diamond Kings - Gallery of Stars #GOS-14 Christian Yelich<br>
+2020 Topps  - Advanced Stats #200 Christian Yelich (220/300)<br>
 2020 Topps Archives - 1960 Topps Combo Cards #60CC-YH Master & Apprentice -- Yelich & Hiura<br>
+2020 Topps Chrome - Topps Gallery National Baseball Card Day Previews #GP-5 Christian Yelich<br>
+2020 Topps Chrome - Pink Refractor #138 Christian Yelich<br>
+2020 Topps Chrome - Sepia Refractor #138 Christian Yelich<br>
+2020 Topps Gallery #8 Christian Yelich<br>
 2020 Topps Heritage - Real One Autographs #ROA-CYE Christian Yelich (Autographed)<br>
+2020 Topps Heritage - Chrome Purple Refractor #THC-174 Christian Yelich<br>
+2020 Topps Heritage #174 Christian Yelich<br>
+2020 Topps Holiday #HW155 Christian Yelich<br>
+2020 Topps National Baseball Card Day #16 Christian Yelich<br>
 2021 Bowman Bowman's Best - Green Refractor #73 Christian Yelich (60/99)<br>
 2021 Bowman Chrome - Blue Refractor #22 Christian Yelich (83/150)<br>
 2021 Topps  - Foilboard (Walmart) #100 Christian Yelich (662/790)<br>

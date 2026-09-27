@@ -1,6 +1,6 @@
 # Don Money
 
-## Cards Owned: 66
+## Cards Owned: 67
 
 ## Card List
 
@@ -56,6 +56,7 @@
 2001 Upper Deck Decade 1970's #51 Don Money<br>
 2004 Upper Deck Legends Timeless Teams #213 Don Money<br>
 2004 Upper Deck Legends Timeless Teams - Bronze #213 Don Money (41/50)<br>
+2004 Upper Deck Legends Timeless Teams - Gold #213 Don Money (1/5)<br>
 2004 Upper Deck Legends Timeless Teams #224 Don Money<br>
 2004 Upper Deck Legends Timeless Teams - Gold #224 Don Money (2/5)<br>
 2004 Upper Deck Legends Timeless Teams - Autographs #224 Don Money (Autographed)<br>
