@@ -8,6 +8,8 @@
 
 ## Cards
 
+### No Subset
+- [x] 358: Christian Yelich<br>
 ### 75th Anniversary Buybacks 1978
 - [x] 24: Don Money<br>
 ### Rookie Image Patches

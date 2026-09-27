@@ -7,6 +7,7 @@
 - Blue Holo Foil
 - Gold
 - Most Valuable
+- Pink Holo Foil
 - Sandglitter
 
 ## Cards
@@ -24,5 +25,7 @@
 - [x] US137: Logan Henderson<br>
 ### Most Valuable
 - [x] MV-10: Christian Yelich Most Valuable<br>
+### Pink Holo Foil
+- [x] US233: Crew Missiles<br>
 ### Sandglitter
 - [x] US170: Caleb Durbin<br>

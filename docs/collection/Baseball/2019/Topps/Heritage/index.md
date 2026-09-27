@@ -3,12 +3,27 @@
 
 ## Subsets
 
+- 1970 Topps Cloth Stickers
+- Award Winners
+- New Age Performers
+- Now and Then
 - Real One Autographs
 - The Hammer's Greatest Hits  (Cards Owned: 15 / 15 (100.0% complete))
 - The Hammer's Greatest Hits Autographs  (Cards Owned: 0 / 15 (0.0% complete))
 
 ## Cards
 
+### No Subset
+- [x] 410: Christian Yelich<br>
+### 1970 Topps Cloth Stickers
+- [x] 25: Christian Yelich<br>
+### Award Winners
+- [x] AW-10: Christian Yelich<br>
+- [x] AW-2: Christian Yelich<br>
+### New Age Performers
+- [x] NAP-24: Christian Yelich<br>
+### Now and Then
+- [x] NT-2: Christian Yelich<br>
 ### Real One Autographs
 - [x] ROA-CYE: Christian Yelich<br>
 ### The Hammer's Greatest Hits

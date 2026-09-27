@@ -1,6 +1,10 @@
 # Baseball - 2018 - Topps
+## [Archives](/collection/Baseball/2018/Topps/Archives)
 ## [Archives Signature Series Retired Player Edition](/collection/Baseball/2018/Topps/Archives Signature Series Retired Player Edition)
 ## [Big League](/collection/Baseball/2018/Topps/Big League)
 ## [Clearly Authentic](/collection/Baseball/2018/Topps/Clearly Authentic)
 ## [Heritage](/collection/Baseball/2018/Topps/Heritage)
+## [Holiday](/collection/Baseball/2018/Topps/Holiday)
+## [Living](/collection/Baseball/2018/Topps/Living)
+## [Stadium Club](/collection/Baseball/2018/Topps/Stadium Club)
 ## [Update](/collection/Baseball/2018/Topps/Update)

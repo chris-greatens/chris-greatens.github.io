@@ -1,6 +1,6 @@
 # Jackson Chourio
 
-## Cards Owned: 53
+## Cards Owned: 54
 
 ## Card List
 
@@ -47,6 +47,7 @@
 2025 Topps Stadium Club - Yours for the Taking #YK-13 Jackson Chourio<br>
 2025 Topps Stadium Club #138 Jackson Chourio<br>
 2025 Topps Update #US233 Crew Missiles<br>
+2025 Topps Update - Pink Holo Foil #US233 Crew Missiles<br>
 2025 Topps Update - 1990 Topps Baseball 35th Anniversary #U90-8 Jackson Chourio<br>
 2026 Bowman  - Power Chords #PC-4 Jackson Chourio<br>
 2026 Bowman  - Bowman Sterling #BST-1 Jackson Chourio<br>
