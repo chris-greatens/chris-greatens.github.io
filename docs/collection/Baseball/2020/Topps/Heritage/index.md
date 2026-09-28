@@ -3,6 +3,7 @@
 
 ## Subsets
 
+- 1971 Topps Baseball Scratch-Offs
 - 50th Anniversary Buybacks
 - Chrome Purple Refractor
 - Real One Autographs
@@ -11,6 +12,9 @@
 
 ### No Subset
 - [x] 174: Christian Yelich<br>
+- [x] 174: Christian Yelich<br>
+### 1971 Topps Baseball Scratch-Offs
+- [x] 6: Christian Yelich<br>
 ### 50th Anniversary Buybacks
 - [x] 49: Don Money<br>
 ### Chrome Purple Refractor

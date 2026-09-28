@@ -1,6 +1,6 @@
 # Christian Yelich
 
-## Cards Owned: 110
+## Cards Owned: 152
 
 ## Card List
 
@@ -59,19 +59,61 @@
 2019 Topps Stadium Club #87 Christian Yelich<br>
 2019 Topps Tribute #47 Christian Yelich<br>
 2019 Topps Update - Gold #US185 Christian Yelich (1054/2019)<br>
+2020 Bowman  - 1990 Bowman #90B-CY Christian Yelich<br>
+2020 Bowman  #100 Christian Yelich<br>
+2020 Bowman Bowman's Best - Purple Refractor #9 Christian Yelich (124/250)<br>
 2020 Bowman Platinum #74 Christian Yelich<br>
+2020 Bowman Platinum - Teal #74 Christian Yelich (85/299)<br>
 2020 Panini Diamond Kings - Gallery of Stars #GOS-14 Christian Yelich<br>
+2020 Panini Diamond Kings - Arist's Proof Blue #83 Christian Yelich<br>
+2020 Panini Diamond Kings - Framed Plum #83 Christian Yelich<br>
+2020 Panini Diamond Kings - Litho Proof #83 Christian Yelich (21/25)<br>
+2020 Panini Donruss #110 Christian Yelich - "Yeli" on front<br>
+2020 Panini Donruss Optic #5 Christian Yelich<br>
+2020 Panini Prizm - Scorching #S-3 Christian Yelich<br>
+2020 Panini Prizm - Red, White, and Blue Prizms #131 Christian Yelich<br>
+2020 Topps  - Topps 2030 #T2030-5 Christian Yelich<br>
+2020 Topps  - Home Run Challenge (Series 2) #HRC-23 Christian Yelich<br>
+2020 Topps  - Topps Choice Black (Series 1) #TC-17 Christian Yelich (251/299)<br>
+2020 Topps  - Topps Choice (Series 1) #TC-17 Christian Yelich<br>
+2020 Topps  - 1985 Topps Baseball 35th Anniversary All-Stars #85AS-19 Christian Yelich<br>
+2020 Topps  - 1985 Topps Baseball 35th Anniversary Chrome (Series 1) #85C-21 Christian Yelich<br>
+2020 Topps  #143 Christian Yelich<br>
 2020 Topps  - Advanced Stats #200 Christian Yelich (220/300)<br>
+2020 Topps  #200 Christian Yelich<br>
+2020 Topps Allen & Ginter - Longball Lore #LL-50 Christian Yelich<br>
+2020 Topps Allen & Ginter #58 Christian Yelich<br>
+2020 Topps Allen & Ginter - Silver Portrait #58 Christian Yelich<br>
 2020 Topps Archives - 1960 Topps Combo Cards #60CC-YH Master & Apprentice -- Yelich & Hiura<br>
+2020 Topps Archives #248 Christian Yelich<br>
+2020 Topps Big League #57 Christian Yelich<br>
+2020 Topps Big League - Orange #275 Christian Yelich<br>
 2020 Topps Chrome - Topps Gallery National Baseball Card Day Previews #GP-5 Christian Yelich<br>
+2020 Topps Chrome - 1985 Topps Baseball 35th Anniversary #85TC-15 Christian Yelich<br>
 2020 Topps Chrome - Pink Refractor #138 Christian Yelich<br>
 2020 Topps Chrome - Sepia Refractor #138 Christian Yelich<br>
+2020 Topps Chrome Ben Baller Edition - Blue Refractor #138 Christian Yelich (50/75)<br>
+2020 Topps Gallery - Heritage #HT-17 Christian Yelich<br>
 2020 Topps Gallery #8 Christian Yelich<br>
+2020 Topps Gold Label #52 Christian Yelich<br>
+2020 Topps Gypsy Queen #25 Christian Yelich<br>
 2020 Topps Heritage - Real One Autographs #ROA-CYE Christian Yelich (Autographed)<br>
 2020 Topps Heritage - Chrome Purple Refractor #THC-174 Christian Yelich<br>
+2020 Topps Heritage - 1971 Topps Baseball Scratch-Offs #6 Christian Yelich<br>
 2020 Topps Heritage #174 Christian Yelich<br>
+2020 Topps Heritage #174 Christian Yelich - Action Running<br>
 2020 Topps Holiday #HW155 Christian Yelich<br>
+2020 Topps Holiday #HW155 Christian Yelich - Candy cane bat<br>
 2020 Topps National Baseball Card Day #16 Christian Yelich<br>
+2020 Topps Opening Day - Red Foil #163 Christian Yelich<br>
+2020 Topps Stadium Club - Bash & Burn #BAB-4 Christian Yelich<br>
+2020 Topps Stadium Club - Power Zone Red #PZ-5 Christian Yelich<br>
+2020 Topps Stadium Club - Power Zone #PZ-5 Christian Yelich<br>
+2020 Topps Stadium Club - Chrome Gold Minted #292 Christian Yelich<br>
+2020 Topps Stadium Club - Chrome Orange Refractor #292 Christian Yelich (68/99)<br>
+2020 Topps Stadium Club Chrome - Beam Team Gold #BT-4 Christian Yelich (7/50)<br>
+2020 Topps Update #U-269 Christian Yelich - Collared shirt<br>
+2020 Topps Update #U-269 Christian Yelich<br>
 2021 Bowman Bowman's Best - Green Refractor #73 Christian Yelich (60/99)<br>
 2021 Bowman Chrome - Blue Refractor #22 Christian Yelich (83/150)<br>
 2021 Topps  - Foilboard (Walmart) #100 Christian Yelich (662/790)<br>

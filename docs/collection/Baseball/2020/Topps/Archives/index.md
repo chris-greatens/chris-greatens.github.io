@@ -9,6 +9,8 @@
 
 ## Cards
 
+### No Subset
+- [x] 248: Christian Yelich<br>
 ### 1960 Topps Combo Cards
 - [x] 60CC-YH: Master & Apprentice -- Yelich & Hiura<br>
 ### 1976 Topps Traded Autograph Silver
