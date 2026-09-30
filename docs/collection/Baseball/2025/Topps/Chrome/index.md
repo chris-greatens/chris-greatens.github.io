@@ -4,6 +4,7 @@
 ## Subsets
 
 - Refractor
+- Sepia Refractors
 - X-Fractors
 
 ## Cards
@@ -14,5 +15,7 @@
 - [x] 262: Jackson Chourio<br>
 ### Refractor
 - [x] 89: Christian Yelich<br>
+### Sepia Refractors
+- [x] 95: Freddy Peralta<br>
 ### X-Fractors
 - [x] USC112: Caleb Durbin<br>

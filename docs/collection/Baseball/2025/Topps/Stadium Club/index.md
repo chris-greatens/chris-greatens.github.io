@@ -4,6 +4,7 @@
 ## Subsets
 
 - Base Autographs Yellow Foil
+- Lime Green
 - Pink Foil
 - Red Foil
 - Sepia
@@ -20,6 +21,8 @@
 - [x] 193: Brice Turang<br>
 ### Base Autographs Yellow Foil
 - [x] SCBA-SF: Sal Frelick<br>
+### Lime Green
+- [x] 171: Christian Yelich<br>
 ### Pink Foil
 - [x] 171: Christian Yelich<br>
 ### Red Foil

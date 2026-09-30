@@ -10,6 +10,7 @@
 ## Cards
 
 ### Bowman Scouts Top 100
+- [x] BTP-1: Jackson Chourio<br>
 - [x] BTP-33: Sal Frelick<br>
 ### Modern Prospects
 - [x] MP-12: Jackson Chourio<br>

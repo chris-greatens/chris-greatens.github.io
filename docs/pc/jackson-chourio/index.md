@@ -1,6 +1,6 @@
 # Jackson Chourio
 
-## Cards Owned: 54
+## Cards Owned: 55
 
 ## Card List
 
@@ -8,6 +8,7 @@
 2022 Bowman Draft #BD-115 Jackson Chourio<br>
 2022 Bowman Draft - Chrome #BDC-115 Jackson Chourio<br>
 2023 Bowman  - Modern Prospects #MP-12 Jackson Chourio<br>
+2023 Bowman  - Bowman Scouts Top 100 #BTP-1 Jackson Chourio<br>
 2023 Bowman  - Sights on September #SOS-11 Jackson Chourio Sights on September<br>
 2023 Bowman Chrome - It Came to the League #CFL-11 Jackson Chourio It Came to the League<br>
 2024 Bowman  - Bowman A.I. #BAI-16 Jackson Chourio<br>

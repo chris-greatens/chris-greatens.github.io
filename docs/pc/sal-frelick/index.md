@@ -1,6 +1,6 @@
 # Sal Frelick
 
-## Cards Owned: 28
+## Cards Owned: 34
 
 ## Card List
 
@@ -17,12 +17,17 @@
 2024 Topps Allen & Ginter - Mini #98 Sal Frelick<br>
 2024 Topps Big League #214 Sal Frelick<br>
 2024 Topps Chrome Update #USC61 Sal Frelick<br>
+2024 Topps Finest - Finest Rookies Design Variation #FRD-2 Sal Frelick<br>
+2024 Topps Finest #51 Sal Frelick<br>
 2024 Topps Heritage #451 Sal Frelick<br>
 2024 Topps Heritage - Chrome #451 Sal Frelick<br>
 2024 Topps Holiday #H35 Sal Frelick<br>
+2024 Topps Pristine #142 Sal Frelick<br>
 2024 Topps Series 1 - Stars of MLB #SLMB-12 Sal Frelick<br>
 2024 Topps Series 1 - 2023 Greatest Hits #23GH-29 Sal Frelick<br>
 2024 Topps Series 1 #76 Sal Frelick<br>
+2024 Topps Series 1 - All-Star Game #76 Sal Frelick<br>
+2024 Topps Series 1 - 1989 Topps Baseball 35th Anniversary Black (Series One) #89B-9 Sal Frelick (187/299)<br>
 2024 Topps Series 2 - Stars of MLB #SMLB-56 Sal Frelick<br>
 2024 Topps Stadium Club - Chrome Autographs #SCCA-SF Sal Frelick (Autographed)<br>
 2024 Topps Stadium Club #183 Sal Frelick<br>
@@ -32,3 +37,4 @@
 2025 Topps Holiday #H112 Sal Frelick<br>
 2025 Topps Series 2 #651 Sal Frelick<br>
 2025 Topps Stadium Club - Base Autographs Yellow Foil #SCBA-SF Sal Frelick (Autographed)<br>
+2026 Topps Chrome - Refractors #60 Sal Frelick<br>
