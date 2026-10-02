@@ -4,6 +4,7 @@
 ## Subsets
 
 - 1976 Player Icons Holographic
+- 1976 Redefined
 - 1976 Redefined Holographic
 - 50th Anniversary Buybacks
 - Dark Blue Border
@@ -20,6 +21,8 @@
 - [x] 539: Caleb Durbin<br>
 ### 1976 Player Icons Holographic
 - [x] 76PI-9: William Contreras<br>
+### 1976 Redefined
+- [x] 76R-6: Jackson Chourio<br>
 ### 1976 Redefined Holographic
 - [x] 76R-6: Jackson Chourio<br>
 ### 50th Anniversary Buybacks

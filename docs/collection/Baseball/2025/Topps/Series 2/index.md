@@ -5,6 +5,7 @@
 
 - 1990 Topps Baseball 35th Anniversary Autographs (Series 2)
 - Major League Marial Relics
+- Rainbow Foil
 - Sandglitter
 
 ## Cards
@@ -17,5 +18,7 @@
 - [x] 90B2-BWI: Billy Williams<br>
 ### Major League Marial Relics
 - [x] MLM2-WC: William Contreras Major Leage Material Relics<br>
+### Rainbow Foil
+- [x] 376: Jackson Chourio<br>
 ### Sandglitter
 - [x] 643: Garrett Mitchell<br>

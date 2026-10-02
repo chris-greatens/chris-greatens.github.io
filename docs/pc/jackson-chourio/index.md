@@ -1,6 +1,6 @@
 # Jackson Chourio
 
-## Cards Owned: 55
+## Cards Owned: 63
 
 ## Card List
 
@@ -11,6 +11,7 @@
 2023 Bowman  - Bowman Scouts Top 100 #BTP-1 Jackson Chourio<br>
 2023 Bowman  - Sights on September #SOS-11 Jackson Chourio Sights on September<br>
 2023 Bowman Chrome - It Came to the League #CFL-11 Jackson Chourio It Came to the League<br>
+2023 Bowman Platinum - Precious Elements #PE-18 Jackson Chourio<br>
 2024 Bowman  - Bowman A.I. #BAI-16 Jackson Chourio<br>
 2024 Bowman  - Prospects #BP-140 Jackson Chourio<br>
 2024 Bowman  - Chrome Prospects #BP-140 Jackson Chourio<br>
@@ -18,11 +19,13 @@
 2024 Bowman Bowman's Best - Shots by the Kid #TK-5 Jackson Chourio<br>
 2024 Choice Wisconsin Timber Rattlers SGA #11 Jackson Chourio<br>
 2024 Topps Archives #44 Jackson Chourio<br>
+2024 Topps Boomer's Best #71 Jackson Chourio<br>
 2024 Topps Chrome Update - Future Stars #FSU-16 Jackson Chourio<br>
 2024 Topps Chrome Update #USC30 Jackson Chourio<br>
 2024 Topps Chrome Update - X-Fractors #USC30 Jackson Chourio<br>
 2024 Topps Chrome Update - Refractors #USC18 Jackson Chourio<br>
 2024 Topps Chrome Update - 1989 Topps Baseball 35th Anniversary #89CU-4 Jackson Chourio<br>
+2024 Topps Hobby Rip Night #22 Jackson Chourio<br>
 2024 Topps Holiday #H119 Jackson Chourio<br>
 2024 Topps Holiday - Holiday Tree #H119 Jackson Chourio<br>
 2024 Topps Now #37 Jackson Chourio<br>
@@ -34,17 +37,22 @@
 2024 Topps Update Series - SuperBox Companion Card #US240 Jackson Chourio<br>
 2025 Bowman  - Mega Box Refractor #11 Jackson Chourio<br>
 2025 Bowman Chrome #40 Jackson Chourio<br>
+2025 Bowman Chrome - Mojo Refractors #40 Jackson Chourio<br>
 2025 Police Sets 2025 #2 Jackson Chourio<br>
 2025 Topps Allen & Ginter #76 Jackson Chourio<br>
 2025 Topps Archives - 1964 Stand Ups #64SU-22 Jackson Chourio 1964 Stand Ups<br>
+2025 Topps Archives - 1987 Topps Boardwalk and Baseball #87BB-19 Jackson Chourio<br>
 2025 Topps Chrome #262 Jackson Chourio<br>
 2025 Topps Chrome Platinum Anniversary #16 Jackson Chourio<br>
 2025 Topps Finest #78 Jackson Chourio<br>
 2025 Topps Heritage #5 Jackson Chourio Record Breaker<br>
 2025 Topps Heritage - 1976 Redefined Holographic #76R-6 Jackson Chourio<br>
+2025 Topps Heritage - 1976 Redefined #76R-6 Jackson Chourio<br>
 2025 Topps Heritage #106 Jackson Chourio<br>
+2025 Topps Holiday #H182 Jackson Chourio - Candy cane<br>
 2025 Topps Holiday #262 Jackson Chourio<br>
 2025 Topps Series 1 - Dynamic Duos #DD-18 Dynamic Duos -- Yelich & Chourio<br>
+2025 Topps Series 2 - Rainbow Foil #376 Jackson Chourio<br>
 2025 Topps Stadium Club - Yours for the Taking #YK-13 Jackson Chourio<br>
 2025 Topps Stadium Club #138 Jackson Chourio<br>
 2025 Topps Update #US233 Crew Missiles<br>

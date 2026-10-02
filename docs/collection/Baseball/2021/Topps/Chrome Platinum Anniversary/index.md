@@ -7,5 +7,7 @@
 
 ## Cards
 
+### No Subset
+- [x] 164: Christian Yelich<br>
 ### Refractor
 - [x] 626: Jim Kaat<br>

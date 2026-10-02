@@ -1,6 +1,6 @@
 # Christian Yelich
 
-## Cards Owned: 157
+## Cards Owned: 192
 
 ## Card List
 
@@ -64,6 +64,7 @@
 2020 Bowman Bowman's Best - Purple Refractor #9 Christian Yelich (124/250)<br>
 2020 Bowman Platinum #74 Christian Yelich<br>
 2020 Bowman Platinum - Teal #74 Christian Yelich (85/299)<br>
+2020 Panini Contenders #18 Christian Yelich<br>
 2020 Panini Diamond Kings - Gallery of Stars #GOS-14 Christian Yelich<br>
 2020 Panini Diamond Kings - Arist's Proof Blue #83 Christian Yelich<br>
 2020 Panini Diamond Kings - Framed Plum #83 Christian Yelich<br>
@@ -116,11 +117,45 @@
 2020 Topps Update #U-269 Christian Yelich<br>
 2021 Bowman Bowman's Best - Green Refractor #73 Christian Yelich (60/99)<br>
 2021 Bowman Chrome - Blue Refractor #22 Christian Yelich (83/150)<br>
+2021 Bowman Heritage #33 Christian Yelich<br>
+2021 Bowman Platinum #95 Christian Yelich<br>
+2021 Bowman Platinum - Ice Foil #95 Christian Yelich<br>
+2021 Panini Contenders - Green #9 Christian Yelich<br>
+2021 Panini Contenders - Optic Purple Velocity #9 Christian Yelich (5/16)<br>
+2021 Panini Contenders - Optic Red Wave #9 Christian Yelich<br>
+2021 Panini Donruss #24 Christian Yelich<br>
+2021 Panini Donruss - Holo Orange #24 Christian Yelich<br>
+2021 Panini Donruss #200 Christian Yelich - SPIRIT GOES BACK A WAYS<br>
+2021 Panini Donruss - Independence Day #200 Christian Yelich - SPIRIT GOES BACK A<br>
+2021 Panini Donruss - Holo Blue #200 Christian Yelich - SPIRIT GOES BACK A WAYS<br>
+2021 Panini Prizm - Fearless #FR-14 Christian Yelich<br>
+2021 Topps  - 1965 Topps Redux #T65-29 Christian Yelich<br>
+2021 Topps  - 1965 Topps Redux Chrome #TH65-29 Christian Yelich<br>
+2021 Topps  - 1952 Topps Redux #T52-50 Christian Yelich<br>
+2021 Topps  - 1952 Topps Redux Chrome #TC52-50 Christian Yelich<br>
 2021 Topps  - Foilboard (Walmart) #100 Christian Yelich (662/790)<br>
+2021 Topps  #100 Christian Yelich<br>
+2021 Topps Allen & Ginter - Mini #80 Christian Yelich<br>
 2021 Topps Archives - Real Ones Autographs #ROA-CY Christian Yelich (Autographed)<br>
+2021 Topps Chrome Platinum Anniversary #164 Christian Yelich<br>
+2021 Topps Chrome Update - Topps Black Gold #BGC-9 Christian Yelich<br>
 2021 Topps Finest - Finest Autographs #FA-CY Christian Yelich (Autographed)<br>
+2021 Topps Finest #88 Christian Yelich<br>
+2021 Topps Finest - Blue Refractor #88 Christian Yelich (48/150)<br>
+2021 Topps Fire - We Have Liftoff Gold Minted #WHL-10 Christian Yelich<br>
+2021 Topps Fire - Gold Minted #166 Christian Yelich<br>
+2021 Topps Gold Label #72 Christian Yelich<br>
+2021 Topps Gold Label - Class 2 #72 Christian Yelich<br>
+2021 Topps Gold Label - Class 3 #72 Christian Yelich<br>
+2021 Topps Heritage - 1972 Topps Candy Lids #12 Christian Yelich<br>
+2021 Topps Holiday #HW61 Christian Yelich<br>
+2021 Topps Holiday #HW61 Christian Yelich - Candy cane<br>
+2021 Topps Holiday #HW61 Christian Yelich - Santa belt<br>
 2021 Topps Now #687 Christian Yelich<br>
 2021 Topps Stadium Club - Beam Team Orange #BT-9 Christian Yelich (6/50)<br>
+2021 Topps Stadium Club #209 Christian Yelich<br>
+2021 Topps Stadium Club - Red Foil #209 Christian Yelich<br>
+2021 Topps Update - Topps Black Gold #BG-9 Christian Yelich<br>
 2022 Topps Cosmic Chrome #124 Christian Yelich<br>
 2022 Topps Finest Flashbacks - 1995 Finest Autographs #95FA-CY Christian Yelich (12/25) (Autographed)<br>
 2022 Topps Finest Flashbacks - Prism Refractor #157 Christian Yelich (34/35)<br>

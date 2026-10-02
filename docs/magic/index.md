@@ -31,11 +31,13 @@ A catalog of my study materials on sleight of hand, mentalism, and the theory of
 | **Classic Secrets of Magic** | Bruce Elliott | General Magic | 1953 | Essential stage and parlor effects. |
 | **Houdini on Magic** | Walter Gibson | General Magic | 1953 | Compiled writings and history of Houdini. |
 | **Scarne on Card Tricks** | John Scarne | Card Magic | 1953 | Professional non-sleight card magic. |
+| **Stars of Magic** | Various | Card Magic | 1961 | Magic tricks by some of the early masters of card magic. |
 | **Close-up Card Magic** | Harry Lorayne | Card Magic | 1962 | High-energy, impromptu card magic. |
 | **Magic and Showmanship** | Henning Nelms | Theory/Presentation | 1969 | Essential guide to acting and stagecraft. |
 | **Card Mastery** | Michael MacDougall | Card Magic | 1975 | Techniques used by gambling cheats. |
 | **Magic With Cards** | Frank Garcia & George Schindler | Card Magic | 1975 | Over 100 easy-to-perform card tricks. |
 | **Self-Working Card Tricks** | Karl Fulves | Self-Working | 1976 | Reliable, no-sleight miracles. |
+| **The Magic Book: The Complete Beginner's Guide to Anytime, Anywhere, Sleight-of-Hand Magic** | Harry Lorayne | Card Magic | 1977 | High-energy, impromptu card magic. |
 | **Arch Triumphs** | Jon Racherbaumer | Card magic | 1978 | Book dedicated to the trick that fooled Houdini. | 
 | **Self-Working Mental Magic** | Karl Fulves | Mentalism | 1979 | Mind-reading without the sleights. |
 | **More Self-Working Card Tricks** | Karl Fulves | Self-Working | 1984 | Further no-sleight exploration. |
@@ -81,6 +83,7 @@ A catalog of my study materials on sleight of hand, mentalism, and the theory of
 | **Topping the Deck: The Perfect Move** | Jamy Ian Swiss | Card Magic | 2023 | Focused on this one move. |
 | **The Particle System** | Joshua Jay | Card Magic | 2025 | Joshua's take on memorized deck magic. |
 | **The Paper Engine: 20th Anniversary Edition** | Aaron Fisher | Advanced Card Magic | 2025 | An advanced guide to master-level sleight of hand card magic. |
+| **Dear Mr. Fantasy** | John Bannon | Card Magic | 2026 | Card tricks performed with unprepared decks. |
 
 # Books of my desire
 
@@ -93,7 +96,6 @@ These are the books that I would like to add to my collection:
 | **Tarbell Course in Magic (Volume 8)** | Harlen Tarbell  | Foundational Magic | 1927 | |
 | **The Phantom of the Card Table** | Edward McGuire | Card Magic | 1930 | |
 | **Effective Card Magic** | Bill Simon | Card Magic | 1952 | |
-| **Stars of Magic** | Various | Card Magic | 1961 | |
 | **The Art of Close-up Magic Volume 1** | Lewis Ganson | Close-up Magic | 1967 | |
 | **The Art of Close-up Magic Volume 2** | Lewis Ganson | Close-up Magic | 1969 | |
 | **The Doc and His Deck** | Jacob Taub | Card Magic | 1976 | |
