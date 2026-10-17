@@ -5,6 +5,7 @@
 
 - Blue Refractor
 - Finest Autographs
+- Finest Legacies
 
 ## Cards
 
@@ -14,3 +15,5 @@
 - [x] 88: Christian Yelich<br>
 ### Finest Autographs
 - [x] FA-CY: Christian Yelich<br>
+### Finest Legacies
+- [x] FL-CY: Christian Yelich / Robin Yount<br>

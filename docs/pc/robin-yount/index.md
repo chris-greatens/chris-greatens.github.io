@@ -1,6 +1,6 @@
 # Robin Yount
 
-## Cards Owned: 6
+## Cards Owned: 7
 
 ## Card List
 
@@ -9,4 +9,5 @@
 2004 Topps Series 1 - World Series Highlights #WS-RY Robin Yount<br>
 2004 Topps Series 1 - World Series Highlights Autographs #WSA-RY Robin Yount (Autographed)<br>
 2018 Topps Clearly Authentic - Reprint Autographs #CAR-RY Robin Yount (25/99) (Autographed)<br>
+2021 Topps Finest - Finest Legacies #FL-CY Christian Yelich / Robin Yount<br>
 2022 Topps Archives - Fan Favorites Premium #53FF-RY Robin Yount (39/50) (Autographed)<br>

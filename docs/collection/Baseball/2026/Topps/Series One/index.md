@@ -10,6 +10,7 @@
 - Holiday Polka Dots Pink/Green
 - Holo Foil
 - Opening Day Foil
+- Silver Crackle Foil
 - Stars of MLB
 - Team Color Border
 
@@ -41,6 +42,8 @@
 - [x] 117: NL Wins Leaders<br>
 ### Opening Day Foil
 - [x] 186: Quinn Priester<br>
+### Silver Crackle Foil
+- [x] 154: Christian Yelich Holiday Polka Dots Pink/Green<br>
 ### Stars of MLB
 - [x] SMLB-26: Jacob Misiorowski Stars of MLB<br>
 ### Team Color Border

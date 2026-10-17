@@ -8,6 +8,8 @@
 
 ## Cards
 
+### No Subset
+- [x] 258: Christian Yelich<br>
 ### Fan Favorite Autographs
 - [x] FFA-CE: Carl Erskine<br>
 ### Real Ones Autographs

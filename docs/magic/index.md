@@ -84,6 +84,7 @@ A catalog of my study materials on sleight of hand, mentalism, and the theory of
 | **The Particle System** | Joshua Jay | Card Magic | 2025 | Joshua's take on memorized deck magic. |
 | **The Paper Engine: 20th Anniversary Edition** | Aaron Fisher | Advanced Card Magic | 2025 | An advanced guide to master-level sleight of hand card magic. |
 | **Dear Mr. Fantasy** | John Bannon | Card Magic | 2026 | Card tricks performed with unprepared decks. |
+| **How Did You Do That?** | Asi Wind | Card Magic | 2026 | Book of magic that anyone can do. |
 
 # Books of my desire
 
