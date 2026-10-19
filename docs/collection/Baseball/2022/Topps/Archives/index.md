@@ -5,10 +5,14 @@
 
 - Fan Favorites Autographs
 - Fan Favorites Premium  (Cards Owned: 24 / 27 (88.9% complete))
+- Green
+- Rainbow Foil
 
 ## Cards
 
 ### No Subset
+- [x] 64: Christian Yelich<br>
+- [x] 64: Christian Yelich<br>
 - [x] 281: Willy Adames<br>
 ### Fan Favorites Autographs
 - [x] 60FF-WH: Whitey Herzog<br>
@@ -42,3 +46,7 @@
 - [x] 53FF-VGO: Vladimir Guerrero<br>
 - [x] 53FF-WB: Wade Boggs<br>
 - [x] 53FF-WF: Wander Franco<br>
+### Green
+- [x] 64: Christian Yelich<br>
+### Rainbow Foil
+- [x] 64: Christian Yelich<br>

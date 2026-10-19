@@ -1,6 +1,6 @@
 # Christian Yelich
 
-## Cards Owned: 221
+## Cards Owned: 317
 
 ## Card List
 
@@ -131,6 +131,7 @@
 2021 Panini Donruss #200 Christian Yelich - SPIRIT GOES BACK A WAYS<br>
 2021 Panini Donruss - Independence Day #200 Christian Yelich - SPIRIT GOES BACK A<br>
 2021 Panini Donruss - Holo Blue #200 Christian Yelich - SPIRIT GOES BACK A WAYS<br>
+2021 Panini Mosaic - Producers #P5 Christian Yelich<br>
 2021 Panini Prizm - Fearless #FR-14 Christian Yelich<br>
 2021 Panini Select #164 Christian Yelich<br>
 2021 Topps  - 1965 Topps Redux #T65-29 Christian Yelich<br>
@@ -180,15 +181,110 @@
 2021 Topps Stadium Club Chrome - Beam Team #BTC-9 Christian Yelich<br>
 2021 Topps Stadium Club Chrome #209 Christian Yelich - 1991 Design Variation<br>
 2021 Topps Throwback Thursday #89 Christian Yelich<br>
+2021 Topps UK Edition #125 Christian Yelich<br>
 2021 Topps Update - Topps Black Gold #BG-9 Christian Yelich<br>
 2021 Topps Update - 1992 Topps Redux #T92-28 Christian Yelich<br>
 2021 Topps Update - 1992 Topps Redux Chrome #TC92-28 Christian Yelich<br>
 2021 Topps Update - 1986 Topps Baseball 35th Anniversary Chrome #86C-28 Christian Yelich<br>
+2022 Bowman Chrome #31 Christian Yelich<br>
+2022 Bowman Chrome Sapphire Edition - Yellow #31 Christian Yelich (49/50)<br>
+2022 Bowman Heritage #61 Christian Yelich<br>
+2022 Bowman Platinum #18 Christian Yelich<br>
+2022 Panini Capstone - Big Bang #BB-5 Christian Yelich<br>
+2022 Panini Diamond Kings - Gallery of Stars #GS-11 Christian Yelich<br>
+2022 Panini Donruss Optic - Mythical #MTH-23 Christian Yelich<br>
+2022 Panini Mosaic - Bang! Mosaic #BG-6 Christian Yelich<br>
+2022 Panini Mosaic - Mosaic #113 Christian Yelich<br>
+2022 Panini Prizm - Fearless #FL-7 Christian Yelich<br>
+2022 Panini Prizm #52 Christian Yelich<br>
+2022 Topps 1st Edition - Orange Foil #288 Christian Yelich (68/75)<br>
+2022 Topps 582 Montgomery Club Set 2 #17 Christian Yelich<br>
+2022 Topps Allen & Ginter #74 Christian Yelich<br>
+2022 Topps Allen & Ginter - Silver Portrait #74 Christian Yelich<br>
+2022 Topps Allen & Ginter - Mini Stained Glass #360 Christian Yelich<br>
+2022 Topps Allen & Ginter Chrome #74 Christian Yelich<br>
+2022 Topps Archives #64 Christian Yelich - Color Swap; Solid red background<br>
+2022 Topps Archives #64 Christian Yelich<br>
+2022 Topps Archives - Green #64 Christian Yelich (37/125)<br>
+2022 Topps Archives - Rainbow Foil #64 Christian Yelich (49/199)<br>
+2022 Topps Chrome #P-5 Christian Yelich<br>
+2022 Topps Chrome - 1987 Topps Baseball 35th Anniversary #87BC-6 Christian Yelich<br>
+2022 Topps Chrome - Sepia Refractor #210 Christian Yelich<br>
+2022 Topps Chrome - Pink Refractor #210 Christian Yelich<br>
+2022 Topps Chrome Logofractor Edition #106 Christian Yelich<br>
+2022 Topps Chrome Platinum Anniversary - Yellow RayWave Refractors #489 Christian Yelich (106/250)<br>
+2022 Topps Chrome Platinum Anniversary - Platinum Toile Cream / Gold Refractors #489 Christian Yelich (6/50)<br>
+2022 Topps Chrome Platinum Anniversary - Platinum Toile Cream / Fuchsia Atomic Refractors #489 Christian Yelich (20/100)<br>
+2022 Topps Chrome Platinum Anniversary - Blue Atomic Refractors #489 Christian Yelich (84/100)<br>
+2022 Topps Chrome Platinum Anniversary - Blue Prism Refractors #489 Christian Yelich<br>
+2022 Topps Chrome Platinum Anniversary - Blue Mini-Diamond Refractors #489 Christian Yelich (48/199)<br>
+2022 Topps Chrome Platinum Anniversary - Platinum Toile White / Blue Refractors #489 Christian Yelich (50/199)<br>
+2022 Topps Chrome Platinum Anniversary - Refractors #489 Christian Yelich<br>
+2022 Topps Chrome Platinum Anniversary - X-Fractors #489 Christian Yelich<br>
+2022 Topps Chrome Platinum Anniversary - Black and White Mini Diamond Refractors #489 Christian Yelich<br>
+2022 Topps Chrome Platinum Anniversary - Speckle Refractors #489 Christian Yelich (150/150)<br>
+2022 Topps Cosmic Chrome - Supernova #SN-14 Christian Yelich<br>
 2022 Topps Cosmic Chrome #124 Christian Yelich<br>
+2022 Topps Finest - Aqua Refractors #66 Christian Yelich (136/199)<br>
+2022 Topps Finest - Purple Refractors #66 Christian Yelich (14/250)<br>
 2022 Topps Finest Flashbacks - 1995 Finest Autographs #95FA-CY Christian Yelich (12/25) (Autographed)<br>
 2022 Topps Finest Flashbacks - Prism Refractor #157 Christian Yelich (34/35)<br>
+2022 Topps Finest Flashbacks #157 Christian Yelich<br>
+2022 Topps Finest Flashbacks - Refractors #157 Christian Yelich<br>
+2022 Topps Finest Flashbacks - Gold Refractors #157 Christian Yelich (32/50)<br>
+2022 Topps Fire - To the Moon #TTM-23 Christian Yelich<br>
+2022 Topps Fire - To the Moon Gold Minted #TTM-23 Christian Yelich<br>
+2022 Topps Fire - En Fuego Gold Minted #EF-16 Christian Yelich<br>
+2022 Topps Fire #83 Christian Yelich<br>
+2022 Topps Gallery - Modern Artists #MA-18 Christian Yelich<br>
+2022 Topps Gallery #44 Christian Yelich<br>
+2022 Topps Gallery - Printer Proofs #44 Christian Yelich<br>
+2022 Topps Gold Label #51 Christian Yelich<br>
 2022 Topps Heritage - Real One Autographs #ROA-CY Christian Yelich (Autographed)<br>
+2022 Topps Heritage - 1973 Topps Candy Lids #9 Christian Yelich<br>
+2022 Topps Heritage #123 Christian Yelich<br>
+2022 Topps Heritage - Chrome Refractor #123 Christian Yelich (3/673)<br>
+2022 Topps Heritage - Chrome Purple Refractor #123 Christian Yelich<br>
+2022 Topps Heritage - Chrome Blue Sparkle #123 Christian Yelich<br>
+2022 Topps Heritage - Chrome Red Refractor #123 Christian Yelich (254/573)<br>
+2022 Topps Heritage #123 Christian Yelich - Image Variation<br>
+2022 Topps Holiday #HW185 Christian Yelich<br>
+2022 Topps Holiday #HW185 Christian Yelich - Candy cane bat<br>
+2022 Topps Holiday - Metallic #HW185 Christian Yelich<br>
+2022 Topps Museum Collection #75 Christian Yelich<br>
+2022 Topps Now MLB Network's Top 100 #T-100 Christian Yelich<br>
+2022 Topps Opening Day - Bomb Squad #BS-25 Christian Yelich<br>
+2022 Topps Opening Day #174 Christian Yelich<br>
+2022 Topps Series 1 - 1987 Topps Baseball 35th Anniversary Chrome (Series One) #T87C-76 Christian Yelich<br>
+2022 Topps Series 1 - Home Run Challenge Winner September #HRCW-8 Christian Yelich (268/401)<br>
+2022 Topps Series 1 - Home Run Challenge Winner April #HRCW-8 Christian Yelich (133/182)<br>
+2022 Topps Series 1 - Sweet Shades Blue #SS-20 Christian Yelich<br>
+2022 Topps Series 1 - Sweet Shades #SS-20 Christian Yelich<br>
+2022 Topps Series 1 - 1987 Topps Baseball 35th Anniversary (Series One) #T87-71 Christian Yelich<br>
+2022 Topps Series 1 - Home Field Advantage #HA-13 Christian Yelich<br>
+2022 Topps Series 1 - Flashiest Feet #FF-15 Christian Yelich<br>
+2022 Topps Series 1 - Stars of MLB (Series One) #SMLB-11 Christian Yelich<br>
+2022 Topps Series 1 - 1987 Topps Baseball 35th Anniversary All-Stars #87AS-26 Christian Yelich<br>
+2022 Topps Series 1 - 1987 Topps Baseball 35th Anniversary All-Stars Blue #87AS-26 Christian Yelich<br>
+2022 Topps Series 1 #288 Christian Yelich<br>
+2022 Topps Series 1 - Rainbow Foil #288 Christian Yelich<br>
+2022 Topps Series 1 - Gold #288 Christian Yelich (1238/2022)<br>
+2022 Topps Series 1 #288 Christian Yelich - Hands up<br>
+2022 Topps Series 2 - Home Run Challenge (Series Two) #HRC-8 Christian Yelich<br>
 2022 Topps Stadium Club - 1991 Design Variation Autographs #DVA-CY Christian Yelich (4/25) (Autographed)<br>
+2022 Topps Stadium Club - Red Foil #192 Christian Yelich<br>
+2022 Topps Stadium Club #192 Christian Yelich - Design variation (1991)<br>
+2022 Topps Stadium Club - Sepia #192 Christian Yelich<br>
+2022 Topps Stadium Club - Rainbow Foilboard #192 Christian Yelich (15/25)<br>
+2022 Topps Stadium Club - Members Only #192 Christian Yelich<br>
+2022 Topps Stadium Club #192 Christian Yelich<br>
+2022 Topps Stadium Club - Chrome Orange Refractor #192 Christian Yelich (64/99)<br>
+2022 Topps Stadium Club - Chrome Gold Minted #192 Christian Yelich<br>
+2022 Topps Stadium Club - Chrome #192 Christian Yelich<br>
+2022 Topps Stadium Club Chrome - X-Fractors #192 Christian Yelich<br>
+2022 Topps Stadium Club Chrome - Gold Refractors #192 Christian Yelich (26/50)<br>
+2022 Topps Stadium Club Chrome - Blue Refractors #192 Christian Yelich (21/199)<br>
+2022 Topps Throwback Thursday #19 Christian Yelich<br>
 2023 Topps Heritage - Real One Autographs #ROA-CY Christian Yelich (Autographed)<br>
 2023 Topps Stadium Club - Virtuosos of Velocity Red #VV-25 Christian Yelich Virtuosos of Velocity<br>
 2023 Topps Update - Gold #US328 Adames Douses Yelich After Win (957/2023)<br>

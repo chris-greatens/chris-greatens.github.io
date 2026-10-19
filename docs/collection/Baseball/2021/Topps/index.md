@@ -18,4 +18,5 @@
 ## [Stadium Club](/collection/Baseball/2021/Topps/Stadium Club)
 ## [Stadium Club Chrome](/collection/Baseball/2021/Topps/Stadium Club Chrome)
 ## [Throwback Thursday](/collection/Baseball/2021/Topps/Throwback Thursday)
+## [UK Edition](/collection/Baseball/2021/Topps/UK Edition)
 ## [Update](/collection/Baseball/2021/Topps/Update)
