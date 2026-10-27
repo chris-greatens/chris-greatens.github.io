@@ -1,6 +1,6 @@
 # Jackson Chourio
 
-## Cards Owned: 63
+## Cards Owned: 66
 
 ## Card List
 
@@ -12,6 +12,7 @@
 2023 Bowman  - Sights on September #SOS-11 Jackson Chourio Sights on September<br>
 2023 Bowman Chrome - It Came to the League #CFL-11 Jackson Chourio It Came to the League<br>
 2023 Bowman Platinum - Precious Elements #PE-18 Jackson Chourio<br>
+2023 Bowman Platinum - New Money #NM-11 Jackson Chourio<br>
 2024 Bowman  - Bowman A.I. #BAI-16 Jackson Chourio<br>
 2024 Bowman  - Prospects #BP-140 Jackson Chourio<br>
 2024 Bowman  - Chrome Prospects #BP-140 Jackson Chourio<br>
@@ -63,6 +64,8 @@
 2026 Topps Finest - World's Finest #WF-26 Jackson Chourio World's Finest<br>
 2026 Topps Heritage #272 Jackson Chourio<br>
 2026 Topps Heritage - Chrome #272 Jackson Chourio<br>
+2026 Topps Holiday - Metallic Santa Bag #H38 Jackson Chourio<br>
+2026 Topps Holiday - Glitter Holiday #H38 Jackson Chourio<br>
 2026 Topps Series One - 1991 Topps Baseball 35th Anniversary #T91-18 Jackson Chourio<br>
 2026 Topps Series Two - Stars of MLB #SMLB-45 Jackson Chourio<br>
 2026 Topps Series Two - Flagship Collection Chrome #83 Jackson Chourio<br>
