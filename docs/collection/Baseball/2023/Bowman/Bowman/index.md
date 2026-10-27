@@ -9,6 +9,8 @@
 
 ## Cards
 
+### No Subset
+- [x] 23: Christian Yelich<br>
 ### Bowman Scouts Top 100
 - [x] BTP-1: Jackson Chourio<br>
 - [x] BTP-33: Sal Frelick<br>

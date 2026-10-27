@@ -8,6 +8,8 @@
 
 ## Cards
 
+### No Subset
+- [x] 34: Christian Yelich<br>
 ### New Money
 - [x] NM-11: Jackson Chourio<br>
 ### Precious Elements

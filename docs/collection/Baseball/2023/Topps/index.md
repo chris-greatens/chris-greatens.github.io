@@ -12,5 +12,6 @@
 ## [Heritage](/collection/Baseball/2023/Topps/Heritage)
 ## [Holiday](/collection/Baseball/2023/Topps/Holiday)
 ## [International Trading Card Day](/collection/Baseball/2023/Topps/International Trading Card Day)
+## [Logofractor Edition](/collection/Baseball/2023/Topps/Logofractor Edition)
 ## [Stadium Club](/collection/Baseball/2023/Topps/Stadium Club)
 ## [Update](/collection/Baseball/2023/Topps/Update)

@@ -1,6 +1,6 @@
 # Christian Yelich
 
-## Cards Owned: 319
+## Cards Owned: 337
 
 ## Card List
 
@@ -285,7 +285,25 @@
 2022 Topps Stadium Club Chrome - Gold Refractors #192 Christian Yelich (26/50)<br>
 2022 Topps Stadium Club Chrome - Blue Refractors #192 Christian Yelich (21/199)<br>
 2022 Topps Throwback Thursday #19 Christian Yelich<br>
+2023 Bowman  #23 Christian Yelich<br>
+2023 Bowman Platinum #34 Christian Yelich<br>
+2023 Topps  - Stars of MLB #SMLB-11 Christian Yelich<br>
+2023 Topps  - Purple #192 Christian Yelich<br>
+2023 Topps  - Gold #192 Christian Yelich (1783/2023)<br>
+2023 Topps  - Gold Foil #192 Christian Yelich<br>
+2023 Topps  - Rainbow Foil #192 Christian Yelich<br>
+2023 Topps  - Silver Pattern Foilboard #192 Christian Yelich<br>
+2023 Topps  #192 Christian Yelich<br>
+2023 Topps Big League #271 Christian Yelich<br>
+2023 Topps Chrome - Sepia Refractors #109 Christian Yelich<br>
+2023 Topps Chrome - Pink Refractors #109 Christian Yelich<br>
+2023 Topps Chrome - Refractors #109 Christian Yelich<br>
+2023 Topps Cosmic Chrome #162 Christian Yelich<br>
+2023 Topps Cosmic Chrome - Refractors #162 Christian Yelich<br>
 2023 Topps Heritage - Real One Autographs #ROA-CY Christian Yelich (Autographed)<br>
+2023 Topps Holiday #H164 Christian Yelich<br>
+2023 Topps Holiday - Metallic #H164 Christian Yelich<br>
+2023 Topps Logofractor Edition #109 Christian Yelich<br>
 2023 Topps Stadium Club - Virtuosos of Velocity Red #VV-25 Christian Yelich Virtuosos of Velocity<br>
 2023 Topps Update - Gold #US328 Adames Douses Yelich After Win (957/2023)<br>
 2024 Topps 582 Montgomery Club #145 Christian Yelich<br>
