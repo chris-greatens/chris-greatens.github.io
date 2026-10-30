@@ -4,6 +4,7 @@
 ## Subsets
 
 - Blue Metallic Glitter Holiday
+- Green Holiday Plaid
 
 ## Cards
 
@@ -13,3 +14,5 @@
 - [x] 262: Jackson Chourio<br>
 ### Blue Metallic Glitter Holiday
 - [x] H21: William Contreras<br>
+### Green Holiday Plaid
+- [x] H25: Christian Yelich<br>
