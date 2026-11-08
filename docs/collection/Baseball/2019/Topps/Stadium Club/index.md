@@ -4,6 +4,7 @@
 ## Subsets
 
 - Photopgrapher's Proof
+- Power Zone
 
 ## Cards
 
@@ -11,3 +12,5 @@
 - [x] 87: Christian Yelich<br>
 ### Photopgrapher's Proof
 - [x] 6: Christian Yelich<br>
+### Power Zone
+- [x] PZ-18: Christian Yelich<br>

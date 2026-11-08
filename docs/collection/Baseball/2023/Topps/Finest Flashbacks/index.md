@@ -7,4 +7,5 @@
 - [x] 5: Brice Turang<br>
 - [x] 10: William Contreras<br>
 - [x] 62: Joey Wiemer<br>
+- [x] 65: Christian Yelich<br>
 - [x] 72: Garrett Mitchell<br>

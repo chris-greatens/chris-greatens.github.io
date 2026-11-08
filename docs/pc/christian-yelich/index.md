@@ -1,6 +1,6 @@
 # Christian Yelich
 
-## Cards Owned: 345
+## Cards Owned: 375
 
 ## Card List
 
@@ -55,6 +55,7 @@
 2019 Topps Series 1 - Mother's Day Pink #239 Christian Yelich (20/50)<br>
 2019 Topps Series 1 #300 Christian Yelich<br>
 2019 Topps Series 2 - 1984 Topps Baseball 35th Annivesary All-Stars #84AS-CY Christian Yelich<br>
+2019 Topps Stadium Club - Power Zone #PZ-18 Christian Yelich<br>
 2019 Topps Stadium Club - Photopgrapher's Proof #6 Christian Yelich<br>
 2019 Topps Stadium Club #87 Christian Yelich<br>
 2019 Topps Tribute #47 Christian Yelich<br>
@@ -191,6 +192,7 @@
 2022 Bowman Heritage #61 Christian Yelich<br>
 2022 Bowman Platinum #18 Christian Yelich<br>
 2022 Panini Capstone - Big Bang #BB-5 Christian Yelich<br>
+2022 Panini Capstone #162 Christian Yelich<br>
 2022 Panini Diamond Kings - Gallery of Stars #GS-11 Christian Yelich<br>
 2022 Panini Donruss Optic - Mythical #MTH-23 Christian Yelich<br>
 2022 Panini Mosaic - Bang! Mosaic #BG-6 Christian Yelich<br>
@@ -286,26 +288,54 @@
 2022 Topps Stadium Club Chrome - Blue Refractors #192 Christian Yelich (21/199)<br>
 2022 Topps Throwback Thursday #19 Christian Yelich<br>
 2023 Bowman  #23 Christian Yelich<br>
+2023 Bowman Bowman's Best #43 Christian Yelich<br>
+2023 Bowman Chrome - Blue Refractor #57 Christian Yelich<br>
+2023 Bowman Chrome - Gold Refractor #57 Christian Yelich (17/50)<br>
 2023 Bowman Platinum #34 Christian Yelich<br>
 2023 Topps  - Stars of MLB #SMLB-11 Christian Yelich<br>
+2023 Topps  - 1988 Topps Baseball 35th Annivesary (Series One) #T88-15 Christian Yelich<br>
+2023 Topps  - 1988 Topps Baseball 35th Anniversary Blue (Series One) #T88-15 Christian Yelich<br>
+2023 Topps  - 1988 Topps Baseball 35th Anniversary Chrome (Series One) #T88C-62 Christian Yelich<br>
+2023 Topps  - Stars of MLB Chrome #SMLBC-11 Christian Yelich<br>
+2023 Topps  - Welcome to the Club #WC-18 Christian Yelich<br>
+2023 Topps  - Flagship Collection #14 Christian Yelich<br>
 2023 Topps  - Purple #192 Christian Yelich<br>
 2023 Topps  - Gold #192 Christian Yelich (1783/2023)<br>
 2023 Topps  - Gold Foil #192 Christian Yelich<br>
 2023 Topps  - Rainbow Foil #192 Christian Yelich<br>
 2023 Topps  - Silver Pattern Foilboard #192 Christian Yelich<br>
 2023 Topps  #192 Christian Yelich<br>
+2023 Topps Allen & Ginter #10 Christian Yelich<br>
+2023 Topps Allen & Ginter - Silver Portrait #10 Christian Yelich<br>
+2023 Topps Archives #83 Christian Yelich<br>
+2023 Topps Archives - Green Foil #83 Christian Yelich (96/99)<br>
+2023 Topps Archives - Rainbow Foil #83 Christian Yelich (11/199)<br>
+2023 Topps Big League - City Slickers #CS-16 Christian Yelich<br>
+2023 Topps Big League - Big Leaguers #BL-18 Christian Yelich<br>
 2023 Topps Big League #271 Christian Yelich<br>
+2023 Topps Black & White - Sepia Filter #57 Christian Yelich (7/75)<br>
 2023 Topps Chrome - Sepia Refractors #109 Christian Yelich<br>
 2023 Topps Chrome - Pink Refractors #109 Christian Yelich<br>
 2023 Topps Chrome - Refractors #109 Christian Yelich<br>
+2023 Topps Chrome Black - Gold Refractor #54 Christian Yelich (7/50)<br>
+2023 Topps Chrome Lids Mitchell & Ness #64-6 Christian Yelich<br>
 2023 Topps Cosmic Chrome #162 Christian Yelich<br>
 2023 Topps Cosmic Chrome - Refractors #162 Christian Yelich<br>
+2023 Topps Finest - Headliners Gold Refractor #FH-19 Christian Yelich (24/50)<br>
+2023 Topps Finest - Headliners #FH-19 Christian Yelich<br>
+2023 Topps Finest Flashbacks #65 Christian Yelich<br>
 2023 Topps Heritage - Real One Autographs #ROA-CY Christian Yelich (Autographed)<br>
+2023 Topps Heritage - Chrome Refractor #218 Christian Yelich (31/574)<br>
+2023 Topps Heritage - Chrome Purple Refractor #218 Christian Yelich<br>
+2023 Topps Heritage #218 Christian Yelich<br>
+2023 Topps Heritage #218 Christian Yelich - Name Position Swap<br>
 2023 Topps Holiday #H164 Christian Yelich<br>
 2023 Topps Holiday - Metallic #H164 Christian Yelich<br>
 2023 Topps Inception - Green #72 Christian Yelich<br>
 2023 Topps Inception #72 Christian Yelich<br>
+2023 Topps International Trading Card Day Milwaukee Brewers SGA #MIL-7 Christian Yelich<br>
 2023 Topps Logofractor Edition #109 Christian Yelich<br>
+2023 Topps Museum Collection #88 Christian Yelich<br>
 2023 Topps Stadium Club - Virtuosos of Velocity Red #VV-25 Christian Yelich Virtuosos of Velocity<br>
 2023 Topps Stadium Club - Chrome Purple Refractor #191 Christian Yelich (20/75)<br>
 2023 Topps Stadium Club - Chrome Orange Refactor #191 Christian Yelich (92/99)<br>

@@ -1,4 +1,5 @@
 # Baseball - 2023 - Bowman
 ## [Bowman](/collection/Baseball/2023/Bowman/Bowman)
+## [Bowman's Best](/collection/Baseball/2023/Bowman/Bowman's Best)
 ## [Chrome](/collection/Baseball/2023/Bowman/Chrome)
 ## [Platinum](/collection/Baseball/2023/Bowman/Platinum)
