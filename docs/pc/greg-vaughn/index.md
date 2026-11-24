@@ -1,11 +1,12 @@
 # Greg Vaughn
 
-## Cards Owned: 61
+## Cards Owned: 63
 
 ## Card List
 
 1990 Donruss The Rookies #16 Greg Vaughn<br>
 1990 Leaf  #111 Greg Vaughn<br>
+1990 Score  - Young Superstars (Set 1) #13 Greg Vaughn<br>
 1990 Score  #585 Greg Vaughn<br>
 1990 Topps Major League Debug 1989 #128 Greg Vaughn<br>
 1990 Topps Tiffany #57 Greg Vaughn<br>
@@ -28,6 +29,7 @@
 1994 Pinnacle  - Museum Collection #37 Greg Vaughn<br>
 1994 Topps Stadium Club - First Day Issue #378 Greg Vaughn<br>
 1994 Upper Deck Collector's Choice - Silver Signature #585 Greg Vaughn<br>
+1994 Upper Deck Electric Diamond #445 Greg Vaughn<br>
 1995 Bowman  #410 Greg Vaughn<br>
 1995 Bowman Best #55 Greg Vaughn<br>
 1995 Pinnacle  - Museum Collection #110 Greg Vaughn<br>

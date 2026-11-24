@@ -1,6 +1,6 @@
 # Christian Yelich
 
-## Cards Owned: 375
+## Cards Owned: 376
 
 ## Card List
 
@@ -345,6 +345,7 @@
 2023 Topps Update - Gold #US328 Adames Douses Yelich After Win (957/2023)<br>
 2024 Topps 582 Montgomery Club #145 Christian Yelich<br>
 2024 Topps Allen & Ginter - Full-Sized Relics A #AGR-CY Christian Yelich<br>
+2024 Topps Big League Wrapper Redemption - Silver #WR-45 Christian Yelich (179/199)<br>
 2024 Topps Series 1 - Yellow #145 Christian Yelich<br>
 2024 Topps Series 1 - All-Star Game #145 Christian Yelich<br>
 2025 Topps All-star Game - Pink Foil #45 Christian Yelich (22/250)<br>

@@ -26,3 +26,4 @@
 ## [Stadium Club Chrome](/collection/Baseball/2022/Topps/Stadium Club Chrome)
 ## [Throwback Thursday](/collection/Baseball/2022/Topps/Throwback Thursday)
 ## [Tier One](/collection/Baseball/2022/Topps/Tier One)
+## [Update Series](/collection/Baseball/2022/Topps/Update Series)

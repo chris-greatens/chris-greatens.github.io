@@ -3,6 +3,7 @@
 ## [Allen & Ginter](/collection/Baseball/2024/Topps/Allen & Ginter)
 ## [Archives](/collection/Baseball/2024/Topps/Archives)
 ## [Big League](/collection/Baseball/2024/Topps/Big League)
+## [Big League Wrapper Redemption](/collection/Baseball/2024/Topps/Big League Wrapper Redemption)
 ## [Boomer's Best](/collection/Baseball/2024/Topps/Boomer's Best)
 ## [Chrome Update](/collection/Baseball/2024/Topps/Chrome Update)
 ## [Finest](/collection/Baseball/2024/Topps/Finest)

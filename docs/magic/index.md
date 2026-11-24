@@ -43,6 +43,7 @@ A catalog of my study materials on sleight of hand, mentalism, and the theory of
 | **More Self-Working Card Tricks** | Karl Fulves | Self-Working | 1984 | Further no-sleight exploration. |
 | **M.I.N.T. (Vol 1)** | Edward Marlo | Card Magic | 1988 | Routines, techniques, and slights from The New Tops magazine. |
 | **Cruel Tricks for Dear Friends** | Penn & Teller | Comedy Magic | 1989 | Edgy, prank-style magic. |
+| **The Vernon Chronicles -- Volume 2 -- Most Lost Inner Secrets** | Dai Vernon | Card Magic | 1989 | |
 | **The Vernon Chronicles -- Volume 4 -- He Fooled Houdini** | Dai Vernon | Card Magic | 1989 | |
 | **John Carney's Carneycopia** | Stephen Minch | Close-up Magic | 1991 | Table-side entertainment. |
 | **How to Play with Your Food** | Penn & Teller | Kitchen Magic | 1992 | Table-side entertainment. |
@@ -81,6 +82,7 @@ A catalog of my study materials on sleight of hand, mentalism, and the theory of
 | **Letters from Juan (Vol 6)** | Juan Tamariz | Psychology | 2023 | Direct lessons from the Master. |
 | **Very Hush Hush** | John Bannon | Card Magic | 2023 | Forty card tricks with a "mental" slant. |
 | **Topping the Deck: The Perfect Move** | Jamy Ian Swiss | Card Magic | 2023 | Focused on this one move. |
+| **Afterglow** | John Graham | Card Magic | 2024 | Magic set performed with a borrowed, shuffled deck of cards. |
 | **The Particle System** | Joshua Jay | Card Magic | 2025 | Joshua's take on memorized deck magic. |
 | **The Paper Engine: 20th Anniversary Edition** | Aaron Fisher | Advanced Card Magic | 2025 | An advanced guide to master-level sleight of hand card magic. |
 | **Dear Mr. Fantasy** | John Bannon | Card Magic | 2026 | Card tricks performed with unprepared decks. |
@@ -102,7 +104,6 @@ These are the books that I would like to add to my collection:
 | **The Doc and His Deck** | Jacob Taub | Card Magic | 1976 | |
 | **Revelations** | Dai Vernon | Card Magic | 1984 | |
 | **The Vernon Chronicles -- Volume 1 -- The Lost Inner Secrets** | Dai Vernon | Card Magic | 1987 | |
-| **The Vernon Chronicles -- Volume 2 -- Most Lost Inner Secrets** | Dai Vernon | Card Magic | 1989 | |
 | **The Vernon Chronicles -- Volume 3 -- Further Lost Inner Secrets** | Dai Vernon | Card Magic | 1989 | |
 | **Stewart James in Print: The First Fifty Years** | Stewart James | Card Magic | 1989 | |
 | **Card File** | Jerry Mentzer | Card Magic | 1993 | |
@@ -116,6 +117,7 @@ These are the books that I would like to add to my collection:
 | **Cardshark** | Darwin Ortiz | Card Magic | 1995 | |
 | **Ultimate Secrets of Card Magic** | Dai Vernon | Card Magic | 1995 | |
 | **21 Century Card Magic** | James Swain | Card Magic | 1999 | |
+| **Drawing Room Deceptions** | Guy Hollingworth | Card Magic | 1999 | |
 | **Card File Two** | Jerry Mentzer | Card Magic | 2000 | |
 | **Scams & Fantasies with Cards** | Darwin Ortiz | Card Magic | 2002 | |
 | **52 Memories** | Jack Parker | Card Magic | 2007 | |
@@ -128,6 +130,8 @@ These are the books that I would like to add to my collection:
 | **Pure Imagination** | John Campbell | Card Magic | 2018 | |
 | **Gambling Sleight of Hand Volume 1** | Steve Forte | Card Magic | 2020 | |
 | **Gambling Sleight of Hand Volume 2** | Steve Forte | Card Magic | 2020 | |
+| **Stage by Stage** | John Graham | Card Magic | 2021 | How to transition from close-up tricks to a stage magic show. |
+| **Encore** | John Graham | Card Magic | 2021 | 18-minute multiple selection act. |
 | **52 Explorations** | Jack Parker | Card Magic | 2022 | |
 | **Mentalissimo** | John Bannon | Mentalism Card Magic | 2023 | |
 | **High Caliber** | John Bannon | Mentalism Card Magic | 2023 | |
@@ -141,6 +145,7 @@ These are the books that I would like to add to my collection:
 | **The Principles of Destruction** | Ben Seidman | Magic show construction | 2025 | |
 | **Marlo's Magazines (6 Volume Set)** | Ed Marlo | Card magic routines, moves, and sleights | 2025 | |
 | **The Unexpected Card Book** | Ed Marlo | Card magic | 2025 | |
+| **More Drawing Room Deceptions** | Guy Hollingworth | Card Magic | 2026 | |
 
 ---
 
