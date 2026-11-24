@@ -82,7 +82,7 @@ A catalog of my study materials on sleight of hand, mentalism, and the theory of
 | **Letters from Juan (Vol 6)** | Juan Tamariz | Psychology | 2023 | Direct lessons from the Master. |
 | **Very Hush Hush** | John Bannon | Card Magic | 2023 | Forty card tricks with a "mental" slant. |
 | **Topping the Deck: The Perfect Move** | Jamy Ian Swiss | Card Magic | 2023 | Focused on this one move. |
-| **Afterglow** | John Graham | Card Magic | 2024 | Magic set performed with a borrowed, shuffled deck of cards. |
+| **Afterglow: The Anytime Act** | John Graham | Card Magic | 2024 | Magic set performed with a borrowed, shuffled deck of cards. |
 | **The Particle System** | Joshua Jay | Card Magic | 2025 | Joshua's take on memorized deck magic. |
 | **The Paper Engine: 20th Anniversary Edition** | Aaron Fisher | Advanced Card Magic | 2025 | An advanced guide to master-level sleight of hand card magic. |
 | **Dear Mr. Fantasy** | John Bannon | Card Magic | 2026 | Card tricks performed with unprepared decks. |
