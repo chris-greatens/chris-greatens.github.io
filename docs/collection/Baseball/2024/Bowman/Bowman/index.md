@@ -12,6 +12,7 @@
 ## Cards
 
 ### No Subset
+- [x] 34: Christian Yelich<br>
 - [x] 39: Sal Frelick<br>
 ### Bowman A.I.
 - [x] BAI-16: Jackson Chourio<br>

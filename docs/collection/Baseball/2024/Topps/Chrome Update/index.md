@@ -4,6 +4,7 @@
 ## Subsets
 
 - 1989 Topps Baseball 35th Anniversary
+- 2024 All-Star Game Chrome
 - Future Stars
 - Refractors
 - X-Fractors
@@ -15,6 +16,8 @@
 - [x] USC61: Sal Frelick<br>
 ### 1989 Topps Baseball 35th Anniversary
 - [x] 89CU-4: Jackson Chourio<br>
+### 2024 All-Star Game Chrome
+- [x] ASGC-17: Christian Yelich<br>
 ### Future Stars
 - [x] FSU-16: Jackson Chourio<br>
 ### Refractors

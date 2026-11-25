@@ -1,6 +1,6 @@
 # Christian Yelich
 
-## Cards Owned: 376
+## Cards Owned: 407
 
 ## Card List
 
@@ -118,6 +118,7 @@
 2020 Topps Update #U-269 Christian Yelich<br>
 2021 Bowman  #24 Christian Yelich<br>
 2021 Bowman Bowman's Best - Green Refractor #73 Christian Yelich (60/99)<br>
+2021 Bowman Bowman's Best - Atomic Refractor #73 Christian Yelich<br>
 2021 Bowman Chrome - Blue Refractor #22 Christian Yelich (83/150)<br>
 2021 Bowman Chrome #22 Christian Yelich<br>
 2021 Bowman Heritage #33 Christian Yelich<br>
@@ -343,11 +344,41 @@
 2023 Topps Stadium Club - Orange Foil #191 Christian Yelich (17/199)<br>
 2023 Topps Stadium Club - Chrome Gold Minted #191 Christian Yelich<br>
 2023 Topps Update - Gold #US328 Adames Douses Yelich After Win (957/2023)<br>
+2024 Bowman  #34 Christian Yelich<br>
+2024 Bowman Chrome #14 Christian Yelich<br>
 2024 Topps 582 Montgomery Club #145 Christian Yelich<br>
 2024 Topps Allen & Ginter - Full-Sized Relics A #AGR-CY Christian Yelich<br>
 2024 Topps Big League Wrapper Redemption - Silver #WR-45 Christian Yelich (179/199)<br>
+2024 Topps Chrome - Chrome All-Etch #CAE-20 Christian Yelich<br>
+2024 Topps Chrome - Refractors #253 Christian Yelich<br>
+2024 Topps Chrome - Pink Refractors #253 Christian Yelich<br>
+2024 Topps Chrome - Lightboard Logo Refractors #253 Christian Yelich<br>
+2024 Topps Chrome Logofractor Edition #253 Christian Yelich<br>
+2024 Topps Chrome Update - 2024 All-Star Game Chrome #ASGC-17 Christian Yelich<br>
+2024 Topps Finest #82 Christian Yelich<br>
+2024 Topps Finest - Green Refractors #82 Christian Yelich (35/75)<br>
+2024 Topps Finest - Sky Blue Refractors #82 Christian Yelich (217/325)<br>
+2024 Topps Finest - Refractors #82 Christian Yelich<br>
+2024 Topps Finest - Purple Checkerboard Refractors #82 Christian Yelich (6/150)<br>
+2024 Topps Holiday #H140 Christian Yelich<br>
+2024 Topps Holiday - Plaid #H140 Christian Yelich<br>
+2024 Topps Holiday - Blue Metallic Glitter #H140 Christian Yelich<br>
+2024 Topps Holiday - Silver Glitter #H140 Christian Yelich<br>
+2024 Topps Holiday - Holiday Tree #H140 Christian Yelich<br>
+2024 Topps Now #ASG-CY Christian Yelich<br>
+2024 Topps Series 1 - Super Box Companions to Oversized Cards #COTB-23 Christian Yelich<br>
+2024 Topps Series 1 - 1989 Topps Baseball 35th Anniversary (Series One) #89B-43 Christian Yelich<br>
+2024 Topps Series 1 - 1989 Topps Baseball 35th Anniversary Foil (Series One) #89B-43 Christian Yelich<br>
 2024 Topps Series 1 - Yellow #145 Christian Yelich<br>
 2024 Topps Series 1 - All-Star Game #145 Christian Yelich<br>
+2024 Topps Series 1 #145 Christian Yelich<br>
+2024 Topps Series 1 - Holiday #145 Christian Yelich<br>
+2024 Topps Series 1 - 582 Montgomery Club #145 Christian Yelich<br>
+2024 Topps Series 1 - Gold Foil #145 Christian Yelich<br>
+2024 Topps Series 1 - Royal Blue #145 Christian Yelich<br>
+2024 Topps Series 1 - Team Color Border #145 Christian Yelich<br>
+2024 Topps Series 1 - Gold #145 Christian Yelich (1835/2024)<br>
+2024 Topps Transcendent Collection #18 Christian Yelich<br>
 2025 Topps All-star Game - Pink Foil #45 Christian Yelich (22/250)<br>
 2025 Topps Archives - Black Foil #195 Christian Yelich<br>
 2025 Topps Chrome - Refractor #89 Christian Yelich<br>
