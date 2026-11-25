@@ -11,6 +11,7 @@
 ## Cards
 
 ### No Subset
+- [x] H131: Jacob Misiorowski<br>
 - [x] H61: Brandon Sproat<br>
 - [x] H72: William Contreras<br>
 ### Chrome
@@ -19,9 +20,11 @@
 - [x] H38: Jackson Chourio<br>
 - [x] H72: William Contreras<br>
 - [x] H75: Jeferson Quero<br>
+- [x] US328: Luis Rengifo<br>
 ### Metallic Holly
 - [x] H131: Jacob Misiorowski<br>
 - [x] H194: Brice Turang<br>
+- [x] H61: Brandon Sproat<br>
 ### Metallic Santa Bag
 - [x] H38: Jackson Chourio<br>
 - [x] H46: Christian Yelich<br>

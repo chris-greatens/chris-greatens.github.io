@@ -6,11 +6,13 @@
 - 1990 Topps Baseball 35th Anniversary Autographs
 - 1990 Topps Baseball 35th Anniversary Chrome Mojo
 - Dynamic Duos
+- Flagship Collection (Series One)
 
 ## Cards
 
 ### No Subset
 - [x] 16: Carlos Rodriguez<br>
+- [x] 49: Christian Yelich<br>
 - [x] 86: NL RBI Leaders<br>
 ### 1990 Topps Baseball 35th Anniversary Autographs
 - [x] 90AU-LW: Larry Walker<br>
@@ -18,3 +20,5 @@
 - [x] T90C-77: Christian Yelich<br>
 ### Dynamic Duos
 - [x] DD-18: Dynamic Duos -- Yelich & Chourio<br>
+### Flagship Collection (Series One)
+- [x] 73: Christian Yelich<br>

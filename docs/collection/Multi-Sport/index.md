@@ -4,3 +4,4 @@
 ## [2021](/collection/Multi-Sport/2021)
 ## [2022](/collection/Multi-Sport/2022)
 ## [2023](/collection/Multi-Sport/2023)
+## [2024](/collection/Multi-Sport/2024)

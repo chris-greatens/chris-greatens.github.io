@@ -6,6 +6,7 @@
 ## [Big League Wrapper Redemption](/collection/Baseball/2024/Topps/Big League Wrapper Redemption)
 ## [Boomer's Best](/collection/Baseball/2024/Topps/Boomer's Best)
 ## [Chrome](/collection/Baseball/2024/Topps/Chrome)
+## [Chrome Lids Mitchell & Ness](/collection/Baseball/2024/Topps/Chrome Lids Mitchell & Ness)
 ## [Chrome Logofractor Edition](/collection/Baseball/2024/Topps/Chrome Logofractor Edition)
 ## [Chrome Update](/collection/Baseball/2024/Topps/Chrome Update)
 ## [Finest](/collection/Baseball/2024/Topps/Finest)

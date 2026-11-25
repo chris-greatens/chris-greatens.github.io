@@ -1,6 +1,6 @@
 # Christian Yelich
 
-## Cards Owned: 407
+## Cards Owned: 445
 
 ## Card List
 
@@ -348,11 +348,13 @@
 2024 Bowman Chrome #14 Christian Yelich<br>
 2024 Topps 582 Montgomery Club #145 Christian Yelich<br>
 2024 Topps Allen & Ginter - Full-Sized Relics A #AGR-CY Christian Yelich<br>
+2024 Topps Allen & Ginter - Chrome Refractors #43 Christian Yelich<br>
 2024 Topps Big League Wrapper Redemption - Silver #WR-45 Christian Yelich (179/199)<br>
 2024 Topps Chrome - Chrome All-Etch #CAE-20 Christian Yelich<br>
 2024 Topps Chrome - Refractors #253 Christian Yelich<br>
 2024 Topps Chrome - Pink Refractors #253 Christian Yelich<br>
 2024 Topps Chrome - Lightboard Logo Refractors #253 Christian Yelich<br>
+2024 Topps Chrome Lids Mitchell & Ness #13 Christian Yelich<br>
 2024 Topps Chrome Logofractor Edition #253 Christian Yelich<br>
 2024 Topps Chrome Update - 2024 All-Star Game Chrome #ASGC-17 Christian Yelich<br>
 2024 Topps Finest #82 Christian Yelich<br>
@@ -360,6 +362,16 @@
 2024 Topps Finest - Sky Blue Refractors #82 Christian Yelich (217/325)<br>
 2024 Topps Finest - Refractors #82 Christian Yelich<br>
 2024 Topps Finest - Purple Checkerboard Refractors #82 Christian Yelich (6/150)<br>
+2024 Topps Heritage - New Age Performers #NAP-17 Christian Yelich<br>
+2024 Topps Heritage #369 Christian Yelich<br>
+2024 Topps Heritage - White Border #369 Christian Yelich<br>
+2024 Topps Heritage - Chrome Purple Refactor #369 Christian Yelich<br>
+2024 Topps Heritage - Chrome Blue Sparkle Refractor #369 Christian Yelich<br>
+2024 Topps Heritage - Chrome #369 Christian Yelich (473/999)<br>
+2024 Topps Heritage - Chrome Refractor #369 Christian Yelich (420/575)<br>
+2024 Topps Heritage Mini #369 Christian Yelich<br>
+2024 Topps Heritage Mini - White Border #369 Christian Yelich<br>
+2024 Topps Heritage Mini - Black Border #369 Christian Yelich (22/50)<br>
 2024 Topps Holiday #H140 Christian Yelich<br>
 2024 Topps Holiday - Plaid #H140 Christian Yelich<br>
 2024 Topps Holiday - Blue Metallic Glitter #H140 Christian Yelich<br>
@@ -378,28 +390,50 @@
 2024 Topps Series 1 - Royal Blue #145 Christian Yelich<br>
 2024 Topps Series 1 - Team Color Border #145 Christian Yelich<br>
 2024 Topps Series 1 - Gold #145 Christian Yelich (1835/2024)<br>
+2024 Topps Stadium Club #138 Christian Yelich<br>
+2024 Topps Stadium Club - Sepia #138 Christian Yelich<br>
+2024 Topps Stadium Club - Gold Foil #138 Christian Yelich<br>
+2024 Topps Stadium Club - Pink Foil #138 Christian Yelich<br>
+2024 Topps Stadium Club - Black Foil #138 Christian Yelich<br>
+2024 Topps Stadium Club - Chrome Green Refractors #138 Christian Yelich<br>
+2024 Topps Stadium Club - Chrome #138 Christian Yelich<br>
+2024 Topps Stadium Club - Chrome Purple Refractors #138 Christian Yelich (53/75)<br>
+2024 Topps Trading Card Day #NTCD-B16 Christian Yelich<br>
 2024 Topps Transcendent Collection #18 Christian Yelich<br>
+2025 Police Sets 2025 #1 Christian Yelich<br>
 2025 Topps All-star Game - Pink Foil #45 Christian Yelich (22/250)<br>
+2025 Topps All-star Game #45 Christian Yelich<br>
 2025 Topps Archives - Black Foil #195 Christian Yelich<br>
+2025 Topps Archives #195 Christian Yelich<br>
 2025 Topps Chrome - Refractor #89 Christian Yelich<br>
+2025 Topps Chrome Black #114 Christian Yelich<br>
 2025 Topps Chrome Logofractor #89 Christian Yelich<br>
 2025 Topps Finest #89 Christian Yelich<br>
 2025 Topps Heritage - Real One Autographs #ROA-CY Christian Yelich (Autographed)<br>
+2025 Topps Heritage #10 Christian Yelich<br>
+2025 Topps Heritage - Color of the Year #10 Christian Yelich (66/76)<br>
 2025 Topps Holiday - Green Holiday Plaid #H25 Christian Yelich<br>
+2025 Topps Holiday #H25 Christian Yelich<br>
 2025 Topps Now #224 Yelich Crushes Grand Slame for 1st Career Walk-off HR<br>
 2025 Topps Now #328 Yelich Ties Brewers Club Record with 8 RBIs<br>
 2025 Topps Series 1 - 1990 Topps Baseball 35th Anniversary Chrome Mojo #T90C-77 Christian Yelich<br>
 2025 Topps Series 1 - Dynamic Duos #DD-18 Dynamic Duos -- Yelich & Chourio<br>
+2025 Topps Series 1 #49 Christian Yelich<br>
+2025 Topps Series 1 - Flagship Collection (Series One) #73 Christian Yelich<br>
+2025 Topps Series 2 - Summer Superstars #SS-23 Christian Yelich<br>
+2025 Topps Series 2 - Stars of MLB #SMLB-24 Christian Yelich<br>
 2025 Topps Stadium Club - Pink Foil #171 Christian Yelich<br>
 2025 Topps Stadium Club - Red Foil #171 Christian Yelich<br>
 2025 Topps Stadium Club - Lime Green #171 Christian Yelich<br>
 2025 Topps Tribute - Green #21 Christian Yelich (14/99)<br>
+2025 Topps Tribute #21 Christian Yelich<br>
 2025 Topps Update - Most Valuable #MV-10 Christian Yelich Most Valuable<br>
 2025 Topps Update #US233 Crew Missiles<br>
 2025 Topps Update - Pink Holo Foil #US233 Crew Missiles<br>
 2026 Topps Chrome - Chrome Rivals Away #RVA-24 Christian Yelich<br>
 2026 Topps Chrome - X-Fractors #15 Christian Yelich<br>
 2026 Topps Chrome Black - Purple Refractor #42 Christian Yelich (2/75)<br>
+2026 Topps Finest #49 Christian Yelich<br>
 2026 Topps Heritage - Clubhouse Jersey #CCR-CY Christian Yelich Clubhouse Jersey<br>
 2026 Topps Heritage #332 Christian Yelich<br>
 2026 Topps Heritage #332 Christian Yelich - Image Variation<br>
@@ -408,6 +442,10 @@
 2026 Topps Holiday - Chrome #H46 Christian Yelich<br>
 2026 Topps Series One - 1991 Topps Baseball 35th Anniversary Koi Fish (Series One) #T91-83 Christian Yelich<br>
 2026 Topps Series One - 1991 Topps Baseball 35th Anniversary Blue #T91-83 Christian Yelich (139/150)<br>
+2026 Topps Series One - Stars of MLB #SMLB-20 Christian Yelich<br>
 2026 Topps Series One - Team Color Border #154 Christian Yelich<br>
 2026 Topps Series One - Holiday Polka Dots Pink/Green #154 Christian Yelich Holiday Polka Dots Pink/Green<br>
 2026 Topps Series One - Silver Crackle Foil #154 Christian Yelich Holiday Polka Dots Pink/Green<br>
+2026 Topps Series One #154 Christian Yelich Holiday Polka Dots Pink/Green<br>
+2026 Topps Series One - Sandglitter #154 Christian Yelich Holiday Polka Dots Pink/Green<br>
+2026 Topps Series Two - 1991 Topps Baseball 35th Anniversary Chrome All-Stars (Series Two) #91ASC-36 Christian Yelich<br>

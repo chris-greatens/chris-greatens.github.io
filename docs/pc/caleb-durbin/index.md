@@ -1,6 +1,6 @@
 # Caleb Durbin
 
-## Cards Owned: 14
+## Cards Owned: 15
 
 ## Card List
 
@@ -18,3 +18,4 @@
 2025 Topps Update #US59 Caleb Durbin<br>
 2026 Topps Chrome - Ink Strokes Blue #IS-CD Caleb Durbin (140/150) (Autographed)<br>
 2026 Topps Series One #297 Caleb Durbin<br>
+2026 Topps Update Series #US73 Caleb Durbin<br>

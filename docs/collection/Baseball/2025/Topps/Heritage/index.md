@@ -7,6 +7,7 @@
 - 1976 Redefined
 - 1976 Redefined Holographic
 - 50th Anniversary Buybacks
+- Color of the Year
 - Dark Blue Border
 - Real One Autographs
 
@@ -14,6 +15,7 @@
 
 ### No Subset
 - [x] 5: Jackson Chourio Record Breaker<br>
+- [x] 10: Christian Yelich<br>
 - [x] 106: Jackson Chourio<br>
 - [x] 210: Trevor Megill<br>
 - [x] 300: William Contreras<br>
@@ -27,6 +29,8 @@
 - [x] 76R-6: Jackson Chourio<br>
 ### 50th Anniversary Buybacks
 - [x] 402: Don Money<br>
+### Color of the Year
+- [x] 10: Christian Yelich<br>
 ### Dark Blue Border
 - [x] 479: Garrett Mitchell<br>
 ### Real One Autographs

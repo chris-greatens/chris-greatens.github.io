@@ -4,4 +4,5 @@
 ## Cards
 
 ### No Subset
+- [x] 1: Christian Yelich<br>
 - [x] 2: Jackson Chourio<br>

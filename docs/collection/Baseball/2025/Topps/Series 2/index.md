@@ -7,6 +7,8 @@
 - Major League Marial Relics
 - Rainbow Foil
 - Sandglitter
+- Stars of MLB
+- Summer Superstars
 
 ## Cards
 
@@ -22,3 +24,7 @@
 - [x] 376: Jackson Chourio<br>
 ### Sandglitter
 - [x] 643: Garrett Mitchell<br>
+### Stars of MLB
+- [x] SMLB-24: Christian Yelich<br>
+### Summer Superstars
+- [x] SS-23: Christian Yelich<br>

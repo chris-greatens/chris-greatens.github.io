@@ -3,6 +3,7 @@
 
 ## Subsets
 
+- 1991 Topps Baseball 35th Anniversary Chrome All-Stars (Series Two)
 - Flagship Collection
 - Flagship Collection Chrome
 - Holofoil Orange
@@ -13,6 +14,8 @@
 
 ### No Subset
 - [x] 409: Logan Henderson<br>
+### 1991 Topps Baseball 35th Anniversary Chrome All-Stars (Series Two)
+- [x] 91ASC-36: Christian Yelich<br>
 ### Flagship Collection
 - [x] 39: Jacob Misiorowski<br>
 ### Flagship Collection Chrome

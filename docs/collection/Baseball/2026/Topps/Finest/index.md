@@ -8,6 +8,7 @@
 ## Cards
 
 ### No Subset
+- [x] 49: Christian Yelich<br>
 - [x] 82: Jacob Misiorowski<br>
 ### World's Finest
 - [x] WF-26: Jackson Chourio World's Finest<br>

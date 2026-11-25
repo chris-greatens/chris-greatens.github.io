@@ -10,6 +10,7 @@
 - Holiday Polka Dots Pink/Green
 - Holo Foil
 - Opening Day Foil
+- Sandglitter
 - Silver Crackle Foil
 - Stars of MLB
 - Team Color Border
@@ -21,6 +22,7 @@
 - [x] 105: Brice Turang<br>
 - [x] 117: NL Wins Leaders<br>
 - [x] 141: Trevor Megill<br>
+- [x] 154: Christian Yelich Holiday Polka Dots Pink/Green<br>
 - [x] 186: Quinn Priester<br>
 - [x] 192: William Contreras<br>
 - [x] 202: Isaac Collins<br>
@@ -42,9 +44,12 @@
 - [x] 117: NL Wins Leaders<br>
 ### Opening Day Foil
 - [x] 186: Quinn Priester<br>
+### Sandglitter
+- [x] 154: Christian Yelich Holiday Polka Dots Pink/Green<br>
 ### Silver Crackle Foil
 - [x] 154: Christian Yelich Holiday Polka Dots Pink/Green<br>
 ### Stars of MLB
+- [x] SMLB-20: Christian Yelich<br>
 - [x] SMLB-26: Jacob Misiorowski Stars of MLB<br>
 ### Team Color Border
 - [x] 154: Christian Yelich<br>

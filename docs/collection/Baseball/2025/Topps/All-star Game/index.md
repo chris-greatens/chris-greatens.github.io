@@ -7,5 +7,7 @@
 
 ## Cards
 
+### No Subset
+- [x] 45: Christian Yelich<br>
 ### Pink Foil
 - [x] 45: Christian Yelich<br>

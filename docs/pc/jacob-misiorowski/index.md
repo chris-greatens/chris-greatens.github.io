@@ -1,6 +1,6 @@
 # Jacob Misiorowski
 
-## Cards Owned: 11
+## Cards Owned: 13
 
 ## Card List
 
@@ -12,6 +12,8 @@
 2026 Topps Finest #82 Jacob Misiorowski<br>
 2026 Topps Heritage #144 Jacob Misiorowski<br>
 2026 Topps Holiday - Metallic Holly #H131 Jacob Misiorowski<br>
+2026 Topps Holiday #H131 Jacob Misiorowski<br>
 2026 Topps Series One - Stars of MLB #SMLB-26 Jacob Misiorowski Stars of MLB<br>
 2026 Topps Series One #10 Jacob Misiorowski<br>
 2026 Topps Series Two - Flagship Collection #39 Jacob Misiorowski<br>
+2026 Topps Update Series - 2026 All-Star Game #ASG-15 Jacob Misiorowski<br>

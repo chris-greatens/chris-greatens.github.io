@@ -12,6 +12,7 @@
 ### No Subset
 - [x] 12: William Contreras<br>
 - [x] 158: Sal Frelick<br>
+- [x] 195: Christian Yelich<br>
 ### 1964 Stand Ups
 - [x] 64SU-22: Jackson Chourio 1964 Stand Ups<br>
 ### 1987 Topps Boardwalk and Baseball

@@ -4,6 +4,7 @@
 ## [Archives](/collection/Baseball/2025/Topps/Archives)
 ## [Black Chrome](/collection/Baseball/2025/Topps/Black Chrome)
 ## [Chrome](/collection/Baseball/2025/Topps/Chrome)
+## [Chrome Black](/collection/Baseball/2025/Topps/Chrome Black)
 ## [Chrome Logofractor](/collection/Baseball/2025/Topps/Chrome Logofractor)
 ## [Chrome Platinum Anniversary](/collection/Baseball/2025/Topps/Chrome Platinum Anniversary)
 ## [Chrome Sapphire Edition](/collection/Baseball/2025/Topps/Chrome Sapphire Edition)
