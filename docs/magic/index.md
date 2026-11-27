@@ -73,6 +73,7 @@ A catalog of my study materials on sleight of hand, mentalism, and the theory of
 | **The Memory Arts** | Sarah and David Trustman | Magic Theory | 2018 | Learn how to memorize deck. |
 | **The Magic of Johnny Thompson** | Jamy Ian Swiss | General Magic | 2018 | Magic from one of the legends. |
 | **The Final Cut** | Ed Marlo | Card Magic | 2019 | A collection of works from one of the legends. Part III of the series. |
+| **Stage by Stage** | John Graham | Magic Show Structure | 2021 | A collection of essays to transition from up close to stage magic shows. |
 | **How Magicians Think** | Joshua Jay | History/Theory | 2021 | A look behind the curtain of the craft. |
 | **Letters from Juan (Vol 1)** | Juan Tamariz | Psychology | 2023 | Direct lessons from the Master. |
 | **Letters from Juan (Vol 2)** | Juan Tamariz | Psychology | 2023 | Direct lessons from the Master. |
@@ -82,11 +83,14 @@ A catalog of my study materials on sleight of hand, mentalism, and the theory of
 | **Letters from Juan (Vol 6)** | Juan Tamariz | Psychology | 2023 | Direct lessons from the Master. |
 | **Very Hush Hush** | John Bannon | Card Magic | 2023 | Forty card tricks with a "mental" slant. |
 | **Topping the Deck: The Perfect Move** | Jamy Ian Swiss | Card Magic | 2023 | Focused on this one move. |
+| **Totally Out of Control (Supreme MME Edition)** | Chris Kenner | General Magic | 2023 | 40 hard-hitting card, coin, and rope routines. |
 | **Afterglow: The Anytime Act** | John Graham | Card Magic | 2024 | Magic set performed with a borrowed, shuffled deck of cards. |
 | **The Particle System** | Joshua Jay | Card Magic | 2025 | Joshua's take on memorized deck magic. |
 | **The Paper Engine: 20th Anniversary Edition** | Aaron Fisher | Advanced Card Magic | 2025 | An advanced guide to master-level sleight of hand card magic. |
 | **Dear Mr. Fantasy** | John Bannon | Card Magic | 2026 | Card tricks performed with unprepared decks. |
 | **How Did You Do That?** | Asi Wind | Card Magic | 2026 | Book of magic that anyone can do. |
+| **Unexpected Card Book** | Ed Marlo | Card Magic | 2026 | Intermediate to advanced card magic and sleights -- Volume 0 of the Marlo Magazines. |
+| **Drawing Room Deceptions (Expanded Edition)** | Guy Hollingworth | Card Magic | 2026 | Highly technical, visually stunning sleight-of-hand card routines. |
 
 # Books of my desire
 
@@ -106,6 +110,7 @@ These are the books that I would like to add to my collection:
 | **The Vernon Chronicles -- Volume 1 -- The Lost Inner Secrets** | Dai Vernon | Card Magic | 1987 | |
 | **The Vernon Chronicles -- Volume 3 -- Further Lost Inner Secrets** | Dai Vernon | Card Magic | 1989 | |
 | **Stewart James in Print: The First Fifty Years** | Stewart James | Card Magic | 1989 | |
+| **The Annotated Erdnase** | Darwin Ortiz | Card Manipulation | 1991 | Annotated study of The Expert at the Card Table. |
 | **Card File** | Jerry Mentzer | Card Magic | 1993 | |
 | **Semi-Automatic Card Tricks (Vol 6)** | Steve Beam | Self-Working | 1993 | High-IQ self-working magic. |
 | **Semi-Automatic Card Tricks (Vol 7)** | Steve Beam | Self-Working | 1993 | High-IQ self-working magic. |
@@ -117,11 +122,11 @@ These are the books that I would like to add to my collection:
 | **Cardshark** | Darwin Ortiz | Card Magic | 1995 | |
 | **Ultimate Secrets of Card Magic** | Dai Vernon | Card Magic | 1995 | |
 | **21 Century Card Magic** | James Swain | Card Magic | 1999 | |
-| **Drawing Room Deceptions** | Guy Hollingworth | Card Magic | 1999 | |
 | **Card File Two** | Jerry Mentzer | Card Magic | 2000 | |
 | **Scams & Fantasies with Cards** | Darwin Ortiz | Card Magic | 2002 | |
 | **52 Memories** | Jack Parker | Card Magic | 2007 | |
 | **Scripting Magic Volume 1** | Pete McCabe | Magic show scripting | 2007 | |
+| **Revelation** | Dai Vernon | Card Manipulation | 2008 | Annotated study of The Expert at the Card Table. |
 | **The Magic of Fred Robinson** | Peter Duffie | Card Magic | 2009 | |
 | **Del Ray: America's Foremost** | John Moehring | Card Magic | 2010 | |
 | **Lessons in Card Mastery** | Darwin Ortiz | Card Magic | 2012 | |
@@ -130,7 +135,6 @@ These are the books that I would like to add to my collection:
 | **Pure Imagination** | John Campbell | Card Magic | 2018 | |
 | **Gambling Sleight of Hand Volume 1** | Steve Forte | Card Magic | 2020 | |
 | **Gambling Sleight of Hand Volume 2** | Steve Forte | Card Magic | 2020 | |
-| **Stage by Stage** | John Graham | Card Magic | 2021 | How to transition from close-up tricks to a stage magic show. |
 | **Encore** | John Graham | Card Magic | 2021 | 18-minute multiple selection act. |
 | **52 Explorations** | Jack Parker | Card Magic | 2022 | |
 | **Mentalissimo** | John Bannon | Mentalism Card Magic | 2023 | |
@@ -144,7 +148,6 @@ These are the books that I would like to add to my collection:
 | **13 Steps to Mentalism** | Corinda | Mentalism | 2023 | |
 | **The Principles of Destruction** | Ben Seidman | Magic show construction | 2025 | |
 | **Marlo's Magazines (6 Volume Set)** | Ed Marlo | Card magic routines, moves, and sleights | 2025 | |
-| **The Unexpected Card Book** | Ed Marlo | Card magic | 2025 | |
 | **More Drawing Room Deceptions** | Guy Hollingworth | Card Magic | 2026 | |
 
 ---
